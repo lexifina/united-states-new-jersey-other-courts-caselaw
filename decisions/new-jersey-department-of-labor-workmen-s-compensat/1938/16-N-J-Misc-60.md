@@ -1,0 +1,31 @@
+---
+court: "New Jersey Department of Labor, Workmen's Compensation Bureau"
+decided: "1938-01-21"
+citations: ["16 N.J. Misc. 60"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JULIA V. AYERS, PETITIONER, v. PUBLIC SERVICE COORDINATED TRANSPORT, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/16/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 452748
+cites_cases: ["117 N. J. L. 600", "118 N. J. L. 516", "190 Atl. Rep. 73"]
+---
+
+# Ayers v. Public Service Coordinated Transport
+
+## Majority (John J. Stahl, Deputy Commissioner.)
+
+This matter coming on to be heard before me, one of the deputy commissioners of the workmen’s compensation bureau at Newark, New Jersey, on a petition to set aside the judgment entered in this court on October 13th, 1933, in the above entitled matter on a dependency claim on behalf of Robert Cramer on the grounds that the said Robert Cramer was neither a nephew of Julia V. Ayers or Marvin S. Ayers, her deceased husband, but was a son of a niece of the said Julia Y. Ayers, and, therefore, did not come within the dependency provisions of the Workmen’s Compensation act; and
+Julia V. Ayers having been ordered to show cause before this court why the said judgment in favor of Robert Cramer as a dependent should not be set aside, * * * and it having been admitted by the attorneys for Julia Y. Ayers that Robert Cramer was not a nephew within the degree of consanguinity, but was a son of a niece of Julia Y. Ayers, and it also appearing that at the time of the original hearing of the petitioner’s claim, the petitioner testified that Robert Cramer was her nephew, and it further appearing that a judgment was entered by this court on October 13th, 1933, providing for compensation for three hundred weeks at the rate of $16.80 per week, at the scheduled dependency rate for two dependents, with payments to begin as of November 17th, 1931, and thereafter compensation at the rate of $14.70 per week to be paid until Robert Cramer, infant nephew, attained his sixteenth birthday, the said Julia Y. Ayers having been paid in full the compensation due to her under the former judgment of this court.
+And it further appearing to the court that Julia Y. Ayers was appointed guardian of the property of Robert Cramer by the Orphans Court of the county of Essex on November 8th, 1934, and that as such guardian of Robert Cramer the said Julia Y. Ayers received by way of compensation for the benefit of Robert Cramer under the judgment of this court aforesaid a total sum of $630 as compensation, having been paid compensation from November 17th, 1931, to August 16th, 1937; and
+It further appearing to this court that the said Robert Cramer for several years last past has not been living with the said Julia Y. Ayers, but has been residing with his mother at Washington, D. C., and has received no moneys or benefits whatsoever from the compensation so paid by the respondent company to Julia Y. Ayers as guardian on his behalf; and
+After considering the arguments of the respective counsel and the briefs as submitted, I have come to the conclusion that in effect a mistake on a material fact was committed at the hearing on the original claim by the petitioner in testifying that Robert Cramer was her nephew, and from the facts and circumstances recently developed by the respondent company and submitted to this court, I am satisfied that the judgment in favor of Robert Cramer was erroneous and unjustified as he was not a nephew within the meaning and interpretation of the Workmen’s Compensation act, and particularly in view of the recent case of Pierson v. National Fire Proofing Corp., 117 N. J. L. 600; 190 Atl. Rep. 73, the Supreme Court of this state interpreting the dependency provisions of the act specified that “half nieces” and “half nephews” do not come within the provisions of the act, and that these words cannot be read into the statute; and
+Also under the case of Fedi v. Ryan, 118 N. J. L. 516, the Supreme Court of this state in passing upon the dependency provision of the act relative to nieces and nephews said:
+“In their primary technical sense, the words ‘nephews’ and ‘nieces’ import a consanguinous relationship, and by modern usage, the word ‘niece’ means the daughter of a brother or sister.”
+The Supreme Court also said:
+“In the enactment of the Workmen’s Compensation act, the legislature plainly had in mind the distinction between consanguinous and affined relationships; and it is only those specifically listed of the latter class who are entitled to benefits under the act. It therefore follows that the term ‘niece’ as used in that statute denotes the child of a brother or sister, and does not include the daughter of a brother-in-law or sister-in-law.”
+While I have no hesitancy in holding that the judgment of this court as entered on October 13th, 1933, should be revoked and set aside under the facts and circumstances now before me, in so far as it applies to compensation payments for Robert Cramer, I feel, however, that I have no authority under the Workmen’s Compensation act to order repayments of any moneys that have already been paid by the Public-Service Co-ordinated Transport by way of compensation to Julia Y. Ayers, as guardian for the benefit of Robert Cramer, but that recourse for the return of the payments already made to Julia Y. Ayers by the Public Service Co-ordinated Transport must be had by the respondent company in some other court following the reversal of the judgment as herein ordered.
+*******
+Ordered that the judgment of this court as entered on October 13th, 1933, be, and the same is hereby revoked, set aside, and for nothing holden in so far as it applies to any compensation payments for the benefit of Robert Cramer as an alleged nephew of Julia V. Ayers, and that no further payments of compensation are required to be made by the Public Service Co-ordinated Transport under the original judgment of this court, and that in so far as the original claim on behalf of Robert Cramer as an alleged nephew dependent is concerned under the original petition as filed, judgment is entered in favor of the Public Service Co-ordinated Transport.
+John J. Stahl, Deputy Commissioner.
