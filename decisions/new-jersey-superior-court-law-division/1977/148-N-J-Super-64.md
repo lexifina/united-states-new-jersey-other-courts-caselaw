@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1977-01-25"
+citations: ["148 N.J. Super. 64"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES AND HELEN DELANEY, PLAINTIFFS, v. ANDREW PENZA ET AL., DEFENDANTS. HELEN DELANEY AND JAMES DELANEY, PLAINTIFFS, v. ANDREW PENZA ET AL., DEFENDANTS. HELEN DELANEY AND JAMES DELANEY, PLAINTIFFS, v. 466 HIGHLAND AVENUE TENANTS ASSOCIATION, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/148/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 867718
+cites_cases: ["25 N. J. Misc. 1", "380 U. S. 479", "58 N. J. 522"]
+---
+
+# Delaney v. Penza
+
+## Majority (Blake, A. J. S. C.)
+
+Blake, A. J. S. C.
+Plaintiff landlords instituted actions sounding in libel, slander and malicious interference with their business against a tenants' association, its individual members, a newspaper and its managers. The complaints allege that at various times between December 25, 1973 and June 26, 1975, defendants wrote letters, posted notices and caused newspaper articles to be published, all of which contained tortious descriptions of plaintiffs and their business practices. The answers contain general and particular denials, and aver, among other things, that the material is true or constitutionally privileged as fair comment made without malice. Certain of these defendants have conn ter cl aimed for malicious prosecution in one of the suits.
+The Department of the Public Advocate, Division of Public Interest Advocacy, has undertaken to defend the association and its individual members. Plaintiffs moved for an order to direct the withdrawal of that office as attorneys representing these private citizens on the ground that the Department of the Public Advocate has exceeded its authority by becoming involved in this private litigation, contrary to law.
+N. J. S. A. 52:27E—1 et seq. establishes the Department of the Public Advocate and by Article 4 establishes the Division of Public Interest Advocacy. N. J. S. A. 52:27-14-31 grants the following powers to the Public Advocate:
+The Public Advocate shall have sole discretion to represent or refrain from representing the public interest in any proceeding. He shall consider in exercising his discretion the importance and the extent of the public interest involved and whether that interest would he adequately represented without the action of the department. *’ * * [Emphasis supplied]
+The signi ficant term for the purpose of this motion is “public interest."
+The affidavit of the Public Advocate in opposition to the motion quotes the statutory language, supra, and avers his belief that the Department’s representation of these defendants is appropriate. This affidavit is completely conclusory and contains no fact or circumstances to support a claim that the defense of this ease represents the “public interest.” While the court concludes that this affidavit is insufficient to meet plaintiffs’ argument that the action of the Public Advocate here is arbitrary, it has permitted a broader range of argument.
+In its briefs the Division argues that the questions involved contain “a public interest” of constitutional proportion and that the Public Advocate’s decision to represent these parties is not arbitrary.
+The Department cited O’Regan v. Schermerhorn, 25 N. J. Misc. 1 (Sup. Ct. 1946), and Kugler v. Romain, 58 N. J. 522 (1971). Neither is of assistance to the Division, both are clearly distinguishable. O’Regan involved the defense of the grand jury system, obviously a clear matter of public interest. Kugler involved a class of persons clearly affected by an unlawful act and was an evident involvement of public interest.
+N. J. S. A. 52:27E-30 contains the following language:
+As used in this act, public interest shall mean an interest or right arising from the Constitution, decisions of court, common law or other laws of the United States or of this State, inhering in the citizens of this State or a broad class of such citizens. [Emphasis supplied]
+This matter is a private dispute. The Division argues that the public interest at stake here is the constitutional right of free speech guaranteed by the First Amendment of the United States Constitution to this tenant group and, by extension, to all tenant groups in this State. The issues are simple. If a jury finds that the comments or publications were not made or published by defendants or that the matters asserted therein were true or in some way legally privileged, defendants are not liable in damages and their right of free speech is unimpaired. Conversely, if plaintiffs show that defendants did make or publish false statements, not privileged by law, concerning plaintiffs which caused legally provable damages, this speech is not protected by the First Amendment.
+Defendants have not suffered any “chilling effect” on their right of free speech caused by plaintiffs or anyone else. Dombrowski v. Pfister, 380 U. S. 479, 85 S. Ct. 1116, 14 L. Ed. 2d 22 (1965). They have expressed themselves freely and openly. The contest in these cases is whether their expression is one protected by law. The court finds no “public interest” in this ease.
+An additional problem with the representation of these defendants by the Division of Public Interest Advocacy is present. The statute creating the office does not authorize it in clear terms to represent defendants in a civil action. In N. J. S. A. 52:27E-32 the Division is expressly given the power of “intervening in or instituting proceedings” in subsection (a), and of “instituting litigation” in subsection (b). The Public Advocate has made no motion to intervene in this action, either as a party or as amicus curiae. Nowhere does the statute specifically grant the Division the power to defend suits.
+The Division conceded that these defendants have been represented by private counsel from the institution of this suit over %y2 years ago until recently. Defendants have substituted attorneys twice. The latest occurred when privai e counsel, without making a motion to be relieved as counsel, advised his clients that he would no longer represent them and left their representation to this governmental division.
+The court finds that under the statutory definition of “public interest” there is no public interest involved in the facts of this case. Since the Public Advocate may not, under the statute creating the office, litigate a private matter which has no public interest, the court hereby directs the Department of Public Advocate, Division of Public Interest Advocacy, to withdraw from this representation. The court further directs those defendants represented by this Division to obtain private counsel or proceed pro se, forthwith.
