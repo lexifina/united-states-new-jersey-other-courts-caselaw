@@ -1,0 +1,47 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1988-05-18"
+citations: ["227 N.J. Super. 324"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE STATE OF NEW JERSEY, IN THE INTEREST OF J.G."]
+source_url: "https://static.case.law/nj-super/227/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 287754
+cites_cases: ["100 N.J. 214", "131 N.J.Super. 6", "216 N.J.Super. 280", "395 US. 752", "462 U.S. 640", "470 US. 675", "75 N.J. 337", "94 N.J. 210"]
+---
+
+# In re State
+
+## Majority (NATAL, P.J.F.P.)
+
+NATAL, P.J.F.P.
+A complaint was filed charging J.G. with possession of a controlled dangerous substance under N.J.S.A. 2C:35-10(a)(4). A motion for suppression of evidence was filed on behalf of J.G. alleging that the search of the juvenile was illegal.
+On January 14, 1988, at approximately 9:15 A.M. a Winslow Township police officer was summoned to the juvenile’s home by his mother. The mother reported that her son had run away and that her son had a drug and alcohol problem. In addition, the juvenile was already under a “one-year rule” imposed by the court. The officer immediately contacted the juvenile-family crisis intervention unit and was advised that if the juvenile was a runaway, he should be taken into custody as soon as he is located and brought before the court for a hearing.
+At approximately 11:50 a.m. that morning the same officer observed J.G. on the side of a highway. The officer approached the juvenile, introduced himself and had the juvenile identify himself. Upon identification, the officer told J.G. that his mother had filed a complaint charging him with being a runaway and told J.G. he was going to be taken to the police station and to the Family Court. Before placing J.G. in the police car for transportation to the station, the officer “patted down” the Juvenile. The officer detected that J.G. had in his pant’s pocket a clear plastic bag containing a green vegetation, later analysed to be marijuana. After transportation to the police station, a complaint was signed charging J.G. with possession of a controlled dangerous substance, to wit Marijuana, under 50 grams, a disorderly persons offense. This would constitute an offense of juvenile delinquency under N.J.S.A. 2A:4A-23 in that if the offense were committed by an adult the act would constitute a violation of N.J.S.A. 2C:35-10(a)(4).
+The court finds there is no merit to the motion to suppress evidence filed in this matter. The search was lawful inasmuch as it was incident to the custodial detention of the juvenile. The police officer also had probable cause to search the juvenile as the facts substantiated an objective reason to believe the juvenile was carrying a controlled dangerous substance.
+It is well established that the fourth amendment does not guarantee against all searches and seizures, but only those that are unreasonable. See United States v. Sharpe, 470 US. 675, 682, 105 S.Ct. 1568, 1573, 84 L.Ed.2d 605 (1985); State v. Bruzzese, 94 N.J. 210, 217 (1983). There is nothing unreasonable about the search of J.G. The juvenile was apprehended pursuant to N.J.S.A. 2A:4A-31(b)(l) & (2).
+A juvenile involved in a juvenile-family crisis as defined in N.J.S.A. 2A:4A-22(g) is distinguished from a delinquent in that a juvenile involved in a juvenile-family crisis is considered “self-destructive” and the officer acts “in loco parentis” to protect the juvenile. The juvenile’s conduct constitutes a status offense. Nevertheless, an officer still has authority to detain a juvenile whether for juvenile delinquency or as a status offender under the statute.
+N.J.S.A. 2A:4A-31. Taking into custody
+a. A juvenile may be taken into custody:
+(1) Pursuant to an order or warrant of any court having jurisdiction; or
+(2) For delinquency, when there has been no process issued by a court, by a law enforcement officer, pursuant to the laws of arrest and the Rules of Court.
+b. Except where delinquent conduct is alleged, a juvenile may be taken into short-term custody by a law enforcement officer without order of the court when:
+(1) The officer has reasonable grounds to believe that the health and safety of the juvenile is seriously in danger and taking into immediate custody is necessary for his protection;
+(2) The officer has reasonable grounds to believe the juvenile has left the home and care of his parents or guardian without the consent of such person; or
+(3) [omitted as not pertaining to this matter]
+c. The taking of a juvenile into custody shall not be construed as an arrest, but shall be deemed a measure to protect the health, morals and well-being of the juvenile.
+When a person is arrested, the arresting officer may search the person arrested and seize any weapons or evidence found on the person’s body to prevent destruction or concealment thereof. Chimel v. California, 395 US. 752, 89 S.Ct. 2034, 23 L.Ed.2d 685 (1969); State v. Sims, 75 N.J. 337 (1978).
+Counsel for J.G. argues that juveniles involved in a juvenile-family crisis are treated differently than delinquents and adults in our justice system. While conceding that a juvenile charged with delinquency and taken into custody may be lawfully searched, it is argued that if a juvenile is taken into custody pursuant to a juvenile-family crisis incident, then a full search is not proper and Chimel does not apply. This argument is flawed.
+Counsel is attempting to make a distinction in the statute where one does not exist. While there may be some distinctions as to how or where a juvenile involved in a juvenile-family crisis may be detained, transported or committed as compared to a juvenile charged with delinquency, for our purposes in considering a search and seizure, there is no distinction. Being “in custody” is a restraint of liberty. When a juvenile is taken into custody, whether it be short-termed or not, the juvenile is not free to leave. The taking into custody of a juvenile is analogous to the arrest of an adult. An adult arrest is for the protection of society from an alleged dangerous person. Taking a juvenile into custody is for the purpose of protecting the juvenile’s health, morals and well-being. See N.J.S.A. 2A:4A-31(c).
+When a juvenile is taken into custody, Chimel, reasoning applies and a search incident to detention is proper. State in Interest of A.R., 216 N.J.Super. 280 (App.Div.1987), State in Interest of J.B., Jr., 131 N.J.Super. 6 (J. & D.R.Ct.1974).
+The police officer received a call from the juvenile’s mother. The mother informed the officer that the juvenile had run away and that she knew he had been taking drugs and drinking alcohol. Who could be a more reliable informant than the juvenile’s own mother with whom he lived? This information was enough to give the officer reasonable grounds to believe: (1) J.G. left his home without the consent of his parent and there was a serious conflict between the parent and the juvenile regarding rules of conduct which has been manifested by repeated disregard for lawful parental authority, and (2) the health of J.G. was seriously in danger and there was a serious threat to his well-being and physical safety. Based on this reasonable belief, the officer had the authority to take J.G. into short-term custody without a warrant.
+In addition, since the officer had the authority to detain the juvenile under N.J.S.A. 2A:4A-31, the officer also had the authority to search the juvenile under the inventory search theory in Illinois v. Lafayette, 462 U.S. 640, 103 S. Ct. 2605, 77 L.Ed.2d 65 (1983). In Illinois, the defendant was arrested for disturbing the peace. Once down at headquarters the defendant’s belongings were inventoried and amphetamine pills were found. Charges were brought against the defendant for possession of the amphetamine pills. The Supreme Court found the pills admissible because they were discovered during an inventory search. An inventory search is “... a well defined exception to the warrant requirement.” Illinois, 462 U.S. at 643, 103 S.Ct. at 2608.
+In this case, the juvenile was taken into short-term custody and legally transported to police headquarters. Based on the lawful detention, the juvenile’s possessions could properly have been inventorily searched at the station and the greenish vegetation would have been uncovered anyway. See State v. Sugar, 100 N.J. 214 (1985) for admissibility under the doctrine of inevitable discovery.
+The motion to suppress the evidence filed on behalf of the juvenile J.G. is accordingly denied.
+On December 22, 1987, J.G. received a one-year rule pursuant to N.J.S.A. 2A:4A-43(b)(l) for harrassment, a violation of N.J.S.A. 2C:33-4.
+N.J.S.A. 2A:4A-76 establishes in each county a juvenile-family crisis intervention unit. Camden County’s unit is located in the family intake section of the Family Court in the Hall of Justice.
+N.J.S.A. 2A:4A-80 mandates a law enforcement officer taking a juvenile into short-term custody to notify the juvenile-family crisis intervention unit and bring the juvenile to the unit or the place designated by the unit.
+N.J.S.A. 2A:4A-32 et seq. mandates a juvenile-family crisis juvenile may not be detained in a detention facility or jail.
+N.J.S.A. 2A:4A-46(b) mandates a juvenile involved in a juvenile-family crisis shall not be committed to an institution or facility established for the care of delinquent children____
