@@ -1,0 +1,37 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1949-03-04"
+citations: ["2 N.J. Super. 407"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SONOTONE CORPORATION, A CORPORATION OF THE STATE OF NEW YORK, PLAINTIFF, v. CHRISTOPHER G. HAYES, HELEN M. DUNN AND THOMAS C. MULLIGAN, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/2/cases/0407-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 368433
+cites_cases: ["132 N. J. Eq. 111", "133 N. J. Eq. 270", "142 A. L. R. 1088", "289 N. Y. 76"]
+---
+
+# Sonotone Corp. v. Hayes
+
+## Majority (Kays, J. S. C.)
+
+Kays, J. S. C.
+This matter came before me on an application for an interlocutory injunction.
+The plaintiff is a manufacturer and distributor of hearing aid instruments. Its principal office is at Elmsford, Westchester County, New York. The defendant, Hayes, was employed as its regional manager in North Jersey. He supervised and received commissions on all sales made by the plaintiff’s consultant managers in the northern New Jersey region which embraced the plaintiff’s offices in Jersey City, Hackensack, Paterson, Bayonne and Ridgewood.
+On April 15, 1947, the defendant, Hayes, entered into a written contract with the plaintiff under the terms of which said defendant was granted exclusive sales rights of plaintiff’s supplies within a “territory” comprised of designated portions of Hudson, Bergen, Passaic and Essex Counties.
+On November 2, 1948, defendant, Hayes, submitted his resignation as regional manager effective December 2, 1948. On November 30, 1948, plaintiff, by letter, discharged said Hayes from its employ alleging violations of his contract and •disloyalty to the plaintiff.
+The contract contains the following provision:
+“«88. TTpou the expiration or tho termination of this contract from any cause whatsoever, Manager agrees that he will not engage directly or indirectly in the business of manufacturing and/or selling any products or devices of the kind or similar to the products •or devices at such time being manufactured and sold by Manufacturer or in any way engage in competition with the Manufacturer or any agents or Managers of the Manufacturer, either directly or indirectly as principal or as agent or employee, in the Territory and within an area extending fifty (50) miles on every side thereof, (hiring a period of twelve (12) months from the date of termination or expiration.”
+The plaintiff’s affidavits in support of this application allege a violation of all the foregoing provisions by the defendant, Hayes. It is not disputed that immediately upon the termination oí Hayes’ employment with the plaintiff, he undertook another employment with a competitor of the plaintiff’s, the Microtone Company. He continued to use the same telephone number and office. In addition, the plaintiff alleges that Hayes is using and has disclosed to the other defendants, Dunn and Mulligan, who make use of the same, the names and addresses of users and prospective users of hearing aids.
+Defendant contends that the plaintiff has no standing in this court; that consequently this application should be denied because of paragraph 42 of the contract which reads as follows:
+“42. This contract shall be governed by the laws of the State of New York, both as to interpretation and performance. Any difference, dispute or controversy arising between the parties with respect to this contract or performance hereunder, shall be settled by arbitration in accordance with the provisions of the Arbitration Laws of the State of New York and the award rendered in such arbitration shall be enforceable in any court of competent jurisdiction.”
+The defendant contends that at the time the contract in question was made, the parties, by virtue of the above provision intended to submit any and all controversies arising between them with respect to this contract, including the present dispute, to 'the exclusive jurisdiction of an arbitral tribunal. In Lipman v. Haeuser Co., 289 N. Y. 76, 142 A. L. R. 1088, Judge Finch of the New York Court of Appeals said:
+“The language of the agreement to arbitrate of course, must be sufficiently .broad so as to permit of the application of the general principle that all issues subsequent to the making of the contract are not for the court but for the arbitrators. Whore, however, as. here, the language of the provision providing for arbitration uses not only the phrase ‘any and all controversies arising out of the contract’ but also ‘any and all controversies in connection with the contract’, this language would appear sufficiently broad to express the intention of the parties to include within the exclusive jurisdiction of the arbitrators as a general rule all acts by the parties giving rise to issues in relation to the contract, except the making thereof.”
+Paragraph 42 is as much a part of the employment contract as any other provision. By the terms of this paragraph the parties have bartered away their rights to relief in this. court and have mutually agreed to settle any difference, dispute or controversy arising between them with respect to this contract or performance thereunder by arbitration. Certainly, it cannot be denied that the present dispute is one with respect to this contract.
+Again, it should be kept in mind that the employ- 'j f ment contract was prepared by the plaintiff and submitted ,< to its employees for their signature as a sine qua non of i employment or the continuance thereof. Its language, there- i fore, should be interpreted most strongly against the plain- i tiff. See, 3 Williston on Contracts (Revised, Edition) Sec. 621, , p. 1788.
+The relief sought by the plaintiff in this forum is obtainable through arbitration. See, Hoboken Mfrs. R. R. Co. v. Hoboken R. R. &c., Co., 132 N. J. Eq. 111, at p. 119 (affirmed 133 N. J. Eq. 270), where the following is stated:
+“ ‘But, in general, being the chosen judges of the parties, they are judges of the law as well as of tlie facts, they are not bound to award on mere dry principles of law, but may do so according to the principles of equity and good conscience. * * * ’ ”
+Undoubtedly, said paragraph of the contract is sufficiently broad to permit the application of the principle referred to above. The language employed in that paragraph expresses the intention of the parties to settle the present dispute by means of arbitration. The contention of the defendant, Hayes, is well taken.
+It should be noted that the contract does not state that the parties should arbitrate in New York. It simply states that they should settle any dispute or controversy arising between them * * * by arbitration in accordance with the provisions of the Arbitration Laws of the State of New York. The contract outlines the mode of procedure to be followed by the parties. The forum of the arbitral proceedings is not recited therein. In view of the foregoing, I regard as specious the plaintiff’s argument as to the necessity { of jurisdiction by the courts of New York over the defendants as a condition precedent to the arbitration in accordance with paragraph 42 of the contract.
+The application for the interlocutory injunction is, therefore, denied. The complaint will be held but action thereunder will be stayed pending entry of a judgment in accordance with the decision of the arbitral tribunal. See, R. S. 2 :40 — 14_
