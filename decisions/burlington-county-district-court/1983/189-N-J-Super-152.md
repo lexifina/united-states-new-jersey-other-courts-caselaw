@@ -1,0 +1,27 @@
+---
+court: "Burlington County District Court"
+decided: "1983-02-07"
+citations: ["189 N.J. Super. 152"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BURLINGTON COUNTY WELFARE BOARD, PLAINTIFF, v. JANE McCLAIN, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/189/cases/0152-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 924690
+cites_cases: ["132 N.J.Eq. 64", "319 A.2d 56", "32 Ill.Dec. 502", "392 U.S. 309", "395 N.E.2d 732", "42 U.S.C.A. § 601", "42 U.S.C.A. § 606", "42 U.S.C.A. § 608", "420 U.S. 575", "448 F.Supp. 1313", "520 F.Supp. 70", "76 Ill.App.3d 910", "87 N.J. 437", "95 S.Ct. 1180"]
+---
+
+# Burlington County Welfare Board v. McClain
+
+## Majority (GOTTLIEB, J.J.D.R.C. (temporarily assigned).)
+
+GOTTLIEB, J.J.D.R.C. (temporarily assigned).
+This case questions whether a person who assumes the responsibility for raising a child qualifies as a relative eligible to receive benefits for that child under the aid to families with dependent children program (AFDC), 42 U.S.C.A. § 601 et seq.; N.J.S.A. 44:10-1 et seq.
+In December 1963 a child was placed for adoption by Camden Social Services of the Diocese of Camden with defendant and her husband. Although an adoption was intended at the time of placement, difficulties arose when it was ascertained that the child had cerebral palsy. The child continued to reside with defendant and her husband, even though no adoption order was obtained, until December 1980. At that time defendant and the child separated from defendant’s husband as a result of acts of domestic violence. Defendant then applied for and received $1,497 as an assistance grant under AFDC. Plaintiff board seeks to recover that amount, asserting defendant’s nonqualification under AFDC.
+To be eligible under AFDC the child must live with certain relatives enumerated in 42 U.S.C.A. § 606(a)(1). See, also, N.J.S.A. 44:10-l(c)(2). These relatives include “mother.” Defendant contends that although she is not the natural or adoptive mother of the child, her actual interrelationship with the child is that of a mother. She asserts that the statutes should be liberally interpreted to allow her inclusion as a qualifying relative.
+In determining whether “mother” includes a nonrelated individual who takes a child into her home and provides the nurture, love, care and guidance normally expected to be furnished by a mother, it must be recognized that “(t)he method of analysis used to define the federal standard of eligibility is no different from that used in solving any other problem of statutory construction.” Burns v. Alcala, 420 U.S. 575, 580, 95 S.Ct. 1180, 1184, 43 L.Ed.2d 469 (1975). As noted in Renz v. Penn Central Corp., 87 N.J. 437, 440 (1981), “statutory language should be given its ordinary meaning absent specific intent to the contrary.” “Mother” has an ordinary, well-understood meaning. It is defined either as one who gives birth to a child, Gardner v. Hall, 132 N.J.Eq. 64, 72 (Chan.1942), or a female who adopts a child. Cf., N.J.S.A. 3B:1-1 (“Child”) and 3B:1-2 (“Parent”). Thus, it is necessary to ascertain if Congress intended a different meaning to apply to AFDC.
+Congress enacted AFDC to aid “needy dependent children and the parents or relatives with whom they are living to help maintain and strengthen family life.” 42 U.S.C.A. § 601. The statutory purpose is to assist certain, but not all, needy children. Stevens v. Califano, 448 F.Supp. 1313, 1319 (N.D.Ohio 1978). As a result, the definitions of the qualifying relatives have been strictly construed; for example, “parent” includes only those persons with a legal duty of support. King v. Smith, 392 U.S. 309, 327, 88 S.Ct. 2128, 2138, 20 L.Ed.2d 1118 (1968). In Cannon v. Illinois, Dep’t of Public Aid, 76 Ill.App.3d 910, 32 Ill.Dec. 502, 395 N.E.2d 732, 734 (App.Ct.1979), it was held that a first cousin once removed is not a first cousin under the statutory provisions. Contra., Ottman v. Fisher, Me., 319 A.2d 56, 63 (Sup.Jud.Ct.1974). As stated in Burns v. Alcala, 420 U.S. 575, 582, 95 S.Ct. 1180, 1185, 43 L.Ed.2d 469 (1975): “The list of relatives has grown..., but there is still no general provision for AFDC payments to needy children living with distant relatives or unrelated persons, or in institutions.”
+There is nothing in the statutes to show that Congress intended all needy children to be beneficiaries under AFDC. Indeed, Congress also provided foster children with program benefits, 42 U.S.C.A. § 608. While it appears that defendant and the child do not qualify as well under the foster relationship, the fact that statutes exist to cover that relationship evidences a Congressional intent to exclude nonmarital, blood or adoptive relationships not expressly covered under 42 U.S.C.A. § 606(a)(1). Nor could it be said that defendant should be entitled to AFDC Benefits as guardian of the child, albeit de facto, since she has not been legally subjected to the duties and responsibilities of that function. Cf., Curry v. Dempsey, 520 F.Supp. 70 (W.D.Mich.1981).
+Therefore, the court determines that defendant and the child do not qualify for coverage under AFDC. Plaintiff is entitled to a judgment representing the amount of overpayment.
+Indeed, there is no indication that defendant ever filed for adoption or guardianship of the child.
