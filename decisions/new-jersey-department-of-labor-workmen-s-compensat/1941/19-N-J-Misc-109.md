@@ -1,0 +1,27 @@
+---
+court: "New Jersey Department of Labor, Workmen's Compensation Bureau"
+decided: "1941-01-31"
+citations: ["19 N.J. Misc. 109"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT G. SOUTHARD, PETITIONER, v. MARGARET KLEINSMITH, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/19/cases/0109-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 456063
+cites_cases: ["107 N. J. L. 156", "125 N. J. L. 223", "15 Atl. Rep. 205", "151 Atl. Rep. 639"]
+---
+
+# Southard v. Kleinsmith
+
+## Majority (John J. Stahl, Deputy Commissioner.)
+
+*******
+The vital question for determination is whether the petitioner at the time of the admitted accident was an employe of the respondent within the meaning and purview of the Workmen’s Compensation act; or an independent contractor.
+It appears from the undisputed facts developed in the evidence that the petitioner sustained serious injuries consisting of a fracture of the left femur, fracture of the left radius, fracture of the left scaphoid hone, dislocation of the semi-lunar and cuneiform hones of the left wrist, rib injuries and nervous shock, as a result of an accident on August 7th, 1940, while engaged in repairing a roof of the respondent’s home at Ridgefield Park, New Jersey. From the medical testimony, I am satisfied that the limit of treatment has not jet been reached and for that reason the determination of the extent of permanent disability must be deferred until some future date.
+Upon carefully considering the evidence in this case and upon making a thorough examination of the briefs submitted by counsel at the close of the trial, I have come to the conclusion that the. petitioner was not an independent contractor. In determining whether a person is an employe or an independent contractor, the most frequently cited test is that of control; he, being an employe, if he is subject to the control of the person for whom the work is done, and an independent contractor if he is not. The actual exercise of such control by the party for whom the work is being done, however, is not essential; it being sufficient so long as he has the right of such control. In the case at bar, I .am satisfied that such control was retained and exercised by the respondent. In 71 C. J. 449, it is stated: “In determining whether a workman is an employe or an independent contractor the act is to be given a liberal construction in his favor, and any doubt is to be resolved in favor, of his status as an employe rather than as an independent contractor.”
+Accordingly having found, as a matter of law, that the petitioner was not an independent contractor, it necessarily follows that his status at the time of the accident was that of an employe. The decisive question is whether the employment was regular within the contemplation of the act, or casual. By the overwhelming weight of the evidence it appears that the petitioner was a casual employe. The recent case of Clausen v. Dinnebeil (Supreme Court), 125 N. J. L. 223; 15 Atl. Rep. 205, is controlling, to wit:
+“Evidence that carpenter, who had worked for respondent on previous occasions and who did not have steady employment, was employed by respondent, who was engaged in'no business except looking after six houses which respondent owned and rented, to assist in repairing roof of house which was damaged by a storm, warranted conclusion that carpenter, who allegedly sustained injuries while repairing roof, was engaged in “casual employment” at time of. injury and was not an “employe” within Compensation act, and hence carpenter was not entitled to compensation; it being immaterial whether injury was received while carpenter was at work on a task connected with respondent’s business.”
+The facts in the present case are practically on all fours with the Clausen ease. Forrester v. Eckerson, 107 N. J. L. 156; 151 Atl. Rep. 639, is also controlling, holding the employment of a painter engaged to paint one’s dwelling house to be casual employment. By express statutory enactment one engaged in casual employment is excluded from the benefits of the Workmen’s Compensation act. N. J. S. A. 34:15-36 defines an employe entitled to compensation as follows: “Employe is synonymous with servant and includes all natural pel-sons who perform service for another for financial consideration, exclusive of casual employments, which shall be defined, if in connection with the employers’ bxxsiness, as employment the occasion for which arises by chance or is purely accidental; or if not in connection with any business of the employer, as employment not regular, periodic or recurring.” Obviously the respondent, who owned or had some vested interest in the dwelling house in question, was not engaged in “business” within the meaning of the Workmen’s Compensation act—R. S. 1937, 34:15-36. Hence, in order to warrant a recovery in the present proceeding, it was incumbent upon the petitioner to show that his employment with the respondent was periodic and recurring. The proofs, however, fail to establish such fact; there is nothing in the evidence to justify an inference that should further repairs to the roof be necessary in the future that the petitioner would be engaged for such work without re-hire.
+The petitioner having failed to establish his right to compensation, it is * * * ordered that the petition herein filed be and the same is hereby dismissed.
+John J. Stahl, Deputy Commissioner.
