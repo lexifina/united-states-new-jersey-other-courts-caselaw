@@ -1,0 +1,38 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1978-10-31"
+citations: ["163 N.J. Super. 433"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SUZANNE KOERNER AND RICHARD J. MACK, PLAINTIFFS, v. NEW JERSEY DEPARTMENT OF CORRECTION AND MARRIAGE LICENSING OFFICER, CITY OF HACKENSACK, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/163/cases/0433-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 910958
+cites_cases: ["125 U. S. 190", "145 N. J. Super. 330", "18 L. Ed. 2d 1018", "30 Utah 2d 27", "365 F. Supp. 377", "388 U. S. 1", "39 L. Ed. 2d 104", "414 U. S. 1148", "65 N. J. 219", "94 S. Ct. 905"]
+---
+
+# Koerner v. New Jersey Department of Correction & Marriage Licensing Officer
+
+## Majority (Lucchi, J. S. C.)
+
+Lucchi, J. S. C.
+(temporarily assigned). Plaintiff Biehard Mack, currently incarcerated in New Jersey State Prison, and plaintiff Snzanne Koerner desire to marry.
+In 1973 Mack was sentenced to serve 14 to 15 years for the murder of his wife. During 1976 Mack escaped from prison and met Suzanne Koerner in Tucson, Arizona. From this relationship a -child, Camille, was born on April 18, 1977. In September 1977 plaintiffs returned to New Jersey, whereupon Mack surrendered to the authorities.
+On March 24, 1978 plaintiffs filed the complaint in this action seeking an order to compel the New Jersey Department of Corrections to transport Mack to Hackensack to marry Suzanne Koerner. On said date Ms. Koerner was again pregnant by Mack, eventually giving birth to a second child in April 1978.
+The Hackensack Department of Health would cooperate in the issuance of a marriage license and the mayor of Hackensack would officiate at the proposed wedding ceremony.
+That which prevents Mack and Koerner from marrying at the State Prison, thus necessitating the instant writ application, is enunciated in the prison regulations. Departmental Standards, §§ 561-221 et seq., entitled “Inmate Marriages,” provide in part that an inmate must be in full minimum custody status and eligible for a furlough in order to be eligible to marry. Section 561-223, “Physical Facilities,” additionally provides that the prison facility itself is not to be utilized for the marriages of eligible inmates.
+Plaintiff Mack does not at this time meet all the criteria for the granting of a furlough. He therefore seeks leave to this court for an order enabling him to marry outside the Prison complex.
+By letter in lieu of brief, dated April 13, 1978, the New Jersey Department of Corrections, through Deputy Attorney General Frederick M. English, advised the court that it does not oppose plaintiff’s present application for such an order.
+It has long been well settled and now stands unchallenged that marriage is a social relationship subject in all respects to the State’s police power. Rothman, v. Rothman, 65 N. J. 219 (1974), Loving v. Virginia, 388 U. S. 1, 87 S. Ct. 1817, 18 L. Ed. 2d 1018 (1967); N. J. Const. (1947), Art. I, par. 7.
+The court in one famous case stated the proposition thusly :
+Marriage, as creating the most important relation in life, as having more to do with the morals and civilization of a people than any other institution, has always been subject to the control of the legislature. That body prescribes the age at which parties may contract to marry, the procedure or form essential to constitute marriage, the duties and obligations it creates, its effects upon the property rights of both, present and prospective, and the acts which may iconstitute grounds for its dissolution. [Maynard v. Hill, 125 U. S. 190, at 205, 8 S. Ct. 723, at 726, 31 L. Ed. 654 (1888) ]
+The extent to which the right to marry is diluted for one in prison has apparently never been considered by a court of this State. Courts in two other jurisdictions, however, have recently had occasion to consider the question in factual settings not dissimilar to that extant in the instant case.
+Johnson v. Rockefeller, 365 F. Supp. 377 (S. D. N. Y. 1973), involved the constitutionality of a New York “civil death” statute prohibiting, among other things, life term prisoners from marrying. In upholding the statute’s validity, the District Court found no merit in plaintiff’s claim that he was denied equal protection. Noted the court:
+A state has considerable freedom within the limits of the Eighth Amendment in determining what form punishment for crime shall take. Deprivation of physical liberty is not the sole permissible consequence of a criminal conviction, [at 380]
+The Johnson court similarly gave short shrift to plaintiff’s other constitutional arguments, disposing of them with a simple recognition that states can rely on their general power over the institution of marriage to justify bans on the marriage of certain prisoners.
+The case of In re Goalen, 30 Utah 2d 27, 512 P. 2d 1028 (Sup. Ct. 1973) cert. den. 414 U. S. 1148, 94 S. Ct. 905, 39 L. Ed. 2d 104 (1974), afforded Utah’s highest court the opportunity to scrutinize and rule on the constitutionality of a rule similar to the prison standards in the instant case. In implementation of a state law providing for the temporary suspension of civil rights during the entire term of a person’s imprisonment, the Utah Board of Corrections promulgated a policy whereby an inmate could marry only when he was within six months of release. The prisoner in Goalen was a convicted rapist, sodomist and robber who did not meet the critei'ia for inmate marriage. Coplaintiff Ann Goalen petitioned the court to allow the marriage, alleging the prisoner was being denied his fundamental rights.
+In holding that the Board of Corrections’ policy regarding inmate marriages did not violate any constitutional rights, the Utah Supreme Court relied on the Tenth Amendment as making marriage a subject for exclusive state regulation. The Goalen court concluded, as did the court in Johnson, supra, that the state, in the legitimate exercise of its police power, had the right to deny marriage to certain defined categories of prisoners.
+The policy with respect to inmate marriage in the instant case was established by the Board of Trustees of the New Jersey Prison Complex. The State Department of Corrections has implemented the Board’s policy in its departmental standards, relevant sections having previously been cited. One such section, to wit, 561-211, “Inmate Marriages,” stating that an inmate must bo eligible for furlough to marry, has of course been waived by the Department of Corrections. The other section, 561-223, “Physical Uacilities,” which prohibits the use of the Prison for the marriage ceremony, has not been waived. Institutional security has been advanced as the reason for such denial. The reason is a valid one, as noted by a recent New Jersey decision :
+Lawful incarceration necessitates the reasonable withdrawal from a prisoner of certain rights normally enjoyed by a person in free society. It is inherent in our penal system that a prisoner is not clothed with the usual array of guaranteed constitutional rights. It may be true that a prisoner does not leave his constitutional rights at the jailhouse gates, however, a prisoner does not enjoy the same right of privacy as nonincarcerated persons. Lack of privacy must be balanced against reasonable security in the jail. In the end, the scales must be tipped in favor of security. [State v. Ryan, 145 N. J. Super. 330, 335 (1976)]
+Richard Mack’s constitutional rights have not been violated. The application to marry outside the confines of the New Jersey State Prison is denied.
