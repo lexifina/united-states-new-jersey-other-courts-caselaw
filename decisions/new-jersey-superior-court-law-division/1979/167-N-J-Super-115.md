@@ -1,0 +1,44 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1979-02-21"
+citations: ["167 N.J. Super. 115"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF EDWARD G. TYLER, LORRAINE S. TYLER AND LEROY RASCON."]
+source_url: "https://static.case.law/nj-super/167/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 914505
+cites_cases: ["3 N. J. 187", "32 N. J. Super. 513"]
+---
+
+# In re Tyler
+
+## Majority (Haines, J. S. C.)
+
+Haines, J. S. C.
+This is the third opinion in the Fieldsboro election trilogy. The first involved a contest between two candidates for the office of mayor, in which it was held that 51 ballots were void by reason of improper delivery, thereby reversing the election result. The second dealt with an application by the board of elections for a declaratory judgment determining whether the 51 ballots voided in the mayoralty contest should be counted with respect to candidates for council listed on the same ballots. That application was dismissed, but the first Fieldsboro opinion was interpreted as not affecting the council vote because the council candidates were not parties to that proceeding. The present litigation is undertaken by the successful candidate for mayor, his wife and Leroy Eascon, a defeated candidate for council. They seek to change the result of the council election and argue that the 51 ballots voided in the mayoralty contest are void also in the council contest. The only persons running for council seats whose election results may be reversed, if the ballots in question are not counted, are parties here, as well as the Burlington County Clerk and Board of Elections.
+Leroy Eascon, as a defeated council candidate, has standing to bring this action. The other plaintiffs do not. N. J. S. A. 19:29-2.
+The trial testimony showed that the 51 questioned ballots had been delivered by the County Clerk to one Frank TTegyi, an interested citizen, who had presented the voters’ application forms to the clerk. By means unknown, Hegyi delivered the ballots to the voters. He was not an “authorized messenger” to whom an absentee ballot could have been delivered by the clerk pursuant to N. J. S. A. 19:57-4 which authorizes such delivery only when the applicant is sick or confined. The interpretation of our election laws in this court’s first Eieldsboro opinion denies the right of the county clerk to use a messenger in any other circumstances. That opinion also held that the misdelivery of the 51 ballots was so significant by reason of its invitation to fraud and to violations of secrecy that the ballots must be voided.
+The same conclusion necessarily follows here, provided the instant petition was filed within time. N. J. S. A. 19:29— 3 requires such a petition to be filed not later than 30 days after the election “unless the ground of action is discovered from the statements, deposit slips or vouchers filed under this Title, subsequent to such * * * election, in which event such petition may be filed * * * 30 days * * * after such statements, slips or vouchers are filed.” The Eieldsboro election was held on Fovember 7, 1978. The opinion in the first case involving the election was announced from the bench on December 19, 1978 and was reflected in a written order signed December 20, 1978. Thereafter, a certificate of election was issued by the county board of canvassers to Edward Tyler, the successful contestant for the office of mayor. The within petition was filed on January 11, 1979, less than 30 days from the date of the initial decision. Consequently, the petition has been filed within time, provided the order or the certificate of election is a “statement” filed under Title 19, from which the ground of action asserted has been discovered.
+The word “statement” is not defined in the statute. However, we find that term used in several contexts throughout the election laws. N. J. S. A. 19:20-2 to 8, inclusive, dealing with municipal elections, refers to “statements of determination” of election results that must be filed in certified form with municipal clerks. N. J. S. A. 19:13-22 requires a “statement” of eligible candidates to be prepared by the Secretary of State. N. J. S. A. 19 :44A-12 requires “statements” to be filed setting forth the names of campaign contributors and the amounts contributed. Numerous other illustrations may be found. It seems doubtful that the Legislature intended to use the word “statement” in a technical sense; its concern was centered upon knowledge of an election violation constituting a “ground of action,” and the vehicle by which that knowledge was conveyed, namely a writing filed in accordance with a provision of the election statutes. Since both the order issued by the court in the prior case and the certificate of election issued by the County Board of canvassers to Edward Tyler are writings required to be filed by Title 19 with the office of the clerk of the municipality (see N. J. S. A. 19:28 — 5; N. J. S. A. 19:20 — 8), each is a statement filed under the Title subsequent to the election.
+In order to warrant an extension of the filing time the statement must provide the “ground of action” upon which petitioner relies. Interpreting this provision in the context of a primary election, the Appellate Division stated that the extension comes into force when “the basis for any complaint arises out of the filed statement.” Lynch v. Acquilone, 32 N. J. Super. 513, 517 (App. Div. 1954). It is reasonable to assume that the term “ground of action” is synonymous with the term “right of action,” which was defined in Granahan, v. Celanese, 3 N. J. 187 (1949), quoting Ballentine' s Law Dictionary:
+A right of action at law arises from the existence of a primary right in the plaintiff, and an invasion of that right by some delict on the part of the defendant, and that the facts which establish the existence of that right and that delict constitute the cause of action, [at 191]
+The ground of action need not be set forth in the statement. It suffices that the information it contains provides a path to the ground of action, that it waves a red flag, alerting the contestant to the basis for the suit. The statute requires petitioner’s ground of action to have been discovered from the statement, it does not require that the ground of action be contained in the statement. Here both order and certificate of election are inadequate, taken separately or together, to disclose the ground of action. However, they lead any inquiring person directly to the court’s opinion in which the ground of action is clearly set forth.
+Nor does prior knowledge of the same “ground of action” defeat the right to the extension. The use of the word “discovered” in the phrase “unless the ground of action is discovered from the statements” is not to be read as “newly discovered”; when the “ground of action” may be obtained from the statements, the extension of time becomes available. Were the statute to be interpreted otherwise, a number of difficulties would ensue. For example, under N. J. S. A. 19 :29-2, a petition to contest an election may be filed by 15 voters. If the ground of action was “newly discovered” by some, but not by all, would petitioners have standing? If “newly discovered” were the test, which party would have the burden of proving the ground of action was so discovered ? Would it suffice that a petitioner had no actual knowledge, or would some test of reasonableness apply? The Legislature cannot be presumed to have intended these problems to be raised.
+Consequently, the petition was timely filed.
+The election results, as to candidates affected by the proceedings are:
+(a) Erank Bell, III:
+63 machine votes (at the polls)
+2 absentee ballot votes
+65 total
+(b) Leroy Rascón:
+59 machine votes (at the polls)
+3 absentee ballot votes
+62 total
+(c) Sexton Woodward:
+17 Machine votes (at the polls)
+70 absentee ballot votes
+87 total
+The absentee vote must be adjusted to reflect the cancellation of 51 votes. If 2 such votes are taken from Bell, 3 from Rascón and 46 from Woodward, thus giving Woodward the incumbent, the maximum absentee votes he can receive under any arithmetical arrangement, he has a total vote of only 41, far less than either of his opponents. He must be eliminated. If we cancel Bell’s 2 absentee votes and leave Rascón with the 3 to be received, thus giving Rascón a maximum result, he still has a total of 62 while Bell’s total is 63. Consequently, Bell must be declared the winner of the council contest.
+A judgment shall be prepared annulling the certificate of election of Sexton Woodward pursuant to N. J. S. A. 19 :29-9, and ordering the sheriff to put the successful party into office and to deliver to him all books, papers and effects belonging to the same, pursuant to N. J. S. A. 19 :29-10.
