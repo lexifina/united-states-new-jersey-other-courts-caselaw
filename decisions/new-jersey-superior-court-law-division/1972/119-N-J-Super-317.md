@@ -1,0 +1,37 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1972-05-31"
+citations: ["119 N.J. Super. 317"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RICHARD O’CONNELL, GUARDIAN AD LITEM OF DANIEL O’CONNELL, AN INFANT, AND RICHARD O’CONNELL, INDIVIDUALLY, PLAINTIFFS, v. FOREST HILL FIELD CLUB, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/119/cases/0317-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 338481
+cites_cases: ["51 N. J. Super. 123", "80 N. J. Super. 486", "82 N. J. Super. 8", "9 N. J. 38", "90 N. J. Super. 380"]
+---
+
+# O'Connell v. Forest Hill Field Club
+
+## Majority (Byrne, J. S. C.)
+
+Byrne, J. S. C.
+This matter has come before the court on a motion by the defendant for summary judgment by reason of a statutory immunity provided by N. J. S. A. 2A:42A-2 and 3. The action is for personal injury to the plaintiff, Daniel O’Connell, an infant, through his guardian ad litem, Richard O’Connell, and by Richard O’Connell, individually.
+Defendant is an unincorporated association that owns certain premises upon which it operates a golf course. On March 27, 1969, the infant plaintiff and his companions entered upon defendant’s premises while playing. At this time, there was an excavation hole on the premises which was part of a project to construct a dry well. While playing on the premises the infant plaintiff fell into the said hole, thereby suffering serious injuries.
+The plaintiffs contend that the premises were not properly supervised or maintained by the defendant and that defendant failed to provide proper warning of the danger at the work site. Defendant’s position is that it owed no duty to the plaintiff, and further, that the action is barred by the Landowners Liability Act, N. J. S. A. 2A:42A-2 et seq., under which this motion is brought. The pertinent statutes read in part as follows:
+N. J. S. A. 2A:42A-3
+An owner, lessee or occupant of premises, * * *' owes no duty to keep the premises safe for entry or use by others for sport and recreational activities, or to give warning of any hazardous condition of the land or in connection with the use of any structure or by reason of any activity on such premises to persons entering for such purposes * * *.
+and N. J. S. A. 2A:42A-2
+As used in this act “sport and recreational activities” means and includes : hunting, fishing, trapping, horseback riding, training of dogs, hiking, camping, picnicking, swimming, skating, skiing, sledding, tobogganing and any other outdoor sport, game and recreational activity including practice and instruction in any thereof.
+No New Jersey court has yet dealt with the scope of this legislative protection. The law of this State concerning injuries to infant trespassers has been that which was enunciated in the Restatement, Torts, § 334, which was adopted in Strang v. South Jersey Broadcasting Co., 9 N. J. 38 (1952). There the court stated that
+“[T]he general rule of liability covers in particular trespassing children of tender years who because of immaturity are wanting in the discretion and judgment essential to their own security. “Where trespass upon the land is foreseeable, and the condition involves an unreasonable risk of death or serious bodily injury to the trespassing child, the possessor of the land is liable, [at 45]
+The court continued in the Strang case to justify the policy as an exception to the common law rule of non-liability to trespassers. Specifically, the court pointed out:
+The doctrine represents a prudent and essential accommodation of the landowner’s right to the use of his land and society’s interest in the humane and the protection of the life and limb of its youth and the individual’s interest in personal security * * *. Human safety is of far greater concern than unrestricted freedom in the use of land.
+Forest Hill Field Club contends that the Legislature has overturned this line of cases by enacting 2A:42A-2 and 3. Defendant’s position is premised on the fact that the infant plaintiff came onto the premises while engaging in outdoor recreational activity. This the defendant theorizes is sufficient to bring the situation within the scope of control afforded by the act. In order to ascertain the correctness of this position it is necessary to first examine “legislative intent” of 2A :42A-2.
+The act in question (L. 1968, c. 73) replaced N. J. S. A. 2A:42A-1 originally enacted in 1962. The 1968 act was intended to broaden the former act which protected owners of agricultural land or woodlands from liability for injuries to hunters or fishermen. There is, however, nothing in the legislative history of the act to show that the Legislature intended it to apply to an infant trespasser. The most likely interpretation that could be placed on the act is that it was intended to protect the landowners from liability to sportsmen who come upon their property, be they licensees or trespassers. The original act limited the scope to hunters and fishermen, but the Legislature finding that to be inadequate in this day where people have more leisure time and various recreational activities abound, it enacted the more comprehensive law. Yet nowhere is there any indication that it should apply to the situation at hand. There is no legislative history, no statement attached to the bill as introduced, no- statement by the Governor when the bill was signed into law indicating an intent to substantially modify the line of cases from Strang, supra, to date.
+While the act in question does not alter the common law duty toward adult trespassers, it does alter the duty owed to licensees in that it reduces the owner’s obligations. In this respect it must be considered an exception to the growing tendency of courts to enlarge the landowner’s duty in respect to negligence. This act then being in derogation of common law must, therefore, be strictly construed. Foy v. Dayko, 82 N. J. Super. 8 (App. Div. 1964); Department of Labor and Industry v. Asbury Metropolitan Hotel Co., 80 N. J. Super. 486 (App. Div. 1963). In Jasiczek v. Penna. R. R., 90 N. J. Super. 380 (App. Div. 1966), a 14-year-old boy who was trespassing upon a train was injured when he came into contact with a low high-voltage line while trying to evade the brakeman who had seen him. The applicable statute, N. J. S. A. 48:12-152 reads in part:
+Any person injured by an engine or car while walking, standing or playing on a railroad or by jumping on or off a car while in motion shall be deemed to have contributed to the injury sustained and shall not recover therefor any damages from the comi>any owning or operating the railroad.
+The trial court had held the statute to bar the plaintiff’s claim, but the Appellate Division, in reversing, stated that “[t]he statute plainly speaks in terms of an injury by an engine or car.”
+The plaintiff here, according to the pleadings, was an infant trespasser in the typical sense of the Strang line of eases. He was age 3, lived near the defendant’s property, is known to have trespassed onto defendant’s property and fell into a dangerous excavation. These allegations hardly meet the definitions as to immunity provided by N. J. S. A. 2A:42A-2 et seq. Healing v. Security Steel Equipment Corp., 51 N. J. Super. 123 (App. Div. 1958).
+The motion for summary judgment is therefore denied.
