@@ -1,0 +1,42 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1986-05-06"
+citations: ["212 N.J. Super. 240"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT J. FURLONG, SR., GLEN E. MCDONOUGH, JR., HELEN MCDONOUGH, DOUGLAS K. ADAIR AND ROBERT R. TREMPE, PLAINTIFFS, v. ANDREW MANNING, MAYOR CECILE F. NORTON, AND THE BOROUGH COUNCIL OF THE BOROUGH OF SEA BRIGHT, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/212/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1878535
+cites_cases: ["132 N.J.Super. 283", "142 N.J.Super. 179", "17 N.J. 162", "176 N.J.Super. 78", "48 N.J.Super. 581", "68 N.J. 423", "73 N.J. 462"]
+---
+
+# Furlong v. Manning
+
+## Majority (MILBERG, A.J.S.C.)
+
+MILBERG, A.J.S.C.
+This is an action in lieu of prerogative writs challenging the appointment of Andrew B. Manning to the Borough Council of the Borough of Sea Bright.
+The Borough of Sea Bright is governed by a mayor and six-member borough council (hereinafter “council”). Since January 1, 1986, the council has been made up of three Democrats and three Republicans. The Mayor, Cecile F. Norton, is a Democrat.
+On February 4, 1986, Councilman Andrew B. Manning submitted his resignation to the borough clerk; with that, his seat became vacant by operation of law. N.J.S.A. 40A:16-3f.
+Pursuant to N.J.S.A. 40A:16-11, the governing body had 30 days to fill the vacancy with an appointee who was also a Democrat, since Manning was elected as a Democrat. If the governing body failed to fill the vacancy within the prescribed time, then, pursuant to N.J.S.A. 40A:16-3, the office would remain vacant for either the remainder of the term of the former office-holder or until an election and qualification of a successor.
+On February 20, 1986, Manning’s name was submitted to fill the vacancy created by his resignation. Upon motion of Councilman Furlong, a plaintiff herein, the nomination was tabled “until the next meeting.”
+The mayor then called a special meeting, which took place on February 26,1986, at 5:30 p.m. Due to the absence of the three Republican councilmen, there was an insufficient number to constitute a quorum. Accordingly, the mayor adjourned the meeting until Saturday, March 1, 1986, at 10:30 a.m. The meeting was scheduled for a Saturday in order to avoid any business commitments of the council members, as this was the asserted reason for the absence of the Republican members at the meeting of February 26.
+In attendance at the meeting of February 26 were representatives of the Asbury Park Press and the Red Bank Register. They were allegedly advised of the rescheduled date, time and purpose of the March 1 meeting. Both newspapers published articles concerning the meeting in their morning editions on Thursday, February 27, 1986—more than 48 hours before the meeting. Additionally, notice was posted in the usual place at the borough hall on the morning of February 27 (see affidavits of Mary Larson, Borough Clerk; and Patricia Kelly, Assistant Borough Clerk). It was also filed with the borough clerk.
+At the meeting of March 1, Councilman Furlong first questioned whether a notice of meeting was published in the Asbury Park Press and the Red Bank Register. Patricia Kelly, Assistant Borough Clerk, replied: “It was in the newspaper article of the Asbury Park Press and the Red Bank Register.” Furlong requested that the record reflect that the notice was not included in the “public notices.”
+Councilman Manning’s name was submitted and a roll call vote was taken. Council members in attendance voted 2-2 along party lines. The mayor, exercising her right under N.J.S.A. 40A:16-8, voted with the Democrats to approve Manning’s nomination, thus breaking the tie.
+On March 10, 1986, plaintiffs filed this action in lieu of prerogative writs seeking a judgment that Manning’s appointment is null and void for failure of the council to provide “adequate notice” under the Open Public Meetings Act, N.J. S.A. 10:4-6 et seq., (hereinafter “act”).
+N.J.S.A. 10:4-8d provides in pertinent part:
+Adequate notice means written advance notice of at least 48 hours, given the time, date, location and to the extent known, the agenda of any ... special, or rescheduled meeting, which notice shall accurately state whether formal action may or may not be taken and which shall be ... (2) mailed, telephoned, telegraphed or hand delivered to at least two newspapers which newspapers shall be designated by the public body to receive such notices____
+Except in certain stated situations, “no public body shall hold a meeting unless adequate notice thereof has been provided to the public.” N.J.S.A. 10:4-9(a).
+On the return date of an order to show cause why Manning’s appointment should not be declared null and void, I found that the testimony of Mayor Norton and Councilman Millen was required in order to resolve the allegation that the mayor told Millen “not to worry about attending [the] ‘adjourned’ meeting since ... they were not going to take any official action to fill the vacancy at [that] time.” Since Mayor Norton has been in ill health to date, the taking of her testimony has been adjourned indefinitely.
+I resolved, therefore, to settle the initial issue of whether a face-to-face communication is an acceptable manner of transmitting the required notice to newspapers under N.J.S.A. 10:4-8d.
+That section states that “written advance notice ... shall be ... (2) mailed, telephoned, telegraphed or hand-delivered to at least two newspapers____” Emphasis supplied.
+Plaintiffs contend that thé four modes of transmittal of the required notice set forth in N.J.S.A. 10:4-8d(2) are exclusive of any other manner of communication. Plaintiffs rely on the rule of statutory construction that, in determining whether an act is imperative or merely directory (permissive), there is a presumption that the word “shall” is used in an imperative and not a directory sense. See Union Terminal Cold Storage Co. v. Spence, 17 N.J. 162, 166 (1954); 1A Sutherland, Statutory Construction (4 ed. 1985) § 25.04, at 445, 446.
+The presumption, however, is not a conclusive one, and may be readily overcome within the context of the purpose of the legislation in which it appears. Franklin Estates v. Tp. of Edison, 142 N.J.Super. 179, 184 (App.Div.1976), aff’d 73 N.J. 462 (1977). Where a particular provision does not appear to be of the essence of the law, but rather relates to form and manner and is an incident thereof, the provision is directory and not imperative. See, e.g., Lakewood Tp. v. Block 251, Parcel 34, 48 N.J.Super. 581, 589 (App.Div.1958).
+The purpose of the Open Public Meetings Act is “to insure the right of [this State’s] citizens to have adequate advance notice of and the right to attend all meetings of public bodies at which any business affecting the public is discussed or acted upon” except in certain, defined circumstances. N.J. S.A. 10:4-7. “Adequate advance notice” is the “essence of the law,” Lakewood Tp. v. Block 251, Parcel 34, supra at 589; so long as the substantive requirements of “adequate notice” are met, and notice is communicated to the newspapers at least 48 hours prior to the scheduled meeting, Worts v. Upper Tp., 176 N.J.Super. 78, 81 (Ch.Div.1980), the mode in which notice was actually communicated is immaterial.
+To be sure, § 10:4-8d is at odds with itself in its provision that the required “written” notice may be “telephoned.” One cannot telephone the written word; one may only communicate the terms of the writing through the medium.
+Beyond this facial inconsistency, it is absurd to argue that a face-to-face communication is not as effective as a telephonic transmittal. It is a fundamental rule of statutory construction that statutory interpretations which lead to absurd or unreasonable results are to be avoided. Davis v. Heil, 132 N.J.Super. 283, 293 (App.Div.1974), aff’d 68 N.J. 423 (1975); Union Terminal Cold Storage, supra, 17 N.J. at 166.
+I find, therefore, that a face-to-face communication of notice to newspaper representatives is an acceptable mode of transmittal under the Open Public Meetings Act and is not repugnant to the purpose of the statute, namely, adequate advance notice.
+Counsel for defendants, Andrew Manning and the Borough Council of the Borough of Sea Bright, shall submit the appropriate order consistent with the within Opinion.
