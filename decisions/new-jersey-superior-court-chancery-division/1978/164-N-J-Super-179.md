@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1978-11-09"
+citations: ["164 N.J. Super. 179"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE ESTATE OF GERTRUDE AICH, DECEASED."]
+source_url: "https://static.case.law/nj-super/164/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 927365
+cites_cases: ["109 N. J. Super. 138", "124 N. J. Super. 481", "125 N. J. Super. 56", "157 N. J. Super. 279", "18 N. J. 229", "20 N. J. 228", "39 N. J. L. 543", "55 N. J. Eq. 759", "63 N. J. 569", "64 N. J. Eq. 313", "72 N. J. 229"]
+---
+
+# In re Estate of Aich
+
+## Majority (Ciolino, J. S. C.)
+
+Ciolino, J. S. C.
+This matter was commenced by order to show cause directing the Attorney General of New Jersey to demonstrate why administration upon the estate of Gertrude Aich, deceased, should not be granted by the Passaic County Surrogate.
+The facts are undisputed. Gertrude Aich died intestate in the City of Clifton on March 27, 1978. Her death was discovered by the Clifton police who arranged for the removal of her remains by Harold R. Kent of the Kent Funeral Home. Kent conducted the funeral and burial.
+Between March 27 and 31 the police conducted an inquiry to locate decedent’s next-of-kin. The inquiry was fruitless, and this finding was reported to Kent on March 31. On April 25, 1978 Kent, through his attorney, filed a complaint for general administration in the Passaic County Surrogate’s Court. Notice of the application was subsequently served on the Attorney General. On receipt of the notice the Attorney General began a kinship inquiry to determine whether the estate was properly subject to escheat and, if possible, to locate next-of-kin. To date the inquiry has been without result and is now being conducted into any collateral next-of-kin.
+Since it appeared that there would be a surplus remaining in the estate after payment of just debts, which surplus would pass to the State by escheat, the Attorney General filed a caveat against the grant of general administration and determined to invoke jurisdiction of the Chancery Division of the Superior Court pursuant to N. J. S. A. 2A:37 — 14, but has not yet done so “in deference to this Court.”
+On May 18, 1978 the surrogate, in his official capacity, filed a caveat against granting administration in the Chancery División. On the same date the surrogate sought, and was granted, an order to show cause why administration on the subject estate should not he granted by him.
+As of the return date of the order to show cause no complaint or petition for general administration had been filed with the Clerk of the Superior Court in Trenton. The only pleadings filed with this court are the caveat of the surrogate, the motion for order to show cause and the order to show cause itself.
+The Attorney ’ General contends that the surrogate lacks standing to commence the present action or to otherwise challenge the actions of the Attorney General relative to the subject estate. I agree with the position of the Attorney General.
+The surrogate is a judicial officer and holds a court in out existing judicial system. In re Conda, 72 N. J. 229, 233 (1977). His jurisdiction, however, is quite limited.
+The surrogate’s court is one of limited and special jurisdiction. Its jurisdiction is purely statutory, extending to the probate of wills, the granting of letters of administration, and to certain other statutory functions. Mellor v. Kaighn, 39 N. J. L. 543 (E & A 1916); 7 N. J. Practice (Clapp, Wills and Administration), § 1910. The surrogate lacks even the power to determine questions arising within the sphere of his responsibility. [In re Estate of Schumann, 125 N. J. Super. 56, 62 (App. Div. 1973), certif. den. 63 N. J. 569 (1973)]
+The jurisdiction of the surrogate or the surrogate’s court is limited to matters which are not in dispute or in doubt (N. J. S. A. 3A :2-5, 3A :2-3) ; and when a doubt or dispute does exist with regard to any matter before the surrogate, he loses jurisdiction and the issues are determined by the County Court. [In re Lemken, 124 N. J. Super. 481, 485 (Law Div. 1973)]
+When a caveat is filed or a dispute arises regarding an estate before the surrogate, that officer is expressly prohibited from taking any action in the matter. R. 4:84-1(d). Piling a caveat is one method of indicating that a dispute over administration does exist. 6 N. J. Practice (Clapp, Wills and Administration) (3 ed. 1962), § 702 at 273. See generally, In re Russell’s Estate, 64 N. J. Eq. 313 (Prerog. 1902); In re Booraem's Estate, 55 N. J. Eq. 759 (Prerog. 1897). One objecting to the grant of letters of administration must meet the same threshold requirement as an objector to the probate of a will. To file a caveat, one must be interested, one must be "pecuniarily aggrieved.” In re Myers’ Will, 20 N. J. 228 (1955); In re Holibugh's Will, 18 N. J. 229 (1955); 6 N. J. Practice (op. cit.), § 702 at 273; 5 N. J. Practice (op. cit.), § 120 at 212.
+The Attorney General, having filed a caveat against general administration of Aich’s estate, a "dispute” regarding that estate now exists. Under these circumstances the surrogate is precluded from taking further action with reference to Aich’s estate. Moreover, even if it were held that the caveat filed by the Attorney General did not bar further action by the surrogate, T am unable to discern any pecuniary interest which the surrogate has in the subject estate so as to permit him to file a caveat with the Superior Court. Purther, at this moment there is no request for administration in the Superior Court against which a caveat can be filed. Accordingly, for all of the aforesaid reasons, the surrogate has no standing to initiate the present matter.
+I recognize that, pursuant to N. J. S. A. 3A :6-4 and 11. 4:80-l,(a), the Chancery Division and the surrogate have concurrent jurisdiction in administration matters. However, I also recognize that administration proceedings ordinarily more properly belong before the County Court, in cases where the letters of administration are taken out before the surrogate. Keegan v. Edward J. Keegan Estate, 157 N. J. Super. 279, 284 (Ch. Div. 1978); Rogozinski v. Rogozinski, 109 N. J. Super. 138, 141-142 (Ch. Div. 1970).
+The Attorney General has protested against general administration of the estate of Aich by filing a caveat with the Passaic County Surrogate. A dispute over Aich’s estate exists and the surrogate’s hand is thus stayed. The appropriate forum for resolution of that dispute is the Passaic County Court. The action of the surrogate is dismissed.
