@@ -1,0 +1,42 @@
+---
+court: "New Jersey Division of Tax Appeals"
+decided: "1947-01-28"
+citations: ["25 N.J. Misc. 165"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE APPEAL OF THE TOWN OF MONTCLAIR v. THE KIMBERLY SCHOOL, FOR THE YEARS 1944, 1945 AND 1946."]
+source_url: "https://static.case.law/nj-misc/25/cases/0165-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 435450
+cites_cases: ["114 N. J. L. 594", "115 Atl. Rep. 342", "117 N. J. L. 113", "127 N. J. L. 105", "177 Atl. Rep. 875", "187 Atl. Rep. 36", "96 N. J. L. 334"]
+---
+
+# Appeal of the Town of Montclair v. Kimberly School
+
+## Majority (Conklin, Commissioner.)
+
+Conklin, Commissioner.
+The petitioner seeks to restore the assessment on the property of the Kimberly School, both real and personal, for the years 1944, 1945 and 1946. The Essex County Board of Taxation held that all the property is exempt from taxation under the provisions of R. S. 54:4-3.6; N. J. S. A. 54:4-3.6.
+It is the contention of the Town of Montclair that the respondent school does not meet the test for exemption, the test being whether the purposes and objects of the school claiming the exemption are fundamentally charitable or philanthropic. Dwight School v. State Board of Tax Appeals, 114 N. J. L. 594; 177 Atl. Rep. 875; affirmed, 117 N. J. L. 113; 187 Atl. Rep. 36.
+The Kimberly School rests its case on the decision of the Supreme Court case of Miss Fine’s School, reported in Princeton v. State Board, 96 N. J. L. 334; 115 Atl. Rep. 342, and Buxton Country Day School, Inc., v. Township of Millburn, 18 N. J. Mis. R. 443; 14 Atl. Rep. (2d) 269; and attempts to draw an analogy between the facts in those cases and the facts in the instant case.
+The applicable law to the ease wherein a private school claims exemption under R. S. 54:4—3.6; . N. J. S. A. 54:4-3.6, is concisely set forth in an opinion of the Supreme Court written by Mr. Justice Perskie in Trenton v. State Board of Tax Appeals, 127 N. J. L. 105; 21 Atl. Rep. (2d) 644, wherein it was set forth on page 106:
+“The right to * * * an exemption depends entirely upon the facts and circumstances of each particular case.
+“Since statutes granting exemption from taxation are in the nature of a ‘renunciation of sovereignty’ and are at war with the sound basic principle that the durden of taxation ought to fall equally upon all,’ they are most ‘strongly construed’ against those claiming exemption. Thus the facts and circumstances in each case must clearly and convincingly establish the right to exemption within the statute granting exemption, otherwise the general rule is invoked which subjects ‘all property to a just share of the public burdens.’ Otherwise stated, the proofs must be ‘free from fair doubt.’ The burden of proof is upon the claimant to establish the asserted right to exemption.”
+Thus a study of the proofs with a consideration of each fact presented is necessary.
+The Kimberly School of Montclair is a private school for boys and girls in the lower grades and for girls only in the higher grades. It is one of the well known college preparatory schools for girls in Essex County, ninety-two per cent, of its graduates entering college.
+It was founded by Mary K. Waring and Mary A. Jordan as a private school for girls around 1906. It grew in enrollment and reputation under their ownership. In 1940, they employed Miss Helen B. Mason as headmistress. At the time of her employment, and apparently before her employment, they discussed with her the advisability of the incorporation of the school.
+On page 7 of the transcript of testimony of Miss Waring taken before the County Board, and made a part of this record is the following:
+“Q. Who thought of having this corporation, Miss Waring? A. Miss Jordan and I thought of it as being incorporated. We thought that the time had gone by for the personally owned school. There are a great many advantages in being incorporated, and when we made our arrangements with the new headmistress we told her it was our purpose then to incorporate. That .was 1940 or. 1941.”
+The school was incorporated in March, 1941, under the provisions of R. S. 15 :1-1, et seq.; N. J. S. A. 15 :1-1, et seq. (“Corporations and Associations not for Profit”). In the same year the corporation entered into a lease of the buildings, grounds and equipment with the Misses Waring and Jordan and then it began operation of the school.
+Miss Waring, Miss Jordan and Mrs. Mason went on the board of trustees and Miss Waring was made chairman of the board. These services were without compensation. The other board members were chosen from graduates, parents of students and faculty.
+An amended charter was filed in May, 1944, which increased the number of trustees from seventeen to eighteen. Both certificates of incorporation provided that the net assets of the corporation upon dissolution of the corporation be not considered the property of the members, but bo distributed to another educational institution or institutions not incorporated for pecuniary profit as selected by the trustees; or if the trustees fail to act within a reasonable time, then those institutions in the same category as designated by the Chancellor of the State of Hew Jersey should be the recipients of the net assets.
+The corporation purchased the real and personal property of the school from the lessors in September, 1943, for the sum of $50,776. The terms of the sale provided that the corporation assume two bank mortgages in the sum of $10,395; pay to Miss Waring and Miss Jordan, jointly $2,381 in cash; and execute two identical bonds, one to Miss Waring and one to Miss Jordan of $19,000 each, by the terms of which it was agreed that the corporation was indebted to the amount of the sums mentioned and agreed to pay five per cent, interest on the loan, quarterly. These bonds were, secured by a purchase-money mortgage, the rate of amortization of which was partially controlled by the amount of the tuition fees collected by the school.
+Income from all sources for the year 1943 was $60,323.94. This included tuition, registration fees, books, lunches, endowments and gifts. Of this sum $56,062.07 was from tuition fees, $470 from registration fees, $1,093.71 from the sale of books, $1,342.39 from lunches, $303.70 from recess lunches, $758.41 from gifts, $190.26 from miscellaneous sources, and a net of $103.30 from endowment funds which had been turned over to the school at the time of its incorporation by the Misses Waring and Jordan.
+The expenses for the school year, including rental, taxes, amortization of mortgages, interest, salaries and all items necessary to operate a school such as this and totaled $57,522.86; which left an excess over income of $2,801.08.
+The amount of the salaries to be paid to the personnel of the school is left in the discretion of the headmistress. (Article III, paragraph 22 of the by-laws.)
+This is a private school and gives the student many advantages. The classes are small and have no more than twelve students to each teacher. Individual instruction and study supervision are stressed.
+Since the ownership of Miss Waring and Miss Jordan the salaries of the faculty and other employees have increased. The tuition charges have also increased.
+In the case of Princeton v. State Board, supra, $8,000 was raised by voluntary contribution as the result of the interest of an outside group. In the instant case there was no fund raising activity to purchase the school and enlarge it, but it appears that it was an effort emanating from the Misses Waring and Jordan, to incorporate and transfer the assets to the corporation.
+As the proofs do not indicate them to be “free from doubt” and as the respondent failed to carry the burden imposed upon it by law, and failed to prove clearly and convincingly that it operated, on October 1st, 1943, as a fundamentally charitable institution and not for profit it is not entitled to the exemption. Trenton v. State Board of Taxes and Assessment, surpa; Dwight School of Englewood, supra.
+The only proof of value is the assessment of Block G, Lot 80, land $5,900, improvements $83,000, personalty $1,500, total $30,400; and Block G, Lot 1, land $6,800, improvements $800, total $7,600; all for the years 1944, 1945 and 1946. Judgment accordingly.
