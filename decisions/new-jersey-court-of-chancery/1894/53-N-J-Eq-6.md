@@ -1,0 +1,38 @@
+---
+court: "New Jersey Court of Chancery"
+decided: "1894-10"
+citations: ["53 N.J. Eq. 6"]
+reporter: "nj-eq"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anna R. Ashton et al. v. George Wilkinson et al., executors of the will of John P. Wakeman, deceased."]
+source_url: "https://static.case.law/nj-eq/53/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 107858
+cites_cases: ["5 Paige 573"]
+---
+
+# Ashton v. Wilkinson
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+John P. "Wakeman died in December, 1891. In his will, admitted to probate in the same month, after directing the payment of his debts and funeral expenses, appointing executors and giving them power to sell his real estate, and giving the income of the entire estate to his wife for her life, he conferred this authority upon his wife:
+“ I hereby also authorize my said wife to convey by will in such manner and for such purpose as she may deem best the sum of fifty thousand dollars of my estate, which sum of fifty thousand dollars is in lieu of dower.”
+Then he disposed of the residue of his estate to others.
+By a codicil to the will he modified the provision for his wife by restricting the income she was to take to all the income from his estate, not exceeding five thousand dollars, the excess over that sum to be capitalized and go to the residue of the estate. He gave his wife certain chattels and the use of a house for her life, the executors not to have power to sell that house except with her consent in writing.
+These provisions he declared to be in lieu of dower.
+Then he proceeded:
+"Fifth. The amount which my said will authorized my wife to convey by her will is hereby reduced from fifty thousand dollars to thirty thousand dollars.”
+Then he gave and bequeathed eleven legacies, aggregating $13,000, to be paid “ without interest, within one year after the decease of my wife,” and made disposition of the residue of his estate to a number of persons named, share and share alike.
+Mrs. Wakeman died on the 3d of April, 1894. By,her will, admitted to probate in the same month, she exercised the power given to her to appoint distributees of $30,000 of her husband’s estate, dividing the fund into several portions.
+She never had possession of the $30,000, and expressly styled Jier appointments of it as out of her husband’s estate.
+The appointees now claim that they are entitled to be1 paid interest upon the sums .appointed to them respectively, from the date of the perfected appointment, that is, the probate of Mrs. Wakeman’s will.
+In behalf of the takers of the residue of the estate of Mr. Wakeman, it is argued that the intent of Mr. Wakeman that all legacies out of his estate paid within, a year from the death of his wife should b.e paid without interest, is manifested in his will. Their reliance is upon the provision for the payment of the eleven legacies within a year from his wife’s death, without interest, the argument being that such provision indicates a purpose to give his executors time to realize from the investments made to serve his wife’s life estate before any distribution.
+I think the provision demonstrates that the testator took into .consideration the. ability of his estate to presently, upon the probate of his wife’s will, meet the demands he had created against it, and, in order to relieve it, postponed the payment of the eleven legacies, and, by implication, the distribution of the residue. But I cannot infer from this provision that he postponed the demands which the exercise of the power conferred’ upon his wife would occasion. The very fact of his expressly defining a postponement, after consideration of the convenience of his estate, appears to exclude any but the clearest implication of other postponement, for we should assume that when he dealt with the subject of postponement he went as far as he intended to go. Indeed, for aught that appears to the contrary,, it may have been his intention to so provide that all demands should not come upon the executors at once. He may have thought that they could quickly realize from assets and pay the $30,000 .to be given by his wife, and then, within the year, provide for the $13,000 he gave in pecuniary legacies, and later, after .accounting, distribute the residue. '
+The general rule is that interest commences to run when the legacy is demandable. Executors have a year after their testator’s death to ascertain and. collect the assets and make payment Of general legacies, for the payment, of which n.o time is fixed in the will. After that year the legacy is demandable, andj 'according to the general rule, interest then commences to run. Wms. Ex. 1424; 2 Redf. Wills 466. If the legacy.be payable after the happening of a contingency, such as the death of a tenant for life, it is demandable when the contingency happens after a year from the testator’s, death, Laundy v. Williams, 2 P. Wms. 481; Bonham v. Bonham, 11 Stew. Eq. 419 ; Miller v. Philip, 5 Paige 573.
+In the application' of these rules to the present case, my. attention has been arrested by the decision in Tatham v. Drummond, 2 Hemm, & M. 262, where there was a fund held by trustees under a marriage settlement, subject to' thé wife’s power of appointment; by will upon, the happening'of a certain contingency, in which it was held that the rule that interest -did not"fun .upon legacies until the expiration of one year from the death of the testatrix, applied to the legacies she appointed out of the trust fund. It is suggested that the $30,000, over which Mrs. "Wake-man had the power of appointment, was situated similarly to this trust fund, and that, as in Tatham v. Drummond, a year from the death of the wife was allowed to the trustees, so here a year should be allowed to the executors of Mr. Wakeman from the death of Mrs. Wakeman.
+I think that case is distinguishable from this in the fact that there the question was as to the application of the rule that a year should be allowed for the payment, while here the question really is, not as to the application of that rule, but whether there shall be an addition .to it in the allowance of a second year.
+There the trust fund, in substance, stood1 as the wife’s own property, the trust being the means by which it was held foi her; and the court considered that the existence of. the trust should not defeat the application of. the rule that one year is allowed for the payment of legacies, although. the reason supporting the rule might not apply in its full vigor. ■ .
+In the present case, the will of Mr. Wakeman contemplated a fund of $30,000, which was to yield income during'the wife’s life and be ready against the uncertainty aft the time .of her death and the contingency of her appointing its payment. Because, as strong reason for granting a year after the wife’s death, as existed in Tatham v. Drummond, to justify the application of-thq riile that year is to be allowed, appeals, It is urged another year should be given in this case. Mr. Wakeman-s executors have already had the benefit of the rule applied in Tatham v. Drummond. More than a year has elapsed since his death, and all that time they have been facing the present emergency. Shall they be allowed a second year? As has been seen, it is not the rule to allow a second year where the legacy is payable upon the happening of a contingency. I do not find either authority or sufficient reason to justify such an allowance.
+The appointees should receive interest upon the sums appointed to them respectively, from the date of the probate of Mrs. Wakeman’s will to the dates of the payments of those several sums.
