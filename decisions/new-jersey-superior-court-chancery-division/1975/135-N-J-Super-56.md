@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1975-06-10"
+citations: ["135 N.J. Super. 56"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CATHERINE C. GOOD, PLAINTIFF, v. ALLEN H. GOOD, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/135/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 300088
+cites_cases: ["109 N. J. Super. 287", "125 N. J. Eq. 272", "66 N. J. Eq. 231", "66 N. J. Super. 277", "70 N. J. Super. 266", "91 N. J. Eq. 464", "94 N. J. Eq. 703"]
+---
+
+# Good v. Good
+
+## Majority (McKenzi, J. C. C.,)
+
+McKenzi, J. C. C.,
+Temporarily Assigned. The parties were married April 25, 1959. Two children, both still un-emancipated, were born of the marriage. Within the past few years defendant commenced staying out late. Differences developed and.tensions mounted until about October 1973, when after an argument he stated he wanted a divorce. 'She suggested that they consult a marriage counselor. He, interested in another woman, declined. When she became convinced that he was so involved and was adamant in pressing for a divorce, she felt embarrassed and humiliated by his continuing presence in the marital home.
+Accordingly, they agreed that under the circumstances it would be best for both of them that he move from their residence, and he did so on September 23, 1973.
+The question presented, and not yet decided in any reported opinion in any courts since- the Divorce Law was amended in 1971, is whether under such circumstances the husband is guilty of a desertion.
+Under N. J. 8. A. 2A:34^2(b), the previous description of the desertion cause of action was: “willful, continued and obstinate desertion for the term of 2 [two] years.” Under the prior law consent of plaintiff to the separation negated obstinacy, and the desertion cause of action for divorce was not sustained. Howes v. Howes, 125 N. J. Eq. 272 (E. & A. 1939); Dowling v. Dowling, 91 N. J. Eq. 464 (Ch. 1920).
+Since the 1971 revision the desertion cause of action is described as: “willful and continued desertion for the term of 12 or more months, which may be established by satisfactory proof that the parties have ceased to cohabit as man and wife.”
+Aside from reduction in the time period, the principal change in this cause of action is the omission of the requirement that the desertion be obstinate — that is, against the will of the deserted part. See Stover v. Stover, 94 N. J. Eq. 703 (Ch. 1923); Howes v. Howes, supra.
+However, under our prior law obstinacy on the part of defendant was not construed to require in all cases that plaintiff be actually opposed to the separation of the parties. A separation brought about by the marital fault (such as adultery or extreme cruelty) of defendant was construed to be a desertion on his part, although the actual separation may have been taking place at the will of plaintiff. See Gutmann v. Gutmann, 70 N. J. Super. 266 (App. Div. 1961); Fitzgerald v. Fitzgerald, 66 N. J. Super. 277 (Ch. Div. 1961). Also, the offended spouse had the right to require as a condition of marital cohabitation that defendant desist from future offensive conduct. See Wilson v. Wilson, 66 N. J. Eq. 231 (Ch. 1904). An additional modification of the obstinacy requirement was recognized where, although plaintiff was the one who actually left the home, it was nevertheless clear that the cessation of marital relations was caused by defendant’s intent not to cohabit, established before the parties separated. See Jacobs v. Jacobs, 109 N. J. Super. 287 (App. Div. 1970).
+The Divorce Law Study Commission, in commenting on their recommended deletion of the requirement that the desertion be “obstinate,” found no apparent reason for retention of this “quaint” requirement, stating that “willful” was an adequate adjective to describe the requisite intent óf defendant. Divorce Law Study Commission, Final Report to the Governor and Legislature, May 11, 1970, at 65-66.
+Clearly the Legislature, in adopting the recommendation of the Divorce Law Study Commission, restricted the focus on intent to that of defendant alone. No longer need defendant’s leaving be contrary to plaintiff’s wishes. However, since it also adopted the recommendation of the Commission in creating a new cause of action based on separation without regard to fault, N. J. S. A. 2A:34-2(d), it is also clear that, something more than a voluntary departure by defendant from the marital home must be shown to find him guilty of the fault cause of action of desertion. To hold otherwise would subject the party leaving the matrimonial home as a result of a consensual separation to a charge of desertion. Such was not the intent of the Legislature.
+A “willful” act is one which is intentional or voluntary. But the primary definition has been given as “bent on having one’s own way; headstrong.” Eunk & Wagnall’s Standard Desh Dictionary, (1966). Erom the foregoing, the latter appears to be the construction intended by the Legislature, and this court so holds. '
+That is, where defendant, from his statements and conduct, is found to have acted upon a fixed determination to put an end to the marital relationship, regardless of the desires or intentions of plaintiff, the fact that plaintiff acquiesces or even expressly concurs in that determination does not bar plaintiff from succeeding on a desertion cause of action. In view of the prevailing philosophy undergirding our present Divorce Law, much of which is embodied in the report of the Divorce Law Study Commission previously referred to, volenti non fit infuria no longer seems to be a viable concept in this area of the law. Put simply, plaintiff has the right to say, “Good riddance!”
+Applying the foregoing to the facts in the instant case, the court is satisfied that the requirement of “willfulness” under 'our' statute has 'been met. Although plaintiff joined in the decision that defendant should leave the matrimonial home, she did so only after it became clear that defendant was firm in his intent to dissolve the marital relationship. The breakup of the marriage can be attributed only to him. To hold that her agreement that he should leave under such circumstances deprives her of a fault cause of action, and relegate her to only the nonfault ground of separation for relief, would be patently unfair and would ignore the actualities of the case.
+A judgment for divorce will be entered accordingly.
