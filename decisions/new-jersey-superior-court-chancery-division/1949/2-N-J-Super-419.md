@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1949-02-25"
+citations: ["2 N.J. Super. 419"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SONOTONE CORPORATION, A CORPORATION OF THE STATE OF NEW YORK, PLAINTIFF, v. WILLIAM ELLIS, ALSO KNOWN AS WILLIAM SOCORELIS, MARIA EVA ELLIS AND BERTHA MacLEAN, DEPENDANTS."]
+source_url: "https://static.case.law/nj-super/2/cases/0419-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 368526
+cites_cases: ["38 N. J. Eq. 219", "58 N. J. Eq. 507", "66 N. J. L. 253", "76 N. J. L. 613"]
+---
+
+# Sonotone Corp. v. Ellis
+
+## Majority (Grimshaw, J. S. C.)
+
+Grimshaw, J. S. C.
+This is an application for an interlocutory injunction.
+The plaintiff is a manufacturer of hearing aids. The defendant, William Ellis, was for some time employed by the plaintiff as a salesman. On April 15, 1947, defendant, William Ellis, executed with the plaintiff an employment contract, under the terms of which he became “Consultant Manager” for the plaintiff in an area, within the State of New Jersey, specifically set forth in paragraph one of the contract and referred to as defendant’s “territory.” This “territory” was subsequently enlarged by a rider attached -to the contract dated April 1, 1948. Among other provisions the contract contains two as follows:
+“38. Upon the expiration or the termination of this contract from any cause whatsoever, Manager agrees that he will not engage directly or indirectly in the business of manufacturing and/or selling any products or devices of the kind or similar to the products or devices at such time being manufactured and sold by Manufacturer or in any way engage in competition with the Manufacturer or any agents or Managers of the Manufacturer, either directly or indirectly as principal or as agent or employee, in the Territory and within an area extending fifty (50) miles on every side thereof, during a period of twelve (12) months from the date of termination or expiration.”
+“42. This contract shall be governed by the laws of the State of New York, both as to interpretation and performance. Any difference, dispute or controversy arising between the parties with respect to this contract or performance hereunder, shall be settled by arbitration in accordance with the provisions of the Arbitration Laws of the State of New York and the award rendered in such arbitration shall be enforceable in any court of competent jurisdiction.”
+On November 6, 1948, defendant, William Ellis, resigned liis position as -consultant manager of plaintiff’s office in the territory set forth in the contract. The resignation was effective on December 6, 1948. Since the latter date, defendant has been engaged in the business of -selling the products of a competitor of the plaintiff. Ellis and -the defendant, Bertha MacLean, as his employee, have been soliciting the business of the customers of the plaintiff for the benefit of the -competitor of the plaintiff and in such -solicitation has used lists compiled by the plaintiff or for the benefit of the plaintiff. Plaintiff seeks the aid of this Court.
+The contract in question is one which is in partial restraint of trade. As such it is not objectionable to public policy unless it goes further -th-an i-s reasonably necessary for the protection of plaintiff’s business or the restraint is so great as to interfere with the interests of the public. It is to be a-ssumed that the parties intended to make a valid contract. It is to bcassumed also that they intended to provide a restraint which .would protect the business of the plaintiff while at the same time not offending against the public policy of the State. By the terms of the agreement, defendant promised not to engage in a competitive business within the “territory” described in the contract and also within -an area extending 50 miles on every side of the territory. It is plain that the area within which the contract restrains the defendant is a divisible one embracing two areas. So far as the contract -seeks to restrain the defendant within the territory, it is reasonable. So far as -it seeks to restrain the defendant within the 50-mile area outside the “territory” it is unreasonable. To the extent, ¡then, that the restraint is reasonable, it will be enforced. Fleckenstein Brothers Co. v. Fleckenstein, 76 N. J. L. 613; Trenton Potteries Co. v. Oliphant, 58 N. J. Eq. 507.
+The defendants argue that by reason of the provisions of paragraph 42 of the -contract set forth above I am bound to follow the decisions of the Courts of New York in reaching a determination of the motion. I do not agree with them. The contract was to be performed in the State of New Jersey. Being in -partial restraint of trade, to be valid it must not be in conflict with the public policy of the State of New jersey. And the decision as to whether -the contract violates the public policy of this State is a matter for determination by the -courts of this State. Flagg v. Baldwin, 38 N. J. Eq. 219; Thompson v. Taylor, 66 N. J. L. 253.
+Defendants also insist that the controversy -should be submitted to arbitration under the provisions of paragraph 42 of the contract. In my opinion, those -provisions have no applicability to the situation here presented. There has been an admitted violation of a covenant of the contract as a result of which the plaintiff is threatened with irreparable injury. It is entitled to protection pending final hearing.
+There will be an interlocutory injunction.
