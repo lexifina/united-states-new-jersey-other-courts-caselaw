@@ -1,0 +1,29 @@
+---
+court: "Hudson County Court"
+decided: "1951-12-19"
+citations: ["17 N.J. Super. 180"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELIZABETH COOPER, PLAINTIFF, v. THOMAS JETER, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/17/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 427692
+cites_cases: ["100 F. Supp. 83", "12 N. J. Super. 356", "333 U. S. 472", "99 F. Supp. 102"]
+---
+
+# Cooper v. Jeter
+
+## Majority (Deeweít, J. C. C.)
+
+Deeweít, J. C. C.
+Upon plaintiff’s motion for summary judgment herein I have examined the pleadings and proofs and considered the briefs submitted. Pursuant to Rule 3:56 I find the following facts to be without substantial controversy and that they are not in good faith controverted by defendant, viz.: (a) that defendant was the landlord of plaintiff; (b) that defendant did not comply with the refunding order; and (c) that all other factual matters in issue necessary for the proof of plaintiff’s case, save those hereinafter indicated, have not been substantially or in good faith controverted by defendant.
+The factual issues which I reserve for determination by a jury are whether defendant’s violation of the federal act in failing to comply with the refunding order was willful, and whether the violation was the result of failure to take practicable precautions against its occurrence.
+Accordingly, the trial will be limited to proof on the two issues last stated, and the jury will be instructed inter alia that its verdict must be for plaintiff in the sum of $743.60 in the event that defendant proves by the preponderance of credible evidence that the violation was not willful and not the result of failure to take the precautions aforesaid; and that its verdict must be in favor of the plaintiff in the sum of $2,230.80 in the event that defendant fails to make such proof.
+Counsel have argued.the statute of limitations in relation to this motion. It is my holding in that regard that the defense of the statute of limitations does not apply. See Woods v. Stone, 333 U. S. 472 (1948) and DeMosse v. Shimmel, 12 N. J. Super. 356 (Cty. Ct. 1951).
+My reasons for restricting the summary judgment to the actual amount of the ordered refund, and reserving the penalty asked .by plaintiff in the sum of $2,230.80, are these. The statutory provision is that defendant can save the penalty if he “proves that the violation was neither willful nor the result of failure to take practicable precautions against the occurrence of the violation.” 50 U. S. C. A. Appendix, § 1895. The penalty we are dealing with is one designedly harsh. I doubt, sufficiently to deny, that Rule 3:56 was intended to authorize summary judgment in circumstances like these. The margin of discretion it allows in its qualification of the controversy upon whose absence its effect is predicated, as “substantial” and as being “in good faith,” appears to me to indicate its present inapplicability. It is one thing to say that a controversy is or is not substantial when it concerns some utterly objective fact like a charge or payment of money in a given sum or on a given date, but quite another when it concerns a matter of subjective moral import like willfulness ox good faith. Unless it is stultified by unmistakable admissions or similarly precluding facts, the mere affirmation of good faith is ordinarily enough to put it in issue. Also with respect to “practicable precautions,” a variable and relative factor in any case, what under all the circumstances is a sufficiently practicable precaution, and by whose j udgment is it to be so appraised ? Are these questions so far beyond dispute that it is for the court alone, as matter of law, summarily to provide the answers, more especially when it is a harsh penalty that depends upon the answers given ? I think not.
+Defendant relies mainly on the grant of summary judgment in United States v. Natale, 100 Fed. Supp. 82 (D. C. Conn 1951). The difference is that there the issue of willfulness was not raised, as the court points out. From the opinion, 99 F. Supp. 102, at page 104: “The defendant here has not intimated in any way that his refusal to refund the overcharge was not willful. He has not alleged this in his answer nor asserted it by way of affidavit. And there is no mention of it by way of brief.” And on the motion to reopen the judgment the court said: “* * * to resist summary judgment for treble damages the issue must at least be raised. This has not been done here, and * * * treble damages are therefore mandatory.” [100 F. Supp. 83.]
+Plaintiff contends further that the saving proviso of the act has not been properly pleaded. True, the pleading is inept, the wording of the defense is imprecise. The meaning, however, is unmistakable. Plaintiff’s attorney is as fully aware of what is intended by the pleading in its present form as of what is required to perfect it. His very contention proves this. In any case, the point imposes too nice an exaction where the contingency is the summary imposition of triple damages.
+It appears that the subject premises were not registered, and plaintiff argues that this in itself is evidence of willfulness, citing Proy v. Boyd, 76 N. Y. Supp. 2d 287 (Cty. Ct. 1948). The case does not hold that failure to register is, as matter of law, conclusive evidence of willfulness on a summary motion for triple damages.
+Whether, in spite of his averments, defendant’s case is factually deficient in law will undoubtedly be made to appear upon the trial. If it does so appear, the question can be properly dealt with by the court at that time. A decision for the penalty now, upon the papers only, would be all too summary, in my judgment.
+Let an order be submitted in accordance with the foregoing.
