@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1977-04-07"
+citations: ["149 N.J. Super. 170"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BELINDA PANZERA, PLAINTIFF, v. K. E. K. REALTY CO., A N. J. CORPORATION, KAMPELMAN PROPERTIES, INC., A N. J. CORPORATION, HARRY KAMPELMAN, MARTIN STREILLI AND LENA STREILLI, H/W, GEORGE P. KLEMM AND KATHERINE E. KLEMM, H/W, SEBASTIAN FERSCH AND ELIZABETH FERSCH, H/W, AND THE STATE OF NEW JERSEY, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/149/cases/0170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 310619
+cites_cases: ["101 N. J. Eq. 561", "54 N. J. Eq. 519", "55 N. J. Eq. 822"]
+---
+
+# Panzera v. K. E. K. Realty Co.
+
+## Majority (Ciolino, J. S. C.)
+
+Ciolino, J. S. C.
+This case is presented to the court on cross-motions for summary judgment by plaintiff Belinda Panzera (Panzera), defendants Martin and Lena Streilli (Streilli) and defendants George P. and Katherine E. Klemm (Klemm). The question posed is: Does a vendor’s purchase money mortgage enjoy a special priority over completed mortgage transactions which antedate the vendor’s simultaneous conveyance of title and the purchase money mortgage, when the antedated mortgages are recorded after recordation of the deed and prior to recordation of the purchase money mortgage?
+The undisputed facts are as follows: On October 20, 1975, before it obtained title to the mortgaged premises, K.E.K. Realty Co. (K.E.K.) executed a mortgage to Panzera securing $15,000. This mortgage was recorded in Passaic County on November 10, 1975 and contained a recital that it was a purchase money mortgage. On November 1, 1975, K.E.K. executed a mortgage to Streilli, securing $10,000, and this mortgage was also recorded in Passaic County on November 10, 1975, after the Panzera mortgage. On November 1, 1975 title to the mortgaged premises was conveyed to K.E.K. by deed from Klemm reciting consideration of $18,000. Simultaneously with this conveyance, K.E.K. executed a purchase money mortgage to Klemm to secure the $15,000 balance due on the purchase price. This deed from Klemm to K.E.K. was recorded in Passaic County on November 7, 1975. The mortgage executed by K.E.K. to Klemm was recorded November 14, 1975.
+Panzera and Streilli urge their priorities under the recording statute, N. J. S. A. 46:22-1. Klemms’ position is that their purchase money mortgage, given simultaneously with conveyance of title, and before recordation of the Panzera and Streilli mortgages, is a first mortgage, and that this favored position was not lost by late recording. I am satisfied that the lien of a vendor’s purchase money mortgagee is prior to the lien of mortgages executed by the purchaser before he acquired title to the land.
+In Protection B. & L. Ass’n v. Knowles, 54 N. J. Eq. 519 (Ch. 1896), aff’d o. b. 55 N. J. Eq. 822 (E. & A. 1896), $1,000 of a $2,500 mortgage loan was advanced by plaintiff mortgagee a day or two before the mortgagor acquired title to the land to be subject to the mortgage lien, to enable the mortgagor to acquire title. The remainder was advanced after title was transferred to the mortgagor. This mortgage was recorded- in advance of the vendor’s purchase money mortgage and after the transfer of title. The court found plaintiff’s mortgage to be a prior lien as to the $1,500 loaned after the mortgagor received title, but subordinate to the vendor’s mortgage as to the $1,000 advanced before the mortgagor’s acquisition of title.
+In this case Panzera and Streilli stand in the shoes of plaintiff in Protection B. & L. Ass’n as to monies advanced before the mortgagor’s acquisition of title. Clearly, the Klemm mortgage is a purchase money mortgage because it was given to secure Klemms’ extension of credit to K.E.K., to enable K.E.K. to purchase Klemms’ property. Therefore, the Panzera and Streilli mortgages are subordinate to the Klemm purchase money mortgage. See also East Rutherford S. L. & B. Ass’n v. Neblo, 101 N. J. Eq. 561 (Ch. 1927).
+No fact has been presented to indicate that Klemm knew of the prior Streilli and Panzera mortgages. Thus, the question of an estoppel or an equitable mortgage is not presented.
+The recording statute, N. J. S. A. 46:22-l, upon which Panzera and Streilli rely, provides:
+Every deed or instrument of the nature or description set forth in section 46:16-1 of this title shall, until duly recorded or lodged for record in the Office of the County Recording Officer in which the affected real estate or other property is situate, be void and of no effect against subsequent judgment creditors without notice, and against all subsequent bona fide purchasers and mortgagees for valuable consideration, not having notice thereof, whose deed shall have been first duly recorded or whose mortgage shall have been first duly recorded or registered; but any such deed or instrument shall be valid and operative, although not recorded, except as against such subsequent judgment creditors, purchasers and mortgagees.
+However, under the factual pattern presented, failure of the vendor to record his purchase money mortgage does not affect his priority. The language of N. J. S. A. 46:22-l speaks to “subsequent” claimants. Accordingly, the requirement of recording first does not apply to Elemms’ purchase money mortgage as against the claims of Panzera and Streilli which antedate the conveyance of title. Of course, under the recording statute, failure to record a purchase money mortgage will make it void as against all subsequent mortgagees for value who record first. But, this circumstance is not presented here.
+For the reasons stated I find the priorities to be as follows : Klemm first, Panzera second and Streilli third.
