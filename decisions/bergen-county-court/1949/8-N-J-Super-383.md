@@ -1,0 +1,31 @@
+---
+court: "Bergen County Court"
+decided: "1949-12-13"
+citations: ["8 N.J. Super. 383"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, v. EDITH LILLIAN PARIS, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/8/cases/0383-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 358522
+cites_cases: ["146 U. S. 314", "45 N. J. L. 347", "46 N. J. L. 112", "62 N. J. L. 666", "66 N. J. L. 601", "92 N. J. L. 436"]
+---
+
+# State v. Paris
+
+## Majority (Del Mar, J. C. C.)
+
+Del Mar, J. C. C.
+The defendant has been indicted for murder. The indictment is in the usxral form. To this she has offered to plead "Non vull to murder in the second degree.” Quere — -does this plea, if accepted, prevent the court from imposing a life sentence?
+At common law there were no degrees of murder. In this State murder was first defined by degrees in P. L. 1838, p. 182, by which statute three degrees were established and which later, by the revision of 1846, were reduced to two, and it was then provided that upon conviction on confession in open court, the court should proceed by examination of witnesses to determine the degree of the crime and give sentence accordingly. The constitutionality of this statute was upheld in Hallinger v. Davis, 146 U. S. 314, decided November 28, 1892, in which case the defendant was sentenced to be hanged by the court on his confession and after examination of the witnesses as provided in the statute. At the very next session of the Legislature, undoubtedly as a result of the Hallinger case, the power of the court to inflict capital punishment upon the confession of the defendant was abolished (see P. L. 1893, p. 82) and it was provided that on a plea of non vult the punishment was to he limited to that imposed upon a conviction of murder in the second degree. This act was incorporated as Section 10?, P. L. 1898, p. 825.
+By P. L. 191?, p. 801, it was provided that upon the acceptance of a plea of non vull or nolo contendere the sentence to be imposed "shall be either imprisonment at hard labor for life or the same as that imposed upon a conviction of murder in the second degree.” and so stands the law at this time. Bee B. S. 2 :188-3.
+Tlie indictment in this case is in the statutory form. It charges murder, hut; not murder in any particular degree, for what was murder at common law is still murder and the only reason for the statutory division into first or second degree is with a view to a difference in the punishment. Graves v. State, 45 N. J. L. 347, at p. 358.
+“The statute did not make murder of the first degree a separate and distinct crime from murder of the second, but murder of each grade, afier the passage of the statute, continued to be, as it had theretofore boon, the crime of murder. The indictment in the statutory form is for the crime of murder, without regard to the degree. * * * The offense for which he is called to answer is charged in the indictment. It is murder.” Graves v. State, 45 N. J. L. 347, at p. 358 (E. & A.) ; Brown v. State, 62 N. J. L. 666 (E. & A.).
+Formerly if the plea was accepted by the court, the punishment was to be the same as upon conviction of murder in the second degree. The addition of the words "either imprisonment at hard labor for life” did not alter the right of an accused from one of grace to that of an absolute privilege. State v. Martin, 92 N. J. L. 436, at p. 438. The added words relate only to the penalty flowing from the acceptance of such a plea, and "merely enlarge the discretionary power of the court as to character of punishment.” Ibid.
+Can this discretionary power of the court granted by the Legislature he curtailed by a defendant whose power to plead non, vult or nolo contendere is simply one of grace? I think not.
+A plea of nolo contendere is an implied confession of tile crime of which the defendant is charged with committing. 1 Burn’s Justice 388; 2 Hawkins P. C. 225; Peacock v. Hudson Quarter Sessions, 46 N. J. L. 112; State v. Henson, 66 N. J. L. 601 at p. 609 (E. & A.).
+The defendant before the bar is charged with murder, not any particular degree thereof. A plea of non vult, therefore, is an implied confession of guilt upon which by legislative fiat the court has a discretionary power of punishment which the defendant cannot curtail by any qualification of the plea, such qualification being unknown to the common law and not having legislative sanction. By such plea no issue is raised and, therefore, none has been joined. Hallinger v. Davis, supra.
+Is the plea now offered, to wit, “non vult to murder in the second degree” to have the effect of preventing the court from imposing a sentence for life? If it is, I think its illegality has been demonstrated. If not, as I conceive it to be, then the addition of the words “murder in the second degree” has no effect at all.
+Fortunately, in this case the circumstances surrounding the murder do not, in my opinion, warrant a life sentence and I do not think that upon a review the upper courts would upon the imposition of a sentence not exceeding thirty years pérmit the defendant to successfully attack the judgment by reason of such irregularity in the plea.
+In the defendant's brief it is contended that the present Rule 2:4^10 “distinguishes the crime of murder in the first degree from all other crimes, including murder in the second degree.” I do not so interpret the rule. The rule provides that “A criminal offense punishable by death shall be prosecuted by indictment.” Murder is such a crime. So is treason (see R. S. 2:173-1). So, sometimes, is kidnapping (see R. S. 2:143-1). Under the law as it now stands in this State, upon trial of a murder indictment, it cannot be known until the return of the jurj^'s verdict whether a person convicted of murder shall suffer capital punishment. The cited rule obviously refers to all crimes for the commission of which a defendant might be punished by death. Consequently, the crime oí murder cannot successfully be charged except by indictment, the degree of the crime being fixed by the jury upon conviction.
