@@ -1,0 +1,25 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1949-02-10"
+citations: ["2 N.J. Super. 359"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PETER FRANCO, ET ALS., PLAINTIFFS, v. HAROLD E. DE VOURSNEY, SR., ET ALS., DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/2/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 368386
+cites_cases: ["100 N. J. Eq. 315", "108 N. J. Eq. 114", "108 N. J. Eq. 558", "109 N. J. Eq. 1", "111 N. J. Eq. 342", "111 N. J. Eq. 390", "44 N. J. Eq. 513", "77 N. J. Eq. 537"]
+---
+
+# Franco v. De Voursney
+
+## Majority (Freund, J. S. C.)
+
+Freund, J. S. C.
+This action is brought by plaintiffs to' rescind the sale of a lakeside bungalow, because of the misrepresentation by defendant vendors that ownership of the property carried with it lake privileges, domestic water supply and the right to membership in a community club which owns the lake and water facilities.
+No formal contract of sale and was entered into, but early in June, 1946, the plaintiffs made a down payment. Several days later, the balance of the purchase price was paid and a deed delivered to the plaintiffs* who took possession of the property on June 29, 1946. On July 7, 1946, the plaintiffs were told by the club officers that they would have to apply for membership in the club. That same day they filed their application and the following day the club notified -them by letter that their application had been rejected and accordingly lake and club privileges would be denied to them.
+Plaintiffs testified that they promptly advised defendants of these developments and demanded the return of the purchase price and that defendants promised to take back the property. After remonstrating unsuccessfully with the club officers in an attempt to have plaintiffs accepted as members, defendants, on July 21st and again on July 28th, refused plaintiffs’ demand to take back the property. Early in August, the domestic water supply was shut off, so that plaintiffs had no water and neither lake or club privileges. However, the complaint in this proceeding was not filed until March 5, 1948, over a year and a half after the discovery of the alleged fraud.
+I am in large measure inclined to believe plaintiffs’ version of the transaction- — that they were induced to purchase the property on misrepresentations made by defendants regarding the lake privileges, domestic water supply and membership in the club, without which they would not have bought. However, the plaintiffs, having discovered the fraud and having been refused the return of the purchase price, delayed instituting a suit for over a year and a half — a period of time which all the cases hold to be a bar to rescission. Where fraud has been committed and the fraud discovered, the failure to take advantage of available remedies with diligence and promptitude is generally regarded as an acquiescence and a bar to any equitable relief. Dennis v. Jones, 44 N. J. Eq. 513 (E. & A. 1888). Furthermore, the plaintiffs continued to occupy the. property at least for occasional weekends during 1946, 1947 and 1948. Under such circumstances, the failure to institute suit and the occupancy of the premises after the discovery of the fraud “afforded plenary proof of an election not to rescind * * * to which conclusive effect should be given.” Faulkner v. Wassmer, 77 N. J. Eq. 537 (E. & A. 1910), where a delay of four months was held a bar. In Berger v. Harrison Improvement Co., 108 N. J. Eq. 558 (Ch. 1931), five months was held to be a bar; in Kaufhold v. Cador Construction Co., 109 N. J. Eq. 1 (Ch. 1931), six months was so held; and in the two cases of Maioran v. Calabrese, 100 N. J. Eq. 315 (E. & A. 1926) and Snyder v. Czerminski, 108 N. J. Eq. 114 (Ch. 1931), eight months’ delay constituted a bar to rescission.
+In Kazepis v. North Jersey Holding Co., 111 N. J. Eq. 342 (E. & A. 1932), the facts were somewhat similar to those in the instant case, in that the plaintiffs placed the matter in the hands of an attorney who demanded rescission, but suit was not brought until a year after the discovery of the fraud. The Court held “This is fatal to the right or remedy of rescission. The defrauded party to a contract has but one election to rescind, which he must exerJise with reasonable promptitude after the discovery of the fraud, and, when he once elects, he must abide by his decision. (Cases cited.) The learned vice-chancellor * * * fell into the error pointed out by Mr. Justice Garrison, in Faulkner v. Wassmer (supra), * * * ‘in testing the complainant’s right to elect solely by the doctrine of laches * * * Dennis v. Jones was decided not upon the quasi-estoppel that is involved in the doctrine of laches, but, upon an entirely different ground, viz., that of conduct-evidence.’ ” To the same effect is The Pennsylvania Co. v. Bodek, 111 N. J. Eq. 390 (E. & A. 1932).
+The complaint will be dismissed.
