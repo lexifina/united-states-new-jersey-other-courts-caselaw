@@ -1,7 +1,8 @@
 ---
 court: "New Jersey Court of Chancery"
 decided: "1884-10"
-citations: ["39 N.J. Eq. 3", "39 N.J. Eq. 20"]
+decided_precision: "month"
+citations: ["39 N.J. Eq. 3"]
 reporter: "nj-eq"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Anna V. Cary v. George Cary."]
 source_url: "https://static.case.law/nj-eq/39/cases/0003-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 780821
-cites_cases: ["1 Johns. Ch. 364", "1 Paige 629", "10 Abb. Pr. 422", "10 Barb. 46", "15 Barb. 399", "2 Md. Ch. 326", "2 Stew. & P. 361", "2 Stock 138", "21 Conn. 199", "23 Ga. 480", "23 Wis. 483", "26 Ind. 451", "28 Wis. 245", "3 Edw. Ch. 231", "3 Johns. Ch. 75", "3 Scam. 68", "36 Ga. 571", "54 Barb. 212", "59 Ind. 254", "6 Blackf. 420", "6 Phila. 11", "67 Ga. 329", "7 Hun. 313", "8 Ga. 295", "86 Ill. 152"]
+cites_cases: ["10 Abb. Pr. 422", "26 Ind. 451", "28 Wis. 245", "3 Edw. Ch. 231", "3 Scam. 68", "54 Barb. 212", "6 Blackf. 420", "67 Ga. 329", "7 Hun. 313", "8 Ga. 295", "86 Ill. 152"]
 ---
 
 # Cary v. Cary
