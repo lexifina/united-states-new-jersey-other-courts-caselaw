@@ -1,0 +1,36 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1957-04-04"
+citations: ["44 N.J. Super. 450"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ISADORE PLEVY, MORRIS PLEVY, AND LEO PLEVY, PARTNERS TRADING AS SCHTILLER & PLEVY, PLAINTIFFS, v. EDGAR F. SCHAEDEL AND WILLIAM A. SCHAEDEL, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/44/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 430763
+cites_cases: ["24 N. J. Super. 143", "288 N. Y. 452", "390 N. Y. 611", "45 N. E. 2d 486", "48 N. E. 2d 709"]
+---
+
+# Plevy v. Schaedel
+
+## Majority (Waugh, J. S. C.)
+
+Waugh, J. S. C.
+The sole question to be decided in this case is whether or not N. J. S. 2A :102 — 10 creates a civil remedy available to the plaintiffs.
+Plaintiffs brought an action against defendants for damages arising from a breach of contract. On or about August 24, 1954 a corporation known as Schaedel and Brother Company, a corporation of New Jersey, of which corporation the individual defendants were officers and directors, had a general contract with U. S. Radiator Corporation to furnish certain repair work on their building in Harrison, New Jersey.
+Schaedel and Brother Company, the corporation, entered into a written contract with plaintiff as sub-contractor to install a roof on the building. Plaintiff claims to have completed its contract with the Schaedel and Brother Company, and claims that the U. S. Radiator Corporation paid Schaedel and Brother Company on the general contract.
+The Schaedel and Brother Company has been adjudicated a bankrupt. The plaintiffs have not been paid for the work done as sub-contractor. Complaint was amended to show these facts and plaintiffs contend that they have a right of action under N. J. S. 2A :102 — 10.
+This statute creates a criminal offense where a contractor pays out moneys received by him on a building contract in those instances where his sub-contractors have not been paid. Additionally, and more important for the purposes of this case, the statute uses the term “trust fund.” The statute provides as follows:
+“2A :102-10. Misappropriation of funds paid to contractor for building purposes.
+All moneys received by a contractor from tbe owner or mortgagee of real estate or any leasehold or other interest therein, for the purpose of having' a building erected, constructed, completed, altered, repaired or added to, are trust funds in the hands of the contractor to be applied to the amount of all claims due or to become due and owing from the contractor to all persons furnishing labor or materials to him for the erection, construction or completion of the building or any alteration, repair or addition thereto, and any other reasonable and necessary charge in connection therewith. Any contractor or any officer, director or agent of the contractor, who pays or consents to the appropriation of such funds for any other purpose prior to the payment of all claims and charges for the payment of which the funds constitute a trust fund, is guilty of a misdemeanor.”
+Plaintiffs here urge that the use of the term “trust fund” in this criminal statute creates a right inuring to his benefit whereby he can now proceed against the defendants in a civil action to recover the monies allegedly held in trust and wrongfully paid out prior to the satisfaction of his claim as sub-contractor against the defendant-contractor.
+I do not agree with plaintiffs’ contention, and accordingly find that no civil remedy was created by force of the criminal statute. In reaching this conclusion, I find support in the case of Wasserman, Inc., v. Klahre, 24 N. J. Super. 143, 147 (App. Div. 1952), wherein the following language was used by our Appellate Division:
+“Under our former Constitution, as under our present one, the title of a statute operates as a limitation on the enacting clauses, so that a construction which would give the statute a direct effect beyond the object expressed in the title must be rejected * * *. It is entirely clear to us that the scope of the statutory provision on which the plaintiffs build their case, is limited to the creation of a criminal offense; and that no civil action can be based directly on the statute.”
+This statute was enacted by the Legislature as L. 1932, c. 104 and was entitled “A Supplement to an act entitled ‘An act for the punishment of crimes’ (Revision of 1898).” The argument by plaintiff that a civil remedy is created by N. J. 8. 2A:102-10 is clearly refuted by the title of the original legislative enactment under the rule of the Wasserman case, supra. See also Raymond Concrete Pile Co. v. Federation B. & T. Co., 288 N. Y. 452, 45 N. E. 2d 486 (Ct. App. 1942), affirmed on reargnment 390 N. Y. 611, 48 N. E. 2d 709 (Ct. App. 1943).
+Additional support for the conclusion I reach is found by contrasting the legislative treatment of contracts for public improvements with contracts concerning private individuals.
+N. J. 8. 2A :103-13 provides that it is a misdemeanor for a contractor to misappropriate funds received by him for construction of a public improvement. These funds are specifically designated as trust funds and N. J. 8. 2A :44-148 creates as a civil matter a trust fund in the hands of the contractor until all claims for labor, materials and other charges incurred in connection with the performance of a public contract shall have been fully paid. N. J. 8. 2A :44-148 provides as follows:
+“2A :44~147. Money paid to contractor trust fund for payment of claims.
+All money paid by the state of New Jersey or by any agency, commission or department thereof, or by any county, municipality or school district in the state, to any person pursuant to the provisions of any contract for any public improvement made between any such person and the state or any agency, commission or department thereof, or any county, municipality or school district in the state, shall constitute a trust fund in the hands of such person as such contractor, until all claims for labor, materials and other charges incurred in connection with the performance of such contract shall have been fully paid.”
+Clearly, in the instance of public improvements, the Legislature has created a civil remedy which has its criminal counterpart in N. J. 8. 2A :103-13. However, the Legislature has not enacted a statute creating the same civil remedy to accompany, as it were, the crime which it created in N. J. 8. 3.4:103-10.
+I find that the failure of the Legislature to specifically create the civil remedy in the case of private contracts as it did where public contracts are involved (N. J. 8. 2A :44^148) cannot be cured by judicial interpretation of the term “trust funds” as found in the statute defining the criminal act. Since criminal statutes must be strictly eonstrued, and further, since it is a long standing precept that civil remedies are not created in criminal laws, I find that plaintiff has not established that the moneys held by the defendant here were trust funds held for the benefit of the plaintiff and others in his class. I, therefore, deny plaintiffs’ motion for summary judgment and grant defendants’ cross motion for dismissal of the complaint for failure to state a cause of action.
