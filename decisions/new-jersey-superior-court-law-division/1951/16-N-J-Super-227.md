@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1951-11-09"
+citations: ["16 N.J. Super. 227"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN A. PINDAR, PLAINTIFF, v. ANTHONY P. MIELE, SUPERINTENDENT OF ELECTIONS OF THE COUNTY OF ESSEX, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/16/cases/0227-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 445700
+---
+
+# Pindar v. Miele
+
+## Majority (Colie, J. S; C. John A. Pindar,)
+
+Colie, J. S; C. John A. Pindar,
+Democratic candidate for state senator for the County of Essex, filed a complaint in lieu of prerogative writ wherein he sought an order of this court directing the superintendent of elections “forthwith, upon the close of the polls * * *, to pick up and take into his official custody each and-every of the said 724 voting machines, and to immediately and before the advent of November 7, 1951, store the same in a suitable, fireproof warehouse building, as by the statute he is charged to do.” The complaint alleges that the defendant, Anthony P. Miele, is the superintendent of elections; that under the law he has the responsibility of custody, maintenance and safeguarding of voting machines used at the election on November 6, 1951; more particularly, B. 8. 19:52-7, the duty to see that “* * * machines shall be stored by * * * the superintendent of elections * * *, having custody of voting machines, as soon after the close of the election as possible, and the machines shall at all times be stored in a suitable place, which place shall be a fireproof public building in such counties * * * as have same.”
+The complaint was presented to the court in the early evening of November 6, 1951, and the court signed an order to show cause, returnable at two o’clock p. m. on the seventh of November, directing the superintendent of elections to show cause why he should not “immediately' pick up and store and take into his official custody and possession * * * the voting machines used * * * in the said general election of November 6, 1951, before midnight on the 6th day of November, 1951, or during and within such other time as the court may determine * *
+The matter was argued before the court, affidavits having been filed by both the plaintiff and the defendant. Attached to the complaint and made a part thereof was a letter dated November 6. 1951, -addressed to Harry D. Gross, Chairman, Legal Committee of the Essex County Democratic Committee, in which the superintendent of elections wrote as follows:
+“In accordance with our program, 228 voting machines will be returned to the AVarehouse on Tuesday evening, November 6th: 175 of which are from Newark and 53 from Irvington. On AVednesday, November 7th, 283 machines will be returned to the AVarehouse; .150 of which are from Newark and 133 from the suburbs. On Thursday, November 8th, the remaining 213 from the suburbs will be delivered to the AVarehouse.
+There are a total of 724 voting machines used in this election; 325 in Newark and 399 in the suburbs. As you can readily appreciate, as iu-ovided by law, these machines are constantly under guard at all times.”
+The affidavits disclose that the superintendent of elections etigaged the services of the trucking firm of Charles Hellrigel & Son to transport the voting machines to and from the various polling places; that each machine weighs approximately 1,000 pounds; that it requires five experienced men equipped with special skids to load the machines; that each machine when loaded must be blocked so that the wheels are off the floor; that the special equipment is used requiring experienced help; that because of the limited entrances to the warehouse, the use of additional trucks and helpers would not result in a more expeditious storing of the machines because of the bottleneck at the loading platforms of the warehouse. Seven hundred twenty-four machines were used at the election on November 6, 1951, in 576 polling places, and the representation was made to the court on the argument that the return of the machines to the warehouse was, at that moment, ahead of the estimate of Mr. Hellrigel contained in his affidavit submitted at the argument, namely, that by five .o’clock of November 7, 500 machines would have been returned to the warehouse.
+The question is the meaning of the phrase “as soon-■after the close of the election as possible.” The court deems that the mandate of the statute has been complied with if the machines are returned to the warehouse with diligence and without unnecessary and unreasonable delay. The undisputed fact that 226 machines were returned to the warehouse the night of November 6 and that the rate of return of the balance was ahead of the estimate is a clear indication of due diligence.
+The affidavit of the superintendent of elections discloses that he has requested the local police departments in which polling places are located to detail officers to the polling places to protect the machines and has requested that radio police patrols make periodic inspections, and additionally has called upon the sheriff of the county to do the same.
+The plaintiff has failed to establish a violation of the statute on the part of the superintendent of elections. The order to show cause is discharged with costs.
