@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1979-06-29"
+citations: ["170 N.J. Super. 140"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SALVATORE A. GIAMBRI, PLAINTIFF, v. GOVERNMENT EMPLOYEES INSURANCE COMPANY, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/170/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 478077
+cites_cases: ["120 N.J.Super. 216", "136 N.J.Super. 491", "158 N.J.Super. 424", "66 N.J. 277", "72 N.J. 348"]
+---
+
+# Giambri v. Government Employees Insurance
+
+## Majority (CORUZZI, J. S. C.)
+
+CORUZZI, J. S. C.
+This matter is before the court on cross-motions for summary judgment. The relevant facts are not in dispute and therefore the matter is ripe for summary judgment. R. 4:46.
+Defendant issued an automobile liability insurance policy to Giambri Quality Sweets, a family-owned corporation. The policy specifically covered four automobiles owned by the corporation. Pursuant to N.J.S.A. 39:6A-4, coverage for personal injury protection (PIP benefits) was included.
+During the coverage period plaintiff Salvatore A. Giambri sustained injuries when an uninsured motorcycle he was riding collided with an automobile being driven by another person. At the time of the accident plaintiff was an employee of the corporation and was a member of the family which owned the corporation. When defendant declined coverage for PIP benefits, plaintiff instituted this action.
+N.J.S.A. 39:6A-4 requires that PIP benefits be made available to the named insured and members of his family residing in his household, to other persons occupying the automobile of the named insured or while using such automobile with the permission of the named insured, and to pedestrians involved in an accident with the automobile of the named insured. PMA v. Government Employees Ins. Co., 136 N.J.Super. 491 (App.Div.1975), aff’d 72 N.J. 348 (1977).
+Three of the four statutory categories do not apply in this case. Plaintiff was not using an automobile of the named insured, either as a passenger or as a permissive user. Nor was plaintiff involved in an accident as a pedestrian.
+Plaintiff contends that he is entitled, as a matter of law, to PIP benefits under the corporation policy under the one remaining statutory category as a member of the family of the named insured. N.J.S.A. 39:6A-4. Specifically, plaintiff argues that while the corporation is technically the named insured, it does not drive automobiles or sustain personal injuries. Since the corporation is family-held and since the insured corporation’s automobiles are used by the family for both business and family use, plaintiff asserts that the family is the true named insured. As a member of the household of the “true” named insured, plaintiff claims coverage.
+While it is true that N.J.S.A. 39:6A-4 is to be liberally construed to provide the broadest coverage possible, Brokenbaugh v. New Jersey Manufacturers Ins. Co., 158 N.J.Super. 424 (App.Div.1978), such construction must be consistent with the language of the pertinent statute. Motor Club of America Ins. Co. v. Phillips, 66 N.J. 277, 293 (1974). In the case before this court, plaintiff is seeking to place an extremely broad interpretation on the category of the named insured “and members of his family”.
+Essentially, plaintiff asks the court to ignore the corporate entity in this matter by treating the corporation’s automobile policy as a family policy. However, insufficient reasons have been given to justify piercing the corporate veil. To the contrary, this court is satisfied that the decision to place the policy in question in the name of the corporation was made deliberately for business and income tax reasons and should not be disturbed.
+A corporate entity will be ignored when it is found to be a sham or a front for the activities of individuals. Kugler v. Koscot Interplanetary, Inc., 120 N.J.Super. 216 (Ch.Div.1972). There is not the slightest indication that the corporation in this case was a sham or a front. The mere fact that the corporation was closely held by members of a family is not a sufficient reason standing alone to ignore the corporate form.
+Plaintiff cannot be heard to complain that the policy was issued to the corporation by mistake or through inadvertence. The court does not make decisions in a vacuum and is well aware that income tax consequences play a major role in the decision to operate in corporate form. Automobiles and automobile insurance policies can be purchased by the corporation and then be deducted as business expenses. The automobiles are then made available to employees for their use. These employees then have the benefit and use of automobiles without having to expend personal income to obtain them.
+This is an especially convenient arrangement when the corporation is owned and operated by a few persons. In such circumstances, this controlling group should not be allowed to have it both ways by using the corporate form to obtain tax benefits and then seeking to ignore the corporate form when the arrangement does not meet all of their expectations. Such is the case here. Giambri Quality Sweets chose a corporation policy for very specific business and economic reasons. It had a right to do so. It cannot now be heard to say through the plaintiff that what was really intended was a family household policy.
+The court therefore holds that under the facts of this case an automobile liability insurance policy issued to a family-held corporation as the named insured does not provide coverage to members of the family “as members of the family of the named insured” under N.J.S.A. 39:6A--4. Had plaintiff sustained his injuries while operating or riding as a passenger in one of the four company automobiles, or had plaintiff been struck as a pedestrian by one of the four company automobiles, he would have been entitled to coverage regardless of his status as a family member. Defendant was therefore providing effective coverage to the corporation under the personal injury protection provisions of the policy.
+For all the reasons set forth above, this court determines that plaintiff is not entitled to recover under the policy issued to Giambri Quality Sweets. Accordingly, plaintiff’s motion for summary judgment is denied. Defendant’s cross-motion for summary judgment is granted.
