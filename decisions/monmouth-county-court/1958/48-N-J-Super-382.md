@@ -1,0 +1,32 @@
+---
+court: "Monmouth County Court"
+decided: "1958-01-07"
+citations: ["48 N.J. Super. 382"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE ESTATE OF WILLETTA LANDIS, DECEASED."]
+source_url: "https://static.case.law/nj-super/48/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 437896
+cites_cases: ["29 N. J. Super. 1", "4 N. J. 397", "9 N. J. Misc. 498"]
+---
+
+# In re the Estate of Landis
+
+## Majority (Simmill, J. C. C.)
+
+Simmill, J. C. C.
+Willetta Landis, the decedent, on July 31, 1939 executed a certificate of notice of agreement to reimburse to the County Welfare Board of Monmouth County, which certificate was duly filed in the Monmouth County Clerk’s Office. On November 15, 1945 she executed a notice of agreement to reimburse to the Monmouth County Welfare Board, which said notice was duly filed in the Monmouth County Clerk’s Office pursuant to the provisions of N. J. S. A. 44:7-14. Decedent died April 5, 1955 and her daughter, the present plaintiff, was appointed administratrix of her estate. On May 24, 1955 a creditor, John A. Conover, served proof of claim upon the administratrix, and on June 13, 1955, he was given notice that his claim was disputed. He brought suit in the Monmouth County District Court and on March 1, 1956 recovered a judgment against the administratrix. Execution was issued upon said judgment on December 28, 1956, and on the same date the sergeant-at-arms levied on all assets, money, etc., in the hands of Estella Taylor, administratrix of the estate of Willetta Landis, deceased. No execution was ever issued by the Monmouth County Welfare Board. There is due to the Monmouth County Welfare Board under its reimbursement agreement $9,171.75. There is due on said judgment, inclusive of said costs, $996.68. The plaintiff then filed a complaint demanding that the court adjudge the estate of Willetta Landis to be insolvent, the total assets being $2,210.91, the total charges less administration expenses and counsel fee being $773.25, leaving a balance of $1,437.66; and further demanding that this court adjudge and determine the priority of the claims of the creditors.
+The Monmouth County Welfare Board contends that the agreement to reimburse had the same effect as a judgment and that it is entitled to priority. Mr. Conover contends that he obtained a judgment, issued execution and made a levy and that by virtue thereof, although he was the junior creditor, he displaced the Monmouth County Welfare Board in priority.
+N. J. S. A. 44:7-14 requires a county welfare board to require, as a condition to granting assistance, a pledge of all or any part of the property either real or personal of such person as a guaranty for the reimbursement of the funds granted as old age assistance. N. J. S. A. 44:7-15 provides that a certificate of the amount of assistance advanced, when duly filed according to statute, “shall be a legal claim against both the recipient [of old age assistance] and his spouse with the same force and effect as a judgment of the County Court, Law Division, of the county, with priority over all unsecured claims * * *” and “subsequent proceedings for the collection and satisfaction of the judgment including issuance of execution, shall conform to the practice prevailing in the County Court.” Hence, this court determines that the certificates to reimburse executed by decedent had the same force and effect as a judgment of the County Court.
+N. J. 8. 3A :24r-2 provides for preference of claims against the estate of a decedent and sets up as a preferred claim “judgments entered against the deceased according to the priority of their entries respectively.”
+Mr. Conover contends that the issuance of the execution gives him priority over the Monmouth County Welfare Board’s judgment, upon which no execution issued, by virtue of N. J. S. 2A :17-12 and 13 and under the doctrine of Maggio v. Sussex County Welfare Board, 29 N. J. Super. 1 (App. Div. 1953). In that case the converse situation was presented in that Maggio recovered a judgment in 1938 and issued execution thereon on June 5, 1953; the certificate to reimburse was filed May 1, 1953 and execution issued on May 28, 1953. The Superior Court held that the Welfare Board’s judgment should be first satisfied and stated:
+“There is nothing in the statute however, which limits the board’s right to acquire over the plaintiffs by its diligence that which any junior judgment creditor might acquire by the earlier delivery of execution to the sheriff, namely priority of satisfaction.”
+Mr. Conover therefore argues that if the Board in the Maggio case by the issuance of an execution acquired priority over a senior judgment, so also should he in this case acquire such priority.
+The instant case, however, differs from the Maggio case in that the Board’s judgment was obtained against the decedent during her lifetime, whereas Mr. Conover’s judgment was obtained against the administratrix after decedent’s death. The statute regarding preferred claims has been construed to refer to those judgments which were entered during decedent’s lifetime. Ward v. Kaycoff, 9 N. J. Misc. 498 (Sup. Ct. 1931). In that case the judgment was taken against the estate, although suit was instituted during the lifetime of the decedent, and Justice Case held:
+“Plaintiff’s judgment is not within the class of debts against an estate to which the statute gives preference. * * * Judgments to be preferred must be actually entered of record during the lifetime of defendant.”
+To the same effect is Robinson v. Hodge, 4 N. J. 397, at page 403 (1950), wherein Justice Oliphant, speaking for a unanimous court, held:
+“Funeral expenses, physicians and nurses bills, administration expenses, debts due the United States and judgments entered of record in the decedent’s life, are preferred claims against the personal property and are to be paid first. The balance or surplus is available for payment of general creditors.” (Italics ours.)
+In the instant case the Welfare Board’s judgment was entered during the lifetime of the decedent. Mr. Conover’s judgment was entered after her death. The statute gives the Welfare Board’s judgment preference and this cannot be taken away by the issuance of an execution on a judgment which does not have preferred status.
+Accordingly, this court holds that the Monmouth County Welfare Board has priority.
