@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1986-04-07"
+citations: ["212 N.J. Super. 695"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE ESTATE OF FRED FARINA A/K/A FERDINAND FARINA, DECEASED."]
+source_url: "https://static.case.law/nj-super/212/cases/0695-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1878558
+cites_cases: ["134 Misc. 393", "184 N.J.Super. 217", "188 N.J.Super. 44", "235 N.Y.S. 756", "55 N.J.Eq. 759", "76 N.J. 368"]
+---
+
+# In re the Estate of Farina
+
+## Majority (WEFING, J.S.C.)
+
+WEFING, J.S.C.
+The following is written to supplement an oral opinion previously given in this matter, which was heard on the return date of an order to show cause seeking issuance of letters of administration C.T.A. and a spouse’s elective share.
+The recent case of McKay v. McKay’s Estate, 184 N.J.Super. 217, aff’d 188 N.J.Super. 44 (App.Div.1983), held that the six-month period within which a surviving spouse may elect to take an elective share pursuant to N.J.S.A. 3B:8-1 et seq. may not be extended unless the surviving spouse has filed an application for extension within the original six month period. McKay did not consider whether there are instances in which the six month period may be tolled. I am satisfied that in the situation presented here, it may.
+The issue arises in the following context. In this case, decedent, Fred Farina, died testate on May 26, 1985, leaving a will dated August 26, 1968, which made no provision at all for his surviving spouse, Theresa, whom he had married on July 9, 1982. His will was probated before the Hudson County Surrogate on June 26 and his sister, Minnie Farina Valentino qualified as Executrix. Minnie Farina Valentino died intestate on September 17, 1985, which was less than six months after decedent’s will was probated. Decedent’s will did not name an alternate or successor executor. Theresa took no action to seek an elective share prior to the death of Minnie. Subsequent to Minne’s death, she took no action until February 5, 1986 when she filed a complaint seeking to be appointed administrator C.T.A. and her elective share in her husband’s estate. By that time, a period of more than eight months had elapsed from the probate of decedent’s will, rather than the six specified in N.J.S.A. 3B:8-12. For more than four of those months, however, there was no personal representative of decedent’s estate.
+Mrs. Farina’s application to be named administrator C.T.A. was resisted by Dolores Pasculli, daughter of Minnie Valentino and administrator and sole beneficiary of her mother’s estate. Mrs. Pasculli contended (correctly) that as the administratrix of the estate of the residuary beneficiary of Mr. Farina’s estate, she was entitled to be appointed administrator C.T.A. of his estate. See Booraem’s Case, 55 N.J.Eq. 759 (Prerog 1897). Mrs. Pasculli also argued, however, that Mrs. Farina’s complaint seeking an elective share was untimely since it was filed more than six months after the “appointment of a personal representative of the decedent’s estate.”
+Whether the time limitation contained in N.J.S.A. 3B:8-12 is viewed as being procedural or substantive is no longer a critical issue in considering whether the limitations period may be tolled in certain instances. White v. Violent Crimes Compensation Board, 76 N.J. 368 (1978). The inquiry is rather whether the “legislative purpose underlying the statutory scheme will ... be effectuated.” Id. at 379.
+The purpose of this statute is “to prohibit disinheritance of a surviving spouse who needs continuous support.” McKay, supra, 184 N.J.Super. at 224. Indeed, one of the factors noted in McKay in justification of its refusal to extend the six-month limitations period was that the surviving spouse in that case had received a bequest of 20% of the decedent’s estate under his will. Ibid.
+In this case, however, Mr. Farina made no provision at all for his wife and, because his will was executed prior to September 1, 1978, she received no protection under N.J.S.A. 3B:5-15. In a situation such as this, where a surviving spouse may be left without recourse, it would only further the legislative scheme to toll the six month period from the death of the first executor.
+The final issue to be determined is when the tolling period ceases. At least one case has recognized that a statutory period within which to take action against a decedent’s estate is tolled following the death of the executor. In re Deitz’s Estate, 134 Misc. 393, 235 N.Y.S. 756 (Surr.Ct. Kings Co. 1929). That case, however, held that “the only period during which the running of the statute could be suspended would be the time between the death of the original executor and the grant of letters on his estate.” 235 N.Y.S. at 760. If that approach were adopted here, it would be of no avail to Mrs. Farina, for Mrs. Pasculli was appointed administratrix of her mother’s estate on October 1, 1985, only 15 days after her mother’s death.
+I decline to follow Deitz, however. It is, in my view, illogical to make the rights of a surviving spouse dependent upon the speed with which administration of the estate of the spouse’s executor is undertaken. I am satisfied that the most appropriate date upon which to conclude the tolling of this six month period is the date upon which a successor executor or administrator of the deceased spouse’s estate is appointed. Since no administrator C.T.A. for the estate of Fred Farina had been appointed by the time Mrs. Farina filed a complaint seeking her elective share, her complaint was timely.
