@@ -1,0 +1,39 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1960-09-22"
+citations: ["63 N.J. Super. 249"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["REPUBLIC PICTURES CORPORATION, A CORPORATION OF THE STATE OF NEW YORK, AND CONSOLIDATED FILM INDUSTRIES, A DIVISION OF REPUBLIC PICTURES CORPORATION, PLAINTIFFS, v. GUILD FILMS COMPANY, INC., DEFENDANT."]
+source_url: "https://static.case.law/nj-super/63/cases/0249-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 421824
+cites_cases: ["105 N. J. Eq. 399", "38 N. J. Super. 174", "5 N. J. 494", "7 N. J. 32"]
+---
+
+# Republic Pictures Corp. v. Guild Films Co.
+
+## Majority (Waugh, J. S. C.)
+
+Waugh, J. S. C.
+Plaintiffs, in December, 1959, obtained a judgment against the defendants in New Tork, in a sum exceeding $140,800. Defendant, being a non-resident of New Jersey and not doing business in this State, plaintiffs obtained a writ of attachment against certain bank accounts belonging to defendant in the Union National Bank, City of Newark. Plaintiffs filed their complaint, and caused a copy thereof, together with a summons and notice of attachment, to be personally served upon the defendant at its principal office in the Borough of Manhattan, New York. Defendant failed to answer the complaint and default judgment in attachment was entered on April 22, 1960 against the attached property.
+Thereafter, on May 13, plaintiffs obtained an order to show cause directed against the defendant to show cause why the funds levied upon by the Sheriff of Essex County should not be turned over to the Sheriff in partial satisfaction of plaintiffs’ judgment. Defendant, upon being served with this order to show cause, entered an appearance, and the matter was set down for hearing.
+“It is elementary that funds in the hands of a third person in which the defendant in attachment has no interest are not liable to attachment or garnishment.” Russell v. Fred G. Pohl Co., 7 N. J. 32, 39 (1951). If the funds attached are trust funds, the attachment must bo discharged.
+The defendant urges that the funds are trust funds by reason of the agreements entered into between it and the owners of the film (D — 1 through I)-5 in evidence) ; by the deposit of the money due various owners by the defendant in Union National Bank; that the Statute (N. J. 8. A. 17:9.A — 236, as amended) makes the deposit presumptively a trust and that the presumption has not been overcome.
+The plaintiffs urge that the mere deposit of the money in the accounts in question is insufficient to sustain defendant’s burden of proof that the moneys in the bank are trust funds; that the statute relied upon by the defendant, N. J. 8. A. 17:9A~216, is unconstitutional insofar as it creates a conclusive presumption of an inter vivos trust, and, alternatively, if the statute is constitutional, the statute is limited when the depositor is deceased or no longer in existence; and that in any event the deposits here in question are merely tentative trusts — revokable—and, therefore, the property of defendant under N. J. 8. A. 17:94-216 (A) (1); and that the deposits, in any event, are not trust funds.
+The parties, as I have said, argue the constitutionality of N. J. 8. A. 17:94-216, plaintiff contending its unconstitutionality under the theory of Howard Savings Institution v. Quatra, 38 N. J. Super. 174 (Ch. Div. 1955), which declared N. J. 8. A. 17:94-216, as amended by L. 1949, c. 286, unconstitutional. This section has since been amended twice, namely by L. 1953, c. 17, p. 174, § 34; and L. 1954, c. 209, p. 770, § 1. Defendant contends the statute is constitutional. The Attorney General has not been noticed as required by R. R. 4:37-2 so the court is precluded from deciding the constitutional question argued. However, I do not find it necessary to do so, for the reason that I conclude that the section here in question (N. J. 8. A. 17:94-216) has no application. The section is limited to individual depositors; it has no application to corporate depositors. I come to this conclusion because of the frequent use in the statute of the word “individual” before the word “depositor.” If any depositor, including corporate, was intended, the word “individual” should have been omitted.
+“It is to be presumed that the Legislature has not made use of superfluous words. This is the basis of the cited maxim, designed as an aid to construction where the expression is of doubtful meaning.” Ford Motor Co. v. N. J. Dept. of Labor & Industry, 5 N. J. 494, at pp. 502, 503 (1950).
+Further, the section speaks in terms of the “individual depositor’s death.” If a corporation were intended, proper language would be “dissolution.” The strongest reason, however, is that the statute itself, in subsection “D,” states:
+“Subsection A of this section shall not apply to moneys deposited by a trustee acting under a will, other fiduciary instrument, court order or decree.” (Italics added)
+The accounts here in question are supposedly deposited under the fiduciary agreements in evidence.
+The statute, therefore, has no application. The designation of the accounts as “trust accounts,” coupled with the language used in some of the agreements in evidence with respect to the owner’s share is being “trust funds,” does permit of the inference that we are here dealing with trust funds. In Gribble v. Hoboken Theatrical Company, 105 N. J. Eq. 399, 400 (Ch. 1929), the court indicated that the language used in the agreement involved in that case:
+“Any portion of the gross receipts due you for royalties, if not paid immediately on receipt thereof by us, shall belong to you and shall be held in trust for you until payment; and the ownership of said trust fund by you shall not be questioned whether the moneys are physically segregated or not.”
+was sufficient to constitute the defendant therein a trustee, but it is to be noted that the trust arose from the agreement.
+The accounts attached came from New York to New Jersey by rather strange and fortuitous circumstances. The court has not had the benefit of having introduced into evidence the defendant’s books, showing the course of its dealings with the various producers whose contracts have been introduced into evidence. To permit the defendant to obtain the return of the money without more evidence would certainly open the door for fraudulent schemes to prefer creditors in commercial transactions. To permit it to obtain the money without making certain it goes to the alleged cestuis would be inequitable.
+One other matter is noticed by the court: Exhibit D~1, paragraph 19, provides (as do several of the agreements) :
+“This agreement is made in New York City and its construction, performance and enforcement shall be governed by the laws of the State of New York.”
+Yet, the parties have not briefed the New York law on the questions here involved.
+There is enough evidence, however, by way of the agreements and the accounts, to cause a court having equitable powers to proceed with caution. We may be dealing with a trust arising from the contracts in question. If so, the trust funds (the accounts) are within the jurisdiction of the court.
+The court, therefore, directs the defendant to frame an issue within B. B. 4:117-1; then a summary action pursuant to B. B. 4:85 may be brought. The plaintiffs’ rights will be protected as if it were an intervenor under B. B. 4:37-1(6). After all of the producers afEected are made parties and an issue framed, the court will hear further testimony, and make a final determination whether the funds are trust funds or not.
+In the meantime, however, the parties may present an order with reference to the one account on which there is agreement, namely the Paths trust account, and on those balances which admittedly are the property of the defendant.
