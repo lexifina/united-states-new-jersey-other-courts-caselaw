@@ -1,0 +1,29 @@
+---
+court: "Tax Court of New Jersey"
+decided: "1982-01-04"
+citations: ["4 N.J. Tax 38"]
+reporter: "nj-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MAYFAIR HOLDING CORP., PLAINTIFF, v. TOWNSHIP OF NORTH BERGEN, DEFENDANT."]
+source_url: "https://static.case.law/nj-tax/4/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 392772
+cites_cases: ["1 N.J.Tax 224", "1 N.J.Tax 236", "109 N.J.Super. 22", "113 N.J.Super. 6", "125 A.2d 309", "129 A.2d 567", "136 A.2d 280", "175 A.2d 683", "189 A.2d 838", "2 N.J.Tax 25", "2 N.J.Tax 329", "23 N.J. 459", "262 A.2d 213", "270 A.2d 702", "272 A.2d 542", "3 N.J. 488", "41 N.J.Super. 381", "47 N.J.Super. 472", "57 N.J. 199", "7 N.J. 298", "70 A.2d 733", "70 N.J.Super. 463", "78 N.J.Super. 588", "81 A.2d 485"]
+---
+
+# Mayfair Holding Corp. v. Township of North Bergen
+
+## Majority (CRABTREE, J. T. C.)
+
+CRABTREE, J. T. C.
+Defendant moves pursuant to R. 4:6-2 for a dismissal of plaintiff’s complaint on the ground of untimely filing with the Hudson County Board of Taxation. The facts essential to a disposition of the motion can be stated briefly.
+Plaintiff, the owner of real property located at 7427 Boulevard East, North Bergen, New Jersey (Block 311, Lot 29B, 31-33) filed a petition of appeal with the Hudson County Board of Taxation seeking a reduction in the 1978 assessment imposed upon the property. The envelope containing the petition was postmarked August 15, 1978 but the county board did not receive the petition until August 16, 1978. Soon thereafter, the county board dismissed the petition as untimely filed and entered judgment accordingly.
+Plaintiff’s then counsel, since deceased, declared in an affidavit that the petition was prepared for service on August 14, 1978, that on that day he communicated by telephone with the county board (as well as the Passaic and Bergen County boards) and was then advised that “it would be sufficient if the forwarding envelopes containing the petitions were postmarked August 15, 1978.” He claims to have relied upon this advice in pursuing the course of conduct that led to the filing with the Hudson County board on August 16, 1978.
+At issue are the jurisdictional nature of the filing requirement imposed by N.J.S.A. 54:3-21 and whether the county board was estopped to deny jurisdiction.
+N.J.S.A. 54:3-21 provides that a taxpayer feeling aggrieved by the assessment against his property may seek relief therefrom by filing a petition of appeal with the county board of taxation “on or before August fifteenth” of the tax year. Compliance with statutory filing requirements is an unqualified jurisdictional imperative, long sanctioned by our courts. Newark v. Fischer, 3 N.J. 488, 70 A.2d 733 (1950); Suburban Department Stores v. East Orange, 47 N.J.Super. 472, 136 A.2d 280 (App.Div.1957); Danis v. Middlesex Cty. Bd. of Tax., 113 N.J.Super. 6, 272 A.2d 542 (App.Div.1971); Prospect Hill Apts. v. Flemington, 1 N.J.Tax 224 (Tax Ct. 1979); Cherry Hill Tp. v. U. S. Life Ins. Co. of N. Y., 1 N.J.Tax 236 (Tax Ct. 1980). Failure to file a timely appeal is a fatal jurisdictional defect. Clairol v. Kingsley, 109 N.J.Super. 22, 262 A.2d 213 (App.Div.), aff’d 57 N.J. 199, 270 A.2d 702 (1970); Sun Life Assur. Co. of Canada v. Orange, 2 N.J.Tax 25 (Tax Ct. 1980). The filing requirement is not met by delivery to the mails. Prospect Hill Apts. v. Flemington, supra.
+Plaintiff’s petition of appeal to the Hudson County board was not filed with that tribunal until August 16, 1978, one day after the last day prescribed by statute for the filing of a petition of appeal. Thus, the jurisdictional bar is absolute and the county board properly declined to entertain plaintiff’s petition unless the board, by the conduct of one of its representatives, is estopped from denying jurisdiction.
+The doctrine of estoppel is not lightly invoked against government, especially in tax matters, where the public interest is so vitally affected. Airwork Service Div. v. Taxation Div., 2 N.J.Tax 329 (Tax Ct. 1981). To invoke the doctrine against a governmental agency the circumstances must be extreme. Pennyton Homes, Inc. v. Stanhope Planning Bd., 78 N.J.Super. 588, 189 A.2d 838 (App.Div.1963); Feldman v. Urban Commercial, Inc., 70 N.J.Super. 463, 175 A.2d 683 (Ch.Div.1961).
+The circumstances of this case do not warrant application of estoppel against the county board. An individual is chargeable with knowledge of the law, Gilbralter Factors Corp. v. Slapo, 41 N.J.Super. 381, 125 A.2d 309 (App.Div.1956), aff’d 23 N.J. 459, 129 A.2d 567 (1957), and that rule has even more salutary application where the individual is a practicing lawyer, who could reasonably be expected to exercise that elementary prudence obligatory with his profession and examine the pertinent statute and judicial authorities construing it to ascertain the preemptive importance of compliance with statutory deadlines. Had he done so he might have taken special pains to insure that his client’s petition of appeal was in the hands of the county board no later then the close of business on August 15, 1978. His reliance upon advice from a county board representative as to the meaning of a statute was in derogation of minimal standards of professional prudence. In any event, the representative was not authorized to extend the statutory filing deadline, and neither the county board nor the defendant municipality is bound by such unauthorized conduct. Bayonne v. Murphy & Perrett Co., 7 N.J. 298, 81 A.2d 485 (1951).
+In view of the foregoing I conclude that the county board’s dismissal of plaintiff’s petition on jurisdictional grounds was proper. Defendant’s motion is granted.
+Judgment will be entered dismissing plaintiff’s complaint.
