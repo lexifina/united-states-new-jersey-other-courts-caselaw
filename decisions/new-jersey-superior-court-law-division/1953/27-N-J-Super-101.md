@@ -1,0 +1,66 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1953-07-14"
+citations: ["27 N.J. Super. 101"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE APPLICATION OF SILVIO DE VITA FOR WRIT OF HABEAS CORPUS."]
+source_url: "https://static.case.law/nj-super/27/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 392178
+cites_cases: ["103 N. J. L. 361", "11 N. J. 173", "13 N. J. 99", "13 N. J. Super. 312", "135 N. J. L. 522", "16 N. J. Super. 171", "163 Ill. 56", "17 N. J. Super. 30", "345 U. S. 976", "35 L. R. A. 176", "45 N. E. 991", "6 N. J. Super. 395", "7 N. J. 465", "73 S. Ct. 1123", "9 N. J. 471"]
+---
+
+# In re De Vita
+
+## Majority (Naughright, J. C. C.)
+
+Naughright, J. C. C.
+The petitioner, Silvio De Vita, was convicted of the crime of murder in the first degree in the Essex County Court on March 8, 1952. On March 12 of the same year he was sentenced to suffer the punishment of death.
+Petitioner subsequently appealed the judgment of conviction directly to the Supreme Court of New Jersey. On December 15, 1952 that court affirmed the judgment of conviction. Stale v. Grillo, 11 N. J. 173 (1952).
+Petitioner next made application for executive clemency to the Governor for commutation of the death sentence to life imprisonment pursuant to N. J. S. 2A :167-1 et seq. The application was denied.
+Thereafter the petitioner, seeking review of the decision of the Supreme Court of New Jersey, sought a writ of certiorari from the Supreme Court of the United States which was denied on Juno 8 of this year. De Vita v. State of New Jersey, 345 U. S. 976, 73 S. Ct. 1123.
+Petitioner next came to this court and on the representation that he is illegally confined in the State Prison, this court in its discretion, N. J. S. 2A:67-14 (c), issued a writ of habeas corpus on the 1st day of July, 1953, returnable July 8, 1953, on which date, return being duly made, a hearing was had.
+The petitioner asserts that the trial court lacked jurisdiction to convict and sentence him. Such claimed lack of jurisdiction is the only basis on which he can seek the intervention of this court on habeas corpus. In re Zee, 13 N. J. Super. 312 (Cty. Ct. 1951), affirmed 16 N. J. Super. 171 (App. Div. 1951); In re Caruso, 135 N. J. L. 522 (Sup. Ct. 1947). The contentions of the petitioner which appear in paragraph 9 of his complaint are as follows:
+“(a) he was denied due process of law and deprived of his substantial right to a fair and impartial trial;
+(b) the final judgment or verdict is void, the jury failing to render separate verdicts according to the charge of the court;
+(c) the verdict is contrary to the charge and the law;
+(d) the trial court was without jurisdiction to impose the sentence of death upon the verdict as returned by the jury and the court erred in imposing sentence thereon for failure of jurisdiction;
+(e) the imposition of sentence is in excess of that permitted by law, contrary thereto, and the court exceeded its power in imposing said sentence, and is void and without warrant of law;
+(f) the warrant, commitment and detainer are void for lack of power or jurisdiction in the court to pronounce judgment thereon.”
+In support of the above he attacks the validity of the verdict as rendered at the trial as follows:
+“(a) It is the duty of each juror upon being polled to state the verdict to the court, and the Clerk of the Court legally cannot invade this function and province of the jury;
+(b) The answer of each juror in the affirmative is not deemed a verdict of each juror under the cases and law;
+(c) The pronouncement of the sentence of death upon such a verdict is unwarranted and without due process; the trial court had charged the jury that under the facts of the case, the jury were directed to bring in three separate verdicts and the finding by the jury was not in accord to the charge, nor to the theory upon which the case was submitted, nor to the law, and the verdict of the jury is uncertain, doubtful and void.”
+The pertinent part of the Court’s charge and return of the verdict was as follows:
+“You will recall that I mentioned previously we are in effect trying three cases in one and that each defendant is entitled separately to your consideration and verdict. Therefor, the form of your .verdict should be as follows: it being understood that your verdict as to each defendant, whatever it may be, shall be the unanimous verdict of the jury. We find the defendant Silvio De Yita guilty of murder in the first degree, or we find him guilty of murder in the first degree with a recommendation of life imprisonment, or we find him not guilty, as the case may be. Then as to Rosania, we find him guilty of murder in the first degree, or we find him guilty of murder in the first degree with a recommendation of life imprisonment, or we find him not guilty. As to Grillo, we find him guilty of murder in the first degree, or we find him guilty of murder in the first degree with a recommendation of life imprisonment, or we find him not guilty.
+(The jury returns into the court room.)
+TIIK CLERK: Ladies and gentlemen, have you agreed upon a verdict ?
+THE FOREMAN: We have.
+THE CLERK: Mr. Foreman, how do you find ?
+THE FOREMAN: We, the jury, find the defendant Silvio De Vita guilty of murder in the first degree, the defendant Ralph Rosania guilty of murder in the first degree with a recommendation of life imprisonment, the defendant Joseph Grillo guilty of murder in the first degree.
+THE COURT: The Court of its own motion will direct the clerk to poll the jury on the verdicts of the defendants Grillo and De Vita.
+THE CLERK: Ladies and gentlemen of the jury, harken to your verdict as the Court will have it recorded. You say by your foreman that you find the defendant Silvio De Vita gniliy of murder in the first degree. You further say that you find the defendant Ralph Rosania guilty of murder in the first degree and recommend life imprisonment. You further say you find the defendant Joseph Grillo guilty of murder in the first degree.
+By order of the court the jury is to be polled. You have heard the verdict as rendered by your Foreman wherein you say defendant Silvio De Vita and Joseph Grillo are guilty of murder in the first degree. As the roll is called, you will answer by a yes or no answer whether this is your verdict or not.”
+The Clerk then called each juror’s name and each juror answered, “Yes.”
+In State v. Myers, 7 N. J. 465 (1951), this manner of polling a jury was passed upon. In that case as in the case sub judice the clerk of the court repeated the finding and asked the jury if that was their verdict. The jurors individually, as in the instant case, answered in the affirmative. This method was approved by the court.
+The most recent pronouncement by the Supreme Court of Yew Jersey on the subject may he found in State v. Vaszorich, 13 N. J. 99 (decided June 22, 1953). In that case, as in the Myers case, supra, the clerk of the trial court framed the question on the poll of the jury so that it was possible for each individual juror to answer with a simple word or phrase. In expressing not only its approval of the method but also its approbation the court said:
+“Trial judges might well minimize the chance of such inadvertent expressions by jurors by polling the jury in the maimer used in State v. Myers, supra, which requires of each juror only the simple response ‘Yes,’ ‘it is,’ or the like.”
+Petitioner’s claim of error in the polling of the jury is without merit.
+We will now treat of petitioner’s claim that the verdict is void because of the alleged failure of the jury to follow the charge of the court and return distinct verdicts as to each defendant.
+The rule is that where ’there is a trial against two or more defendants the jury must give consideration to each defendant and the verdict must be clear as to each defendant. See 53 Am. Jur. 721, par. 1042. An inspection of the record, in evidence, discloses that the foreman in returning the verdict stated the petitioner’s name and immediately following his name was the jury’s finding. At the completion of that finding the foreman stated the name of another defendant and announced the finding as to such defendant. Following this he stated the last defendant’s name and a finding as to him. There were three defendants on trial and a verdict separate and distinct was rendered as to each defendant. See Meadowcroft v. People, 163 Ill. 56, 45 N. E. 991, 35 L. R. A. 176 (Sup. Ct. 1896). The verdict as returned was in keeping with the court’s charge.
+Petitioner, relying on the dissent in State v. Merra, 103 N. J. L. 361 (E. & A. 1926), contends that the verdict is void as uncertain and doubtful. In the Merra case the dissenting justices pointed out that the jury’s verdict was originally recorded as follows:
+“We find the defendant Salvatore Merra guilty of murder in the first degree and the defendant Salvatore Bannelli guilty of murder in the first degree, and recommend life imprisonment at hard labor.”
+which was amended by the trial judge to read:
+“We find Salvatore Merra guilty of murder in the first degree. We find Salvatore Rannelli guilty of murder in the first degree and recommend life imprisonment.”
+It was the opinion of the two dissenting justices that the verdict as originally recorded expressed the jury’s intention to recommend life imprisonment for both defendants and that the modification was improper. Thirteen justices did not agree with this view. Additionally, the verdict in the case sub judies differs from the original verdict upon which the dissent was based. In the case at bar there was no use of the conjunction “and” connecting the names of the defendants, nor was there a comma preceding and separating the recommendation of life imprisonment. We also note that in the instant case the recommendation .of life imprisonment is preceded by the article of. delimitation “a.” It is also worthy of note that on the poll of the jury in the Merra case each juror repeated the language of the verdict as originally recorded. In the instant case the question asked immediately preceding the polling of the jurors was as follows:
+“You have heard the verdict as rendered by your foreman, wherein you say the defendants Silvio De .Vita and Joseph Grillo are guilty of murder in the first degree. As the roll is called you will answer by a yes or no answer whether this is your verdict or not.”
+Each juror individually said, “Yes.” The question and answer were clear, concise and unequivocal. The question did not contain a recommendation of life imprisonment.
+Petitioner seeks to make much out of the fact that in the instant verdict a comma separated the verdict as to him and the verdict as to Rosania. He contends that the recommendation of life imprisonment should attach to the verdict as to him. It is well known that the jury in returning'its verdict does not utter words of punctuation. The punctuation used was the choice of the reporter. The suggestion that his use of a comma in place of a semicolon, colon, period or exclamation mark will render a verdict that is clear and unequivocal a nullity is without merit. Additionally, a comma was also used between the verdict as to Rosania and that as to Grillo. It is not suggested that the latter two mentioned verdicts are not distinct.
+To lend force to his argument petitioner suggests that had the jury intended him to suffer death as they intended as to Grillo, the verdict as to him and Grillo would not have been separated by the verdict as to Rosania. The order of the verdicts as to each defendant was in the same order as their names appeared in the indictment and in the judge's charge to the jury.
+It is interesting to note that although over six months elapsed from the date sentence of death was pronounced until the case was argued on appeal before the Supreme Court of New Jersey the petitioner never mentioned or questioned his sentence of death on this ground. The first time he argued this point was in this court on July 8, 1953 — more than 15 months after the sentence was pronounced. It is indeed strange that one so allegedly wronged should be so silent on the subject for so long.
+The verdict was in compliance with the provisions of N. J. S. 2A :113-2 and N. J. S. 2A :113-4 and valid in all respects.
+Next petitioner claims that since the recommendation as to Rosania was also applicable to him a sentence of death was excessive and therefore the judgment of the court is void.
+We have determined that said recommendation did not attach. Assuming, arguendo, that his contention is correct, the rule is that an excessive sentence does not make an otherwise valid judgment void. The proper procedure would not have been an application for a writ of habeas corpus but rather a motion to correct an illegal sentence as provided in Rule 1:2-30(a). State v. Weeks, 6 N. J. Super. 395 (App. Div. 1950); In re Kershner, 9 N. J. 471 (1952), affirming 17 N. J. Super. 30 (App. Div. 1951). Treating his complaint on this phase as such a motion, it is denied.
+Let the writ be discharged.
