@@ -1,0 +1,26 @@
+---
+court: "New Jersey Department of Labor, Workmen's Compensation Bureau"
+decided: "1926"
+citations: ["4 N.J. Misc. 756"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MICHAEL FONTANAROSA, PETITIONER, v. KRAMER & KING, RESPONDENTS."]
+source_url: "https://static.case.law/nj-misc/4/cases/0756-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 584010
+---
+
+# Fontanarosa v. Kramer & King
+
+## Majority (Harry J. Goas, Deputy Commissioner.)
+
+Froin the evidence submitted it appears that the petitioner, in the course of his employment, took rolls of silk from a machine and placed same on a table, which table was about fifteen feet away from the machine. At the time of the accident there were roles of silk piled upon said table about six feet high. The petitioner had been piling these roles of silk upon said table from the time he started work on the day of the accident, June 26th, 1925, from seven-twenty in the morning until three-thirty p. m.
+After petitioner had placed a roll of silk in its place on the table and while both of his arms were extended over his head, he felt a sudden severe pain on his right side. He brought his right hand down to hold his right side where he had said pain, and with his left hand holding the edge of the table, he lowered himself to a position where a bench stood, and sat upon same. This bench was immediately adjoining the table and was about two feet in height and about two feet wide. Prom the moment he felt the pain to the time he sat down he did not take any steps. He stopped working immediately and sat on said bench for at least one-half hour. While he seated himself he was in intense pain, he was perspiring profusely about his forehead; that after sitting on said box for about fifteen minutes a fellow-employe saw that the petitioner was in pain and his forehead showed perspiration, and this fellow-employe administered cold, wet towels to the petitioner’s forehead.
+The foreman saw the petitioner while he was seated on said bench, and after finding out from him what the trouble was told the petitioner to get dressed and go to a doctor. The accident happened at three-thirty p. *r. in the afternoon, and at four-thirty the petitioner went home, after being assisted out of the place by a fellow-employe. The petitioner worked, as a general rule, until eight-thirty in the evening, and after petitioner loft, a fellow-employe finished the work of the petitioner.
+Immediately after leaving his place of employment the petitioner went to his doctor and he was informed by him that he had a hernia. Because of said condition petitioner was unable to do the work he was accustomed to before the accident happened.
+Under Pamph. L. 1919, p. 204, ch. 93, 11, subdivision 10, hernia is a disease which ordinarily develops gradually, being very rarely the result of an accident. Where there is real traumatic hernia resulting from the application of force directly to the abdominal wall, either puncturing or tearing the wall, compensation will be allowed. All other cases will be considered congenital or of slow development and not compensible, being a disease rather than an accidental injury. Unless conclusive proof is offered that the hernia was immediately caused by sudden or severe strain that: "(1) The descent of-the hernia immediately'followed the cause; (2) that there was severe pain in the hernia region; (3) that there was such prostration that the employe was compelled to cease work immediately; (4) that the above facts were of such severity that the same was induced by the claimant and communicated to'the employer within twenty-four hours after the occurrence of the hernia; (5) that there was such physical distress that the attention of a licensed physician was required within twenty-four hours after the occurrence of the hernia.”
+In'the case at bar the petitioner met with all the above requirements. The respondents raised that point that the requirements which provide that there should be such prostration that the employe was-compelled to cease work immediately was not complied with in that there was no prostration. This is the sole point raised by respondent to prevent the petitioner from recovering compensation. The facts indicated in this case, and I so find that there was a compliance with this requirement in that the petitioner, upon feeling a sudden pain on his right side, lowered himself to 9, bench and was in intense pain at said time and for quite some time thereafter while sitting on said bench; that while seated on said bench the petitioner was perspiring profusely; that this was an indication of severe pain and also of the fact that the petitioner was unable to continue work. Prostration as used in the statute is, I consider, a relative term; that it means that when an employe is seized with sudden pain and is in such a physical condition that he is compelled to cease work immediately; that that is sufficient prostration within the meaning of the act, and prostration does not necessarily mean that the injured person must lie prone. It is sufficient if the person injured suffered in the manner as in this case indicated.
+* # * * * * * *
+Harry J. Goas,
+Deputy Commissioner.
