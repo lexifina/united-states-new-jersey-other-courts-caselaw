@@ -1,0 +1,27 @@
+---
+court: "New Jersey Department of Labor, Workmen's Compensation Bureau"
+decided: "1941-12-15"
+citations: ["20 N.J. Misc. 35"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GAETANO ROMANO, PETITIONER, v. ALEXANDER J. MILMOE T/A MILMOE CONSTRUCTION COMPANY, INTERNATIONAL EXCAVATING COMPANY AND CHARLES GREENWOOD T/A GREENWOOD CONSTRUCTION COMPANY, RESPONDENTS."]
+source_url: "https://static.case.law/nj-misc/20/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 432301
+---
+
+# Romano v. Milmoe
+
+## Majority
+
+The first question to be determined is whether or not petitioner met with an accident arising out of and in the course of his employment as contemplated by the provisions of the Workmen’s Compensation Act; and secondly, if said petitioner was so injured, then whether judgment should be entered against all of the respondents herein or only against one or two of them.
+The uncontroverted facts proved at the trial are as follows:
+One Charles Greenwood t/a Greenwood Construction Company was the general contractor on a certain job on Lincoln Avenue between Main and William Streets in East Orange, New Jersey. Said Charles Greenwood subcontracted the excavation required for the job to the International Excavating Company. Both the said Charles Greenwood and International Excavating Company were covered by workmen’s compensation insurance as required by the Employer’s Liability Insurance Law—B. S. 1937, 34:15-70, et seq.j N. J. S. A. 34:15-70, et seq. The International Excavating Company sublet its contract which it had received from said Charles Greenwood to one Alexander J. Milmoe t/a Milmoe Construction Company. Petitioner Gaetano Eomano was employed by said Alexander J. Milmoe t/a Milmoe Construction Company. On August 14th, 1940, at about ten o’clock in the morning while performing his duties as a laborer on the excavation job undertaken by his employer Alexander J. Milmoe on Lincoln Avenue between Main and William Streets in East Orange, New Jersey, and on which job Charles Greenwood t/a Greenwood Construction Company was general contractor and international Excavating Company was first subcontractor as hereinbefore described, petitioner was struck a blow on the head by a rock which fell from the street into the excavation in which he was working. He was stunned and removed by automobile to the Orange Memorial Hospital where he remained for a period of 16 days. On the way to tile hospital in the automobile of a fellow employee, the car stopped suddenly and petitioner fell forward resulting in his receiving a cut on the nose. Petitioner had no recollection of sustaining this injury. While at the hospital petitioner was treated for a laceration of the scalp, concussion of the brain and numerous subjective symptoms which accompanied the same, paralysis agitans and arteriosclerosis. I further find that as a result of said accident the petitioner sustained an injury to the neck which presents signs of a fibromyositis of the trapezius muscle as well as of the deeper muscles of the right side of the neck. I further find that respondent Alexander J. Milmoe t/a Milmoe Construction Companjq was not insured as required by the Employer’s Liability Insurance Law of the Workmen’s Compensation Act.
+After considering the facts as they appeared at the trial and as outlined in the preceding paragraph hereof and after hearing the arguments of counsel for the respective parties to this proceeding I have concluded that petitioner met with an accident arising out of and in the course of his employment with respondent Alexander J. Milmoe t/a Milmoe Construction Company. I find that said Alexander J. Milmoe is therefore obliged to pajr to petitioner the compensation which is hereinafter awarded and judgment will be entered accordingly. I further find that said Alexander J. Milmoe did not carry workmen’s compensation insurance as is required by the “Employers’ Liability Insurance Law” (R. S. 1937, 34:15-78; N. J. S. A. 34:15-78) at the time of the accident. In consequence thereof I find that International Excavating Company, Inc., is also obliged to pay to petitioner the compensation as hereinafter awarded; judgment will be entered accordingly under the direction of the statute in such case made and provided—“Employers’ Liability Insurance Law,” R. 8. 1937, 34:15-79; N. J. S. A. 34:15-79—which among other things provides as follows:
+“Any contractor placing work with a subcontractor failing to carry workmen’s compensation insurance as required by this article becomes liable for any compensation which may be due an employee * * * of the subcontractor.”
+I dismiss the petition as against respondent Charles Greenwood t/a Greenwood Construction Company as I find nothing in the statute which fixes any liability on him. & íJí & í|í # >;j
+After considering all the testimony adduced before me I have come to the conclusion that petitioner has sustained a permanent disability of 15% of partial permanent total disability including the orthopedic disability. v ^ ^
+It is therefore * * * ordered that judgment be entered in favor of petitioner and against respondents Alexander J. Milmoe t/a Milmoe Construction Company and International Excavating Company in accordance with the above findings.
+John C. Wegner,
+Deputy Commissioner.
