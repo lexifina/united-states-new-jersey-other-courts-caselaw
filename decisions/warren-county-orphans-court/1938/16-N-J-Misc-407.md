@@ -1,0 +1,19 @@
+---
+court: "Warren County Orphans Court"
+decided: "1938-08-10"
+citations: ["16 N.J. Misc. 407"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE APPEAL FROM THE ORDER OF THE SURROGATE OF THE COUNTY OF WARREN ADMITTING TO PROBATE A CERTAIN PAPER-WRITING AS THE LAST WILL AND TESTAMENT OF EDWARD MESSACH, DECEASED."]
+source_url: "https://static.case.law/nj-misc/16/cases/0407-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 452594
+---
+
+# In re the Order of the Surrogate of the County of Warren Admitting to Probate A Certain Paper-Writing as the Last Will & Testament of Messach
+
+## Majority (Rosecrans, C. P. J.)
+
+Rosecrans, C. P. J.
+(Orally.) This is an appeal from the probate of the will of Edward Messach, taken by certain interested parties. The facts indicate that the decedent was brought to a hospital in Stroudsburg, Pennsylvania, on June 1st, 1938, at ten-thirty o’clock in the evening as a very sick man in the words of his physician, Dr. Howard Ott. On the following day at about three o’clock in the afternoon, the sole legatee mentioned in the will, one John K. Allen, brought the proposed will from the office of a scrivener at Portland, Pennsylvania, to the hospital room where the decedent was in bed. He was then seriously ill from pneumonia and died early the next morning, June 3d, 1938. The testimony of the two subscribing witnesses fails to disclose any publication of the will whatsoever by the testator. The statute, Bev. Slat. 1937, 3:2-3, provides that “a will to be valid shall be in writing and signed by the testator, which signature shall be made by the testator, or the making thereof acknowledged by him, and such writing declared to be his last will, in the presence of two witnesses present at the same time, who shall subscribe their names thereto, as witnesses, in the presence of the testator.” Neither of the subscribing witnesses has in any way indicated that the testator published or declared this paper-writing to be his last will in their presence at the time of making his mark and prior to the time that the subscribing witnesses affixed their signatures as such. The decedent was then too sick to write his name. The sole legatee, John K. Allen, was produced as a witness and stated that everything was done at the time of the signing of the will in substantially the manner described by the two subscribing witnesses. He also testified that he read the will twice to the proposed testator before the witnesses entered the room but qualified this by stating that he thought one of the subscribing witnesses was present in the room at the time of one of the readings. In such particulars only does his testimony conflict with that of the subscribing witnesses and in no way does it indicate that there was any publication by the testator of this will in the presence of both subscribing witnesses before they affixed their names as such. The lay scrivener testified that he drafted the will in the afternoon of June 2d, 1938, from information given him by the decedent on several occasions during the week or two preceding and that it was drawn in conformity with instructions so given him by the proposed testator. Such testimony of the legatee and the scrivener does not satisfy the requirements of the statute. The law is clear that there must be, at the time of execution, some word or unmistakable act by the testator, or by someone in his presence to which he gives a sign of his assent, manifesting to the subscribing witnesses that the testator knew and wished them to know that he was executing his will. A long line of decisions support these views. The order of the surrogate admitting this paper-writing of Edward Messaeh to probate will be reversed and the letters testamentary revoked.
