@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1981-10-05"
+citations: ["181 N.J. Super. 278"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GORDON GEIGER AND CHARLES INFUSINO, PLAINTIFFS, v. LEVCO ROUTE 46 ASSOCIATES, LTD., A PARTNERSHIP OF THE STATE OF NEW JERSEY, TOWNSHIP OF LITTLE FALLS PLANNING BOARD AND ALBERT SPAAK, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/181/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 909191
+cites_cases: ["134 N.J.Super. 583", "161 N.J.Super. 564", "45 N.J. 268"]
+---
+
+# Geiger v. Levco Route 46 Associates, Ltd.
+
+## Majority (ROMEI, J. J. D. R. C.)
+
+ROMEI, J. J. D. R. C.
+(temporarily assigned).
+Plaintiffs Gordon Geiger and Charles Infusino seek an order to enjoin a commissioner from further participation in a planning board hearing because of “bias and prejudice against the objectors.”
+The applicant, Levco Route 46 Associates, Ltd., applied for site plan approval and a parking variance to develop a shopping center on lands located in West Paterson and Little Falls. Its application is presently the subject matter of a hearing before the Township of Little Falls Planning Board which commenced on August 27. Plaintiffs participated in the hearing as objectors.
+At the hearing Commissioner Spaak asked objectors’ attorney to confirm that one of the objectors was the owner of Shop-Rite. This was done. Objectors’ attorney then addressed several motions to the board. The commissioner intervened during the presentation of the argument and he made a motion to deny objectors’ request because from “a very pragmatic point of view” the attorney “is being hired by two township taxpayers, but it seems to me this is presenting competition.” Plaintiffs’ counsel demanded clarification of his remarks. He refused. The attorney then asked the commissioner to disqualify himself because of bias and prejudice. Again, Commissioner Spaak refused. The board then voted not to disqualify the commissioner. Thereafter, testimony of one witness was heard and the hearing adjourned to another date.
+On September 25 plaintiffs filed a verified complaint and secured the issuance of an order to show cause. They demand discovery “on all issues” and a hearing to determine whether the commissioner should be barred from participating in the hearing because of bias and prejudice.
+Of course, a planning board acts in a quasi-judicial capacity. Its commissioners are bound in good conscience to consider all of the evidence and to be guided by the evidence alone. They must reach conclusions uninfluenced by extraneous considerations. The applicant and the objectors are entitled “to a fair hearing consistent with fundamental standards of due process.” Kramer v. Sea Girt Bd. of Adj., 45 N.J. 268, 280 (1965). Although courts are extremely cautious in interfering with the administrative process and, in fact, rarely do so, they will intervene when justice and administrative due process mandate relief. Ferrari v. Melleby, 134 N.J.Super. 583 (App.Div. 1975); In re Allstate Ins. Co., 161 N.J.Super. 564 (App.Div.1978).
+Plaintiffs, however, may not institute a plenary action before completion of the administrative process. They may only apply for leave to appeal an interlocutory order of the administrative body pursuant to RA:69 — 7, which provides:
+If a final decision or action of an agency or officer is reviewable by a trial division of the Superior Court pursuant to 12.4:69, an application may be made by an aggrieved party to such Court for leave to appeal an interlocutory order of such agency or officer in the manner prescribed by 12.3:24, insofar as applicable. Notice of the application shall be given by the party appealing to all other parties in interest.
+The objectors have not filed a motion for leave to appeal the interlocutory order complained of. Instead, they have instituted a plenary action. However, the form of the application does not present a problem since the court can view the pleadings as an application for leave to appeal under R. 1:1—2. The more substantial question is whether the court can consider such an application on the merits when it is not made until 29 days after the entry of the interlocutory order. A review of 12.4:69, “Actions In Lieu of Prerogative Writs”, reveals that specified time periods are established within which prerogative writ actions must be filed to review final determinations of administrative agencies. Nonetheless, the time periods for the commencement of such actions can be enlarged pursuant to R.4:69-6(c) “where it is manifest that the interest of justice so requires.” Significantly, R. 4:69-6(c) is not made applicable to interlocutory appeals. The time period within which applications for leave to appeal interlocutory orders must be filed is established in 12. 3:24(c), which requires that such applications be filed within ten days after the entry of the interlocutory order. Further, R. 1:3-4(c) specifically prohibits the court from enlarging the time period specified.
+The purpose of the rules governing interlocutory appeals to the Superior Court from administrative agencies is clear. An application for leave to appeal is permitted, but it is conditioned upon expeditious filing so that the administrative process is not delayed indefinitely. Here the planning board alone is entrusted with the statutory responsibility of deciding the applicant’s petition. Courts normally do not review decisions of a planning board until exhaustion of the administrative process. Plaintiffs have not filed the application for leave to appeal within ten days. The court cannot enlarge this time period. Accordingly, the court cannot consider the merits of the application for leave to appeal for lack of jurisdiction.
+Plaintiffs’ complaint is therefore dismissed. Needless to say, plaintiffs are not prejudiced thereby because they have the right to seek judicial review upon completion of the administrative process.
