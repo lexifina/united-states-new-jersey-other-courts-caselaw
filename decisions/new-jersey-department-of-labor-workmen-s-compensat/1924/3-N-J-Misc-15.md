@@ -1,0 +1,23 @@
+---
+court: "New Jersey Department of Labor, Workmen's Compensation Bureau"
+decided: "1924"
+citations: ["3 N.J. Misc. 15"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Mickens, petitioner, v. Paterson Milk and Cream Company, repsondent."]
+source_url: "https://static.case.law/nj-misc/3/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439843
+---
+
+# Mickens v. Paterson Milk & Cream Co.
+
+## Majority (Harry J. Goas. Deputy Commissioner.)
+
+* * * This is a case wherein the petitioner seeks compensation for a traumatic right inguinal hernia sustained by him as. a result of an accident arising out of and in the course of his employment on February 16th, 1924.
+The petitioner, amongst other things, testified that on the day of the accident, and for a long time prior thereto, he was employed by the respondent at $30 per week as a driver and deliverjanan; that as such it was part of his duties to load and unload the respondent’s milk trucks; that on the day of the accident — an icy and slippery day — he was unloading cans of milk from one of the respondent’s trucks-which was standing in its yards; that while he was> standing on the running board of the truck, which was icy and slippery, and was in the act of swinging a can of milk, weighing about one hundred and twenty pounds, from the truck to the ground, he slipped, the can of milk striking him a. terrific blow on the right side of his body, hurling him to- the ground and then falling on top of him. That when struck he felt a ripping or tearing in his right side in the spot where struck, and upon placing his hand on the spot felt a big lump there • that the pain was intense, and he then became unconscious; that when he was revived he found himself in bed, having been carried up- from the place of the accident by Richard Parr, who was working with him at the time on the truck; that he felt sick at the stomach and vomited and had in-, tense pain in the region where he had been struck, where the lump had appeared and which was discolored blue; that his wife placed hot applications to the spot and gave him aspirin tablets every couple of hours, and as many as twelve a day, to> relieve his pain and suffering; that Jacob Deitsch, the president of the respondent, called to see him a couple of hours after the accident, and, when requested to send a doctor, promised to send for Ms insurance company’s doctor; -l hat after numerous such requests Jacob Deitsch finally had him carried from his bed to one of the respondent’s trucks and conveyed to Dr. Russell’s office, where he was •found to he suffering from a right inguinal hernia; that he was, after this examination, carried back to his bed, where he remained for about nine daj^s; that he was unable to work until about September following the accident; that he was treated twice by Dr. Russell and twice by Dr. Thomas A. Clay, who also found him to be suffering from a right inguinal hernia; he was not operated upon; that he was always in good health, and prior to his employment by the respondent had undergone a physicial examination at the hands of Drs. Townsend and then Dr. McAllister, both of who found him to be in perfect health; that he was always able to perform his work at the respondent’s business with ease and without any distress, and that on the day of the accident, and right up to1 the time of the accident, he was in good and perfect health. In these respects he is corroborated by the testimony of his wife. Dr. Thomas A. Clay also testified that he found the petitioner to be suffering from a rigid, inguinal hernia, which was of a traumatic nature.
+* * * It is therefore, on this 18th day of November, 19.24-, ordered that judgment enter in favor of the petitioner and against the respondent, and that the respondent pay unto the petitioner as compensation for the traumatic right inguinal hernia sustained by him as a result of the accident, twenty weeks at the rate of $17 per week, and also- the sum of $15 for a truss.
+It is 'further ordered that the respondent make an immediate payment to the petitioner of the aforementioned sum of $.155, being $340 as compensation for twenty weeks, and $15 the reasonable cost of a truss.
+It is further ordered that, in addition to the foregoing, the respondent pay to- the attorneys for the petitioner the sum of $75 for their services in this proceeding, and also the costs cf these proceedings for stenographer, which are hereby fixed as the sum of $10.
+Harry J. Goas. Deputy Commissioner.
