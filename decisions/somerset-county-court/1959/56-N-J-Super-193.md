@@ -1,0 +1,41 @@
+---
+court: "Somerset County Court"
+decided: "1959-05-22"
+citations: ["56 N.J. Super. 193"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF, v. DOROTHY DEMKO, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/56/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 398846
+cites_cases: ["16 N. J. 125", "19 N. J. 540", "295 U. S. 78"]
+---
+
+# State v. Demko
+
+## Majority (Chiaravalli, J. C. C.)
+
+Chiaravalli, J. C. C.
+This is a notice of a motion to adjourn this case from the June term to the next session of court because of the fact that certain newspaper articles attributable to the prosecutor’s office are prejudicial to the defendant. I have read these articles affixed to the notice of motion and they relate to certain alleged statements made by the former and present prosecutors. I have read them in the light of placing myself in the category of a potential juror rather than the judge who may preside in the trial of this case, to ascertain whether or not this motion should be granted.
+I cannot criticize or find fault in those articles which describe the proceedings in the municipal court in Bound Brook because they contain statements from witnesses under oath and a newspaper has a perfect right to describe any proceedings that take place in a court room, this being known as freedom of the press. However, the articles that allude to certain alleged statements made by the prosecutor’s office is another thing, and we must bear in mind that these statements, if true, refer to a defendant who has pleaded innocent and who, in the eyes of the law, is presumed to be innocent until proven guilty beyond a reasonable doubt.
+The articles seem to indicate that defendant inflicted the alleged injuries and is the type of mother who should have her child taken away from her, but that the prosecutor is powerless to act because of the present laws. I am now quoting words allegedly used by the prosecutor in one of the articles:
+"The laws we now have on the books are inadequate to have the baby forcibly removed from the custody of the parents unfortunately. The Prosecutor’s office has been aware for several weeks that the baby might be discharged and has exercised every reasonable effort to have the baby placed in a foster home or some other institution. We have attempted to have the parents give up the baby voluntarily but they have refused. Under the circumstances and the laws as they now exist we have been unable to accomplish anything.”
+The prosecutor said he will press for the indictment of Mrs. Demko and will work to convict her on the evidence his office holds. Then below this article the papers quote that the baby was given a 50-50 chance for survival, and that when she was brought to the hospital the child had received round the clock loving care from doctors, nurses and aides alike.
+The prosecutor should hereafter bear in mind that in any pending case no statements, directly or indirectly, should be given to the papers that may tend to prejudice the public. Because we are all human beings, articles we read may prejudice us, no matter how hard we may try not to become influenced.
+There are the Canons of Professional Ethics that lawyers are all bound by, and in addition thereto there are many cases that define the duties of a prosecutor. I specifically refer to the case of State v. D’Ippolito, 19 N. J. 540 (1955), where the court (at page 549) said that “The primary duty of a lawyer engaged in public prosecution is not to convict, but to see that justice is done.” And there is no doubt in the court’s mind that the prosecutor is subject, as are all members of the bar, to the dictates of Canon 15, and especially Canon 20 dealing with newspaper discussion of pending litigation and which reads:
+“Newspaper publications by a lawyer as to pending or anticipated litigation may interfere with a fair trial in the Courts and otherwise prejudice the due administration of justice. Generally they are to be condemned. If the extreme circumstances of a particular case justify a statement to the public, it is unprofessional to make it anonymously. An ex parte reference to the facts should not go beyond the quotation from the records and papers on file in the Court; but even in extreme cases it is better to avoid any ex parte statement.”
+Canon 20 not only has reference to a lawyer but, in the court’s opinion, refers likewise to a public prosecutor.
+The recent report of the New Jersey Supreme Court’s Committee on Rules contained a proposal that Canon 20 be strengthened because:
+“The present Canon has apparently been inadequate to deal with the situation, particularly in criminal cases where the details of the State’s case are frequently reported prior to trial.”
+In other words, there is a growing concern among members of the bar that a defendant’s rights axe affected when details of the State’s case are publicized in the newspapers prior to trial.
+The C’lppolito case, supra, 19 N. J., at page 549, states:
+“A public prosecutor has special responsibilities which have never been better described than by Mr. Justice Sutherland in Berger v. United States, 295 U. S. 78, 55 S. Ot. 629, 79 L. Ed. 1314 (1935).
+‘The * * * [prosecuting] attorney is the representative not of an ordinary party to a controversy, but of a sovereignty whose obligation to govern impartially is as compelling as its obligation to govern at all; and whose interest, therefore, in a criminal prosecution is not that it shall win a case, but that justice shall be done. As such, he is in a peculiar and very definite sense the servant of the law, the twofold aim of which is that guilt shall not escape or innocence suffer. He may prosecute with earnestness and vigor— indeed, he should do so. But, while he may strike hard blows, he is not at liberty to strike foul ones. It is as much his duty to refrain from improper methods calculated to produce a wrongful conviction as it is to use every legitimate means to bring about a just one.
+It is fair to say that the average jury, in a greater or less degree has confidence that these obligations, which so plainly rest upon the prosecuting attorney, will be faithfully observed. Consequently, improper suggestions, insinuations, and, especially, assertions of personal knowledge are apt to carry much weight against the accused when they should properly carry none.’ ”
+Justice Jacobs, in the case of State v. Orecchio, 16 N. J. 125, 129 (1954), said:
+“The sound administration of criminal justice in our democracy requires that both the end and the means be just. The accused, no matter how abhorrent the offense charged nor how seemingly evident the guilt, is entitled to a fair trial surrounded by the substantive and procedural safeguards which have stood for centuries as bulwarks of liberty in English speaking countries.”
+In one of the articles the prosecutor is described as being incensed. I can well understand that there may be cases that will upset a conscientious prosecutor when he has come to the conclusion that a vicious and uncalled for criminal oifense has taken place, but no matter how vicious or uncalled for the alleged crime may be, the prosecutor should control his feelings so that no one is able to ascertain or describe his inner feelings in the matter.
+Counsel should, and I know they will, understand that this motion is somewhat embarrassing to me because I had to resolve questions involving not only law but possibly one of ethics, and I do not want to give the impression to any one that remarks made by me infer that I have found there has been a violation of the Canon of Professional Ethics. However, I feel that counsel in the future, when discussing matters with any newspaper reporter, should be guided by the remarks I have made here today.
+In conclusion, the question is: Should the trial be adjourned to a later date? I feel that the defendant’s rights will be properly safeguarded since counsel have a right to interrogate the jurors as to any prejudice they might have relating to the reading of any newspaper articles, and if so, exercise the usual challenge.
+Therefore, I deny the motion.
