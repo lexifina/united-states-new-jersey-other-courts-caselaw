@@ -1,0 +1,30 @@
+---
+court: "New Jersey Court of Chancery"
+decided: "1919-05-10"
+citations: ["91 N.J. Eq. 4"]
+reporter: "nj-eq"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Andrew F. O’Connell v. John S. W. Holton."]
+source_url: "https://static.case.law/nj-eq/91/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 121985
+cites_cases: ["84 N. J. Eq. 389", "88 N. J. Eq. 385"]
+---
+
+# O'Connell v. Holton
+
+## Majority (Leaming, V. C.)
+
+Leaming, V. C.
+In this suit complainant seeks the enforcement of a restrictive building covenant which provides that — •
+“No building shall at any time be erected within twenty feet of the front property line of any street or avenue.”
+This is one of the covenants uniformly contained in the Chelsea Beach Company conveyances, which covenants have heretofore been before this court for enforcement in. repeated cases. Various reported eases touching this specific covenant are reviewed by Chancellor Walker in Pearson v. Stafford, 88 N. J. Eq. 385.
+Complainant’s building is on Chelsea avenue.; defendant’s building is on an adjacent lot oceanward thereof. Both residences were located so that the fronts of their main bodies were twenty feet, from the street line, and both had open roof-covered porches extending within the restricted space. This w'as in accordance with what appears to have been the uniform practice in, that locality.
+Defendant has since enclosed his porch with glass and finished its interior in a manner to practically make it a living-room of the dwelling. It is that act of which complainant now complains.
+Defendant contends that the covenant here in question has been violated to such an extent in that vicinity that it can be no longer enforced; that complainant has, with others, violated the covenant by extending the eaves of his main building over the restricted space; that all open porches extending over the restricted space, including complainant’s porch, are violative of the' covenant; that at least one porch near complainant’s dwelling is enclosed; that many porches in the vicinity are constructed with storerooms below the porch floors and in other respects violative of the covenant; also, that complainant is barred equitable relief by his delay in bringing this suit.
+I think it unnecessary to give consideration to, any of the defences save that last named, since it seems apparent that the delay of complainant in informing defendant of Ms objections to the work and his delay in filing his bill must be deemed operative to deny to him the relief now sought.
+Defendant began work on the porch improvement early in November, 1918, and at a time when complainant was occupying his cottage. Complainant admittedly observed the work at that time; but whether he then comprehended the real nature of the work is a matter of dispute. But in January following, when complainant visited the property, the work had been about two-thirds completed, and the entire nature and scope of the work was admittedly ascertained by complainant. Complainant then notified a certain improvement association of his objections to the work. That association appears to be an organization, composed of various lot owners, for the purpose of enforcing these restrictive building covenants, and complainant is a member of that association.
+That association did nothing in the matter until early in March following, when its solicitor by letter apprised defendant that his .work was violative of the covenant and that unless he removed such portions as were violative of the restrictions a bill for an injunction would be filed at once. At about the same time complainant also saw defendant and informed him of his objections to the work. At that time the entire work had been practically completed. The bill herein was filed March 30th following, and seeks a mandatory injunction for the removal of the structure.
+It thus appears that, even though when complainant observed the work at or near its inception he may not have been fully apprised of its proposed nature and extent, yet when the work had been about two-thirds completed he became fully acquainted with its exact nature and purpose, and, instead of apprising defendant of his objections to it, contented himself with informing the improvement association of his objections, and that association, which was in every respect solely his agent or representative, permitted defendant to complete the remaining one-third of the work without notifying defendant of existing objections to it, and about a month after the completion of the work the bill for mandatory relief was filed.
+The work has been of an expensive nature, and should the relief now sought be granted, defendant will suffer a loss of at least one-third of the construction cost by reason of complainant’s failure to perform a clear duty to have defendant apprised of his objections to it, or to file a bill to interrupt it. Whether defendant would have ceased further work had he been apprised of complainant’s objections to it does not appear1; but, when complainant ascertained the nature and extent of the proposed work and determined to enforce the covenant, it was clearly his duty to promptly apprise defendant of his attitude in the matter, to the end that defendant could be afforded an opportunity to avoid further useless expense; and this is equally so whether or not defendant in fact knew of the existence of this restrictive building covenant. To- compel defendant to remove this structure at the instance of complainant after complainant has, with full knowledge of the nature of tire work, permitted at least one-third of it to be performed without protest to defendant and without application to this court to interrupt it, would, in. my judgment, be unjust to defendant and violative of the recognized principles upon which equitable relief in general, and especially in cases of this class, is based. Smith v. Spencer, 84 N. J. Eq. 389.
