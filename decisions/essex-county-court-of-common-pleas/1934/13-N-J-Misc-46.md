@@ -1,0 +1,24 @@
+---
+court: "Essex County Court of Common Pleas"
+decided: "1934-12-21"
+citations: ["13 N.J. Misc. 46"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TOWNSHIP OF MAPLEWOOD, PROSECUTOR-RESPONDENT, v. LENA ALBRIGHT, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-misc/13/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 576750
+cites_cases: ["133 U. S. 333", "169 Atl. Rep. 345"]
+---
+
+# Township of Maplewood v. Albright
+
+## Majority (Beennán, C. P. J.)
+
+Beennán, C. P. J.
+This is a review of the conviction of the defendant had in the Recorder’s Court of the township of Maplewood, for the violation of a township ordinance which interdicts canvassing, soliciting, distributing circulars or other matter, and calling from house to house in the township of Maplewood, without having first reported to and received permission from the chief of police or the officer in charge of police headquarters so to do.
+Counsel for the defendant-appellant advances among other arguments, the proposition that the conviction is invalid by reason of the fact as he asserts, that it is an attempt to interfere with the guarantees of religious freedom established by the constitution of the United States and that of the State of New Jersey. It is significant to observe that the amendment to the federal constitution contains no direct guarantee in such respect. The provision for religious liberty in the constitution of the United States is embodied in the first amendment and applies only to congress and provides: “Congress shall make no law respecting the establishment of religion, or forbidding the free exercise thereof * * *.” The constitution of the State of New Jersey provides, article 1, section 3 : “No person shall be deprived of the inestimable privilege of worshipping Almighty God in a manner agreeable to the dictates of his own conscience.”
+I conceive that the provisions of the particular ordinance of the township of Maplewood under consideration do no violence to our constitutional guarantees. The United States Supreme Court, in Davis v. Beason, 133 U. S. 333, puts very nicely, what is meant by religion in the constitutional mandate, and its reasoning applies I think with equal force to the constitution of the State of New Jersey. The court said: “The term ‘religion’ has reference to one’s views of his relations to his Creator, and to the obligations they impose of reverence for his being and character, and of obedience to his will. It is often confounded with the cultus or form of worship of a particular sect, but it is distinguishable from the latter.”
+The learned counsel for the defendant-appellant advances as a further argument, the proposition that the ordinance is an unwarranted and illegal exercise of the police power of the municipality. The authority for the ordinance is found in section 2 of article 14 of the laws of 1917, popularly called the “Home Eule act.” There is a broad grant of power to the municipality by the legislature, in this statute, for the preservation of public health, safety and prosperity of the municipality and its inhabitants. The defendant-appellant is a member of a religious sect with its own interpretation of the Eiblo and its own philosophy based thereon, and it happens that in this ease, without a permit from the chief of police or other officer of the municipality, she was soliciting support for the sale of pamphlets which contain an exposition of the religious principles of the particular sect and are available for a consideration either singly or in lots. It is contended by reason of the nature of the defendant’s mission and the ostensible salutary purpose that she was attempting to achieve, that she is not within the purview of the ordinance. With this proposition I am not in accord. It seems to me well within the power of the municipality to protect its householders and housewives from the unwarranted intrusion on their premises of strangers and persons not calling in the ordinary course of business by reasonable police regulation. This principle is recognized in Allen v. McGovern, 12 N. J. Mis. R. 12; 169 Atl. Rep. 345. While a rather elaborate machinery was set up by the municipality for the granting of permits under this ordinance, it is significant to observe that all this was to be done at the expense of the township and no fee whatever was exacted for any of the service involved, including the grant of the permit.
+The objection to the form and substance of the record of conviction I pass by as without legal merit. The record returned into court here from the Eecorder’s Court of Maple-wood, is most complete and in my judgment legally sufficient. The conviction is affirmed.
