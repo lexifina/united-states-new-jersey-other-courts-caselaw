@@ -1,0 +1,24 @@
+---
+court: "New Jersey State Board of Tax Appeals"
+decided: "1942-11-04"
+citations: ["20 N.J. Misc. 484"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CITY OF JERSEY CITY, PETITIONER, v. WILLIAM D. KELLY, STATE TAX COMMISSIONER, AND NEW YORK CENTRAL RAILROAD SYSTEM, LEHIGH VALLEY RAILROAD SYSTEM, DELAWARE, LACKAWANNA AND WESTERN RAILROAD SYSTEM, ERIE RAILROAD SYSTEM, NEW YORK, SUSQUEHANNA AND WESTERN RAILROAD SYSTEM, PENNSYLVANIA RAILROAD SYSTEM, AND HUDSON AND MANHATTAN RAILROAD COMPANY, RESPONDENTS. CITY OF HOBOKEN, PETITIONER, v. WILLIAM D. KELLY, STATE TAX COMMISSIONER, AND NEW YORK CENTRAL RAILROAD SYSTEM, DELAWARE, LACKAWANNA AND wESTERN RAILROAD SYSTEM, ERIE RAILROAD SYSTEM, PENNSYLVANIA RAILROAD SYSTEM, HOBOKEN RAILROAD WAREHOUSE AND STEAMSHIP CONNECTING COMPANY, HOBOKEN MANUFACTURERS RAILROAD, AND HUDSON AND MANHATTAN RAILROAD, RESPONDENTS. TOWN OF SECAUCUS, PETITIONER, v. WILLIAM D. KELLY. STATE TAX COMMISSIONER, AND DELAWARE, LACKAWANNA AND WESTERN RAILROAD ’ SYSTEM. ERIE RAILROAD SYSTEM, AND PENNSYLVANIA RAILROAD SYSTEM, RESPONDENTS. TOWN OF HARRISON, PETITIONER, v. WILLIAM D. KELLY, STATE TAX COMMISSIONER, AND DELAWARE, LACKAWANNA AND WESTERN RAILROAD SYSTEM, ERIE RAILROAD SYSTEM, AND PENNSYLVANIA RAILROAD SYSTEM, RESPONDENTS."]
+source_url: "https://static.case.law/nj-misc/20/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 432271
+---
+
+# City of Jersey City v. Kelly
+
+## Majority (Waesche, President.)
+
+Waesche, President.
+On September loth, 1942, at the time of the calling of the calendar of appeals from the assessments of railroad property and excise taxes by the State Tax Commissioner for the year 1942, the president of this Board directed the attention of all counsel to that section of the statute which provides that the State Board of Tax Appeals shall conclude its hearings on or before the loth day of October following the filing of the complaint, and stated that the Board was ready to proceed with the hearings at once and to continue from day to day in order to comply with the statutory provision. During the hearings of the appeals, it became evident that it would be impossible for the Board to conclude its hearings before the 15th day of October, and the interested parties in such appeals had a bill drafted and submitted to the legislature to extend the time bevontl the loth of October, but the legislature took no action thereon.
+On October 15th, 1942, the calendar of appeals not yet heard was called. All of such appeals were answered ready, and counsel for four of the respondent railroad companies then moved that the appeals be dismissed on the ground that there is no appeal pending because the appeal complaints contained no specification of the parcels of land and the improvements, as required by statute and the rules of this Board. Counsel for all of the other respondent railroad companies and the Attorney-General, on behalf of the State Tax Commissioner, joined in such motion. Argument ivas had and the parties requested, the privilege of submitting briefs. No testimony, however, was offered on any of such appeals.
+While the objection made to the form of these complaints, in so far as they deal with the valuation of second class property, seems to be substantial, it appears unnecessary to determine this motion in view of the fact that in the opinion of the Board, no hearings on these appeals could legally be held after October 15th, 1942.
+The Railroad Tax Law, chapter 291 of the laws of 1941, under article 6, sets out in detail the procedure to be pursued on appeal and review, and in Section 31 fixes the third Monday of June following the assessment as the day on or before which an appeal in the form of a written complaint may be filed with the State Board of Tax Appeals. Section 33 then provides that the State Board of Tax Appeals shall meet on the third Monday of June in each year for the purpose of fixing a time and place for the hearings of any such complaints so filed; section 34 then provides, “The State Board of Tax Appeals shall conclude its hearing on or before the loth day of October following the filing of the complaint, and between November 1st and November 5th following shall certify to the State Tax Commissioner its final determination.”'
+It is the opinion of the Board that in so far as the Railroad Tax Law of 1941 is concerned, all of such dates are mandatory and that this Board must conclude .its hearings on or before the 15th day of October following the filing of the complaint.
+These appeals are accordingly dismissed, and the tax assessments levied by the State Tax Commissioner for the year 1942 against the above named companies are affirmed, without prejudice.
