@@ -1,0 +1,35 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1987-01-22"
+citations: ["218 N.J. Super. 255"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CASEY’S AUTO PARTS, INC., A CORPORATION OF THE STATE OF NEW JERSEY, PLAINTIFF, v. CITY OF CAMDEN, A MUNICIPAL CORPORATION OF THE STATE OF NEW JERSEY, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/218/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 707179
+cites_cases: ["125 N.J.Super. 67", "25 N.J. 317", "59 N.J. 471", "67 N.J. 403"]
+---
+
+# Casey's Auto Parts, Inc. v. City of Camden
+
+## Majority (DAVIS, J.S.C.)
+
+DAVIS, J.S.C.
+This matter has been brought before this court by way of a verified complaint in lieu of prerogative writs, which has as its factual underpinnings a group of facts that current research indicates have never before been analyzed in their relationship with the public bidding laws.
+The City of Camden solicited bids for the purpose of obtaining a towing service for abandoned or otherwise removable vehicles found within its geographical boundaries. In its solicition, it reserved the right to “reject any or all proposals----” On the date called for the opening of bids, two bids had been submitted and were opened, and the petitioner was the lowest bidder. No award was made at that time, which is usual. The 60-day period of time within which the City had to engage in this bidding process, N.J.S.A. 40A:ll-24, expired without any action by the City. Some 22 days after the expiration of the 60-day period, the City, presumably on the advice of counsel, passed a resolution “rejecting all bids”, which indicated that they were of the opinion that they could not then take action because the 60-day period had expired.
+The petitioner requests this court to order the award of the contract to them, declare them to be the lowest responsible bidder, or in the alternative, award them consequential damages because of the City’s failure to make an award, or at least give them a hearing on the issue of whether it is the lowest responsible bidder.
+It is agreed by both parties that N.J.S.A. 40A: 11-24 is the appropriate and most applicable section of the Local Public Contracts Law. It is undisputed that this statute does not specifically address this factual scenario, whether speaking with regard to the award of a contract or with regard to the return of deposits. Therefore, counsel have inferentially agreed that the legislative purpose in drafting this statute and other relevant law surrounding the bidding process must be determined and evaluated in order to arrive at a meaningful resolution.
+The statute in pertinent part is set forth below:
+40A:ll-24. Time for making awards; deposits returned
+The contracting unit shall award the contract or reject all bids within such time as may be specified in the invitation to bid, but in no ease more than 60 days, except that the bids of any bidders who consent thereto may, at the request of the contracting unit, be held for consideration for such longer period as may be agreed. All bid security except the security of the three apparent lowest responsible bidders shall be returned, unless otherwise requested by the bidder, within 10 days after the opening of the bids, Sundays and holidays excepted, and the bids of such bidders shall be considered as withdrawn. Within 3 days, Sundays and holidays excepted, after the awarding and signing of the contract and the approval of the contractor’s performance bond, the bid security of the remaining unsuccessful bidders shall be returned to them.
+Fortunately, it is no longer necessary for the court or counsel to grapple with the problem of ascertaining the legislative intent, for our volumes are replete with the often cited purpose as being to guard against favoritism, improvidence, extravagance and corruption, and to secure for the public the benefits of unfettered competition. Terminal Const. Corp. v. Atlantic Cty. Sewerage Auth., 67 N.J. 403, 410 (1975).
+The question presented by the facts of this case is whether the failure of a municipality to act upon solicited bids during the 60-day period must be considered as a rejection of all bids. The circumstances mandate that such inaction be considered as a rejection of all bids once the 60-day period expires.
+The City has argued for a contrary conclusion simply on the basis that inaction cannot be action and that rejection requires action. Additionally, the City has argued that its conduct was no more than an abandonment of the bidding process, and therefore, no bidder is entitled to question it about its motives. The City recognizes that if there were a rejection, the lowest bidder would be entitled to a hearing for the purpose of ascertaining the City’s reasons for rejection.
+The language of the statute, as drafted, leaves an opening through which the evils sought to be eliminated can escape and wreak havoc with the public good. A designing municipality could do indirectly that which it would not be able to do directly. Fortunately, our courts have consistently adopted a policy of slamming shut such unintended doors. As Justice Francis observed in Tp. of Hillside v. Sternin, 25 N.J. 317, 326 (1957):
+In this field it is better to leave the door tightly closed than to permit it to be ajar, thus necessitating forevermore in such cases speculation as to whether or not it was purposely left that way.
+If a diligent municipality rejects bids in a timely fashion, it is subject to having such timely conduct examined in a public forum for the benefit of the public good, Trap Rock Industries, Inc. v. Kohl, 59 N.J. 471, 479 (1971). Therefore, there seems to be no logical reason why a less diligent or even designing municipality can escape such scrutiny by not acting at all. There exists reasons for action and inaction, each category of which may be laudable, excusable or fraught with the evils the statute seeks to prevent. Giving the lowest bidder the opportunity to make inquiry of the motives for the City’s inaction assures the public that it will obtain all that is due it in the procurement process. Trap Rock, supra, at 480.
+The City also argued that since it had reserved the right to reject all bids it had not violated the mandate of the statute. Since the City did not in any way actively exercise its right to reject, the clause is of no moment. The exercise of such a contractual right would not be a bar to a hearing requested by the lowest bidder.
+Accordingly, the petitioner is entitled to a hearing so that it can be ascertained whether it is the lowest responsible bidder and whether the reasons of the City were arbitrary and capricious or negligent. Whether negligence is sufficient to warrant the mandating of an award must await the conclusion of the plenary hearing.
+The petitioner’s alternate request for award of damages is rejected as a matter of law. M.A. Stephen Const. Co. v. Bor. of Rumson, 125 N.J.Super. 67, 75 (1973).
