@@ -1,0 +1,47 @@
+---
+court: "Tax Court of New Jersey"
+decided: "1980-08-11"
+citations: ["1 N.J. Tax. 172"]
+reporter: "nj-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OTTO VENINO, JR. AND THOMAS M. VENINO, PLAINTIFFS, v. BOROUGH OF CARLSTADT, DEFENDANT."]
+source_url: "https://static.case.law/nj-tax/1/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 398358
+cites_cases: ["105 N.J.Super. 157", "166 A.2d 763", "251 A.2d 457", "34 N.J. 21", "346 A.2d 396", "68 N.J. 405"]
+---
+
+# Venino v. Borough of Carlstadt
+
+## Majority (EVERS, J. T. C.)
+
+EVERS, J. T. C.
+Taxpayers appeal from the denials of the Bergen County Tax Board which affirmed the assessments of $415,500 for 1974 through 1978. The order entered by the Division of Tax Appeals dismissing 1974 and 1975 complaints for lack of prosecution was vacated by consent. In addition to their claim that the assessments exceed true value the taxpayers also allege discrimination in assessments for all years.
+The vacant land, known as Block 152, Lot 95C, is fairly rectangular, contains 16.64 acres of unfilled meadowland and is subject to the jurisdiction of the Hackensack Meadowlands Development Commission (HMDC). It is located on Michel Place, (a service road off Paterson-Plank Road) between Route 17 and the New Jersey Turnpike. It is located in a HMDC zone known as island residential (IR 4) which permits low, medium and high rise dwellings and shopping centers clustered on islands surrounded by lagoons and marshlands. To develop such lands an applicant must own or control at least 80% (approximately 1,000 acres) of the lands located in the IR zone.
+The expert witnesses utilized only the market approach to estimate the value of the vacant land. The taxpayers, arguing that the 80% ownership/control requirement eliminates small parcels from development, referred to three sales of lands containing 134,151 and 556 acres which were located in Jersey City, Secaucus and North Bergen. The sales prices thereof ranged from $13,900 to $19,800 per acre, well below the $25,000 per acre assessment. The sales parcels were all located in the Meadow-lands region. Their zoning varied. Only a portion of the 556 acre trace was in the IR 4 zone.
+Of the four sales relied on by the Borough three were of less than five acres and were located in Secaucus. The other sale, known as Block 152, Lot 100, compares vary favorably with the subject premises. This 10.02 acre tract is located 1500 feet north of the subject, is composed of unfilled meadowland and is zoned IR 4. It was sold in May 1977 for $300,492 or $30,000 per acre.
+The taxpayers contend that the sale price of Lot 100 is not indicative of the true value of the subject premises because of the circumstances surrounding the transaction. They argued that the purchaser, at the time of the sale, was aware of its probable rezoning from IR 4 to light industry and acquired it with the idea of either exchanging the land with a neighboring industrial landowner or developing it for industrial use. This position was destroyed however by the testimony of the purchaser who stated that he would have purchased the property in any event for the same price. The 80% ownership/control requirement obviously was no detriment and the Court is thus satisfied that the sale was bona fide and establishes the value of the subject property. No weight is assigned to the other alleged comparable sales transactions offered by either party as none compared favorably with the premises in question. Evidence of comparable sales is effective in determining value only where there is a substantial similarity between the properties so as to admit of reasonable comparison.
+The taxpayers mistakenly adopted the position that, because their tract cannot be developed independently of the balance of the land in the Island Zone, it thus cannot be sold independently and must therefore be valued as part of a larger parcel. The IR 4 zoning of this land does not prohibit its development as is often found in cases involving floodland, coastal protection or conservation zones. This land can be developed and can be sold as is; a fact which is clearly proved by the lot 100 sale. While zoning is a factor to be considered in the true value equation, it is quite apparent that the zoning limitation of this subject tract has had little or no impact on its value.
+Noting that the lot 100 sale took place some two and one-half years after and six months prior to the beginning and ending assessment dates of the premises in question, an adjustment of the $30,000 per acre sales price is required. Under the circumstances the Court finds that a per acre value of $27,500 reflects the true value during the period in question for a total value of $457,600.
+The taxpayers claim Carlstadt did not have a common level for the tax years 1974 through 1977 and seeks to have the Director’s ratio apply to the true value pursuant to In re: Appeal of Kents, 34 N.J. 21, 166 A.2d 763, 1961. The Borough conducted a revaluation effective for the 1972 tax year and the assessments were carried forward through 1978. In 1979 the Borough was again reassessed. That the 1972 revaluation established a common level of assessments at 100% is undisputed.
+The taxpayers, relying on the sales ratio study conducted by the Director, Division of Taxation, cited general coefficients of deviation for 1974 through 1977 of 16.66%, 21.45%, 22.37% and 29.25%, respectively. A sales ratio coefficient of deviation demonstrates the extent to which the assessment to sales ratios in the Borough cluster around the average. When the coefficient is low the ratios are concentrated around the average, a fact which indicates the existence of a common level. Conversely, a high coefficient indicates the ratios are scattered widely about the average and thus no common level would exist. The Supreme Court in Tri-Terminal Corp. v. Boro of Edgewater, 68 N.J. 405, 346 A.2d 396 (1975) noted that a coefficient under 20% was sufficient to indicate a common level of assessments. Here, where the coefficients ranged from 16.66% in 1974 to 29.25% in 1978,1 find that the common level was eroded to an extent that none existed during those years.
+A finding that no common level existed however does not ipso facto entitle a taxpayer to a ratio judgment. In Feder, et a1. v. City of Passaic, 105 N.J.Super. 157, 251 A.2d 457 (App.Div.1969) the court stated:
+Where a taxpayer’s real property is assessed at a ratio to true value substantially higher than the common level, or if there is none which the assessor is endeavoring to achieve, substantially higher than the average ratio determined by the State Director of Taxation, then such taxpayer is ordinarily entitled to a reduction of his assessment down to the valuation resulting from application of the Director’s figure for the average ratio. Id. at 160, 251 A.2d at 458-59. [emphasis supplied].
+To be determined therefore is whether these taxpayers were taxed at a substantially higher ratio than the Director’s average ratio. Those ratios were: 1974-81.96%; 1975-92.13%; 1976-89.33%; 1977-93.87%; average ratio-89.2%.
+The assessment of $415,500 is 90.8% of the $457,600 true value of the property. Clearly this taxpayer has not been taxed at a ratio of assessment to true value substantially higher than the Director’s average ratio [emphasis added]. Accordingly the taxpayer is not entitled to discriminatory relief.
+As to the 1978 tax year, I find an application of the average ratio pursuant to N.J.S.A. 54:2-40.4 is not warranted. N.J.S.A. 54:2 — 40.4 states:
+(b) Whenever the Division of Tax Appeals (Tax Court) is satisfied by the proofs that the radio of the assessed valuation of the subject property to its true value exceeds the upper limit or falls below the lower limit of the common level range, it shall revise the taxable value of the property by applying the average ratio to the true value of the property except as hereinafter provided.
+Average ratio and common level are defined in N.J.S.A. 54:1— 35a to be:
+(a) The average ratio of assessed to true value of real property for a taxing district for the purposes of this Act shall mean the unweighted, unclassified, arithmetic average as determined by the Director of the Division of Taxation from the latest one year study data compiled by the Director for the purposes of P.L.1954, c. 86 (C 54:1-35.1 et seq.), as of October 1 of the year preceding the tax year as revised by the Division of Tax Appeals.
+(b) The “common level range” for a taxing district is that range which is plus/minus 15% of the average ratio for that district.
+An application of N.J.S.A. 54:2-40.4 utilizing the unweighted, unclassified arithmetic average of 97.07% as of October 1,1977 is as follows.
+County percentage level-100%
+Average ratio, 1978-98.07%
+15% common level range, upper limit-111.63%
+15% common level range, lower limit-82.51%
+Subject property true vaIue-$457,600
+Assessment $415,500
+Ratio of assessment to true value-90.8%
+The 90.8% ratio of assessment to true value is between the upper and lower limits and thus, for 1978, no ratio will be applied to the true value. For the same reason, although the true value is in excess of the original assessment, the municipality is not entitled to an increase in that assessment.
+The clerk is directed to enter judgment in the amount of $415,500 for all years in question.
