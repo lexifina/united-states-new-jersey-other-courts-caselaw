@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1981-12-22"
+citations: ["183 N.J. Super. 118"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF, v. FRANK LA FORGE, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/183/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 889523
+cites_cases: ["158 N.J.Super. 89", "178 N.J.Super. 321"]
+---
+
+# State v. La Forge
+
+## Majority (MINUSKIN, J. S. C.)
+
+MINUSKIN, J. S. C.
+The issue presented to the court on a motion to dismiss an indictment is whether defendant may be charged with conspiracy when the sole coconspirator, a government informer, merely feigned acquiescence.
+Defendant is charged with five counts of conspiracy to commit murder and arson. It is argued on his behalf that the status of the government informer and his concomitant lack of criminal purpose, effectively renders the alleged conspiracy a legal impossibility. This contention, though reflecting the majority view of the conspiratorial relationship, is antithetical to the Model Penal Code view of conspiracy as espoused and adopted by the New Jersey Criminal Law Revision Committee in its commentaries to N.J.S.A. 2C:53(a). 2 Final Report of the New Jersey Criminal Law Revision Commission, Commentary at 131 (1971). That report states, in pertinent part:
+The definition of the Code departs from the traditional view of conspiracy as an entirely bilateral or multilateral relationship, the view inherent in the standard formulation case in terms of “two or more persons” agreeing or combining to commit a crime. Attention is directed instead to each individual’s culpability by framing the definition in terms of the conduct of a group of which he is charged to be part — an approach which the Drafters of the Code designate as “unilateral.” (MPC T.D. 10, p. 104 (1960)) .. . “One consequence of this approach is to make it immaterial to the guilt of a conspirator whose culpability has been established that the person or all of the persons with whom he conspired have not been or cannot be convicted.” Present law [e.g. pre-Code] frequently holds otherwise, reasoning from the definition of conspiracy as an agreement between two or more persons that there must be at least two guilty conspirators or none. [Emphasis supplied]
+The text of the Model Penal Code, as quoted in the Final Report, supra, then proceeds to pinpoint the precise question here under consideration, when it states:
+The problem arises in a number of contexts. . . Second: Where the person with whom the defendant conspired secretly intended not to go through with the plan. In these cases it is generally held that neither party can be convicted because there was no “agreement” between two persons. Under the unilateral approach to the (Code), the culpable party’s agreement was feigned. He has conspired, within the meaning of the definition, in the belief that the other party was with him; apart from the issue of entrapment often presented in such cases, his culpability is not decreased by the other's secret intention. True enough, the project’s chances of success have not been increased by the agreement .. . But the major basis of the conspiratorial liability — the unequivocal evidence of a firm purpose to commit a crime — remains the same. [Id., emphasis supplied]
+The court is fully cognizant of the decision in State v. Mazur, 158 N.J.Super. 89 (1981), in which the Appellate Division, in the context of a challenge to a conspiracy charge pursuant to N.J.S.A. 2A:98-1 ct seq., stated that
+... [New Jersey] cases suggest that in New Jersey one may not be convicted of conspiracy where the “co-conspirator” is a police agent who never intended to enter a criminal agreement. In such circumstances, the feigning party is simply not conspiring to commit a crime. Such a rule prevails in the majority of jurisdictions which has considered the question. [Id. at 97-98; citations omitted]
+However, the Mazur court, in its per curiam decision, then proceeds to clearly signal its prospective adherence to the “unilateral” view of conspiratorial culpability in the context of violations under the new Penal Code when it added that
+... [U]nder the proposed New Jersey Penal Code, § 2C:5-3a takes a “unilateral” approach to conspiracy prosecutions. As such, the proposed law focuses on the culpability of each party individually, regardless of the intentions or characteristics of the other parties. See 2 Final Report of the New Jersey Criminal Law Revision Commission, Commentary (1971) at 181. However, a comparison of the conspiracy statute [2A:98-1], as presently written, with the statute as proposed, reveals that the two are markedly different. Therefore, the proposed Model Code cannot now be applied. [Id. at 101, emphasis supplied]
+Defendant in the present case, in attempting to obviate the thrust of the dictum in Mazur, refers to the recent decision of State v. Hawkins, 178 N.J.Super. 321 (App.Div.1981), in which Judge Fritz states in his concurring opinion that “the concept that one cannot conspire with himself alone is obviously sound and unrebuttable.” Id. at 324. In Hawkins defendant and his two coconspirators were being tried together for conspiracy. The coconspirators were acquitted by the same jury as was trying the defendant. By granting the subsequent motion for judgment of acquittal, the court, in essence, found ab initio that from the start there was never a conspiratorial agreement in existence. The court reasoned that if “the jury finds that the State failed to prove beyond a reasonable doubt that Doe conspired with Roe, logic defies an explanation of how it can find proof beyond a reasonable doubt that Roe conspired with Doe.” Id. at 323.
+In reaching the above conclusion the court does not evince a retreat from its acceptance of the Model Penal Code, for its ruling is wholly consonant with the apparent adoption by the Model Penal Code of the fact that “where the defendant’s only alleged conspirator has been acquitted, the prevailing view is that his conviction cannot stand.” Final Report, supra, at 132.
+Accordingly, though the defendant, charged with conspiring solely with a police informer, may have a viable defense of entrapment, his alleged culpability is in no way diminished by the lawful status and secret intentions of the other party.
+Motion denied.
