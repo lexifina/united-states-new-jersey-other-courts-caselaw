@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1973-02-20"
+citations: ["123 N.J. Super. 179"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FREDERICK D. KING, FREDERICK F. RICHARDSON, CO-EXECUTORS OF THE ESTATE OF ROBERT S. HERBERT, JR., DECEASED, PLAINTIFFS, v. RICHARD SMITH, ROBERT SMITH, STILSTON SMITH, THE ESTATE OF JOAN S. BALLER, CAROLE BALLER AND WARREN O’CONNELL, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/123/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 297333
+cites_cases: ["122 N. Y. S. 2d 765", "126 N. J. Eq. 297", "128 N. J. Eq. 179", "140 Conn. 311", "140 N. J. Eq. 272", "209 Mass. 184", "24 N. J. 210", "28 N. J. 599", "38 N. J. Super. 35", "393 Ill. 272", "40 Harv. L. Rev. 71", "50 N. J. 525", "53 N. J. 276", "65 N. E. 2d 815", "95 N. E. 221", "99 A. 2d 115"]
+---
+
+# King v. Smith
+
+## Majority (Eurman, J. S. C.)
+
+Eurman, J. S. C.
+The issues in this action by the co-executors of the will of decedent Robert S. Herbert, Jr. are whether Warren O’Connell, an attesting witness to the will but not to either of two codicils which republished the will, may benefit under the will, and whether Joan Bailer, an attesting witness to the first codicil but not to the will or the second codicil, may benefit under the will and the second codicil. No published New Jersey opinion is in point.
+N. J. S. A. 3A:3-6 provides:
+No person who has attested a will shall be incompetent to testify concerning the execution thereof by reason of his being a beneficiary thereunder; but whether or not he testifies, as to him and those claiming under him, any beneficial devise, legacy, estate, interest, gift or appointment of or affecting real or personal property, except a charge on real property for the payment of a debt, shall be void.
+A will includes any codicil as a single testamentary disposition. N. J. S. A. 3A:1—1; In re Sapery, 28 N. J. 599 (1959). A codicil republishes a will unless it revokes it expressly or by necessary implication because of an irreconcilable inconsistency. Kennedy v. Mockler, 38 N. J. Super. 35 (App. Div. 1955); Creech v. McVaugh, 140 N. J. Eq. 272, 276 (Ch. 1947); 5 N. J. Practice (Clapp, Wills and Administration), § 200 at 322 (1962). Republication is viewed as a useful and flexible instrument for effectuating the testator’s intent. In re Hardyman, 159 L. T. 177 (Ch. 1925); Atkinson, Wills (2d ed. 1953), § 91, at 472; Evans, “Testamentary Republication,” 40 Harv. L. Rev. 71, 99 (1926). In a will construction the effectuation of the testator’s intent is the cornerstone. In re Thompson, 53 N. J. 276, 299 (1969); In re Conway, 50 N. J. 525, 527 (1967) ; Watson v. Brower, 24 N. J. 210, 215 (1957).
+N. J. S. A. 3A :3-6 is derived from 25 Geo. II, c. 6, 1752. The statutory intent is to circumvent perjury and undue influence. La Croix v. Senecal, 140 Conn. 311, 99 A. 2d 115, 119 (Sup. Ct. 1953); Tolman v. Reeve, 393 Ill. 272, 65 N. E. 2d 815 (Sup. Ct. 1946); In re Hunt’s Estate, 122 N. Y. S. 2d 765, 767 (Sur. Ct. 1953).
+Joan Bailer was not an attesting witness to an instrument which provided a legacy to her, except in the sense that the first codicil republished the will as a single testamentary disposition. The threat of perjury or undue influence thus appears inapposite. To void her legacy would be an artificial and technical result, contrary to preferable English and American authorities. In re Trotter, 1 Ch. 764 (Ch. 1899); Tempest v. Tempest, 2 K. & J. 635, 69 Eng. Rep. 937 (Ch. 1856); Gurney v. Gurney, 3 Drew 208, 61 Eng. Rep. 882 (Ch. 1855); Lougee v. Wilkie, 209 Mass. 184, 95 N. E. 221 (Sup. Jud. Ct. 1911); Atkinson, Wills (2d ed. 1953), § 91 at 468; 2 Bowe-Parker: Page on Wills (rev. ed. 1960), § 19.91 at 192. The bequests to Joan Bailer in the will and second codicil are sustained.
+Warren O’Connell, on the other hand, was an attesting witness to the will which provided a stock option in his favor. The attack against his legacy concentrates on the statutory wording that such legacies are “void” and the general authority of Rippel v. King, 126 N. J. Eq. 297 (Ch. 1939); aff’d. 128 N. J. Eq. 179 (E. & A. 1940), that a codicil does not revive a lapsed legacy.
+Nevertheless, English authorities construing their parallel statute, which uses the terminology “utterly null and void,” have upheld bequests to an attesting witness or her husband in wills which were republished by codicils witnessed by other witnesses. Anderson v. Anderson, L. R. 13 Eq. 381 (Ch. 1872); In re Trotter, supra.
+In Anderson, supra at 387, the Vice Chancellor reasoned:
+That in the execution and attestation of the codicil in question all the requisites of the statute were complied with is clear. None of the evils which the statute intended to prevent can arise; and it would be as much beyond the provisions and the contemplation of the statute, as it would be opposed to good sense and reason, to hold that the codicil, duly executed and attested, had not the effect of republishing the will, and making it a new and original disposition by the testatrix in January, 1869, of the estate which she had dealt with by the will of December, 1868. To hold otherwise would be to hold that any error in a will, once duly executed, could not be corrected but by an entirely new will, for which proposition there is no authority. It cannot be said that the testatrix could not have made a new will if she had been so minded. Suppose that, by the codicil, she had said, “I am aware that my will is so erroneously attested as that my son’s legacy will he forfeited, and to prevent that I execute this codicil, and do thereby confirm my will.” There can be no doubt that she was competent to do this up to the latest moment of her life. I am of opinion that she has done this by the duly executed codicil; that the whole contents of the previously existing will were incorporated in the codicil; and, therefore, that Plaintiff’s bill must be dismissed.
+Judge Clapp in his treatise, Wills and Administration, § ol, at 4S> (pocket snpp. 1971), comments:
+The doctrine of republieation has been invoked in order to save the legacy given to a person who was a legatee under the will, but not to work a forfeiture in a case where the legatee is not a witness to the instrument under which he receives the legacy.
+The bequest to Warren O’Connell in the will ol decedent Eobert S. Herbert, Jr. is also sustained.
