@@ -1,0 +1,41 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1990-02-08"
+citations: ["243 N.J. Super. 646", "581 A.2d 120"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CREST SAVINGS AND LOAN ASSOCIATION, A CORPORATE BODY OF THE STATE OF NEW JERSEY, PLAINTIFF, v. WILLIAM W. MASON AND CHARLOTTE A. MASON, HIS WIFE; CHRYSLER LEASING CORPORATION; AMERICAN NATIONAL BANK AND TRUST OF NEW JERSEY; BROADWAY BANK & TRUST COMPANY; LEO LEMLE; ATLANTIC CITY ELECTRIC COMPANY; STATE OF NEW JERSEY; RUTGERS, THE STATE UNIVERSITY AND HACKENSACK WATER COMPANY, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/243/cases/0646-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 330100
+cites_cases: ["108 Cal.Rptr. 845", "190 N.J.Super. 314", "214 N.J.Super. 220", "42 A. 284", "463 A.2d 384", "511 P.2d 1197", "518 A.2d 786", "71 A. 115", "77 N.J.L. 57", "9 Cal.3d 731"]
+---
+
+# Crest Savings & Loan Ass'n v. Mason
+
+## Majority (RIMM, J.T.C.)
+
+RIMM, J.T.C.
+(temporarily assigned).
+This matter is before the court on plaintiffs complaint to foreclose a mortgage made by defendants, William W. Mason and Charlotte A. Mason, to bar their equity of redemption to the mortgaged premises, to obtain possession of the premises, and to recover damages and costs. The property in question is known as Block 227, Lots 29.2, 30, 31.1, on the tax map of the City of Wildwood, New Jersey and is commonly known as 221 East Glenwood Avenue.
+Plaintiff moved for summary judgment arguing that defendants’ answer set forth no genuine issues as to any material fact. Defendants opposed the motion claiming that plaintiff had not given them proper credit for all payments they had made and that plaintiff had incorrectly calculated the amount of principal and interest due under the mortgage note and mortgage.
+Partial summary judgment was granted on November 2, 1989. The court held there was no genuine issue of material fact as to the validity or priority of the mortgage being foreclosed or plaintiff’s right to foreclose, but there was a genuine issue of material fact concerning the amount due. The court reserved decision on the legal issues relating to plaintiff’s right to charge late fees on the monthly payments due after the filing of the complaint and relating to the right of plaintiff to compound interest. Trial was also scheduled on the issues of payments made and credits given.
+Compound Interest.
+Plaintiff claims N.J.S.A. 17:12B-48(14) gives it authority in this case to compound interest by adding it to the principal sum due. This court does not agree, and plaintiff may not compound interest.
+N.J.S.A. 17:12B-48(14) gives a savings and loan association operating pursuant to the Savings and Loan Act (1963) the power to “compute interest upon any direct reduction loan, on designated payment dates and add the same to the unpaid balance of such loan.” However, even though N.J.S.A. 17:12B-48(14) gives plaintiff authority to charge compound interest, an agreement between the parties is necessary to do so. In Shadow Lawn Sav. and Loan Ass’n v. Palmarozza, 190 N.J.Super. 314, 463 A.2d 384 (App.Div.1983), defendant defaulted. Shadow Lawn sought to justify charging compound interest on the ground that it was authorized under N.J.S.A. 17:12B-48(14). The court held that the statute merely gives an association the authority to compound interest. In the absence of an express contractual provision for compound interest or an express incorporation of the statutory provision in the contract, interest may not be compounded. There is no such provision nor incorporation in the mortgage before the court.
+Late Charges.
+Late payment charges, or late charges, are collectable as liquidated damages if there is a provision for them in the mortgage instruments. When there is such a provision, an issue may arise as to whether the late charge constitutes valid liquidated damages or an invalid penalty. If the late charge is compensation to the mortgagee for its administrative expenses and the cost of money wrongfully withheld, it is a proper charge as liquidated damages. Garrett v. Coast & So. Fed. S. & L. Ass’n, 9 Cal.3d 731, 108 Cal.Rptr. 845, 511 P.2d 1197 (1973); Nelson and Whitman, Real Estate Finance Law, (2d ed. 1985) at 443 et seq.
+In the present case there is no dispute between the parties concerning the collection of late charges on payments due before the filing of the complaint. However, plaintiff seeks to include in the amount of the judgment late charges on all monthly payments claimed to be due until the entry of judgment. Defendants dispute plaintiff’s right to late charges on payments claimed to be due after the filing of the complaint.
+Late charges for nonpayment of installments claimed to be due after the filing of the complaint cannot be collected. Upon the filing of the complaint, plaintiff formally accelerated payment of the debt and repudiated the right of defendants to make installment payments. Upon such acceleration, installment payments are no longer due, and plaintiff is entitled to the amount of the debt and interest provided for in the mortgage documents. There is then no basis for allowing plaintiff compensation for administrative expenses in connection with alleged late payments. Plaintiff is relegated to its rights in the foreclosure action, including its rights under R. 4:42-9, providing for fees and costs.
+While the court does not view a late charge as necessarily a fine or a penalty, but rather as liquidated damages, the case of Manhattan & S. Savings & Loan Ass’n of N.Y. v. Massarelli, 42 A. 284 (Ct.Ch.1899), sets forth the reasons for not allowing late charges after the filing of the complaint.
+Pines for nonpayment of monthly installments cannot, however, be collected after the filing of the bill of foreclosure, inasmuch as from that time the complainant formally repudiated the right of Massarelli to make payments of monthly installments, and, until this right is recognized by complainant, no fines for nonpayment would be reasonable. [Id. at 286]
+To the same effect is State Mut. Building and Loan Ass’n of New Jersey v. Batterson, 77 N.J.L. 57, 71 A. 115 (Sup.Ct.1908).
+Of interest on the issue of late charges after the filing of the complaint is a guideline of the Administrative Director of the Courts:
+Late charges are not allowable after the filing of the foreclosure complaint, because the foreclosure accelerates the total mortgage indebtedness, making monthly payments no longer the applicable form of satisfaction. To obtain late charges in a judgment of foreclosure, they must be provided for in the debt instrument or mortgage. [30 New Jersey Practice, (Cunningham and Tishler) (1987) § 250.]
+Although the court agrees with the guideline, it is not authority for this decision. The statement of the director is entitled to respectful consideration, but it is not law. The issue before the court is a judicial issue not to be concluded by an administrative determination. State v. Paris, 214 N.J.Super. 220, 518 A.2d 786 (Law Div.1986).
+Since there is no provision in the mortgage instruments for compound interest and since late charges are not allowable after the complaint is filed, plaintiff may not charge either. Counsel for defendants will submit an order under R. 4:42-1 providing that late charges after the filing of the complaint and compound interest are not allowable.
+The issue as to the actual amount due will be resolved at trial on March 12, 1990. Both parties shall submit such proof as they deem appropriate on the amount due, credits allowed to defendants and payments claimed to have been made by them.
+There is a thorough discussion of late charges as usurious, as penalties or as properly allowable liquidated damages in this work.
+The last sentence of this guideline must, perforce, refer to late charges on monthly payments due before the complaint is filed.
+0f course, if there is an agreement to resinstate the mortgage after the filing of the complaint, the agreement may provide, among other things, for the payment of late charges on all payments to be made to effectuate the reinstatement.
