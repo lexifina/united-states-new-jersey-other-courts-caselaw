@@ -1,0 +1,26 @@
+---
+court: "New Jersey Department of Labor, Workmen's Compensation Bureau"
+decided: "1940-08-09"
+citations: ["18 N.J. Misc. 590"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH NATALE, PETITIONER, v. NILS BRUHN, TRADING AS KUNGSHOLM RESTAURANT, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/18/cases/0590-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 454496
+---
+
+# Natale v. Bruhn
+
+## Majority
+
+* * >1:
+I have duly considered the testimony adduced before me in conjunction with the briefs filed by the petitioner and the respondent and on the facts submitted, I come to the following conclusions:
+The petitioner was in the employ of the respondent in the capacity of a waiter and on November 24th, 1939, worked for the respondent to an unusually late hour which necessitated arrangements being made by the respondent to transport the petitioner from the restaurant, the last bus having left approximately at eleven-thirty p. m. There is a dispute on the facts as to whether or not the arrangements were to transport the petitioner to a point from which he could get public conveyance to his home or whether he was to be transported to his home. The testimony clearly indicates that at approximately twelve-thirty p. m. the petitioner left the respondent’s restaurant in the company of Alfred Zimmermann, the chef, and a bus boy and waiter. The first stop was at the Pennsylvania Eailroad station in Newark where one of the employes was discharged for the purpose of taking a train to his destination in New York. The second stop was some place on Market street in Newark where the second employe left the party to make connections for his home in Nutley. It would appear, therefore, from the action of these emploj'es that the arrangement made by the respondent was not, in fact, to take the various employes to their homes but strongly bears out the respondent’s contention that he was to take them to a point from which they could make train or bus connections to their destination. I find therefore, as a fact, that the arrangement made between the respondent and the petitioner was to convey the petitioner from the respondent’s restaurant to a convenient destination from which he could make use of available transportation to his home.
+It would further appear from the geographical situation that before making the first stop at the Pennsylvania Eailroad station in Newark, the petitioner accompanied the driver a considerable distance beyond a point which would be a direct route to the petitioner’s home. If the arrangement between the parties was to take the petitioner to his home, this destination could bo readily reached a considerable time prior to reaching the Pennsylvania Railroad station. T feel that this is proof stronger in favor of the respondent’s contention and is indicative of the true facts surrounding the situation. The petitioner was not, in my opinion, to be transported direct to his home but onl.y to a point where available conveyance could be boarded.
+Giving the petitioner the fullest benefit of his contention that he was to be transported to his home, I find as a fact that when he accompanied the witness Zimmermann into a tavern on Market street in Newark where they partook of beer and purchased cigarettes and thereafter, accompanying the witness Zimmermann to the Canton Eestaurant on Mulberry street in Newark where they were joined by a third party in accordance with pre-arrangements made by the witness Zimmermann, the petitioner so abandoned and deviated from the true intention existing between the parties relative to transportation that he was in fact on his own affair and not entitled to the protection of the Workmen’s Compensation act. I see no logic in leaving a restaurant (petitioner’s place of employment) and then driving to another restaurant for supper. The respondent could hardly be expected to protect his employes to this extent.
+I further find that at the time of the alleged accident the operator of the vehicle in which the petitioner was a passenger had no knowledge of the location of the petitioner’s home and was being directed to this point by the petitioner. Keferring to a map of the city of Newark in conjunction with the testimony of the petitioner and his witness, it appears that the automobile was being operated in a southerly direction along McCarter Highway near the intersection of Parkhurst street. Although the petitioner and his witness testified that they were on their way home to the petitioner’s dwelling at the time of the accident, it is apparent from a view of the map, that the direction in which they were traveling and the route they had chosen does not conform with the fact that they were on their way to the petitioner’s home, which is west and north of the point where the accident occurred.
+Conforming my determination, therefore, with the proofs before me and my conclusions drawn therefrom, it is on this 9th day of August, 1940, ordered that the claim petition herein filed be dismissed for the reasons above stated.
+John C. Wegnee,
+Deputy Commissioner.
