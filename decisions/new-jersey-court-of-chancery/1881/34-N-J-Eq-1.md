@@ -1,0 +1,21 @@
+---
+court: "New Jersey Court of Chancery"
+decided: "1881-05"
+citations: ["34 N.J. Eq. 1"]
+reporter: "nj-eq"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fanny Joseph et al., executors of Meyer Trieste, deceased, v. Jeannette Utitz et al."]
+source_url: "https://static.case.law/nj-eq/34/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 762136
+---
+
+# Trieste v. Utitz
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+Meyer Trieste, late of Newark, died in December, 1878. By his will he gave all his real and personal estate, subject to and charged with the payment of his debts and funeral expenses, and certain pecuniary legacies, in the following shares : One-fourth to each of his daughters, Eanny, Cecilia and Rosa, and their heirs and assigns forever, and the other fourth to his executors, or such of them as should qualify, in.trust, to invest it, and pay the interest to his son Phineas for life, and at the death of Phineas, to divide the principal among his daughters, “or their heirs,” in equal parts or shares. And he provided as follows:
+In the case of the death of any of my said daughters before my decease, or before the death of my son Phineas, or before receiving her bequest, leaving lawful issue, such issue is to take the bequest or share to which his, hel- or their mother would be entitled, if living.”
+Prior to September 2d, 1879, the executors paid all the debts and pecuniary legacies, and nothing remained after that date but to convert the personal estate into cash and make division, which might have been done at almost any time during the year 1880. It was deferred merely in order that one of the executors, who resided in Georgia, might be present, and take part therein. In December, 1880, Rosa, one of the testator’s daughters, died testate, leaving a husband and children. The question is, whether the one-fourth of the estate given to her by her father’s will, is payable to her children or to her executors. The gift is to her, and vested in her, at the testator’s death. The testator, indeed, provides that in case any of his daughters shall predecease him or Phineas, or die before receiving her share, it shall go to her issue. His general object in this provision was probably to prevent a lapse, which he seems to have thought would ‘be occasioned by the death of any of his daughters in his lifetime. He must be presumed to have intended that his daughters’ shares in the one-fourth given in trust should go to their -issue if they should predecease their brother, but he did not intend that their title to the shares, given to them directly and ■vesting in them on his death, should be defeasible by their death in the lifetime of their brother. Those shares vested in them ■on the death of the testator, and were payable to them in due ■course of administration of his estate, and Rosa’s title to her :share was not defeated by her dying before the division was actually made. Wms. on Ex. 1288; Hutchin v. Mannington, 1 Ves. jun. 366; Miller v. Colt, 5 Stew. Eq. 6; S. C., on Appeal, 6 Stew. Eq. 362. In Hutchin v. Mannington, the testator left the residue to his father, for his own proper use. and benefit, but “ in case of his death before he might have received it,” gave it over to his, the testator’s, brothers and .sisters, and their children. The testat@r died in or about 1781, and his father in 1784, without having received any part of the residue. The bill was brought by the brothers and sisters of the testator, who claimed the residue upon the event of the father dying before he received it. Lord Eldon considered the residue as vested in the father from the death of the testator. In Miller v. Colt, a share of the testator’s estate was limited over in case of the legatee’s death without issue before distribution, and it was held that the share would not go over in case of his death without issue after distribution might have been made, although it was before distribution was actually made. In the case in hand, the distribution might in fact have been made before Rosa’s death, and that it was not made was due merely to the fact that the executors delayed it. The complainants will be directed to pay the share .in question over to the executors of Rosa.
