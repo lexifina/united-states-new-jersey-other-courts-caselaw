@@ -1,0 +1,27 @@
+---
+court: "New Jersey State Board of Tax Appeals"
+decided: "1940-09-24"
+citations: ["18 N.J. Misc. 582"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STANDARD OIL COMPANY OF NEW JERSEY, PETITIONER, v. CITY OF ATLANTIC CITY, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/18/cases/0582-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 454509
+cites_cases: ["115 Va. 865", "17 Fed. Rep. (2d) 167", "26 South. 898", "28 Atl. Rep. 180", "5 W. Va. 382", "53 N. J. L. 212", "65 Tex. 324", "67 Pa. 512", "80 S. E. Rep. 753"]
+---
+
+# Standard Oil Co. v. City of Atlantic City
+
+## Majority (Quinn, President.)
+
+Quinn, President.
+Petitioner is the owner of certain land and buildings constituting an oil storage plant in the respondent taxing district, assessed for taxes for the year 1938 at land, $4,500; improvements, $108,650; total, $113,150. Its appeal to the Atlantic County Board of Taxation for a reduction in the assessment was dismissed. At the hearing herein the land appeal was withdrawn, so that the present issue is confined to the true value of the improvements. A subsidiary question raised is as to whether certain oil storage tanks on the premises, together with piping, constitute improvements, as contended by the city, or personalty, as maintained by petitioner.
+An expert witness for the taxpayer testified to a sound value of $73,025 for the structures on the grounds, exclusive of the oil tanks and piping. 3STo testimony whatever was adduced by petitioner as to the true value of the tanks and piping, it resting on the contention that these did not constitute improvements as a matter of law. In view of the ordinary presumption of correctness attending assessments, the question of the status of the tanks becomes decisive of the appeal. If they are improvements the assessment must be affirmed, petitioner having offered no proof of their value, while testimony adduced on behalf of respondent is to the effect that all of the structures on the premises, including the tanks, had a true value of $195,102.
+The tanks are described by a witness for the city as thirteen in number, constructed of steel set in concrete bases, and firmly affixed to the ground. The piping auxiliary to the tanks is likewise rigidly fixed upon or under the ground, and attached to the tanks. The tanks vary in size from fifteen by thirty feet to seventy by forty-two feet and constitute permanent units of petitioner’s plant, for the storage of fuel oils, gasoline and kerosene.
+The question as to whether or not a structure constitutes an improvement of the ground, so as to partake of the status of realtjg depends upon the degree of permanence intended in its erection and use. Bates v. Harte, 26 South. 898, 899; Fagan & Osgood v. Boyle Ice Machinery Co., 65 Tex. 324, 332; Appeal of St. Andrew’s Church, 67 Pa. 512, 519; Orth v. West View Oil Co., 159 Id. 338; 28 Atl. Rep. 180, 181. Temporary structures are not improvements. Shenandoah Line Co. v. Governor, 115 Va. 865; 80 S. E. Rep. 753.
+The statute cannot be deemed to contemplate that the taxation of improvements should be limited to erections comprised within the term “buildings,” since R. S. 54:4-26 provides that in assessing real estate, the assessors may, by rule of the State Tax Commissioner, be directed (as in fact they are), “to determine the true value of each parcel of real estate assessed by him without the building and improvements and to note the same on the list, and to determine and note separately the true value of every building and other structure on each parcel * *
+It appears clear to us that the tanks here in question are “structures,” within the statute, that they are designed and used by the owner as permanent improvements of the freehold, and that for such reasons they were properly assessed by the respondent taxing district as improvements. Petitioner’s reliance upon such cases as Town of Harrison v. Public Service Gas Co., New Jersey Tax Reports, 1912-1934, p. 278, and Public Service Electric and Gas Co. v. City of Newark, New Jersey Tax Reports, 1934-1939, p. 36, is to no avail. Those decisions by this board held that gas retorts and oil tanks were part of the apparatus and equipment of a public utility, under Pamph. L. 1919, ch. 25, providing for gross receipts taxes to be paid by certain public utilities in lieu of any assessment of their personal property, and that therefore, such retorts and tanks were not subject to local assessment as real estate. That act expressly provided that apparatus and equipment was not to be deemed real estate, “notwithstanding any attachment thereof to lands or buildings.” It is obvious that decisions construing Pamph. L. 1919, ch. 25, are not truly analogous to the issue as to what comprises a “structure” under R. S. 54:4-26 (N. J. S. A. 54:4-26).
+As to the piping on the premises, this is likewise taxable as realty. Pipe Line Co. v. Berry (Court of Errors and Appeals, 1890), 53 N. J. L. 212; West Virginia Transportation Co. v. Volcanic Oil, &c., Co., 5 W. Va. 382, 388; Cumberland Pipe Line Co. v. Lewis, 17 Fed. Rep. (2d) 167.
+Por the foregoing reasons the assessment is affirmed, it not being shown that the true value of all the structures on petitioner’s property is less than the amount of the assessment.
