@@ -1,0 +1,29 @@
+---
+court: "New Jersey Department of Labor, Workmen's Compensation Bureau"
+decided: "1947-01-22"
+citations: ["25 N.J. Misc. 146"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANK H. GREENE, PETITIONER, v. WATSON FLAGG MACHINE CO., INC., RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/25/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 435410
+cites_cases: ["103 Atl. Rep. 84", "127 N. J. L. 577", "138 Me. 289", "88 N. J. L. 161", "91 N. J. L. 528", "95 Atl. Rep. 1007"]
+---
+
+# Greene v. Watson Flagg Machine Co.
+
+## Majority
+
+This is a proceeding brought by the petitioner, Frank H. Greene, against Watson Flagg Machine Company, Ine., respondent, seeking compensation under and by virtue of the provisions of R. S. 1937, 34:15-1, et seq.; N. J. S. A. 1937, 34:15-1, et seq., “prescribing the'liability of an employer to make compensation for injuries received in the course of employment, establishing an elective schedule of compensation and regulating procedure for the determination of liability and compensation thereunder,” together with the several acts amendatory thereof and supplemental thereto.
+A petition and an answer thereto were duly filed with the secretary of the Workmen’s Compensation Bureau at his office in Trenton, Flew'Jersey. In regular course the cause came on for trial before me, John J. Stahl, a Deputy Commissioner of Compensation, at the Bureau Chambers, 158 Ellison Street, Paterson, FTew Jersey.
+The vital question in controversy is whether an assault by horseplay and skylarking under certain conditions constitutes an injury by accident arising out of and in the course of employment within the purview of the statute.
+The petitioner testified that a certain employee, Fleetwood, was a habitual perpetrator and prankster of various acts of horseplay, directed against anyone who might be within his reach; and that he observed Fleetwood on many occasions indulging in these peculiar acts. He further testified that on March 5th, 1945, he left the stock department where he worked to go to the receiving department to obtain some object or article and,.while he was going down the aisle walking toward the receiving department, he was struck in the eye by a missile that had been thrown by Fleetwood. Following this episode, Fleetwood was discharged by the respondent from its employ. There was testimony adduced on behalf of the petitioner by two former employees, Frederick Hasenbalg and Herbert H. Bruce, and their testimony seems to give substance and corroboration to the testimony of the petitioner in that this employee, Fleetwood, was the “funny boy” who freely engaged in sportive acts as a matter of daily routine.
+On behalf of the respondent there was testimony of Bruno Olivo, foreman, and Evelyn Savage, group leader, both of whom testified that they knew of some of Fleetwood’s acts of horseplay, but not to the extent that the other witnesses testified to. Olivo admitted that Fleetwood had engaged in horseplay prior to the accident, and that he had censored him for it; and the witness, Mrs. Savage, admitted on several occasions she observed Fleetwood would “kibitz” and that at times the petitioner also “kibitzed.”
+I believe the proper approach in deciding this case is to state the correct rule, and to apply the rule to the proven facts. I believe the accepted rule to-day, not only in this jurisdiction, is to the effect that, where repeated acts of horseplay are tolerated by an employer day in and day out throughout the factory or plant on the part of an employee, customarily _ known to engage in that sort of thing, resulting in an injury to an innocent workman, such injury is by accident, arising out of and in the course of the employment. Peterson v. Maine Fish Meal Co., 138 Me. 289; 25 Atl. Rep. (2d) 240. There was an-added peril, which was created by the employee, Fleetwood, “who was a frequent offender and his proclivities for horseplay and fooling with his fellow employees were known, or should have been known” by his employer.
+The respondent, in challenging petitioner’s right of recovery, cites several cases where compensation was disallowed, namely, Mountain Ice Co. v. McNeil, 91 N. J. L. 528; 103 Atl. Rep. 84; Powers v. Y. M. C. A., 17 N. J. Mis. R. 261; 8 Atl. Rep. (2d) 189; Hulley v. Moosbrugger, 88 N. J. L. 161; 95 Atl. Rep. 1007; Staubach v. Cities Service Oil Co., 127 N. J. L. 577; 24 Atl. Rep. (2d) 193. I feel that all the cases cited by respondent can be easily distinguished from the present one. Not in a single case cited does the element of repetition of the act of horseplay appear with knowledge to the employer. Hulley v. Moosbrugger, supra, is authority for the rule that “an employer is not charged with the duty to see that none of his employees assaults any other one of them, either willfully or sportively.” However, the situation is somewhat different in the case at bar; here there is a continuity of acts of horseplay occurring almost daily. Fleet-wood’s propensity for engaging in these pranks was so notorious and so widespread throughout the factory that I can’t conceive why the respondent did not take timely action to get rid of him and not wait to do so until he had inflicted a very serious injury on a co-worker. The condition should have been corrected, when it is permitted to persist, a special danger is created thereby.
+The burden of proof which rests upon the petitioner to establish a right to compensation has been met and I accordingly hold that the petitioner has succeeded in establishing an accident arising out of and in the course of the employment.
+It is, therefore, * * * adjudged, determined and ordered, that-judgment be entered in favor of the petitioner and against the respondent.
+John J. Stahl,
+Denuty Commissioner.
