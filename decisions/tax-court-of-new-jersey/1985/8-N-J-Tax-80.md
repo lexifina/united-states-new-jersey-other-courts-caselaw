@@ -1,0 +1,32 @@
+---
+court: "Tax Court of New Jersey"
+decided: "1985-12-18"
+citations: ["8 N.J. Tax 80"]
+reporter: "nj-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DELRAN HOLDING CORP., PLAINTIFF, v. DELRAN TOWNSHIP, DEFENDANT."]
+source_url: "https://static.case.law/nj-tax/8/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 419539
+cites_cases: ["189 A.2d 702", "214 A.2d 526", "39 N.J. 537", "4 N.J.Tax 236", "468 A.2d 205", "5 N.J. Tax 469", "5 N.J. Tax 475", "6 N.J.Tax 316", "89 N.J.Super. 234", "94 N.J. 559"]
+---
+
+# Delran Holding Corp. v. Delran Township
+
+## Majority (LARIO, J.T.C.)
+
+LARIO, J.T.C.
+Defendant has moved to dismiss this local real property tax appeal based upon plaintiff’s alleged failure to comply with the provisions of N.J.S.A. 54:4-34 which requires:
+Every owner of real property of the taxing district shall, on written request of the assessor, made by certified mail, render a full and true account of his name and real property and the income therefrom, in the case of income-producing property, ... and if he shall fail or refuse to respond to the written request of the assessor within 45 days of such request, ... the assessor shall value his property at such amount as he may, from any information in his possession or available to him, reasonably determine to be the full and fair value thereof. No appeal shall be heard from the assessor’s valuation and assessment with respect to income-producing property where the owner has failed or refused to respond to such written request for information within 45 days of such request.
+Defendant relies upon the uncontroverted certification of its assessor avering that on September 24, 1984 he forwarded to plaintiff by certified mail a request pursuant to N.J.S.A. 54:4-34, for income and expense information relating to the subject property to be forwarded to him no later than November 12, 1984 and that no response was received. In support of its motion, defendant cites Terrace View Gardens v. Dover Tp., 5 N.J. Tax 469 (1982), aff’d 5 N.J. Tax 475 (App.Div.1983), certif. den. 94 N.J. 559, 468 A.2d 205 (1983), wherein this court dismissed a taxpayer’s direct appeal since it had failed to comply with the tax assessor’s similar request made pursuant to the aforesaid statute.
+Plaintiff does not deny receipt of the letter nor its failure to respond, but it claims that the strict prohibition of the statute is not applicable to the instant appeal.
+An examination of the pleadings herein discloses that plaintiff is the owner of a commercial shopping center which was assessed at $3,100,000 for the tax year 1984. Plaintiff directly appealed this 1984 assessment to this court pursuant to N.J. S.A. 54:3-21. The complaint was filed on August 6, 1984 and a copy was served upon defendant’s assessor on August 3, 1984. An answer was filed by the taxing district on September 11, 1984. This motion to dismiss is dated August 22, 1985 and was filed on August 27, 1985.
+In Terrace View Gardens, supra, relied upon by defendant, there was no compliance with the assessor’s request for income and expense information to be supplied within 45 days thereof. This court held that the taxpayer, by failing to respond, was precluded by the express terms of the statute from filing its appeal.
+N.J.S.A. 54:4-34, as presently in effect, was amended by L. 1979, c. 91, § 1, effective May 16, 1979 for the year 1980. Prior thereto there was no clear direction contained in the statute as to the remedy to be afforded taxing districts upon the owner’s refusal to comply with the assessor’s request. By the 1979 amendment the Legislature clarified this ambiguity by adding: “No appeal shall be heard from the assessor’s valuation and assessment with respect to income-producing property where the owner has failed or refused to respond to such written request for information within 45 days of such request.” Ibid.
+It is obvious from examining the statute as originally adopted and as subsequently strengthened that the Legislature recognized that in tax assessment appeals the true value of an income-producing property is frequently determined by the capitalization approach to value, therefore, its purpose was to provide assessors with the means of obtaining the relevant information to aid them in determining by way of the income approach the assessment to be levied.
+In Terrace View Gardens, supra, Dover Township’s assessor requested the income and expense information on March 2,1980 to be used in setting the 1981 assessment. After finding that the required information was necessary to aid the assessor to arrive at the 1981 tax year assessment, Judge Rimm dismissed the appeal stating: “The purpose of N.J.S.A. 54:4-34 is to assist the assessor, in the first instance, to make the assessment and thereby hopefully to avoid unnecessary expense, time and effort in litigation.” Id., 5 N.J. Tax at 471-472.
+Contrary to the facts set forth in Terrace View Gardens, here the assessor’s request was not made until September 23, 1984, which was not in time for him to receive the necessary information prior to the critical assessing date of October 1, 1983. Even if the requested information had been supplied within the 45-day period, unquestionably it could not have been utilized in valuing the property for the 1984 assessment.
+Since the request was not made until after the assessor received a copy of plaintiff’s complaint appealing the assessment, the information requested could only be utilized to defend the assessment already levied. The assessor’s letter requesting income and expense information is nothing more than a “demand for interrogatories”; this is not the purpose of the statute. N.J.S.A. 54:4-34, is not to be used as a substitute for pretrial discovery; once an appeal has been filed, discovery is controlled by rules of court and to obtain same, parties are required to comply with R. 8:6-1.
+Defendant’s motion to dismiss plaintiff’s appeal is denied.
+New Brunswick v. Tax Appeal Div., 39 N.J. 537, 544, 189 A.2d 702 (1963); McCrory Stores v. Asbury Park, 89 N.J.Super. 234, 243, 214 A.2d 526 (App. Div.1965); it is well settled that the income approach is of preponderant influence in the valuation of income producing properties. Inwood at Great Notch v. Little Falls Tp., 6 N.J.Tax 316, 325 (1984); Rudd v. Cranford, 4 N.J.Tax 236 (1982).
