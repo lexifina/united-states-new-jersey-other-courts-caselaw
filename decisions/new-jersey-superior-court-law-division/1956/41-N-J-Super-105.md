@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1956-07-13"
+citations: ["41 N.J. Super. 105"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ESSO STANDARD OIL COMPANY, A CORPORATION OF THE STATE OF DELAWARE, AUTHORIZED TO DO BUSINESS IN THE STATE OF NEW JERSEY, PLAINTIFF, v. CITY COUNCIL OF THE CITY OF NORTHFIELD, BOARD OF ADJUSTMENT OF THE CITY OF NORTHFIELD, AND CLARENCE RENEAR, BUILDING INSPECTOR OF THE CITY OF NORTHFIELD, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/41/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 381744
+---
+
+# Esso Standard Oil Co. v. City Council of Northfield
+
+## Majority (Cafiero, J. S. C.)
+
+Cafiero, J. S. C.
+Defendant moves to strike the complaint on the ground that the suit has not been brought within the time limit provided by R. R. 4:88-15(b) (3). The facts which are undisputed are that plaintiff filed a petition with the defendant board of adjustment requesting that a zoning variance be recommended to defendant City Council of Northfield under the provisions of N. J. S. A. 40:55-39(rZ). A public bearing was held on November 22, 3 9».), at the conclusion of which the board voted in favor of recommending approval of the variance requested. On December 6, 1955 defendant board submitted a report to the city council acknowledging its original favorable decision, but stating that its decision was subsequently changed to a recommendation that the application be denied. Although 310 written notice was given the applicant, nor was the determination of the board (lied or published, plaintiff applied to the city council to remand the matter to the board for clarification of its findings and detailed reasons for the same. On December 20, 3 955 a second report by the Board was submitted to the eonncil reciting that at a meeting allegedly held on December 19, 1955 the board had reaffirmed its previous recommendation that plaintiff’s application be denied. The city council thereupon adopted a resolution approvÍ3ig the recommendation.
+Plaintiff was not given notice of any of the meetings of the board of adjustment other than of the meeting on November 22, at which time it was advised of the favorable vote. Plaintiff had knowledge that the matter was remanded by city council since it resulted from the request which plaintiff’s counsel made to the governing body. Plaintiff was not given notice of the action of the board of adjustment, and in particular of the meeting of December 19, 1955. Plaintiff instituted this action on April 26, 1956.
+R. R. 4:88 — 15(6) (3) provides:
+“No proceeding in lieu of prerogative writ shall be commenced.
+(3) To review any decision of a planning board, board of adjustment, or of a building inspector after 30 days from the publication and filing of the decision in the office of the board or of the building inspector or, when an application has been denied by such board or inspector, after 30 days from the giving of notice thereof in writing to the applicant and the publication and filing of such decision in the office of the board or of the building inspector; or to review any resolution by the governing body or board of public works of a municipality approving or disapproving a recommendation made by the board of adjustment after 30 days from the date of the adoption of the resolution.”
+Counsel for defendant argues that the plaintiff could have learned of the action taken, but this cannot prevail. The rule does not impose any obligation on the plaintiff, but does make certain demands of defendant board of adjustment which it failed to perform. No written notice was given and no decision filed as required by the rule.
+Defendant also argues that N. J. S. A. 40:55 — 39(d) under which plaintiff sought a variance does not require the board of adjustment to recommend a denial. This is correct, but it did so advise the city council and having done so, was required to give written notice of its denial to the applicant. The actions of the governing body were excess and unnecessary and have no validity.
+Defendant also contends that when a board of adjustment fails to take any action when it denies a variance, it is presumed to have decided adversely to the appellant and N. J. S. A. 40:55-45 then governs. This statute provides:
+“Whenever an appeal shall be taken to a board of adjustment pursuant to this article said board shall render its decision upon such appeal within sixty days from the date of the hearing on such appeal, and in any event within ninety days from the date of the filing of the appeal as herein provided in this article, and upon failure so to do such appeal at the expiration of such time shall be deemed to be decided adversely to the appellant in the same manner as though said board had rendered a decision to that effect.”
+But the statute does not make any reference to a situation where the board denies an application for a variance. It is applicable only in a situation where the board fails to take any action whatsoever; which is not the case in the facts before us. The board of adjustment denied the variance and R. R. 4:88-15(b) (3), as amended on June 27, 1955, requires that the decision of the planning board, the board of adjustment and the building inspector must be published in addition to being filed and if the application has been denied, written notice must be given to the applicant. The limitation imposed by the rule and the statute are not a bar to this action.
+It is also argued by defendant that the complaint should be dismissed as to the city council since it was not necessary for the board of adjustment to recommend a denial to the governing body. While the City is not a necessary or an indispensable party, it is a proper party, since it does have an interest in the eventual disposition of the proceedings and awaiting the outcome of this matter, it is well to retain it as a party.
+Motion to dismiss the complaint is denied. Costs will not be allowed either party. Submit order.
