@@ -1,0 +1,24 @@
+---
+court: "New Jersey State Board of Tax Appeals"
+decided: "1942-03-10"
+citations: ["20 N.J. Misc. 105"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BENJAMIN DIORIO, PETITIONER, v. ATLANTIC CITY SEWERAGE COMPANY, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/20/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 432283
+cites_cases: ["108 N. J. L. 304", "112 N. J. L. 115", "114 N. J. L. 69", "122 N. J. L. 596", "15 N. J. L. 217", "154 Atl. Rep. 198", "158 Atl. Rep. 468", "169 Atl. Rep. 721", "172 Atl. Rep. 786", "175 Atl. Rep. 637", "178 Atl. Rep. 769"]
+---
+
+# Diorio v. Atlantic City Sewerage Co.
+
+## Majority (Quinn, President.)
+
+Quinn, President.
+Petitioner has filed his petition with this board, reciting that he is a taxpayer of the City of Atlantic City; that the respondent was assessed for the year 1940, upon divers parcels of realty in that city in the sum of laud, $36,150, and buildings, $39,650; that it was subject to a personalty assessment for that year in the sum of $975,000; that it filed an application in 1940 with the Public Utility commission seeking an increase in its sewerage rates, and reciting in its petition thereunder that “the appraised valúation of petitioner’s property upon a reproduction cost basis is approximately $3,000,000,” and that the book cost value thereof, as of December 31st, 1939, was the sum of $2,792,751; .that the petitioner (Diorio) was aggrieved and discriminated against by the said assessed valuations of respondent’s property for the year 1940; and praying that this board should determine the true, values of the properties of the respondent. An application for the same relief was dismissed by the Atlantic County Board of Taxation.
+The statutory jiirisdiction for the entertainment of applications of this character is founded upon B. S. 54:3-21; N. J. S. A. 54:3-21. See Post v. Warren Point Volunteer Firemens (State Board, 1941), 19 N. J. Mis. R. 367; 19 Atl. Rep. (2d) 636. The right of the petitioner in this regard is not affected by the fact that he pays taxes only upon real property. If either the real property or personalty assessments levied against respondent were for less than the true value of the property, petitioner has been discriminated against, and is entitled to the statutory remedy. We find, however, that petitioner has not established such facts.
+Petitioner has adduced no expert testimony with respect to the true values of either respondent’s real estate or its personal property. The extent of his proof of valuations was the tender in evidence of the record taken in the proceedings aforementioned before the Public Utility Commission, containing the testimony of valuation experts offered by respondent as petitioner in those proceedings, to the effect that the value of all of the property of the company, for rate-making purposes, is the sum of $3,0.00,000. We reserved decision at the hearing as to the admissibility of the record. Our conclusion is that it was incompetent as evidence in this proceeding. The record was not that of a prior hearing or trial' in this cause; the witnesses are not dead or otherwise physically unavailable; and the issue of true value for tax purposes, herein involved, is not that of reproduction value for rate purposes, which was the issue in the prior proceeding. See 20 Am. Jur. 582 et seq.; Sokobin v. Ornstein (Court of Errors and Appeals, 1932), 108 N. J. L. 304; 158 Atl. Rep. 468; McArdle Real Estate Co. v. McGowan (Supreme Court, 1934), 12 N. J. Mis. R. 500; 172 Atl. Rep. 786; Lupino v. Sestanovich (Court of Errors and Appeals, 1935), 15 N. J. L. 217; 178 Atl. Rep. 769; Ross v. Nevin Bus Lines (Supreme Court, 1931), 9 N. J. Mis. R. 412; 154 Atl. Rep. 198. The offer was further improper as an indirect method of compelling the testimony of expert witnesses, in invitum. Cf. Stanton v. Rushmore (Court of Errors and Appeals, 1933), 112 N. J. L. 115; 169 Atl. Rep. 721.
+Were the experts properly adduced as witnesses in this proceeding, it cannot be presumed that their testimony of selling value (tax value) would be the same as the valuations ofEered in the rate case. Our courts have realized that, as a practical matter, a witness or a court dealing with a rate valuation is entertaining a concept entirely different from that of the tax valuation of the same property. Central Railroad Co. v. Thayer Martin (Supreme Court, 1934), 114 N. J. L. 69, 76; 175 Atl. Rep. 637; Hackensack Water Co. v. State Board (Supreme Court, 1939), 122 N. J. L. 596; 7 Atl. Rep. (2d) 628. This is no anomaly. Reproduction cost is of great importance in the former connection, but may be of little substance in the latter.
+Tor the reasons stated, the petition will be dismissed, and the assessments in question affirmed.
