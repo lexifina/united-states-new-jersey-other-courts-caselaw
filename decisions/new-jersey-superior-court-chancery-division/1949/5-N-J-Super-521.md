@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1949-09-28"
+citations: ["5 N.J. Super. 521"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BRIDGET COLLUM, PLAINTIFF, v. GENEVIEVE MARIE DEANE, AND MARSHALL DEANE, HER HUSBAND, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/5/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 363215
+cites_cases: ["66 N. J. Eq. 447"]
+---
+
+# Collum v. Deane
+
+## Majority (Grimshaw, J. S. C.)
+
+Grimshaw, J. S. C.
+This is an action to set aside a deed of gift because of the absence of competent and independent advice to the donor and also, by reason of the improvidence of the gift. The defendant is the daughter of the plaintiff. Originally there was another defendant, a son, James Collum. Since "the litigation was instituted James Collum has reconveyed to the plaintiff the one-half interest in the property which he received by the deed from his mother, and, as to him the suit has been discontinued.
+Plaintiff is a widow 16 years of age and almost totally blind. Prior to September 21, 1944, she was the owner of a house in the Borough of Port Lee containing several apartments. In one of the apartments Mrs. Collnm lived with her daughter, the defendant Genevieve Deane, then Genevieve Collum. Two sons, James and Thomas Collum and their wives lived in other apartments in the house.
+Genevieve was engaged in work which occupied her time during the day. In addition, she cooked and did the housework for her mother and herself. Such other attention as her mother’s physical condition made necessary, Genevieve Dean supplied.
+Shortly before September 21, 1944, Mrs. Collum, without the knowledge of the defendant, summoned a lawyer who had done other work for her and instructed the lawyer to prepare a deed conveying the property to Genevieve Collum and James Collum. The reason given by Mrs. Collum for the conveyance was that James and Genevieve had cared for her in the past and would continue to do so in the future. The attorney advised against a deed and suggested a will instead. Mrs. Collum, however, insisted upon a deed, saying that the grantees would continue to look after her. The attorney then sought unsuccessfully to persuade Mrs. Collum to withhold the deed from record. The attorney did not tell Mrs. Collum that the effect of the deed would be to render her destitute and dependent upon the charity and good will of her children. Mrs. Collum was not advised to have a power of revocation inserted in the deed or to reserve a life estate.
+Some short time after the execution of the deed it was given to Mrs. Deane in whose possession it has since remained. Eventually, plaintiff and the defendant disagreed. The relationship between them became strained. A demand was made for the return of the property. When it was refused the litigation was commenced.
+There was, undoubtedly, a relationship of trust and confidence existing between the plaintiff and the defendant, in which by reason of the age and physical. condition of the mother, the daughter was the dominant figure. At the same time, there is not the slightest suggestion in the record of the use of undue influence. It becomes important, therefore, to determine whether, at the time of making the gift, the plaintiff had the benefit of advice which was both independent and competent to make her understand the effect of the conveyance.
+The rule is that the absence of such advice will invalidate a deed of gift, which contains no power of revocation, where a relationship of trust and confidence exists between the donor and donee. In discussing the rule in Slack v. Rees, 66 N. J. Eq. 447, Chief Justice Oummere said at p. 449 :
+“Its purpose is not so much to afford protection to the donor against the consequences of-undue influence exercised over him by the donee as it is to afford him protection against the consequences of voluntary action on his part, induced by the existence of the relationship between them, the effect of which, upon his own interests, he may only partially understand or appreciate. The following citations from our own decisions make this plain: ‘In all transactions between parties occupying relations, whether legal, natural or conventional in their origin, in which confidence is naturally inspired, ■or, in fact, reasonably exists, the burden of proof is thrown upon the person in whom the confidence is reposed, and who has acquired an advantage, to show affirmatively not only that no deception was practiced therein, no undue influence used, and that all was fair, open and voluntary, hut that it toas well understood.’ Hall v. Otterson, 7 Dick. Ch. Rep. 528; S. C., on appeal, 8 Dick. Ch. Rep. 695. ‘Where parties hold positions in which one is more or less dependent upon the other, courts of equity hold that the weaker party must be protected, and they set aside his gifts if he had not proper advice, independently of the other.’ Haydock v. Haydock, 7 Stew. Eq. 575. ‘The rule to be gathered from the English and American cases is that the burden of proof is cast upon the donee to establish that the donor fully appreciated what he was doing, or, at all events, in the doing had the benefit of disinterested and competent advice.’ Coffey v. Sullivan, 18 Dick. Ch. Rep. 302.”
+The advice that Mrs. CoIIum received was independent but, in my opinion, it was not competent to make her understand the effect of her deed. She did not realize that she was stripping herself of all her property and rendering herself destitute. On the contrary, I am convinced that Mrs. Collum believed that she was as much the mistress of the situation after the execution of the deed as she had been before.
+At the time of the gift there was lacking competent advice to the donor as to the nature and effect of the deed. It will be set aside.
