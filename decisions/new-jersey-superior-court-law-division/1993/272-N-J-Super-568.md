@@ -1,0 +1,44 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1993-05-13"
+citations: ["272 N.J. Super. 568", "640 A.2d 876"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF, v. RONALD J. LIZOTTE, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/272/cases/0568-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 590758
+cites_cases: ["107 N.J. 504", "192 A.2d 573", "208 N.J.Super. 343", "257 N.J.Super. 493", "262 N.J.Super. 413", "40 N.J. 359", "506 A.2d 14", "527 A.2d 388"]
+---
+
+# State v. Lizotte
+
+## Majority (CALLINAN, J.S.C.)
+
+CALLINAN, J.S.C.
+Defendant, Ronald J. Lizotte, appeals from a decision of the Municipal Court in Middle Township, Cape May County, wherein he was found guilty of operating his motor vehicle on June 13, 1992, while under the influence of intoxicating beverages.
+At approximately 1:35 a.m. on June 13,1992, Officer Elias of the Middle Township Police Department stopped defendant’s van for speeding. (Defendant pleaded guilty to the speeding violation.) In approaching the vehicle and examining the driver, the officer detected signs of alcohol consumption. The officer also observed an open can of beer on the vehicle’s console. The defendant did not promptly recite the alphabet upon request and spoke in a slurred manner and, according to the police officer’s testimony, was swaying when exiting the vehicle. The defendant was arrested for driving while intoxicated, transported to police headquarters, and administered two breathalyzer tests, which gave readings at 2:15 a.m. of .13 and at 2:22 a.m. of .14. These tests were admitted into evidence at the time of trial and based on this evidence, the defendant was found guilty.
+The issue raised by the defendant on appeal is his claim (not able to be controverted) that after he observed that the police officer was pulling him over for speeding and upon halting the motor vehicle and shutting off the ignition, he immediately reached for an open beer can and consumed its contents. This action, he argued, vitiated the breathalyzer test results barring the reading from being admitted into evidence. The reason given for the consumption of the beer was that the defendant was concerned that the police officer would see the open container of alcoholic beverages, with some contents in it in violation of N.J.S.A. 39:4-51a. The defendant testified:
+Q. Okay. And you didn’t notice this can of beer until the point at which the police officer was pulling you over?
+A. Well, I did notice it, but I didn’t think nothing of it.
+Q. Okay. And then when he pulled you — when you saw the lights, you thought he was going to—
+A. Well, he was gonna see the can of beer of there.
+Q. He’s gonna see the beer?
+A. Yeah.
+Q. Okay. So that—
+A. And it was opened, so I figured the best thing for me to do was try and get rid of it and then I had an empty can.
+Q. I see. Okay. So, you drank it?
+A. Well, I drank as much as I could. Cause I didn’t know what the laws were that if I’m sitting there drinking it when the officer comes up, so I put it back down. Whatever was left was left.
+The judge below considered the ingestion of the contents of the beer can to be part of the continuum of operating a motor vehicle while under the influence of alcoholic beverages. As the judge said in his opinion:
+I find as a fact and as a matter of law that that would not be a defense to this case. That he in fact would be in the vehicle under — he has the vehicle under his control. The fact that he may have turned the vehicle off, because the officer had just pulled him over, does not mean that he is — he is not intending to move that vehicle. He drove it to that point and there’s no indication that he was about to stay at that point. He was simply stopping because he was directed to do so by the officer. And the consumption that may have been undertaken in that brief period of time is of no consequence as to a defense for drunken driving. Based on the readings that were adduced, at a 13 and a 14 [sic], I find the defendant guilty.
+Both the judge below and this court, from an examination of the videotape, could not conclude that the defendant was operating a motor vehicle while under the influence of alcoholic, absent the breathalyzer test. So, the question that is squarely put is whether the breathalyzer tests were admissible and sufficient to establish proof of the defendant’s guilt beyond a reasonable doubt. This court holds that the breathalyzer test is admissible and constitutes proof of a per se violation of N.J.S.A. 39:4-50.
+Defendant’s argument that the breathalyzer tests are inadmissible and further, if admissible, are insufficient to establish a per se violation, substantially rests on the statement in State v. Tischio, 208 N.J.Super. 343, 348, 506 A.2d 14 (App.Div.1986) (emphasis supplied), wherein the court says:
+In our view the statute focuses on the operation of the motor vehicle when there is sufficient alcohol in the driver’s system to produce the proscribed reading so long as there has been no further ingestion of alcohol between the time of operation and the time of testing.
+This argument in turn centers on the issue of operation. Defendant argues that when he was stopped by the police officer he was no longer operating the vehicle and therefore, the subsequent ingestion of alcohol invalidates the breathalyzer test. If there were an intentional destruction of evidence, sometimes referred to as spoliation, that finding would raise other considerations by this court that would not necessarily lead to defendant’s preferred conclusion. McCormick on Evidence, § 273 at 660-61 (2d ed. 1972); 31A C.J.S., Evidence, § 293 at 750-51 (1964). More to the point, defendant disregards the concept of operation as interpreted by our courts.
+In State v. Sweeney, 40 N.J. 359, 362, 192 A.2d 573 (1963), more fully articulated in State v. Tischio, 107 N.J. 504, 513, 527 A.2d 388 (1987), and most recently amplified by State v. Morris, 262 N.J.Super. 413, 621 A.2d 74 (App.Div.1993), it is clear that although the statute refers to the operation of a motor vehicle, actual operation is not required in order to sustain a conviction under the statute. The aforementioned decisions have turned on the defendant’s intention to operate a motor vehicle, coupled with the real ability to accomplish that goal while under the influence of intoxicating beverages. Although there is not a clinical criteria for operation within the meaning of the statute, our courts have consistently adopted a pragmatic and flexible interpretation of the statute to accomplish the broad legislative purpose, which is to eliminate intoxicated drivers from the roadways of this state.
+Applying that standard to the facts of the case at bar, defendant did operate the motor vehicle while intoxicated. The fact that he may have ingested additional alcoholic beverages at a time that he was pulled over by a police officer does not serve to destroy the efficacy of the breathalyzer test, nor does it force the State to engage in an exercise of extrapolation. This court finds as a fact that the operation of the vehicle by the defendant was intended to continue but for police intervention. If for example the police car were actually on the way to another call, it is a reasonable inference that the defendant would have continued along his merry way.
+The Appellate Division stated the proposition clearly in State v. George, 257 N.J.Super. 493, 497, 608 A.2d 957 (App.Div.1992) (citations omitted):
+We are similarly satisfied that there was sufficient evidence to support the finding of operation. Operation may be proved by any direct or circumstantial evidence — as long as it is competent and meets the requisite standards of proofs. The vehicle’s operating condition combined with defendant’s presence behind the steering wheel, permits the logical conclusion of an intent to drive.
+Whether the actions of the defendant constitute what has become known in the municipal courts as the “glove box” defense, or whether the defendant truly consumed the last vestiges of incriminating alcohol remaining in an open container to subvert prosecution for violation of N.J.S.A. 39:4-51a is not material. The drinking and the operation of the motor vehicle in this case are so closely intertwined that they constitute one event, for which the defendant is culpable. This intimate association of ingestion of alcoholic beverages with the control of a potentially lethal device is exactly what the legislation is intended to preclude.
+For all of the reasons above stated, this court finds the defendant guilty of driving while under the influence of alcoholic beverages and imposes the same penalties as imposed by the court below.
