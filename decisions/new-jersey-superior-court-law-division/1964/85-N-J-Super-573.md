@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1964-12-13"
+citations: ["85 N.J. Super. 573"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH McCLOSKEY, PLAINTIFF, v. M.P.J. CO., A CORPORATION OF NEW JERSEY, JOHN F. O’NEILL AND JOHN M. CULLERTON, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/85/cases/0573-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 509353
+cites_cases: ["122 N. J. Eq. 518", "142 N. J. Eq. 456", "15 N. J. 342", "27 N. J. Super. 448", "43 N. J. 271", "70 N. J. Super. 46", "79 N. J. Super. 47", "83 N. J. Super. 497", "85 N. J. Super. 4"]
+---
+
+# McCloskey v. M.P.J. Co.
+
+## Majority (Crane, J. C. C.)
+
+Crane, J. C. C.
+(temporarily assigned). This action is a sequel to the case of McCloskey v. M.P.J. Co., 70 N. J. Super. 46 (App. Div. 1961). Plaintiff is the holder of a bond executed in 1959 and secured by a mortgage on certain premises in Irvington, New Jersey. Following a default, plaintiff foreclosed and obtained a judgment in the Chancery Division for approximately $19,000. The property was sold at a sheriffs sale for $15,700 to one Michael Bacioppi. Plaintiff now sues on the bond for a deficiency of approximately $4000 and in this motion asks the court to grant summary judgment.
+Defendants have disputed the amount of the deficiency. They argue that summary judgment may not be granted and that a trial is required pursuant to the provisions of N. J. S. 2A:50-3 to determine the amount of the deficiency. The statute, in its pertinent parts, provides as follows:
+“The obligor in any bond * * * given after March 29, 1933, may file an answer in the action on the bond, disputing the amount of the deficiency sued for. In that event botli parties may introduce, in evidence at the trial of the action on the bond, testimony as to the fair market value of the mortgaged premises at the time of the sale * 15 - and the court * * * shall determine the amount of such deficiency, by deducting from the debt * * * the amount determined as the fair market value * * *. If all parties to the action shall so agree, the court may accept as the fair market value * * * the value fixed by 3 appraisers to be named by agreement * *
+Plaintiff, however, contends that the statute does not apply in this case. The first ground offered in support of plaintiff’s argument is that defendants are estopped from invoking the statute since they did not contest the sale in the foreclosure action. Although confirmation of a foreclosure sale is no longer required, Crane v. Bielski, 27 N. J. Super. 448, 459 (App. Div. 1953), reversed on other grounds 15 N. J. 342 (1954), objections to the sale may nevertheless be raised within ten days thereof. R. R. 4 :83-5. It is true that defendants could have objected to the sale, but it does not follow that this is a prerequisite to the assertion of N. J. S. 2A :50-3 in a deficiency suit. The judgment of foreclosure sets the amount due on the debt and this determination is res judicata among the parties, but a subsequent suit on the bond for a deficiency is an independent proceeding. Montclair Savings Bank v. Sylvester, 122 N. J. Eq. 518 (E. & A. 1937); Natovitz v. Bay Head Realty Co., 142 N. J. Eq. 456 (E. & A. 1948).
+In the Sylvester case, supra, it was pointed out, at page 523, that prior to the amendment now incorporated in N. J. S. 2A :50-3 the order confirming the sale was conclusive in the ascertainment of the recoverable deficiency, but that the amendment modified the prior rule and permitted the debtor to put in issue the amount of the deficiency by contesting the fair market value of the mortgaged premises.
+Plaintiff also argues the intent of the Legislature was to permit a contest of the amount of its deficiency only where the mortgagee was the purchaser at the sheriff’s sale to prevent the mortgagee from having a double recovery. Since the property here has gone to a third party, says plaintiff, it would be impossible to obtain more than one recovery.
+In the prior litigation between the very same parties it was said by the Appellate Division that the statute is in derogation of the common law and must be strictly construed and strictly complied with. Moreover, according to well recognized canons of legislative construction it is the duty of the court to determine legislative intention from the language of the statute and to apply it to the facts. Only if an ambiguity exists in the language is it necessary to go beyond the words of the statute. See Albert F. Ruehl Co. v. Board of Trustees of Schools for Industrial Ed., 85 N. J. Super. 4, 12, 13 (Law Div. 1964).
+The plain meaning of the statute requires allowing the debtor to prove fair market value regardless of who the purchaser was at the foreclosure sale. If the Legislature intended that the statute should apply only when the mortgagee was that purchaser, it undoubtedly would have so indicated.
+Lastly, plaintiff asks the court to follow the rationale of 79—83 Thirteenth Ave., Ltd. v. DeMarco, 79 N. J. Super. 47 (Law Div. 1963), affirmed 83 N. J. Super. 497 (App. Div. 1964), certification granted 43 N. J. 271 (1964). It was there held that where a mortgagor whose debt was evidenced by a note failed to object to the foreclosure sale price, he could not assert the right in a deficiency suit to be credited with fair market value. The distinguishing factor, of course, is that here defendants executed bonds. The Appellate Division in the DeMarco case, 83 N. J. Super., at page 498, commented on the distinction as follows:
+“Defendant argues that it is most unfair that the maker of a note secured by a mortgage on realty does not have the same right as the maker of a bond similarly secured, to a credit for the fair value of the land when he is sued for a deficiency after foreclosure. But, as Judge Conklin pointed out, we are bound by the statutes.”
+The motion for summary judgment must be denied.
+The defendants have agreed to the appointment of three appraisers under the statute. If plaintiff should also agree, a stipulation may be prepared and filed before the trial date.
