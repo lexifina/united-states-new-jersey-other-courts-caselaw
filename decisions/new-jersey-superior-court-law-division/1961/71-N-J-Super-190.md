@@ -1,0 +1,73 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1961-12-08"
+citations: ["71 N.J. Super. 190"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROSANA B. DI MEDIO, GENERAL ADMINISTRATRIX AND ADMINISTRATRIX AD PROSEQUENDUM OF THE ESTATE OF VICTOR CRUZ, DECEASED, PLAINTIFF, v. PORT NORRIS EXPRESS COMPANY, INC., AND CHARLES LUPTON, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/71/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 356672
+cites_cases: ["19 P. R. R. 146", "252 F. 2d 115", "29 P. R. R. 47", "34 P. R. R. 796", "67 P. R. R. 342", "77 P. R. R. 862", "78 P. R. R. 771"]
+---
+
+# Di Medio v. Port Norris Express Co.
+
+## Majority (R. O. Brown, J. O. C.)
+
+R. O. Brown, J. O. C.
+(temporarily assigned). This is a survival action and a wrongful death action instituted by the plaintiff as a general administratrix and administratrix ad prosequendum, of the estate of the decedent, Victor Cruz. The decedent was a migrant farm worker from the Commonwealth of Puerto Rico. On the day of the accident causing his death ho was returning from work on a bus which was allegedly struck in the rear by the sand-loaded truck of the defendant. lie sustained multiple injuries eventually resulting in his death.
+This matter comes on for hearing on a motion for summary judgment which is directed solely against the first count of the complaint demanding damages for wrongful death. The complaint alleges that the action is brought for the benefit of Susana Rosado Torres, the widow of the decedent, and his four surviving and dependent children.
+As a result of a previous argument on this motion before me, it was stipulated that no ceremonial marriage ever took place between the decedent and Miss Torres, so the claim on her behalf is no longer being made. Counsel additionally stipulated that only the younger two children, Andres Cruz Rosado, age 12, and Julia Cesar Cruz Rosado, age 11, were born of the relationship between Miss Torres and the decedent. Therefore, counsel agreed that claim is now made only on behalf of the two younger children. Claim is no longer made for the elder two children, who were born of some previous relationship between Miss Torres and one Ramon Lopez. The stipulations narrow the issue to the question of whether the two younger allegedly dependent children of the decedent are such persons as are entitled to take his intestate personal property.
+Plaintiff contends that the dependent children of the decedent are such persons as are entitled to take his intestate personal property under the New Jersey Death Act.
+The defendant concedes that the law of Puerto Rico gives to the beneficiaries, that is the dependents of the decedent, his personal property.
+It is the contention of the defendants that the Legislature established this special cause of action with the intention that any proceeds thereof should be distributed according to the law of the jurisdiction which has conferred such right of action, i. e., that of New Jersey.
+The questions are, therefore, whether the law of the domicile of the decedent, Puerto Rico, or the law of the forum, New Jersey, determines the method of disposition of damages, and further, whether the law of the domicile or the law of the forum determines the legal status of the dependent children of the decedent.
+In order to better understand the present problem, the evolution through which the Death Act has gone should be reviewed. B. 8. 2:47-4 provided as follows:
+“The amount recovered * * * shall be for the exclusive benefit of the widow, surviving husband, and next of kin of decedent, and shall be distributed to them in the proportions provided by law for the distribution of the personal property of intestates * *
+This section was amended by L. 1948, c. 429, § 1, p. 70. The section then stated that the- amount recovered under the Death Act:
+“* * * shall be for the exclusive benefit of the widow, surviving husband, dependent children of the decedent, or the descendants of any such children, the dependent natural parents of the decedent, the dependent adopting parents of a legally adopted child and the dependent next of kin of the decedent, except the natural parents of a decedent who was legally adopted, and shall be distributed to them in the proportions provided by law for the distribution of the personal propoi’ty of intestates * *
+It is to be noted that in both of these statutes the distribution is to a specifically enumerated class, and that this class would take in the proportions provided by law for the distribution of the personal property of intestates. These statutes were superseded by N. J. 8. 2A:31—4, which states that
+“The amount recovered in proceedings under this chapter shall be for the exclusive benefit of the persons entitled to take any intestate personal property of the decedent, and in the proportions in which they are entitled to take the same. * * *” (Emphasis added)
+The underlined word “any” emphasizes the fact that the Legislature specifically amended the law so as to grant a recovery, not to specific persons, but to all of those persons who would be entitled to take “any” of the intestate’s personal property. A liberal construction of this law must admit that one who would be entitled to take personal property of the decedent in Puerto Itico meets the requirements of this law. It must be agreed that illegitimate children may take intestate personal property only from their mother under New Jersey law, and not from the putative father.
+It, therefore, becomes necessary to malee a determination of the status of the children under the law of their domicile in order to determine their right to inherit from the decedent.
+A thorough understanding of this status under the law of Puerto Kieo must be based on the fundamentals of the Puerto Bican concept of marriage. The law as to marriage status is found in the Civil Code of Puerto Bico whose ancient progenitor was the Spanish Civil Code. Naturally, the provisions of the Spanish Code on marriage were inspired by the views of the Church as to this institution. Cohabitation of a man and woman without benefit of a previous marriage complying with the requirements of law was considered not only illicit, but immoral and against public order. The Supreme Court of Puerto Rico has stated that the legislature had tried to discourage the existence of such relationship between man and woman by depriving it of any civil or legal effects whatsoever. Torres v. Roldan, 67 P. R. R. 342, 343 (1947), Morales v. Cruiz, 34 P. R. R. 796, 799-800 (1926), Correa v. Quinones, 29 P. R. R. 47, 49 (1921).
+The legal status of children in Puerto RicO' is set forth in Title 31 of the Laws of Puerto Rico, Annotated. Like our own law, there are legitimate and illegitimate children.
+31 L. P. B. A. § 442—“Children are legitimate, illegitimate, or legitimized. Legitimate children are those born in wedlock. Illegitimate children are those born out of wedlock. Illegitimate children may be legitimized by the subsequent marriage of their parents.”
+31 L. P. B. A. § 461—“Legitimate children are those born 180 days after the marriage has been celebrated and before 300 days have passed after the marriage has been dissolved.”
+31 L. P. B. A. § 466—“Legitimate children have the right:
+1. To bear the family name of the father and the mother.
+2. To be supported.
+3. To the legitimate inheritance.”
+31 L. P. B. A. § 481—-“All children had out of wedlock may be legitimated.”
+31 L. P. B. A. § 482—“The legitimation of children had out of wedlock shall be accomplished by the subsequent reciprocal marriage of the parents; Provided, that there shall be considered as legitimated children, all children had out of wedlock prior to the approval of this Act, whose parents have married each other after the birth of said children.”
+31 L. P. B. A. § 483—“Legitimatized children shall enjoy the same rights as the legitimate children.”
+31 L. P. B. A. § 507—'“The illegitimate children lacking the lawful qualification of natural children are only entitled to such support from their parents, as is prescribed in section 562 of the Code.”
+The law of Puerto Rico seems to be abundantly clear that children were either legitimate or illegitimate, as section 442 plainly announced. In recognition of the many illegitimate children born yearly on the island Commonwealth, the legislature established some special privileges for certain of these illegitimates in 1942. Illegitimate children who were recognized natural children of their parents obtained special privileges:
+31 L. P. R. A. § 506—“A recognized natural child has the right:
+1. To use the surname of the parent making the recognition.
+2. To be supported by the same.
+3. To receive the hereditary portion determined in this Code.”
+Dor an illegitimate child to be recognized and gain the above special privileges, compliance with the following sections was necessary:
+31 L. P. R. A. § 504—“The natural child may be recognized by the father and mother conjointly or by one of them only either in the record of birth or in the testament or in any other public instrument.
+The father is obliged to recognize the natural child:
+1. When there exists an indubitable statement in writing of the father wherein he expressly acknowledges his paternity.
+2. Where the child has uninterruptedly enjoyed the condition as of a natural child of the defendant father justified by acts of the same father or of his family.
+3. When the mother was known to have lived in concubinage with the father, both during her pregnancy and at the time of the birth of the child.
+4. When the child may present any authentic evidence of his paternity. The mother shall likewise be obliged to recognize a natural child in the same cases as the father, and further where the act of the confinement and the identity of the child are fully established.”
+An entirely different situation is presented if any of the plaintiff children were born after 1952. This is so because on July 25, 1952 the Constitution of the Commonwealth of Puerto Bieo was approved, and Art. II, § 1, thereof provides:
+“The dignity of the human being is inviolable. All men are equal before the law. No discrimination shall be made on account of race, color, sex, birth, social origin or condition, or political or religious ideas. Both the laws and the system of public education shall embody these principles of essential human equality.”
+In furtherance of this constitutional mandate, Act No. 17 of August 20, 1952, retroactive to July 25, 1952, was enacted. It provides that:
+“All children have, with respect to their parents and to the estate left by the latter, the same rights that correspond to legitimate children.” (31 L. P. R. A. § 441)
+Those provisions have been interpreted in Puerto Rico as erasing all distinctions between children born in. and out of wedlock and as granting to all children the same status, irrespective of their birth. In the case of Pabon v. Morales, 19 P. R. R. 146 (Sup. Ct. 1956) the lower court decided that, as to children born after 1952, the requirements of section 504 did not apply and that proof of mere paternity was enough to obtain recognition. It went on to declare .the plaintiff a “recognized natural child.” The Supreme Court affirmed the judgment, “modifying it to the effect that the minor Juan Rafael Pabon is declared to be the son of the defendant, with the right to bear his surname and all the other rights corresponding to legitimate children by virtue of the law.”
+This decision is conclusive authority for the proposition that the status of persons bom out of wedlock after 1952 is exactly the same as that of a legitimate child.
+Children bom before 1952 are not covered by the provisions of the Constitution and Act Eo. 11, since they are not retroactive to births occurring before July 25, 1952. Marquez v. Aviles, 252 F. 2d 115 (1 Cir. 1956); Sanchez v. Diaz, 78 P. R. R. 771 (Sup. Ct. 1955); Alvarez v. Alvarez, 77 P. R. R. 862 (Sup. Ct. 1955).
+The two children who now present their claims were both bom prior to 1952. Thus, their status, as determined by law of Puerto Rico> is that of illegitimacy. It would appear, however, that an illegitimate child, who has been recognized under section 504, is entitled to be supported under section 506(2) and to receive the hereditary portion of the decedent’s estate under section 506(3).
+Even if we are to accept, for purposes of this motion only, that these children can show that they have been “recognized” according to the procedure outlined in the statutes, they still remain illegitimate recognized natural children. Illegitimate children could be legitimatized only by the subsequent marriage of the parents. Thus, whether we apply the law of New Jersey or the law of Puerto Rico we arrive at the same status for these children—that of illegitimacy.
+The great weight of authority is to the effect that:
+“The lex loci delicti governs the determination of who are the beneficiaries, and the apportionment or distribution of the recovery among such beneficiaries, at least where and to the extent that these matters are an integral part of the cause of action and cannot be separated from it. The fact that the sum to be distributed is recovered without suit, as by compromise or settlement, does not alter the rule that distribution is governed by the lex loci delicti. However, a statute providing that the damages shall be disposed of as personal property belonging to the estate of the deceased requires the damages to be distributed according to the statute of descent and distribution of decedent’s domicile.
+As distinguished from the law existing at any other time, the law obtaining at the time of death or when the cause of action accrued governs questions respecting the beneficiaries and distribution of the recovery.” 25 O. J. S. Death § 28, p. 1101.
+A similar opinion was expressed in 16 Am. Jut., sec. 395.
+The mode of distribution has been declared to be an intrical part of the causo of action and inseparable therefrom. “The distributees are generally regarded as entitled to the proceeds, not as heirs or by succession, but as beneficiaries of the statute.” 16 Am. Jur., sec. 247
+I am, therefore, led to the conclusion that these children, being illegitimate, under both the law of Puerto Rico and the law of New Jersey, cannot inherit under the New Jersey statute and therefore cannot avail themselves of the benefits of our act. The first count of the complaint will therefore be stricken. Counsel should submit an appropriate order to the court.
