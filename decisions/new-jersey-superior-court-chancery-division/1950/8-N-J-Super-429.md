@@ -1,0 +1,36 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1950-05-02"
+citations: ["8 N.J. Super. 429"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BRENT GOOD ORCUTT, PLAINTIFF, v. ANNA ORCUTT HOYT, AND BARBARA M. COLWELL, INDIVIDUALLY, AND HENRY H. HOYT, DONALD R. BALDWIN AND CURTIS COLWELL, EXECUTORS OF THE LAST WILL AND TESTAMENT OF KATE GOOD ORCUTT, DECEASED, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/8/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 358608
+cites_cases: ["102 N. J. Eq. 524", "112 N. J. Eq. 203", "125 N. J. Eq. 106", "13 N. J. Eq. 101", "141 A. 799", "164 A. 9", "4 A. 2d 379", "44 A. 160", "58 N. J. Eq. 186"]
+---
+
+# Orcutt v. Hoyt
+
+## Majority (Stein, J. S. C.)
+
+Stein, J. S. C.
+This is a suit brought by the plaintiff, Brent Good Orcutt, against the executors of the estate of his mother, Kate Good Orcutt; his sister, Anna Orcutt Hoyt; and Barbara M. Colwell for the recovery of a ring which he contends was bequeathed to him under the Second Article of his mother’s will, and prays that a constructive trust be declared and the ring delivered to him in satisfaction of his mother’s bequest.
+Kate Good Orcutt died on March 23, 1947, leaving a last will dated January 11, 1947, duly probated.
+By the Second, Third and Fourth Articles of her will testatrix disposed of her jewelry, as follows:
+“SECOND: 1 give and bequeath unto my son, BRENT GOOD ORCUTT, my large diamond solitaire ring as and for his absolute property.
+“THIRD: I give and bequeath unto my daughter-in-law, ETHEL BURTON ORCUTT, my diamond and opal necklace and my opal brooch surrounded by diamonds and my opal dinner ring as and for her absolute property.
+“FOURTH: All the remainder of my jewels and jewelry, I give and bequeath unto my daughter, ANNA ORCUTT HOYT, if she survive me, but in the event she should die before me, I give and bequeath the same unto my granddaughter, SUZANNE KATE HOYT.”
+At the time of the exemption of the will and on the date of her death testatrix had in her possession a number of items of jewelry but among them were only two rings which could be described as solitaires, so that one or the other of these rings must have been the ring indicated in the Second Article of her will.
+The inventory of the estate (which is attached to the complaint) contains the following description of these two rings. First a “platinum ring set with a marquise diamond, weighing approximately 4.5 carats,” $2,250, and the second is described in the inventory as a “gold ring set with a solitaire diamond, weighing approximately 1.50 carats (diamond is Aid-mine-cut’ and of poor quality and imperfect),” $300.
+The executors delivered to the plaintiff the gold ring set with a solitaire diamond of approximately 1.50 carats, indicating they did so pursuant to the Second Article of the decedent’s will, and after satisfying the specific bequest in the Third Article, delivered to plaintiff’s sister, Anna Orcutt Hoyt, the remainder of the jewelry, comprising over 30 items, pursuant to the Fourth Article of the will. Included in the items delivered to Mrs. Hoyt, the wife of one of the executors, was the platinum ring set with a marquise diamond of approximately 4.5 carats, and it is this ring which is claimed by the plaintiff in this action. Subsequently, this ring was given by Mrs. Hoyt to Barbara M. Colwell, the wife of another executor, Curtis Colwell, and as Barbara M. Colwell is now in possession of the ring, she has been made a party defendant to this suit.
+Brent Good Oreutt rejected the ring delivered to him by the executors, contending that it was not the ring intended by his mother under the Second Article of her will, and demanded the executors deliver to him the large diamond ring in accordance with the will. The executors refused his demand.
+The defendants contend that the plaintiff is not entitled to the ring set with a marquise diamond of 4.5 carats, but to the gold ring set with a 1.50 carat diamond.
+The language of the decedent in the Second Article of the will seems to me to be clear and unambiguous. She bequeaths to her son “my large diamond solitaire ring.” There were .only two rings that could possibly meet this description — one containing a large diamond of approximately 4.5 carats and the other containing a small 1.50 carat diamond.
+The plaintiff’s expert testimony establishes to my satisfaction that the platinum ring set with a marquise diamond of 4.5 carats is a diamond solitaire ring. This being so, the “large” ring was intended by testatrix'to go to plaintiff according to the plain and unambiguous meaning attributable to the language of her will.
+Counsel for the defendants contended on the trial that a prior revoked will executed in 1941 should be admitted in .evidence. Extrinsic evidence, such as a prior will, is not admissible unless an ambiguity exists. Thompson, Construction of Wills, § 109, pages 197-199, § 116, pages 217-218; Cleveland v. Havens, 13 N. J. Eq. 101; Mayer v. Tucker, 102 N. J. Eq. 524, 141 A. 799 (E. & A.); Fidelity Union Trust Co. v. Noll, 125 N. J. Eq. 106, 4 A. 2d 379.
+An ambiguity may be either patent or latent. A latent ambiguity exists only where the words of the will, although clear on their face, apply to two situations, either of which is consistent with the meaning of the words as expressed in the will. Here the clear and unambiguous language used by the decedent cannot be interpreted as being applicable to two situations. If the decedent had used the phrase, “I give and bequeath my diamond solitaire ring” (omitting the word “large”), a latent ambiguity would exist since the testatrix owned two diamond solitaire rings at the time of her death. The use of the word “large” eliminates any ambiguity or doubt as to which of the two rings the language of Article Second applies.
+A prior will may be admitted in evidence where either a patent or latent ambiguity exists which makes it necessary to resort to extrinsic evidence. In Crocker v. Crocker, 112 N. J. Eq. 203, 164 A. 9, an ambiguity existed on the face of the will, and to explain this patent ambiguity a prior revoked will was admitted in evidence. In Atterbury v. Stafford, 58 N. J. Eq. 186, 44 A. 160, the testator bequeathed $500 to each of the children of “Dr. James B. Stafford.” In fact, there was no such person as Dr. James B. Stafford, although the testator had a brother, Dr. Joseph B. Stafford, who was a physician, and a nephew, James B. Stafford, who was not a physician but who was familiarly known as “Doc” or “Dr.” because he had once worked as a clerk in a drug store. By reason of this situation the plain meaning of the language of the will applied with equal consistency to two individuals. The court, to explain the latent ambiguity, admitted a prior revoked will of the testator in which the testator distinguished Joseph B. Stafford from James B. Stafford by styling the former “Dr.” and the latter merely James B. Stafford. The court, however, relying upon the evidence that the testator frequently alluded to James B. Stafford as “Dr.” held that the legacy passed to each of the children of James B. Stafford.
+It is concluded that judgment be entered in favor of the plaintiff.
