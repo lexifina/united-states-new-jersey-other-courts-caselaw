@@ -1,0 +1,41 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1994-10-19"
+citations: ["282 N.J. Super. 349", "660 A.2d 21"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY v. COREY PITTMAN."]
+source_url: "https://static.case.law/nj-super/282/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 425120
+cites_cases: ["115 A.2d 62", "156 N.W.2d 528", "19 N.J. 59", "203 A.2d 13", "293 N.W.2d 244", "350 N.E.2d 604", "380 Mich. 235", "385 N.Y.S.2d 274", "39 N.Y.2d 656", "43 N.J. 171", "450 So.2d 675", "459 A.2d 641", "93 N.J. 39"]
+---
+
+# State v. Pittman
+
+## Majority (BERMAN, J.S.C.)
+
+BERMAN, J.S.C.
+This case presents a unique scenario which New Jersey courts have never addressed. Defendant, Corey Pittman, who was allegedly involved in an altercation with Middlesex County sheriffs officers who will be testifying at his trial, seeks a change of venue. In essence, he argues that he may be deprived of a fair trial since the officers assigned to this court are also Middlesex County sheriffs officers.
+These are the facts as presented to a Grand Jury on May 19, 1993, with sheriffs officer Fred Parisi as the sole witness. On April 3, 1993, at approximately 4:00 a.m., sheriffs officers Parisi and Walter Baran of the Middlesex County Sheriffs Department were returning to the courthouse in a marked sheriffs unit after random patrol duty. As they approached the courthouse, they observed a green Jaguar without its headlights on. After they attempted to pull the car over, the occupants of the car fled. The driver escaped, and officer Parisi pursued the passenger. Officer Parisi had several scuffles with the suspect as he tried to apprehend him. The driver was later identified as Ronell Davis, and his passenger, as Eric Pittman.
+During the scuffle, while Eric Pittman was attempting to escape, a. third man entered the picture, who Parisi later identified as Corey Pittman (hereinafter referred to as “Corey”). Parisi claimed that Corey assaulted Baran and struck him (Parisi) in the back of the head with a revolver. Parisi testified that he chased Corey, drew his gun, yelled “police freeze, freeze halt” and fired two shots at him. Parisi later arrested Corey at his home. Corey has been charged with the fourth degree offense of resisting arrest in violation of N.J.S.A. 2C:29-2; third degree aggravated assault in violation of N.J.S.A. 2C:12-1 b(5); fourth degree unlawful possession of a weapon in violation of N.J.S.A. 2C:39-5 b; and second degree possession of a weapon for an unlawful purpose in violation of N.J.S.A. 2C:39-4 a.
+Counsel for defendant seeks this change of venue because Corey Pittman is in a somewhat unique position in that the alleged victims, who will be testifying at his trial, are Middlesex County sheriffs officers.
+Not surprisingly, Middlesex County employs Middlesex County sheriffs officers who, among other things, provide security in the court house, escort jurors, and relay any messages, questions and the arrival of a verdict to the court from them.
+Motions for change of venue are prescribed by R. 3:14-2, which provides:
+Such motions shall be made to the judge assigned to try the case or the Assignment Judge of the county in which the indictment was filed or the accusation filed on notice to the other party or parties on such proofs as the court directs and shall be granted if the court finds that a fair and impartial trial cannot otherwise be had.
+Motions for change of venue are addressed to the discretion of the trial court. State v. Ravenell, 43 N.J. 171, 180-81, 203 A.2d 13 (1964) (citing State v. Wise, 19 N.J. 59, 115 A.2d 62 (1955)). Prior to 1983, such motions were granted only where evidence provided “clear and convincing proof that a fair and impartial trial cannot bé had before a jury in the county in which the indictment was found.” Wise, 19 N.J. at 73-74, 115 A.2d 62. In 1983, this standard was relaxed by the New Jersey Supreme Court to a “realistic likelihood of prejudice” with respect to pretrial publicity in State v. Williams, 93 N.J. 39, 459 A.2d 641 (1983). In that case, the Court, after reiterating the clear and convincing standard of Wise, stated: ,
+If, however, the trial court determines in its sound discretion at time of trial that a change of venue is necessary to overcome the realistic likelihood of prejudice from pretrial publicity, a change of venue may be ordered. In this context, State v. Wise would no longer apply.
+[State v. Williams, 93 N.J. at 67-68 n. 13, 459 A.2d 641 (emphasis added).]
+Here, Corey’s argument for change of venue does not derive from pretrial publicity; rather, his concern is with the fact that Middlesex County sheriffs officers will be testifying against him. They will testify that on the night of the incident, they were wearing regular black sheriffs uniforms with the prominent gold badge and patch displayed, both of which clearly read “Middlesex County.” They were also on their way back to the Middlesex County courthouse. Not coincidentally, this same uniform is worn by the sheriffs officers assigned to this court.
+Although there are no New Jersey cases directly on point, at least four other jurisdictions have confronted similar issues. Bu-back v. Weideman, 380 Mich. 235, 156 N.W.2d 528 (1968); State v. Paulsen, 293 N.W.2d 244 (Iowa 1980), People v. Goldswer, 39 N.Y.2d 656, 385 N.Y.S.2d 274, 350 N.E.2d 604 (1976); but cf. State v. Lowenfield, 450 So.2d 675 (La.Ct.App.1984).
+In Buback, the Supreme Court of Michigan upheld a decision to transfer venue, on the State’s motion, where the criminal defendants, as sheriffs officers, were required to summon and sequester the jury and execute the processes and orders of the court in their own trial. The court there explained:
+n view of this responsibility, the People would be unable to get a lair trial in Wayne County. The defendant circuit judge granted the motion for change of venue, and while his opinion emphasized the shortcomings of the physical facilities of the circuit court, it is clear that he was persuaded by the plaintiffs argument that the defendants and their employees and deputies would be in a position to influence the jury in a way that would jeopardize the People’s right to a fair trial ...
+[Buback, supra, 156 N.W.2d at 529.]
+Of significance is the fact that Buback, and his co-defendant, James Bommarito, were the Sheriff and Undersheriff of Wayne County. No argument is advanced that the alleged victims here are the superiors of the sheriffs officers assigned to this court.
+The Iowa Supreme Court in Paulsen, supra, 293 N.W.2d 244, upheld the lower court’s transfer of venue where the defendant was the sheriff of the county in which the action was originally brought. In Paulsen, the court found that the trial court was concerned that, among other things, the defendant would enjoy a position of advantage if tried in Scott County because his department had statutory responsibility for summoning the prospective trial jurors and the logistics of juror meals and lodging, if required. Id. at 247.
+Lowenfield is the only case where, like here, the alleged victim was associated with the sheriffs department. In upholding the trial court’s decision, denying defendant’s motion for change of venue, the Louisiana Court of Appeal stated: “we cannot presume the deputies will not carry out their duties as required by the law, particularly after receiving specific instructions and cautions by the trial judge.” Lowenfield, supra, 450 So.2d at 677.
+[] Reduced to its simplest common denominator, the defense argues a twin thesis: the jurors may not be able to follow their oaths because they “bond” with the officers who guard and escort them; or the sheriffs officers may violate theirs. A carefully crafted voir dire resolves the former concern; appropriate cautionary instructions address the latter. This court, too, will not “presume” the officers will violate their oaths.
+The motion is denied.
+At the timo oi this writing, officer Parisi is no longer employed by the Middlesex County Sheriff's Department.
+The Assignment Judge agreed that this court should hear this motion.
