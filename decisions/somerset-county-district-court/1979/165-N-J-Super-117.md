@@ -1,0 +1,40 @@
+---
+court: "Somerset County District Court"
+decided: "1979-01-16"
+citations: ["165 N.J. Super. 117"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. M. LONG CO., INC., PLAINTIFF, v. COOPER JARRETT, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/165/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 294835
+cites_cases: ["122 N. J. L. 202", "129 S. W. 152", "14 Ala. App. 175", "145 La. 460", "299 U. S. 28", "428 F. 2d 690", "501 F. 2d 1369", "82 S. C. 468", "83 N.J.L, 398", "90 S. W. 483", "99 Tex. 407"]
+---
+
+# T. M. Long Co. v. Jarrett
+
+## Majority (Imbriani, J. S. C.)
+
+Imbriani, J. S. C.
+(temporarily assigned). Is a freight carrier subject to liability for special damages when notice of special circumstances occasioning special losses is communicated to the carrier after the parties entered into a contract ?
+Plaintiff ordered specially manufactured steel plates from Allegheny Ludlum Steel Corporation. The plates were manufactured in Pennsylvania and, admittedly, placed upon a truck of defendant for transportation to plaintiff’s plant in New Jersey. The shipment, for reasons unknown, never reached plaintiff.
+When advised that the shipment had not arrived defendant requested that plaintiff' withhold reordering from Allegheny so that defendant could attempt to locate the shipment. Plaintiff waited 29 days, then reordered when it appeared that defendant was unable to locate the shipment. Plaintiff actually received the shipment 36 days after reordering.
+Defendant admitted liability for $1,432.32, being the cost to plaintiff to reorder the lost steel plates.
+Tlie dispute is over the plaintiffs right to special damages. Plaintiff seeks $200 as its costs for time spent pursuing the lost order and processing its replacement, and $1,369 which it alleges represents the cost of interest on capital idled due to nondelivery of the steel plates for 36 days.
+Ordinarily, one who breaches a contract is chargeable only for such damages as are reasonably foreseeable at tlie time the contract was entered into. Marcus & Co. v. K. L. G. Baking Co., Inc., 122 N. J. L. 202 (E. & A. 1938); N. J. S. A. 12A:1-106, 12A:2-715 (2) (a). Special damages, i. e., special losses likely to arise from a breach, may not be awarded unless special circumstances were made known at the inception of the contract as the probable consequences of a breach. The foundation for this rule being that
+* * * unless the carrier be made aware * * :h at the time of the shipment of * * * circumstances that require unusual dispatch or care in transportation, he cannot be presumed to know the facts, the existence and knowledge of which upon his part present the legal status on which his liability for more than ordinary damages can be predicated. [Higgins v. United States Epress Co., 83 N.J.L, 398, 399-400 (Sup. Ct. 1912)]
+The basic rule goes back to Hadley v. Baxendale, 9 Exch. 341, 156 Eng. Rep. 145, 5 Eng. Rul. Cas. 502 (1854), which held that damages recoverable for a breach of contract are only those that may “reasonably be supposed to have been in the contemplation of both parties at the time they made the contract as the probable result of the breach of it.” Accord: Restatement, Contracts (1932), § 329, comment a.
+Liability of a carrier for damages arising from an interstate shipment is controlled by the Interstate Commerce Act, 49 U. S. C. A. § 20 (11), commonly referred to as the Carmack Amendment, which established a single and uniform federal standard to determine the obligations of a carrier operating in interstate commerce. Southeastern Exp. Co. v. Pastime Amusement Co., 299 U. S. 28, 57 S. Ct. 73, 81 L. Ed. 20 (1936); Rocky Ford Moving Vans v. United States, 501 F. 2d 1369 (8 Cir. 1974).
+Federal law does not establish a new or different measure of damages but simply requires that the law of the state where the breach occurred be applied, and prohibits a carrier from limiting its common law liability. F. J. McCarty Co. v. Southern Pacific Co., 428 F. 2d 690 (9 Cir. 1970).
+The crux of plaintiff’s claim for special • damages is that the steel plates could not be obtained elsewhere since they had to be specially manufactured. As a result of their loss a considerable amount of capital equipment was forced to remain idle.
+Plaintiff admits that there was no notice to defendant before the goods were shipped that the steel plates were specially manufactured and could not easily be repurchased elsewhere. Therefore, absent a special exception to the Hadley v. Baxendale rule, plaintiff’s claim must fail.
+Plaintiff urges, however, that in the circumstances of this case notice of special circumstances given to the carrier after the breach of contract by the carrier does permit an award of special damages, quoting Louisville and N. R. Co. v. Cheatwood, 14 Ala. App. 175, 68 So. 720 (Ct. App. 1915) :
+Subsequent notice, however, of the effect of further delay after the goods should have been delivered may render the carrier liable for damages accruing after that time by reason of his negligence in not tracing and finding the goods. [14 Ala. App. at 179, 68 So. at 721]
+However, in the Louisville case, as in Miller Eng’g Co. v. Louisiana Ry. and Nav. Co., 145 La. 460, 82 So. 413 (Sup. Ct. 1919) and Bourland v. Choctow, O. and G. Ry. Co., 99 Tex. 407, 90 S. W. 483 (Sup. Ct. 1906) the goods had been safely shipped by rail to their destination, but there was a delay in delivery from the railroad station to the ultimate recipient of the shipment. Those cases did not involve lost shipments. There the carriers were given notice after delivery of the shipment to its destination that failure to make prompt delivery to the ultimate recipient of the goods would result in special damages. As pointed out in Miller, supra:
+Where the breach consists in the failure to make delivery after the shipment reaches its destination, and when nothing remains to be done by the carrier except to make delivery, the carrier is responsible for such special damages as it was then informed would likely result from its negligence in that regard. [145 La. at 464, 82 So. at 414]
+But here there was no safe arrival of the goods at the destination. Here the shipment was lost in transportation. There was no negligence by the defendant in either tracing the shipment or failing to deliver the goods to plaintiff after the goods reached their destination, as occurred in Gheatwood, Miller and Bourland.
+Bather, the present case more closely resembles Gulf, C. and S. F. Ry. Co. v. Cherry, 129 S. W. 152 (Tex. Civ. App. 1910), where the goods were inadvertently sent to the wrong city and after the goods should have arrived the carrier was advised by the shipper that as a result of the delay the shipper was losing $10 a day. The court considered the “subsequent notice” theory, but refused to grant special damages, saying that “the fact that the carrier was then given such notice [after shipment] did not increase its liability for damages beyond that which was mutually considered when the contract of shipment was made”. 129 S. W. at 153. In Cherry, as here, the negligence of the carrier occurred before it received notice of special circumstances that created special damages.
+Similarly, McMeekin v. Southern Ry. Co., 82 S. C. 468, 64 S. F. 413 (Sup. Ct. 1909), denied special damages where the shipper was given notice of special damages subsequent to shipment, saying:
+* * * [P]laintif£, in [the] absence of evidence of negligence on the part of the carrier in attempting to trace and find the freight, could not recover special damages for delay in delivery, under a notice given subsequent to the time of shipment. [82 S. C. at 472, 64 S. E. at 415]
+Thus, the general rule that special damages will not be awarded in the absence of notice to the carrier at the time of shipment applies to the present case, and damages will be limited to the $1,432.32 stipulated by the parties.
