@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1949-02-10"
+citations: ["2 N.J. Super. 393"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRED GILMOUR, PLAINTIFF, v. GREEN VILLAGE FIRE DEPARTMENT, INC., A CORPORATION OF THE STATE OF NEW JERSEY, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/2/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 368396
+cites_cases: ["58 N. J. Eq. 313", "64 N. J. Eq. 27", "95 N. J. Eq. 188"]
+---
+
+# Gilmour v. Green Village Fire Department, Inc.
+
+## Majority (Kays, J. S. C.)
+
+Kays, J. S. C.
+The bill of com'plaint in this case was filed to enjoin a nuisance allegedly resulting from, the playing of night baseball or softball on the land owned by the defendant ’by ball teams which are sponsored by the defendant.
+Plaintiff, his wife and 9 year old daughter reside on the north side of Green Village Road in the Township of Chatham, Morris County, referred to as “Green Village”. The land of the defendant is on the south side of said road approximately opposite that of the plaintiff’s. The distance between the nearest points of the land of each is about 125 feet.
+The defendant, a private corporation, was organized in 1922. Its primary purpose is the fostering of fire fighting in the Green Village area. Many years ago it became owner of a large tract of land bordering Green Village Road. After the defendant had acquired title to the land, it constructed a building thereon for the purpose of housing its fire fighting equipment. Said building occupies only a small portion of the land.
+About two years ago, the defendant supplemented its primary purpose and became an active promoter in the field of athletic competition. Several baseball teams, designated by class, were organized and practically all of the remaining land of the defendant was laid out as a baseball diamond and equipped with portable seating equipment for the spectators. .
+During the 1947 baseball season, the defendant sponsored night baseball games, with the benefit of arc lights, on the average of three games per week from the latter part of May until the early part of October. No games were played either Saturday or Sunday. The usual starting time for such games was 9 P.M. They concluded between 11 P.M. and midnight. Large crowds of two hundred or three hundred spectators assembled to witness the games. The arc lights were erected on the tops of tall polls for the purpose of illuminating the playing field. The spectators shouted and a loud public address system was used to explain to those assembled various aspects of the games. The spectators slammed automobile doors going to and returning from the games. Some oí the more enthusiastic people, who observed the games from their automobiles, displayed their enthusiasm by blowing their automobile horns during the course of the games.
+The situation described above also obtained during the same months of 1948.« The plaintiff and others, who were disturbed as a result of the playing of the games attempted to adjust matters amicably by appealing to the defendant, to the local Board of Health, to the State Board of Health and to the local Township Committee with no success.
+The plaintiff and his wife testified that their health and that of their child was impaired as a result of the offensive noises which occurred during the playing of the games. They became nervous and irritable fom lack of sleep due to such noises and the illumination from the arc lights which shown into their house. The peace and comfort of their home was interfered with by the disturbing noises emanating from the spectators and the glare of the arc lights.
+The plaintiff’s right to the relief sought is clear. See, Cronin v. Bloomocke, 58 N. J. Eq. 313; Gilbough v. West Side Amusement Co., 64 N. J. Eq. 27; The Shelburne v. Crossan Corp., 95 N. J. Eq. 188. An individual may enjoin a public nuisance where it is shown that he has suffered some private, direct and material damage beyond the public at large and that the damage suffered is otherwise irreparable. The plaintiff’s evidence produced in this case brings him within the purview of this rule so as to be entitled to its application. In Gilbough v. West Side Amusement Co., supra, Vice Chancellor Pitney said:
+“So the time when a noise is made is also to be taken into account. Mankind needs sleep for a succession of several hours once in every twenty-four hours, and nature has provided a time for that purpose, to wit, the nighttime, and by common consent of civilized man the night is devoted to rest and sleep, and noises which would not be adjudged nuisances, under the circumstances, if made in the daytime, will be declared to be nuisances if made at night and during the hours which are usually devoted by the inhabitants of that neighborhood to sleep.”
+At this juncture, it should be noted that the plaintiff seeks to enjoin the nuisance complained of only after 9 P.M. Further, he does not object to the playing of games with the benefit of the arc lights on Friday evenings as long as such games terminate at 11 P.M.
+It is my opinion that the plaintiff is entitled to the relief sought subject to the following modifications:
+Three games may be played with the benefit of arc lights per week. The games played on evenings other than Fridays must terminate at 10 P.M., that is, the ■ arc lights must be extinguished at that hour on those nights. One game may be played with the benefit of the arc lights on Friday evenings which game must terminate at 11 P.M., that is, the lights must be extinguished at that hour. The loud-speaker may not be used at any time during the day or night. (The defendant has agreed to this last restraint.) The blowing of automobile horns shall be controlled as much as possible by the 'defendant. To accomplish this, the defendant shall, before the commencement of each game, designate one or more of its officers or members for the purpose of informing those who observe the games from the automobiles to desist from sounding their horns as a means of displaying their enthusiasm. Unless the sounding of automobile horns at the games is controlled by the defendant, the plaintiff shall have the right to apply again to this court for ’ an injunction as to the playing of all future games after 9 P.M.
+I shall sign a judgment in accordance with these views.
