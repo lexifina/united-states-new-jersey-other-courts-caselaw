@@ -1,0 +1,45 @@
+---
+court: "Essex County Court of Common Pleas"
+decided: "1924-12-09"
+citations: ["2 N.J. Misc. 1164"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of New Jersey v. James Victor D’Aloia."]
+source_url: "https://static.case.law/nj-misc/2/cases/1164-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 722532
+cites_cases: ["54 N. J. Law 532", "59 N. J. Law 128", "67 N. J. Law 106", "68 N. J. Law 523", "82 N. J. Law 366"]
+---
+
+# State v. D'Aloia
+
+## Majority (Flannagan, J.)
+
+Flannagan, J.
+The defendant, upon complaint made, was tried, convicted and fined $10 in the recorder’s court of the town of Irving-ton.
+He brings the proceedings before this court for review under the provisions of the statute, which requires this court to review and determine the “legality of such proceedings and conviction,” and “if such proceedings and conviction shall thereupon he found to be illegal forthwith, to set aside the same.” N. J. Supp. Comp. Stat. 1915 p. 490 ¶ 11.
+The defendant contends that the proceedings and “conviction” in the recorder’s court are illegal, for the reason, among others, that it cannot be ascertained from the return and de termination, which is called a “conviction” (see Preusser v. Case, 54 N. J. Law 532), of which offense he is convicted and for what wrongful act he is fined.
+The return and determination or “conviction” specifies that he was convicted — first, of being a disorderly person; second, of violating section 3 of said statute, an act concerning disorderly persons, and third, the offense as charged in said complaint.
+' As to the first specification, to wit, that lie was guilty of being “a disorderly person,” there is no such offense. “The conviction must be for some offense mentioned in the act. Being a disorderly person is not an offense.” State v. Regan, 67 N. J. Law 106.
+As to the second specification, to wit, tiiat lie was guilty “of violating section 3 of said statute, an act concerning disorderly persons” (N. J. Supp. Comp. Stat. 1915 p. 487), it is manifest that this specification does not disclose any offense; it does not point to any of the offenses set forth in the act, but only refers to the act. The section of the act referred to enumerate the following as being disorderly persons :
+(1) “Any person or persons who shall loiter or assemble on the streets, at the corners oi the streets, or in the public places of any city, village, borough, town or township oi this state, being under the influence oi intoxicating liquor.
+(2) “Any person or persons who shall on such streets at the corner of such strets, or in such public places, or any railroad train, trolley car or other public conveyances within any city, village, borough, town or township of this state — (a) ‘indulge jn and utter loud and offensive or indecent language,’ or (b) ‘shall address or make audible and offensive remarks or comments upon any person passing along such streets or public places, or in any such railroad train, trolley car or other public conveyance,' or (c) 'shall obstruct or interfere with any person or persons lawfully being in and upon such streets or public places, or such train, trolley car or other public conveyances.’ ”
+Whether the “conviction/’ stating that the defendant violated this act, convicts him of loitering in public places while intoxicated or of indulging in public in loud and offensive or indecent language, or of addressing audible and offensive remarks or comments upon persons in the street or in public places or conveyances, or of obstructing or interfering with persons on the streets . or in public' conveyances, cannot be determined from the language that he is “adjudged to be guilty of violating section 3 of said statute, an act concerning disorderly persons.”
+In State v. Regan, supra, Mr. Justice Eort, speaking for the supreme court, says (at p. 107) : “A person must first be convicted of violating some provision of the act before he can, in the language of the act, be deemed and adjudged a disorderly person.”
+As to the third specification, wit, that he was guilty of the “offense as charged in said complaint,” the complaint charges several offenses, but it is of only one of them that he is convicted. The offenses charged in the complaint are as follows:
+First. That in being requested to display his automobile license, did say to complainant, a. police office, “Who the hell ai’e you ? I don’t have to show my license,” also calling com plainant “a liar.”
+Second. Did indulge in and utter loud and offensive and indecent language.
+Third. Made and addressed audible and offensive remarks and comments upon persons passing along said street.
+Fourth,. Did obstruct and interfere with persons lawfully being In and upon said streets and public places.
+Of which of these charges he is convicted is not stated. In Salter v. Bayonne, 59 N. J. Law 128, Mr. Justice Lippincott, speaking for the supreme court, says: “It is necessary that every essential ingredient to the offense must he set out, and it must be definitely stated of what offense the violator of the ordinance is convicted. * * * The complainant set out several offenses under the ordinance. The conviction fails to aver of which there was a conviction. In these respects the conviction is faulty.” At p. 180.
+The failure of the “conviction” to show of which offense the defendant is adjudged guilty, to show which provision of the act he is adjudged to have violated, renders it illegah State, v. Regan, supra; Salter v. Bayonne, supra. It must therefore he set aside.
+It is contended in support of the conviction that as the .complaint charges that the defendant “at or near Springfield and Clinton avenues * * * in being requested to display Ms automobile license, did say to complainant, ‘Who the hell are you; I don’t have to show my license,’ also calling him a liar;” that this is sufficient as a conviction, the complaint being referred to in the “conviction,” and, therefore, to he taken as part thereof.
+Laying aside for the moment the fact that this allegation is insufficient because combined and confused with other charges as already pointed out, and assuming that it stands alone as the only charge in the, complaint, and treating it as a part of the “conviction,” still, as pointed out by the learned counsel for the defendant, it is defective as a recital of a “conviction.”
+The section involved (N. J. Supp. Comp. Stat. 1915 p. 487) read as follows :
+“Any person or persons wlio shall loiter or assemble on the streets, at the corners of the streets, or in the public places of any city, village, borough, town or township of this state, being under the influence of intoxicating liquor, and any person or persons who shall on such streets, at the corners of such streets, or in such public pflaces. or any railroad train, trolley car or other public conveyances within any city, village, borough, town or township of this state, indulge in and utter loud and offensive or indecent language, or shall address or make audible and offensive remarks or comments upon any person passing along such streets or public places, or in any such railroad train, trolley car or other public conveyances, or shall obstruct or interfere with any person or persons lawfully being in and upon such streets or pubic places or such train, trolley car or other public-conveyances, shall be deemed and adjudged to be a disorderly person.”
+It is apparent from this language quoted that the statute has reference to public places. The particular language of the statute applicable to the question now under discussion is as follows: “Any person * * * who shall on such streets, at the corners of such streets, o-r in such public places * * * within any * * * town * * * of this state indulge in and utter loud and offensive or indecent language * * * shall be deemed and adjudged to be a disorderly person.”
+The particular language of defendant, as it is quoted in the complaint, is offensive in its character, but it is not adjudged to have been uttered in a public place. It is not stated that the defendant at a public place near Springfield and Clinton avenues uttered said offensive words, but it is stated that he uttered them “at or near Springfield and Clinton avenues.” It is patent that not all of the places near Springfield and Clinton avenues are public places. The failure to adjudge that the language was uttered in a public place is fatal. Cowell v. State, 68 N. J. Law 523; Peer v. Dixon, 82 N. J. Law 366.
+Moreover, it is not adjudged that said particular words of defendant quoted in the complaint, still treating the complaint as part of the determination or “conviction,” were loud. This is essential, as the statute provides that language must be both “loud and offensive.”
+The said contention in behalf of the town is therefore unsound.
+For these reasons the proceedings afid “conviction” are illegal and must be set aside as such.
