@@ -1,0 +1,37 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1993-04-21"
+citations: ["268 N.J. Super. 603", "634 A.2d 152"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANGELA M. LANZA PLAINTIFF, v. ALFIO J. LANZA DEFENDANT."]
+source_url: "https://static.case.law/nj-super/268/cases/0603-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 588795
+cites_cases: ["181 N.J.Super. 130", "228 N.J.Super. 346", "245 N.J.Super. 124", "436 A.2d 955", "473 N.W.2d 629", "484 N.W.2d 846", "544 S.W.2d 236", "549 A.2d 888", "837 P.2d 118"]
+---
+
+# Lanza v. Lanza
+
+## Majority (SCHLOSSER, J.S.C.)
+
+SCHLOSSER, J.S.C.
+The issue presented as part of this plenary hearing is whether under any circumstances, subsequent to the enactment of N.J.S.A. 2A:17-56.23a, child support can be modified retroactively except for the period during which the party seeking relief has pending an application for modification.
+Prior to the enactment of this statute, Courts have been asked successfully on numerous occasions to retroactively modify or revise a support order. Weitzman v. Weitzman, 228 N.J.Super. 346, 549 A.2d 888 (App.Div.1988); Mastropole v. Mastropole, 181 N.J.Super. 130, 436 A.2d 955 (App.Div.1981).
+In the case at bar, the parties had two children during their marriage and were divorced on March 10,1989. The matter came before the court when plaintiff sought an order for the enforcement of her support payments, and defendant cross-moved for a reduction thereof.
+At the time of the divorce, the parties agreed that defendant would pay rehabilitative alimony of $1,000 per month for six years and would pay child support of $700 per month. These amounts of support were based upon plaintiff having an earned income of $21,400 per year and defendant having an earned income of up to $52,000 per year. Defendant had earned higher incomes in prior years. The judgment of divorce also required defendant to advise plaintiff of his income level on a monthly basis until it reached $75,000 per year. It is important to note that no testimony was provided that defendant ever actually complied with this obligation. Defendant was in the computer sales business and late in 1989, the year of the divorce. He made a large sale for which he received his commission in 1990. The payment of the large commission, together with his other income, provided defendant with $172,645 of earnings in 1990.
+Defendant did not provide information to plaintiff concerning his 1990 income until he was required to do so as part of this application for a reduction.
+Defendant’s application was made in 1991 when his gross income was $22,564. He was unemployed during a portion of the year. In 1992, defendant was an independent contractor who received a draw of $3,000 per month against commissions and his Form 1099 showed total 1992 compensation of $10,000. A copy of defendant’s 1990 tax return was first made available to plaintiff when it was attached to defendant’s case information statement.
+Plaintiff, no doubt mindful of the restrictive language contained in N.J.S.A. 2A:17-56.23a, has advanced the argument that the court should consider income averaging because of defendant’s widely fluctuating earnings in an attempt to utilize the large 1990 earnings. The courts of New Jersey have not yet utilized this approach in determining appropriate support payments. Courts in other jurisdictions have considered this approach.
+In Zimin v. Zimin, 837 P.2d 118 (Ala.1992), The Supreme Court of Alaska reviewed the obligations imposed by a trial court upon a commercial fisherman. The Supreme Court found that a three year average of his income provides an accurate estimate of an obligor parent’s current earning capacity for purposes of child support when the parent’s income is subject to yearly fluctuations.
+In like regard, in reviewing the obligation of a farmer whose income fluctuates, the Court of Appeals of Iowa found that support should be set at a single amount subject to future modification and that a non-custodial parent’s average income should be computed on the basis of “income averaging”. In re the Marriage of Blume, 473 N.W.2d 629 (Iowa Ct.App.1991). See also In re the Marriage of Vanet, 544 S.W.2d 236 (Mo.Ct.App.1976), regarding the fluctuation in income of an attorney.
+The Supreme Court of North Dakota reviewed the issue in connection with an engineer who operated his own business. Interestingly, the Supreme Court of North Dakota wrote in Clutter v. McIntosh, 484 N.W.2d 846 (1992):
+Most of Gordon’s earnings since 1984 have been from his own corporation, G.W. McIntosh Engineering and Consulting, Inc. Gordon owns this business jointly with his wife, Gerlyn, who is currently employed outside that corporation. When an obligor is self-employed with income subject to fluctuation, the administrative guidelines instruct that information from several years “must” be used to arrive at income. Gordon’s fluctuating income from self-employment was anticipated by the guidelines.
+[Id. at 848-49 (citation and footnote omitted).]
+The court in North Dakota felt that five-year averaging was appropriate. When gross income is subject to fluctuation, particularly in instances involving self-employment, information reflecting and covering a period of time should be used.
+Here, the court is able to distinguish this approach in determining support from the defendant’s situation, because defendant had a single bonanza year, and subsequently his income steadily diminished. In appropriate cases, however, income averaging should be favorably considered in determining proper support levels.
+A different approach is more appropriate in this case. A preliminary question which must be answered is whether or not the children of the marriage are entitled to have their needs accord with the current standard of living of both parents. Clearly, they are. Zazzo v. Zazzo, 245 N.J.Super. 124, 584 A.2d 281 (App.Div.1990).
+In order to- accomplish this goal, the court must consider the holding in Zazzo, the language of N.J.S.A. 2A:17-56.23a, together with the fact that defendant failed to comply with the terms of the judgment of divorce which required him to report his higher levels of income. It is clear that defendant did not intend to share his good fortune with his children in that he made no disclosure thereof when the income was received. Nevertheless, because there is no divorce between parents and their children, the court finds that under the particular circumstances of this case, an increase in child support for 1990 is appropriate. To decide otherwise would be a failure to provide equitable relief to those clearly entitled to it. Had defendant made a timely disclosure of his 1990 income, his child support would have been modified. His failure to do so cannot benefit him to the detriment of his children despite the statutory language to the contrary. Income averaging utilizing past years would only be an attempt to utilize form over substance. The parties stipulated that the modification, if any, would be as of January 1, 1992.
+It is the order of this court that child support for 1990 be modified taking into consideration defendant’s income for that year.
+Both the calculations utilized in modifying child support and the determination of the other outstanding issues before the court in this plenary hearing have been resolved in a separate court order and are not germane to this opinion.
