@@ -1,0 +1,44 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1982-07-07"
+citations: ["185 N.J. Super. 576"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE STATE OF NEW JERSEY v. EMERICK CARTER, A/K/A EMORIC CARTER, A/K/A EMORY CARTER, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/185/cases/0576-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 887051
+cites_cases: ["144 N.J.Super. 268", "19 N.J. 540", "37 L.Ed.2d 631", "37 L.Ed.2d 635", "388 U.S. 218", "413 U.S. 300", "461 F.2d 739", "61 N.J. 434"]
+---
+
+# State v. Carter
+
+## Majority (SCHIAFFO, J. S. C.)
+
+SCHIAFFO, J. S. C.
+The questions raised by defendant’s motion to suppress in this case are:
+1. Does a post-indictment photographic lineup, held without the presence of counsel, violate defendant’s Sixth Amendment rights? (No New Jersey court has addressed itself specifically to this subject.)
+2. Does furnishing discovery of such photographic lineup three days prior to trial constitute “egregious” prosecutorial conduct?
+The answers to both questions above are in the negative. Defendant’s motion is denied.
+On March 4, 1982 defendant Emerick Carter was indicted and charged with having committed burglary and theft on February 4, 1982. The next day, on March 5, 1982, a photographic lineup was conducted in the absence of defense counsel. Prior to trial, which was scheduled for June 7, 1982, a pretrial conference was held, at which no notification of the post-indictment photographic lineup was given to defense counsel.
+Three days prior to trial the prosecutor announced that through inadvertence and by re-reading the file, he discovered the existence of the photographic lineup proceedings and thereafter promptly disclosed the same to defense counsel.
+The defense argues that an attorney should be present at the “critical stage” of the proceedings and further that getting the discovery from the prosecutor three days prior to trial amounts to “egregious” prosecutorial conduct sufficient to warrant the suppression of the out of court identification.
+The State, on the other hand, maintains that such omissions and failure to supply the documents and photographs used in said lineup was not intentional or egregious, and that if it had known the photographs were in the file, it would have supplied them to defense counsel accordingly upon request.
+The State also argues defendant was not prejudiced by the late disclosure, since adequate time was given to the defense before trial to review the photographs and the police reports in question. Consequently, the State contends there was no violation of “due process.”
+It is axiomatic that a defendant has a Sixth Amendment right to the presence of counsel at any “critical stage” of the proceedings.
+The question, therefore, is whether a post-indictment photographic lineup is a “critical stage” in the proceedings requiring the presence of counsel. It has been held not to be.
+Although State v. Farrow, 61 N.J. 434 (1972), addresses itself to a photographic lineup conducted in the absence of counsel pre-indictment, the language therein is significant to show the opinion of our highest court with respect to a distinction between physical lineup and photographic lineup. The court there, realizing that photographic identifications are multi-faceted and serve many purposes, explained:
+... They may be quite properly used to buttress other evidence in the preparatory stages of a prosecution when the defendant has been indicted.... In fact, the idea of requiring counsel for photographic identifications generally approaches the impractical, if not the ridiculous.... [at 450; emphasis supplied]
+The court further remarked that the United States Supreme Court had not at that time directly passed upon the issue concerning the right to counsel at a photographic lineup, since the lineup case of United States v. Wade, 388 U.S. 218, 87 S.Ct. 1926, 18 L.Ed.2d 1149 (1967), where it was held that an accused is entitled to counsel at any critical stage of the prosecution, that a post-indictment physical lineup is such a critical stage and that failure to afford counsel requires the exclusion of evidence of such identification.
+Since Farrow, supra, United States v. Ash, 413 U.S. 300, 93 S.Ct. 2568, 37 L.Ed.2d 619 (1973), was decided and is dispositive of the issues before this court.
+In Ash government witnesses were shown a series of photographs, including one of the accused, in the absence of counsel and after the accused had been indicted for bank robbery. The course of events in Ash is strikingly similar to the events in the present matter. Both dealt with a postindictment photographic identification where the defendant claimed that he was denied the right to counsel at a “critical stage” of the prosecution. The court, after a lengthy examination and discussion concerning the guarantees afforded by the Sixth Amendment of the United States Constitution, explained (413 U.S. at 309, 93 S.Ct. at 2573, 37 L.Ed.2d at 626) that the “core purpose of the counsel guarantee was to assure assistance at trial, when the accused was confronted with both the intricacies of the law and the advocacy of the public prosecutor.”
+Addressing defendant’s contention the court further held:
+A substantia] departure from the historical test would be necessary if the Sixth Amendment were interpreted to give Ash a right to counsel at the photographic identification in this ease. Since the accused himself is not present at the time of the photographic display, and asserts no right to be present ..., no possibility arises that the accused might be misled by his lack of familiarity with the law or overpowered by his professional adversary, [at 413 U.S. at 317, 93 S.Ct. at 2577, 37 L.Ed.2d 631; emphasis supplied]
+The court was mainly concerned about any prejudice that might result to defendant if he or his attorney was not present at the photographic display. However, it was not persuaded that the risks involved in the use of such photographic displays are so injurious that the defendant is entitled to have counsel present at the display.
+Justice Stewart in his concurring opinion emphasized that there is a substantially significant distinction between a lineup and a photographic display. In doing so, he explained:
+... there are substantially fewer possibilities of impermissible suggestion when photographs are used, and those unfair influences can be readily reconstructed at trial. [413 U.S. at 321, 93 S.Ct. at 2579, 37 L.Ed.2d at 634] ... Accordingly, an accused would not be foreclosed from an effective cross-examination of an identification witness simply because his counsel was not present at the photographic display. For this reason, a photographic display cannot fairly be considered a “critical stage” of the prosecution, [at 413 U.S. at 324, 93 S.Ct. at 2581, 37 L.Ed.2d 635]
+See, also, United States ex rel. Reed v. Anderson, 461 F.2d 739 (3 Cir. 1972) (photographic display not a “critical stage”).
+As to the second issue raised, there was no lack of fair play; the State did not intentionally misrepresent or conceal from defendant evidence it intended to use at trial. Nor was the State’s failure to provide the defense with the required discovery “egregious” carelessness, or prosecutorial misconduct warranting suppression of the out of court identification. These facts distinguish the matter before this court from State v. Laganella, 144 N.J.Super. 268 (App.Div.1976), where the court found intentional suppression by the State in violation of due process. The appellate court there considered, among other things, the considerations which should affect the exercise of discretion of a trial judge concerning discovery problems in a criminal trial. The court went on to say that “A public prosecution ‘must consistently refrain from any conduct that is lacking in the essentials of fair play.’ State v. D’Ippolito, 19 N.J. 540,. 550 (1955)” [at 279]
+In order that a suppression be granted in the instant case there must be a showing or finding of intention inconsistent with due process or “egregious” carelessness, tantamount to suppression. There has to be something beyond negligence, there has to be some form of chicane, something rising to the level of intention inconsistent with fair play and due process, as Laganella, supra, reminds us.
+“Egregious” is defined as conspiciously bad, flagrant. Webster’s Third New International, 727 (1971). This court finds that there is no indication of flagrant carelessness nor reason to suspect chicane on the part of the State. Although the prosecutor failed to notice the presence of the photographs in his file, which would have given the defendant additional time to review them, failure to do so, under the factual circumstances here, did not prejudice defendant’s rights.
