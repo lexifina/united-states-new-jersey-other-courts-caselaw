@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Chancery Division"
 decided: "1995-11-01"
-citations: ["287 N.J. Super. 612", "671 A.2d 653", "287 N.J. Super. 605", "671 A.2d 650"]
+citations: ["287 N.J. Super. 612", "671 A.2d 653"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["ALEXANDER J. MUSTILLI, PLAINTIFF, v. JOAN MUSTILLI, DEFENDANT."]
 source_url: "https://static.case.law/nj-super/287/cases/0612-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 751953
-cites_cases: ["109 N.J. 396", "116 N.J. 7", "117 N.J. 496", "138 N.J. 96", "142 N.J. 336", "198 N.J.Super. 1", "198 N.J.Super. 184", "208 N.J.Super. 372", "226 N.J.Super. 642", "228 N.J.Super. 463", "240 N.J.Super. 404", "244 N.J.Super. 304", "252 N.J.Super. 230", "253 N.J.Super. 515", "255 A.2d 208", "256 F.2d 363", "259 N.J.Super. 204", "259 N.J.Super. 499", "260 N.J.Super. 133", "260 N.J.Super. 21", "273 N.J.Super. 84", "284 N. J.Super. 3", "284 N.J.Super. 3", "400 A.2d 1189", "416 A.2d 45", "478 A.2d 364", "486 A.2d 335", "486 A.2d 916", "506 A.2d 29", "537 A.2d 1227", "54 N.J. 287", "545 A.2d 249", "550 A.2d 168", "560 A.2d 1169", "569 A.2d 770", "602 A.2d 733", "662 A.2d 494", "662 A.2d 509", "662 A.2d 523", "706 F.2d 111", "79 N.J. 422", "83 N.J. 139", "97 N.J. 178"]
+cites_cases: ["116 N.J. 7", "142 N.J. 336", "198 N.J.Super. 1", "208 N.J.Super. 372", "226 N.J.Super. 642", "228 N.J.Super. 463", "256 F.2d 363", "260 N.J.Super. 21", "284 N. J.Super. 3", "400 A.2d 1189", "486 A.2d 335", "506 A.2d 29", "545 A.2d 249", "550 A.2d 168", "560 A.2d 1169", "662 A.2d 494", "662 A.2d 509", "662 A.2d 523", "79 N.J. 422"]
 ---
 
 # Mustilli v. Mustilli
