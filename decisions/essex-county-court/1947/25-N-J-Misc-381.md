@@ -1,0 +1,34 @@
+---
+court: "Essex County Court"
+decided: "1947-04-24"
+citations: ["25 N.J. Misc. 381"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, COMPLAINANT, v. MARJORIE HALL, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/25/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 435438
+cites_cases: ["119 N. J. L. 237", "129 N. J. L. 416", "130 N. J. L. 559", "162 Atl. Rep. 914", "195 Atl. Rep. 725"]
+---
+
+# State v. Hall
+
+## Majority (Flanagan, C. P. J.)
+
+Flanagan, C. P. J.
+This is an appeal from the Family Court of the City of Newark.
+The statute under which this prosecution is brought (R. S. 2:202-16; N. J. S. A. 2:202-16) provides, in so far as we are concerned with it, that any person who shall “be apprehended * * * who cannot give a good account of himself * * * and who is in this state for an unlawful purpose, shall be adjudged a.disorderly person. * * * The fact that the person apprehended cannot give a good account of himself * * • * shall be prima facie evidence that he is present in this state for an unlawful purpose.”
+It can be of no avail to the defendant to argue in this court (T) that one cannot, under pain of incurring a penalty by way of an inference or presumption, i. e., that he is guilty of being “present in this state for an unlawful purpose,” be, compelled to discuss or reveal his private present purposes or to disgrace or incriminate himself; or (2) that the statute places the affirmative burden upon him to explain (“to talk”), imposing a penalty more onerous than if he had failed to take the stand in his own defense on a trial after indictment, the penalty being that his silence shall be taken as “evidence?’ prima facie of guilt of presence for an unlawful purpose; or (3) that the words “present in this state” for an unlawful purpose indicate that the only purpose of the statute is to, protect our state from expeditions by the legion of those criminally inclined who reside nearby in adjacent and more populous states; or (4) that the defendant has a record of criminal conduct which, within the law, cannot be used against him beyond the scope of affecting his credibility, to wit, cannot be used as evidence indicating or tending prima facie to show guilt of “an unlawful purpose.”
+All of these contentions have been disposed of adversely to the defendant in the Supreme Court and consequently, of course, cannot be considered here. See McNeilly v. State, 119 N. J. L. 237; 195 Atl. Rep. 725; Carroll v. First Criminal District Court of Jersey City, 129 N. J. L. 416; 30 Atl. Rep. (2d) 54; affirmed, 130 N. J. L. 559; 33 Atl. Rep. (2d) 907; Archer v. First Criminal Judicial District Court of Bergen County, 10 N. J. Mis. R. 1159; 162 Atl. Rep. 914.
+The essence and substance of the offense prescribed in the statute is the unlawful purpose of the prisoner for which he is present in the state.
+In the event one cannot give a good account of himself that circumstance is taken as evidence prima facie against him; in substance, a rebuttable presumption is raised that he is present for an unlawful purpose.
+The statute does not establish the failure to give a good account of oneself whenever apprehended as a new and distinct offense of a criminal nature. It merely sets up a rule of evidence. '
+When one is apprehended and cannot give a good account of himself this rule of evidence does not raise any conclusive presumption or even an omnibus one of unlawful intent or purpose, but only of a purpose having a rational connection or relation to the person’s conduct and situation and the surrounding circumstances as established by legal evidence adduced and reasonably inferable therefrom.
+The rule of evidence is merely an aid to the state. The fundamental and ultimate rule of proof beyond a reasonable doubt is not mitigated, the burden still remaining on the state to establish upon all the evidence beyond a reasonable doubt the object or purpose of the prisoner’s presence and that such purpose is an unlawful one. Cf. McNeilly v. State, 119 N. J. L. 237 (at p. 242); 195 Atl. Rep. 725. His failure “to talk,” to give a good account of himself, is made “evidence” prima facie only of “an unlawful purpose.”
+In the instant case the complaint before this court upon which the trial was had contains no allegation that the defendant entertained or was present for an unlawful purpose. The limit of the accusation is that the defendant when apprehended “could not give a good account of herself.”
+The complaint is legally insufficient and does not allege any offense. See eases cited, supra.
+However, the third paragraph of the act (R. S. 2:206-11; N. J. S. A. 2:206-11) under which this case comes before this court upon appeal provides that the appeal shall operate as “a waiver of all technical defects in the record, including * * * absence of, any * * * charge laid in the complaint, and as a consent that the court shall enter judgment solely upon the basis of the testimony presented before such court.”
+It is the duty of this court to proceed upon that waiver and consent.
+In the instant case the evidence is that the defendant, a youngish, likely-looking colored girl, was walking along the street in Hewark at about three a. m. A white man in an automobile was passing in the opposite direction. He “honked” his horn, to which the defendant responded and was received into the car by him, and they drove away together. Shortly thereafter they were stopped by policemen, who had been observing her and were observing them. The defendant had three times before been in contact with the police for soliciting, and had served time for that offense and was on parole. She gave as her address a place in Yaux Hall, which was not a bona fide residence of hers; it was the residence of her sister, where she went on occasion. She testified to no steady fixed employment or earnings, but said that her sister paid her sums for the care of her children. The man was a healthy looking white man approaching middle age in appearance. He stated he was impelled to “honk” the defendant by a desire or impulse to offer her a ride home or in that direction, though he made no claim that he had any information as to any definite address where her home was located. The extent of his acquaintance with the defendant was, he said, having met her in a tavern.
+I am satisfied that defendant was engaged in “street walking,” looking to be solicited or for opportunity to solicit. The evidence before me indicates that the man in the automobile was a willing or, rather, an aggressive subject. I am satisfied from all the evidence beyond a reasonable doubt that defendant was then and there present for the unlawful purpose in which she was engaged, to wit, soliciting. The finding is guilty of that offense.
