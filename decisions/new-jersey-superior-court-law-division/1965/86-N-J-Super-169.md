@@ -1,0 +1,44 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1965-01-05"
+citations: ["86 N.J. Super. 169"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DOMINICK DeCARLO, AND VISIDOR CORP., A CORPORATION OF THE STATE OF NEW JERSEY, PLAINTIFFS, v. BOROUGH OF CLIFFSIDE PARK, A MUNICIPAL CORPORATION OF THE STATE OF NEW JERSEY, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/86/cases/0169-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 507668
+cites_cases: ["122 N. J. L. 14", "14 N. J. Super. 134", "145 Ohio St. 517", "15 N. J. Super. 547", "161 A. L. R. 1391", "243 Iowa 671", "29 N. J. Super. 291", "33 N. J. 112", "40 N. J. 221", "57 N. J. L. 90", "6 N. J. 400", "62 N. E. 2d 357", "78 N. J. Super. 154"]
+---
+
+# DeCarlo v. Borough of Cliffside Park
+
+## Majority (Schneider, J. C. C.)
+
+Schneider, J. C. C.
+(temporarily assigned). On March 24, 1961, defendant Borough of Cliffside Park, by its employees, placed a directional sign for a one-way street at the intersection of Marion Avenue and Palisade Avenue in that municipality. Plaintiff DeCarlo is owner of Lots 5, 6, 7, and 8 in Block 110 on the official assessment map of Cliffside Park. There is a commercial building on that property fronting on Palisade Avenue, and plaintiff Visidor Corp. owns and operates a restaurant and tavern there.
+Marion Avenue runs east and west'off Palisade Avenue. The property in question, known as 783-5 Palisade Avenue, is located at the corner of Marion Avenue. The premises are across the street from Palisades Amusement Park. There is a parking area in the rear of the building, with access from Marion Avenue only. At the westerly end of Marion Avenue there is an unpaved, undedicated strip, being a former trolley car right of way. Two other streets were also designated as one-way streets, with Marion and Eranklin Avenues going east and Wayne Avenue going west. Plaintiff contends the resulting effect is to keep all traffic off' Marion Avenue. Palisade Avenue is a busy street and no parking is permitted when the amusement park is open.
+The designation of these one-way streets was only by placing directional signs. ETo ordinance was ever passed and no approval obtained. from the Division of Motor Vehicles. It was conceded that the action was improper and illegal.
+Suit was instituted in two counts. The first was to compel the removal of the signs. This was accomplished by summary judgment. The second count is for damages for loss of business in the restaurant. Plaintiff DeCarlo admits he suffered no damage, and therefore the second count is dismissed as to him. The case continues with the suit by the tenant for business loss.
+While this incident took place in early 1961, no suit was started until March 5, 1964. The signs were removed when summary judgment was given on the first count and judgment was entered.
+The issue is whether a suit for damages will lie against a municipality under the above state of facts, on the theory of the creation of a nuisance, sounding in negligence. Plaintiff claims a loss of $15,000.
+Plaintiff explains the delay of more than three years after the erection of the sign before suit was started by contending it tried to persuade the officials to remove the signs and they continually promised to do so. Had it started suit immediately, the sign would have been down in a month. Although this might have reduced the amount of damages, it still leaves the question of liability for money damages.
+To recover in negligence for the creation of a nuisance condition, plaintiff must prove active wrongdoing, the municipal function here being governmental. We know that if the municipality had dug a ditch which prevented access to the restaurant, and some one was hurt, there could be recovery. The placing of the sign did not prevent anyone from entering the restaurant. It did prevent parking in the parking area, if the illegal sign was obeyed.
+We can find no record of any case in New Jersey which carries active wrongdoing to the extent requested in this case. In Milstrey v. Hackensack, 6 N. J. 400 (1951), plaintiff was permitted to recover because of a broken and depressed municipal sidewalk; in McAndrew v. Mularchuk, 33 N. J. 112 (1960), recovery was had for shooting by an inadequately trained reserve policeman. In Fagliarone v. North Bergen Township, 78 N. J. Super. 154 (App. Div. 1963), cert. den. 40 N. J. 221 (1963), plaintiff’s land was flooded by a sewer line improperly designed and found to be inadequate; and in Kelley v. Curtiss, 29 N. J. Super. 291 (App. Div. 1954), there was kicking by a horse after notice of similar prior action.
+“Active wrongdoing” or “misfeasance,” as opposed to “nonfeasance,” is defined as “the wrongful and injurious exercise of lawful authority, or the doing of a lawful act in any unlawful manner.” Hart v. Board of Chosen Freeholders of Union County, 57 N. J. L. 90 (Sup. Ct. 1894); Milstrey v. Hackensack, supra. A municipality is liable for active wrongdoing of its employees under the doctrine of respondeat superior.
+Plaintiff conteds that Fagliarone v. North Bergen Twp., supra, is closest to this case. But in that case there was straight negligence. In our case there was no negligence in the creation of a one-way street. It might have been a proper act if the technical requirements of the law were met. None of the cases quoted parallel this one.
+Plaintiff cites Pivnick v. Newark, 14 N. J. Super. 134 (Law Div. 1951), dealing with the right of free access to a street. But that case was not for damages; there was only a finding that an ordinance was arbitrary. The same thing applies to the cited case of Terminal Storage, Inc. v. Raritan Tp., 15 N. J. Super. 547 (Law Div. 1951).
+Rhyne on Municipal Law (1957) says:
+“Traffic signs and similar warning devices are generally held not to constitute obstructions or nuisances unless by their very nature they are likely to cause accidents and their use is unreasonable.” (at p. 431)
+The cases quoted are cases of dangerous placing of signs. Our instant case presented no physical danger or obstruction and did not prevent entry into the restaurant. The effect on plaintiff was that some people heeded the sign and did not park in the rear of the restaurant.
+Rhyne also says:
+“They [municipalities] are likewise usually considered as exercising police powers when they regulate traffic by signs and signals and are not liable in the absence of special statutes imposing liability, unless the control system amounts to an obstruction or a failure properly to maintain the streets.” (at p. 431)
+In this case the municipality later attempted to provide by ordinance for the same one-way street but it was not approved by the Division oí Motor Vehicles.
+Rhyne continues (at p. 759) to find that the great weight of authority is that the operation of traffic signal lights is a governmental function justifying municipal immunity from tort liability.
+Municipal liability was denied for the erection of a stop sign at the wrong place at an intersection in Tolliver v. Newark, 145 Ohio St. 517, 62 N. E. 2d 357, 161 A. L. R. 1391 (Sup. Ct. 1945).
+In Vickers v. Camden, 122 N. J. L. 14 (E. & A. 1938), recovery was denied where traffic lights were out of order and a collision occurred, on the theory that the negligence, if any, was not active wrongdoing.
+The only ease we find where the court has gone as far as plaintiff seeks is Gates v. City of Bloomfield, 243 Iowa 671, 53 N. W. 2d 279 (1952), where the municipality established a bus stop zone in front of plaintiff’s property, and baggage was piled in front of the premises and there were noxious odors. The ordinance was held invalid as a grant to bus companies for the use of the street. Plaintiff then sued for damages. It was held that the bus stop constituted a nuisance, as distinguished from negligence, and that material interference with the rights of ingress and egress of owners of abutting property was a taking of property, requiring compensation. The court held the doctrine of governmental immunity did not exempt the municipality for creating and maintaining a nuisance, regardless of misfeasance or nonfeasance.
+Gates can be distinguished because there was no claim in our case for taking of property and there was no disturbance with the place of business.
+The court is of the opinion that the improper action of a town , official in erecting such a sign is not such active wrongdoing as to permit a suit for damages. Our courts have never extended the doctrine of wrongdoing to a situation like the present one; otherwise there could be a suit for damages every time the appellate courts set aside a municipal decision or action.
+The second count will be dismissed. No costs. A proper order may be submitted.
