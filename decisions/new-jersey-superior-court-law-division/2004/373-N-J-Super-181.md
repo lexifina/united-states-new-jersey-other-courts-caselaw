@@ -1,0 +1,44 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "2004-08-06"
+citations: ["373 N.J. Super. 181", "860 A.2d 1018"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT v. BRIAN KEVIL DEFENDANT-APPELLANT"]
+source_url: "https://static.case.law/nj-super/373/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1439844
+cites_cases: ["126 N.J. 430", "133 N.J. 1", "208 A.2d 633", "294 A.2d 609", "308 A.2d 649", "44 N.J. 285", "61 N.J. 377", "63 N.J. 474"]
+---
+
+# State v. Kevil
+
+## Majority (MAHON, J.S.C.)
+
+MAHON, J.S.C.
+This is an appeal of a decision of the North Hunterdon Municipal Court. The sole issue presented is whether N.J.S.A. 39:3-18 prohibits the operation of a motor vehicle upon which dealer license plates are affixed when the operator is not actively engaged in the sale or attempted sale of that vehicle. No reported case addressing the issue has been found. It appears from the record that this has been a recurring issue in the municipal courts of this State.
+Defendant, Brian Kevil, was issued a summons alleging misuse of dealer license plates in violation of N.J.S.A. 39:3-18.
+The parties stipulated to the facts. Defendant, whose father owns a car dealership, was operating a vehicle bearing car dealer license plates for personal use. A police officer pulled him over and cited him for misuse of such plates.
+A short trial was held in the North Hunterdon Municipal Court, in which defendant appeared pro se and presented a letter issued May 12, 1998, by the Director of the Division of Motor Vehicle Services. This letter sets forth the Division’s position that personal use is a permitted use for a retailer owned vehicle displaying dealer license plates.
+The Municipal Court Judge determined that the defendant had violated N.J.S.A. 39:3-18, and fined the defendant $100.00.
+In his appeal of the North Hunterdon Municipal Court’s ruling defendant raises three main points: (1) the plain text of the statute does not prohibit personal use of a car dealer owned automobile bearing dealer plates; (2) a review of the statutory history of the statute mandates a finding that his use was permissible; and (3) the prior interpretation of the statute by the Director of the Division of Motor Vehicle Services is entitled to deference.
+The standard of review governing municipal appeals is dc novo. R. 3:23-8(a) provides that where a transcript is available, “the trial of the appeal shall be heard de novo on the record unless it shall appear that the rights of either party may be prejudiced by a substantially unintelligible record or that the rights of the defendant were prejudiced below.” At a trial de novo the appellate court is required, based on the record below, to make its own independent findings of fact and conclusions of law, and in applicable cases, to independently determine the guilt or innocence of the defendant. See State v. States, 44 N.J. 285, 293, 208 A.2d 633 (1965).
+“In construing a statute, our fundamental duty is to effectuate the intent of the Legislature.” Lesniak v. Budzash, 133 N.J. 1, 8, 626 A.2d 1073 (1993) (citing Merin v. Maglaki, 126 N.J. 430, 435, 599 A.2d 1256 (1992)). ‘We must consider the legislative policy underlying the statute and ‘any history which may be of aid.’ ” Lesniak, supra, 133 N.J. at 8, 626 A.2d 1073 (quoting State v. Madden, 61 N.J. 377, 389, 294 A.2d 609 (1972)).
+The controlling statute, N.J.S.A. 39:3-18, is not particularly clear. It is comprised of many paragraphs, each addressing a different entity permitted, in some capacity, to use dealer or temporary license plates.
+The third paragraph of N.J.S.A. 39:3-18 states in relevant part,
+[a] bona fide dealer in motor vehicles ... doing business in this State ... may, with regard to motor or motor-drawn vehicles or cycles owned by him, obtain general registration and registration plates ... with the letter “D” stated thereon. Such plates shall only be placed on any vehicle ... owned by such dealer; and provided, such vehicle is not used for hire.
+The plain text of the statute does not prohibit the actions taken by defendant. However, the statute is unclear and a plain text analysis is therefore inappropriate.
+The statute’s amendment in 1951, is however, dispositive. The 1951 legislative action resolves any questions concerning intent raised by the statute’s lack of clarity. In 1951 the Legislature removed previously existing language which prohibited personal use of dealer license plates by bona fide dealers in motor vehicles. While this court can only speculate as to the reasons underpinning this action, the intent to permit personal use of dealer-plated cars owned by bona fide dealers in motor vehicles is clear.
+As it existed in 1934, the pertinent portion of the statute provided,
+A bona fide dealer in motor vehicles, motor drawn vehicles or motor cycles doing business in this State and having a license to do business as such issued by the Commissioner of Motor Vehicles, may, with regard to motor or motor drawn vehicles or cycles owned by him, obtain general registration and registration plates therefore of the style and kind provided for in this act with the letter “D” stated thereon. Such plates shall only be placed on any vehicle or cycle owned by said dealer and provided it is operated exclusively for his business and not for hire.
+[L. 1934, ch. 123 at 330-31 (emphasis added).]
+While the 1934 version of the statute may have provided a basis for supporting the conviction of defendant, the legislative amendments that occurred in 1951 deleted the restrictive language found by the court below to still exist today. Set forth below is the 1951 amendment to the quoted portion of the statute as it existed in 1934, with additional language appearing within brackets, and deleted words appearing with a line through them:
+A bona fide dealer in motor vehicles, motor drawn vehicles or motor cycles doing business and having a license to do business as such issued by the Commissioner of Motor vehicles,- [director] may, with regard to motor or motor[-]drawn vehicles or cycles owned by him, obtain general registration and registration plates therefore of the style and kind provided for in this aet [subtitle,] with the letter “D” stated thereon. Such plates shall only be placed on any vehicle or cycle owned by said [such] dealer[;] and provided it is operated exclusively-for-Ms business-aad such vehicle [is] not [used] for hire.
+[L. 1951, ch. 4 at 23.]
+The 1951 amendments continue virtually unchanged in the present N.J.S.A. 39:3-18 as it pertains to automobile dealers. The significance of the 1951 amendments was, at one time, explained in the “Historical and Statutory Notes” following N.J.S.A. 39:3-18 as it appeared in New Jersey Statutes Annotated (West 1990) (“The 1951 amendment ... dropped from the third paragraph a provision that such plates shall only be placed on any vehicle or cycle owned by such dealer ‘if it is operated exclusively for his business.’ ”) However, due to its editorial prerogative, West no longer publishes this explanatory note in the current version of the New Jersey Statutes Annotated.
+Additionally, the May 12, 1998, letter authored by the Director of the Division of Motor Vehicle Services is entitled to judicial deference. When a statute is ambiguous, a court is warranted in according great deference to the statutory construction provided by the administrative agency “charged ... with ... making it work.” The Passaic Daily News v. Blair, 63 N.J. 474, 484, 308 A.2d 649 (1973). Such deference is appropriate so long as the agency’s interpretation “is not plainly unreasonable.” Merin, supra, 126 N.J. at 437, 599 A.2d 1256.
+The letter authored by the Director of the Division of Motor Vehicle Services states “it is the Division’s position that it is a permitted use for a retailer owned vehicle displaying dealer plates to be operated for personal use.” The Director’s interpretation is in conformity with that of this court, and as such is not plainly unreasonable.
+As a final note, the Municipal Court Judge hearing the matter erroneously relied on paragraph one of the statute, as the court stated at trial that dealer plates may be “placed on [a] vehicle or cycle owned or controlled by [a] manufacturer, but only if it is operated for shop or demonstration delivery purposes.”
+This situation is, as previously stated, governed by paragraph three of the statute. The third paragraph addresses dealers in motor vehicles. The paragraph relied on by the Municipal Court, paragraph one, addresses manufacturers. The distinction is significant due to the differing restrictions placed on plate usage by dealers and manufacturers.
+Accordingly, defendant is found not guilty.
