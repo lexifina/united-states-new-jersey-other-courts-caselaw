@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1981-12-11"
+citations: ["182 N.J. Super. 493"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SYLVIA ROSATO, PLAINTIFF, v. JOSE PENTON, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/182/cases/0493-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 925857
+cites_cases: ["225 Ark. 951", "287 So.2d 151", "440 P.2d 927", "68 Cal.2d 619", "68 Cal.Rptr. 447", "87 N.J.Super. 409"]
+---
+
+# Rosato v. Penton
+
+## Majority (COBURN, J. S. C.)
+
+COBURN, J. S. C.
+This matter is before the court on motion for stay of part of a money judgment. R. 2:9 — 5(b).
+Plaintiff Sylvia Rosato obtained a $38,000 judgment against defendant Jose Penton for injuries suffered in an automobile accident. Unfortunately, defendant’s liability policy provided coverage of only $15,000. Allstate Insurance Company, defendant’s carrier, filed an appeal on his behalf and thereafter this motion seeking permission to submit a supersedeas bond guaranteeing only that portion of the judgment for which it ultimately could be found liable in these proceedings. The company claims that it has met the requirement of the rules of court by demonstrating “good cause” for the relief sought. R. 2:9-6(a). In this regard the company relies upon defendant’s certification that he has no assets other than his salary and its undertaking to bond or deposit into court the policy limits, interest, and costs. It has further volunteered to bond 10% of defendant’s wages earned while the case is on appeal. The parties to the action contend that the company should be required to post a full bond. This appears to be a matter of first impression in New Jersey. R. 2:9-6(a) provides in pertinent part:
+Unless the court otherwise orders after notice on good cause shown, the [supersedeas] bond shall be conditioned for the satisfaction of the judgment in full, together with interest and trial costs, and to satisfy fully such modification of judgment, additional interest and costs and damages as the appellate court may adjudge.
+In Ullmann v. Hartford Fire Insur. Co., 87 N.J.Super. 409 (App.Div.1965), Judge Gaulkin had this to say regarding application of the concept of good cause:
+It is impossible to lay down a universal definition of good cause ... or an all-inclusive and definitive catalogue of all of the circumstances to be considered by a court in determining whether there is good cause. Each case must be decided upon its own facts. However, as is said in 4 Moore's Federal Practice (2d ed.), 1134.08: “considerations of practical convenience should play the leading role in determining what constitutes good cause ....” [at 414-415]
+In Merritt v. J. A. Stafford Co., 68 Cal.2d 619, 440 P.2d 927, 68 Cal.Rptr. 447 (Sup.Ct.1968), the court recognized that when a judgment exceeds liability insurance limits, the plaintiff, the insured, and the insurer have differing interests worthy of protection:
+Failure of the insurer to file any bond may result in the insured losing large amounts of property due to execution sales during the appeal and thus losing in large part, if not entirely, the benefits of the insurance. On the other hand, the insurer cannot be required to post a bond for the entire judgment when its liability does not extend to the, entire judgment. Fairness to the insurer and the insured requires that the insurer be permitted to fulfill its covenant of good faith and fair dealing by filing an appeal bond in an amount sufficient to cover the part of the judgment for which it is liable and that the respondent be-denied his right to seek execution with regard to such part of the judgment. Such a rule does no harm to the respondent. As to the excess part of the judgment he may seek execution .... at 440 P.2d at 931-932, 68 Gal.Rptr. 451
+There does not appear to be any contrary authority, and the California rule has been supported in at least two other jurisdictions. Fitzgerald v. Addison, 287 So.2d 151 (Fla.App.1973); Rudolph v. Cassidy, 225 Ark. 951, 286 S.W.2d 489 (Sup.Ct.1956). Those cases seem to adopt the view that a partial' supersedeas can only be permitted if the insurance company is a named party. That hypertechnieal approach is not in harmony with the spirit of our rules. R. 1:1 — 2. Furthermore, though not so styled, the motion before me is, in effect, a request by the company to intervene, which request is granted.
+I am satisfied that defendant’s insurance company may file a supersedeas bond guaranteeing payment of its $15,000 policy limits, interest on that amount, and costs. However, there is no reason why plaintiff should be prohibited from pursuing his right to conduct supplementary proceedings under R. 4:59-l(e) for the purpose of discovering whether defendant presently has or may receive additional assets subject to execution to assure ultimate payment of the money due in excess of the amount protected by the bond. Any funds obtained through this process shall be paid into court, thus protecting the legitimate interests of all concerned. R. 2:9-6(a) permits the court to exercise its discretion in this manner.
+With respect to the insurance company’s additional offer on behalf of its insured to bond any amounts of money which could otherwise be collected through wage execution, it is obvious that this undertaking provides good cause for prohibiting plaintiff from proceeding against defendant’s wages while the appeal is pending. But should the bond contain language which has the effect of limiting the plaintiff’s right to the full amount to which he would be entitled under a wage execution, plaintiff may have execution for the excess, and any money so collected shall be deposited into court.
