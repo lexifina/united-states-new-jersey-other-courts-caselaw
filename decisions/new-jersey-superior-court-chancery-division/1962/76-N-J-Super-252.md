@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1962-09-04"
+citations: ["76 N.J. Super. 252"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MAURICE W. GROBER, PLAINTIFF, v. HERMAN KAHN, GERTRUDE KAHN, ALICE BROOKS AND CAROL WEINTRAUB, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/76/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 363964
+cites_cases: ["116 N. J. L. 150", "121 N. J. Eq. 134", "14 N. J. Super. 110", "15 A. 83", "16 R. I. 304", "21 N. J. 558", "5 N. J. Super. 371", "53 N. J. L. 153", "84 A. L. R. 2d 421"]
+---
+
+# Grober v. Kahn
+
+## Majority (Mintz, J. S. C.)
+
+Mintz, J. S. C.
+Gilbert Kahn moves for an order quashing the service of a subpoena upon him to testify upon oral deposition in the above entitled cause. He asserts that said service was illegal and improper under the law of this jurisdiction.
+Gilbert Kahn, a resident of Yew York, is a plaintiff in an action pending in the State of Yew York entitled “Gilbert Kahn, plaintiff, vs. Consolidated Products Co. Inc., II. Kahn Associates, Inc. and Herman Kahn, defendants.” Pursuant to an order entered by the Supremo Court of the State of Yew York a commissioner was appointed to take the testimony in Yew Jersey of Maurice W. Grober, a witness in the pending Yew York action. On June 27, 1962 Gilbert Kahn appeared in the offices of Robert Silver, an attorney at law of this State and the duly appointed commissioner, at the Military Park Building, Yewark, Yew Jersey, at the request of his attorney in the Yew York action, solely for the purpose of aiding and assisting his attorney in the examination of Mr. Grober. While attending that examination Gilbert Kahn was served with a subpoena in the above entitled Yew Jersey action providing for his appearance to testify upon oral deposition.
+The motion to quash is based upon the proposition that a nonresident suitor appearing in this State for the express purpose of attending a court proceeding is immune from service of process while going to, attending or returning from said proceeding. This principle was enunciated in Halsey v. Stewart, 4 N. J. L. [366] 420 (Sup. Ct. 1817). It is based upon the public policy that courts of justice should be open and accessible to all litigants without hindrance or interruption and to encourage nonresidents to respect the Yew Jersey courts by participating in litigation without fear of being oppressed or subjected to other actions. The Halsey decision was reiterated through the years by our courts. Herman v. Arndt, 116 N. J. L. 150 (E. & A. 1936); Younger v. Younger, 5 N. J. Super. 371 (App. Div. 1949); Randall v. Randall, 14 N. J. Super. 110 (Ch. Div. 1951). The immunity doctrine has also been judicially invoked in the case of testimony before a Supreme Court Commissioner, Mulhearn v. Press Publishing Co., 53 N. J. L. 153 (Sup. Ct. 1890), as well as testimony before a notary public. Riewold v. Riewold, 121 N. J. Eq. 134 (Ch. 1936).
+The general rule in Halsey, however, was modified by Korff v. G. & G. Corp., 21 N. J. 558 (1956). The court there held that the common law rule does not apply where service of process is made upon a nonresident plaintiff who has availed himself of the New Jersey courts and is endeavoring to avoid a counterclaim filed in that action. The court reasoned that it was only fair, where a plaintiff used New Jersey courts to his advantage, that he should be made to answer for every claim arising out of the same action. It was there said by way of general observation at p. 564 that:
+“* * * Although various reasons for the broad doctrine embraced in the cases have been advanced from time to time, they have for the most part been discredited in recent legal writings.”
+The court in Korff quotes with apparent favor an article by Keefe and Roscia, “Immunity and Sentimentality,” 32 Cornell L. Q. 471 (1947) and in that connection stated at p. 564:
+“* * * Professor Keefe acknowledges that the immunity serves the public interest when applied to nonresident witnesses who might well, in its absence, decline to enter the State and aid the just disposition of the pending proceeding; but he voices the opinion that its application makes little sense when applied in favor of nonresident parties, particularly nonresident plaintiffs who have freely availed themselves of the local courts; and he pointedly inquires as to whether courts should not justly subject nonresident plaintiffs to civil process in separate proceedings by local residents rather than to remand such residents to proceedings in far away jurisdictions.”
+Reference in Korff is also made to other jurisdictions which have declined to afford immunity from process to a nonresident who came into that jurisdiction to avail himself of its judicial facilities. Baldwin v. Emerson, 16 R. I. 304, 15 A. 83 (Sup. Ct. 1888).
+Gilbert Kahn is suing his uncle, Herman Kahn, and others for services rendered and commissions allegedly due him in the “Camden Forge” transaction. Mr. Grober is suing Mr. Herman Kahn, the latter’s wife and their two children in the proceeding sub judice, asserting claims arising out of an alleged joint venture agreement pertaining to the “Camden Forge” transaction. Each action, while separate and independent, is referable to the “Camden Forge” venture. See generally, Annotation, 84 A. L. R. 2d 421 (1962).
+It is only just that Gilbert Kahn be subject to service of a subpoena to testify in the pending New Jersey action. It is urged that he is not a nonresident plaintiff in any New Jersey proceeding, hence the inapplicability of Korff. I disagree. I perceive no basis for distinction between the instant situation and one where Gilbert Kahn may have instituted an independent action in this State. The taking of an oral deposition is part of a judicial proceeding. Gilbert Kahn has invoked the use of our judicial facilities in aid of his pending New York action. To that extent he is a nonresident plaintiff.
+The motion to quash the service of the subpoena is denied. I believe this conclusion to be grounded in sound public policy and within the rationale of Korff.
+An appropriate order will be submitted consented to as to form, or to be settled on notice.
