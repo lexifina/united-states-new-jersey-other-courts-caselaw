@@ -1,0 +1,25 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1965-05-06"
+citations: ["87 N.J. Super. 562"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AMERICAN LUMBER & BUILDING SUPPLY, A NEW JERSEY CORPORATION, PLAINTIFF, v. D & M, INC., A NEW JERSEY CORPORATION, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/87/cases/0562-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 291436
+cites_cases: ["65 N. J. Super. 409"]
+---
+
+# American Lumber & Building Supply v. D & M, Inc.
+
+## Majority (Paulis, J. C. C.)
+
+Paulis, J. C. C.
+(temporarily assigned). This is a motion for summary judgment by plaintiff American Lumber & Building Supply, and a cross-motion for summary judgment by defendant D & M, Inc.
+The relevant facts are not in dispute. On October 11, 1961, defendant agreed to sell two lots to N. N. S., Inc. The dispute in this case concerns only the first of these two lots. As part of the consideration, N. N. S., Inc. agreed to deliver a purchase money mortgage covering both lots in the amount of $3,900. It was agreed that N. N. S., Inc. could enter the property and commence construction as to footings only before the date set for closing. N. N. S., Inc. entered the premises and ordered certain building materials from plaintiff. Prior to the delivery of the materials, plaintiff filed a notice of intention with the Warren County Clerk. It delivered the materials to N. N. S., Inc., but has not received payment for the same. The vendee’s rights under the contract for sale of the property, insofar as it involved the first lot, were assigned to George and Marie Miller. This lot was conveyed to the Millers by deed dated January 29, 1962, the deed being recorded on February 23, 1962. The Millers delivered a purchase money mortgage to Pulaski Savings & Loan Association, which mortgage has since been foreclosed, with a surplus resulting from the sale. At the same time, the Millers also delivered a purchase money mortgage to D & M, Inc., in the amount of $1,950, which is still a lien on the property.
+Plaintiff’s main argument is that it has a mechanic’s lien on the premises which is superior to the mortgage held by defendant. It also contends that materials which it supplied were sold to both N. N. S., Inc. and to D & M, Inc. As to this contention, the papers submitted with the brief indicate that the goods were sold only to N. N. S., Inc., and this court so finds.
+The questions which must be resolved are whether plaintiff has a lien on the premises; and, if it does, is this lien superior to that of defendant. At the time plaintiff filed its notice of intention, D & M, Inc. had legal title to the land. The filing of this notice was not sufficient to bind the legal estate held by D & M, Inc., N. J. S. 2A :44-68. However, the estate held by N. N. S., Inc. was subject to the lien, as was the building which was erected on the land. The courts have often been faced with the problem of enforcing such a lien, as in Hughes v. Durso, 65 N. J. Super. 409 (App. Div. 1961). Defendant places great reliance on that case, since it clearly held that under the facts presented there was no lien on the land. However, the facts in that case are not the same as those present here, as it was not clear in Hughes whether the land had ever been conveyed. The court pointed out that had a valid contract existed at the time of suit, it might have made the seller convey and thereby perfected the mechanic’s lien. In this case the land has been conveyed. It is true that N. N. S., Inc. never took legal title, but title was conveyed to an assignee of N. N. S., Inc. Since the Millers took with notice of the lien, they can be in no better position than N. N. S., Inc. Therefore, American Lumber & Building Supply has a valid lien on the building, but not as to the land. N. J. S. 2A : 41—68.
+This brings us to the important question of priority. That question seems to be resolved by N. J. S. 2A :44-87, 89. These sections take their present form, so far as is pertinent here, from L. 1930, c. 212, § 8. A reading of the statute as then enacted indicates that a purchase money mortgage will take priority over a mechanic’s lien. Plaintiff in its brief argues that the priority given to mortgages by N. J. S. 2A:44-87 exists only if the conditions of N. J. S. 2A:44-88 are met. This is not so. A reading of the prior statute and also the present N. J. S. 2A :44-89 indicates that the priority will exist so long as the money given under the mortgage is used for the purchase price. It will be noted that N. J. S. 2A:44-89 states that the priority shall also exist when the mortgage funds are applied to the purchase price. The use of the word “also” indicates that the Legislature intended the law as to purchase money mortgages to remain as it was under the 1930 law, wherein the present sections 88 and 89 were subsections (a) and (b) of the 1930 version of the present section 87.
+Por the foregoing reasons, defendant’s motion is granted.
