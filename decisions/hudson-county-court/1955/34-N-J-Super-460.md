@@ -1,0 +1,40 @@
+---
+court: "Hudson County Court"
+decided: "1955-03-09"
+citations: ["34 N.J. Super. 460"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE APPLICATION OF MAURICE BURKE FOR WRIT OF HABEAS CORPUS."]
+source_url: "https://static.case.law/nj-super/34/cases/0460-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 429095
+cites_cases: ["10 N. J. 571", "116 N. J. L. 462", "122 N. J. L. 507", "128 N. J. L. 246", "129 N. J. L. 287", "13 N. J. Super. 449", "132 N. J. L. 17", "16 N. J. Super. 171", "211 U. S. 78", "25 A. 2d 200", "29 A. 2d 384", "304 U. S. 458", "335 U. S. 437", "342 U. S. 930", "343 U. S. 931", "37 A. 2d 829", "7 N. J. 137", "7 N. J. 582", "72 S. Ct. 372", "72 S. Ct. 766", "81 N. J. L. 162", "93 L. Ed. 127", "96 L. Ed. 1340", "96 L. Ed. 692"]
+---
+
+# In re Burke
+
+## Majority (Mariano, J. S. C.)
+
+The opinion of the court was delivered by
+Mariano, J. S. C.
+(temporarily assigned). Maurice Burke, while incarcerated in the Hudson County Jail, filed what is considered by me to be a petition for writ of habeas corpus. I allowed the same. Subsequently, Abraham Miller, a member of the Bar of the State of New Jersey, practicing in Hudson County, was appointed to represent Mr. Burke. He thereafter conducted an investigation, and subsequently the matter was set down for oral hearing on Monday, March 7. 1955.
+The facts established during the said hearing are as follows:
+About 2 A. M. on the morning of October 14, 1954 Mrs. Burke, the wife of the petitioner, called the police department of Jersey City and complained that her husband was intoxicated and also causing a disturbance by attempting to forcibly enter their apartment. After the arrival of the police officers Mrs. Burke was requested to present herself at the municipal court clerk’s office at the hour of 9 A. m. of the same day. Promptly at the appointed hour she appeared and signed a formal complaint charging her husband with violating N. J. 8. 2A :170 — 30. By some unexplained circumstance, the petitioner was also present in the courtroom, and upon the matter being called by the magistrate, both husband and ■wife proceeded to approach the bench. Petitioner was not served with a summons nor a complaint.
+After the magistrate heard the testimony of the wife, her husband, the present petitioner, upon being asked if he had anything to say, let loose with a tirade of insulting and unspeakable language, immediately after which he was sentenced to serve a term of one year in the Hudson County jail. Rrom the lips of the witnesses for the State and the petitioner, it is learned that Mr. Burke, as he stood before the court, was under the influence of intoxicating liquor. Some of the terms used to manifest the intoxicated condition of the petitioner were as follows:
+“There still was the effect of drink in him” ;
+“He was in pretty good shape” ;
+“He had signs of drink in him when he appeared before you
+“He did”;
+“But he had signs of drink on him during the trial; is that right?” “He certainly did.”
+The petitioner challenges his conviction by the use of the writ of habeas corpus, and properly so. He alleges that his constitutional rights were violated in that he was not afforded an opportunity to be heard in his own defense, nor an opportunity to plead to the charge, and other material allegations.
+Under such circumstances, the petitioner is entitled to be afforded the protection and the remedy provided for by the use of the writ of habeas corpus, for in the matter of State v. Cynkowski, 10 N. J. 571, at pages 575 and 576 (1952), Mr. Justice Jacobs, speaking for our present Supreme Court, stated as follows:
+“In fulfillment of basic democratic philosophies our judicial structure allows an appeal as of right to every convicted defendant. His appeal must, however, be taken in the manner and within the reasonable time allowed, formerly by statute and now by rule of court. (See Rule 1:2-5.) If he neglects to appeal within time he loses his right thereafter to attach his conviction except by habeas corpus on the limited ground that the trial court lacked jurisdiction and the conviction was therefore void. See In re Rose, 122 N. J. L. 507 (Sup. Ct. 1939) ; In re Graham, 13 N. J. Super. 449 (App. Div. 1951), certification denied 7 N. J. 582 (1951), certiorari denied Graham v. Warden, New Jersey State Prison, 342 U. S. 930, 72 S. Ct. 372, 96 L. Ed. 692 (1952) ; State v. Zee, 16 N. J. Super. 171 (App. Div. 1951), certiorari denied 343 U. S. 931, 72 S. Ct. 766, 96 L. Ed. 1340 (1952). If the defendant was convicted upon a proper charge by a competent court after fair trial or upon a plea of guilty or non vult fairly entered, no jurisdictional defect would appear; if, however, the defendant was never afforded opportunity for fair trial or his plea was entered under circumstances which rendered its acceptance fundamentally unfair or shocking to a sense of justice, the resulting conviction would violate the due process clause (Uveges v. Commonwealth of Pennsylvania, 335 U. S. 437, 69 S. Ct. 184, 93 L. Ed. 127 (1948), and would be beyond the court’s jurisdiction in its current sense. See Johnson v. Zerbst, 304 U. S. 458, 467, 58 S. Ct. 1019, 82 L. Ed. 1461, 1468 (1938).”
+Disorderly conduct comprises minor offenses and punishable in a summary manner, yet gwasi-criminal in essence and subject to procedural rules governing criminal prosecutions. State v. Labato, 7 N. J. 137, at page 151 (1951).
+The liberty of a citizen is in jeopardy in either case and the protection with which the law surrounds the accused in a criminal prosecution is available likewise in a quash criminal offense.
+In Twining v. State of New Jersey, 211 U. S. 78, 29 S. Ct. 14, 53 L. Ed. 97 (1908), it was held that the essential elements of due process of law are notice and opportunity to be heard and to defend in an orderly proceeding adapted to the nature of the case.
+The former Court of Errors and Appeals, in Johnson v. City of Wildwood, 116 N. J. L. 462 (E. & A. 1936), at page 464, stated as follows:
+“A fair trial is a legal trial; one conducted according to rules of common law except in so far as it has been changed by statute; one where accused’s legal rights are safeguarded and respected.”
+If Mr. Burke was intoxicated, and it is apparent that he was by virtue of the testimony, he certainly was in no condition to be called upon to plead to this charge nor to have the judgment or understanding sufficient to protect his interests at a trial where he was under a charge. There was no necessity for the unseemly haste as was here exhibited. It is clear that Mr. Burke, the petitioner, was denied his right to an orderly proceeding and a fair trial. I doubt what took place before the magistrate could under any circumstance be considered a trial in the true and legal sense of the word. See Di Maio v. Reid, Recorder, 132 N. J. L. 17, 37 A. 2d 829 (Sup. Ct. 1944); Kruttschnitt v. Hagaman, 128 N. J. L. 246, 25 A. 2d 200 (Sup. Ct. 1942); also Joerg v. Alberts, 129 N. J. L. 287, 29 A. 2d 384 (Sup. Ct. 1942).
+It is well to remember that due process is “a law which hears before it condemns; which proceeds upon inquiry, and renders judgment only after trial.” Darmstatter v. City Council of Passaic, 81 N. J. L. 162 (Sup. Ct. 1911).
+I find Burke has carried the burden of proving that the basic requirements of due process were not satisfied, particularly in that he was not afforded and given a fair trial. Assuming, however, that the defendant was not under the influence of intoxicating liquor, my finding would be the same. Disorderly conduct is gt/usi-criminal in its nature, and a trial on such a charge must be so conducted as to respect and safeguard the rights of the accused. The fundamental principle of essential justice requires that the judgment of conviction be reversed and set aside and a judgment of acquittal entered and the petitioner be and he is hereby discharged from custody forthwith.
