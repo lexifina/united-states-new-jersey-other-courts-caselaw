@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1982-09-17"
+citations: ["186 N.J. Super. 381"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHANNA MARIE LANDGRAF, AN INFANT, BY HER GUARDIAN AD LITEM, JOHN LANDGRAF, AND JOHN LANDGRAF AND MARI-JEAN LANDGRAF, INDIVIDUALLY, PLAINTIFFS, v. JOHN WILLIAM HENRY GLASSER, M.D., ELIEZER RONEN, M.D., WILLIAM J. MUSTER, JR., M.D., AND VALLEY HOSPITAL, INDIVIDUALLY, SEVERALLY AND/OR JOINTLY, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/186/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 885636
+cites_cases: ["181 N.J.Super. 503", "182 N.J.Super. 322", "182 N.J.Super. 328"]
+---
+
+# Landgraf v. Glasser
+
+## Majority (SIMPSON, A.J.S.C.)
+
+SIMPSON, A.J.S.C.
+This is an application under R. l:21-7(f) for approval of an attorney’s fee in excess of the contingent fee provided for in the retainer agreement and allowable under R. l:21-7(c). The request is for an increase of the 10% otherwise allowable under R. l:21-7(c)(6) as to recovery over $250,000, to 20%, relying upon Merendino v. F.M.C., 181 N.J.Super. 503 (Law Div.1981).
+The trial judge approved a structured settlement for the benefit of an infant plaintiff, as well as reimbursement to the parents for $16,500 expenses, disbursements by counsel totalling $8,812.36, and a guardian ad litem fee of $772.50. The child, Johanna Marie Landgraf, was born December 30,1976, is severely brain damaged, and is totally incapable of caring for herself. A medical malpractice action was commenced against an obstetrician, an anesthesiologist and a pediatrician. The anesthesiologist was uninsured, but ultimately contributed $100,000 of the settlement. The same insurance carrier covered the other two doctors, with the policy limits being $1,000,000 for the obstetrician and $500,000 for the pediatrician. The difficulties of the case are apparent from the findings of the R. 4:21 medical malpractice panel. A unanimous disposition would have been admissible at trial pursuant to R. 4:21 -5(e). Two panelists determined that, as to one claim of malpractice, the obstetrician and anesthesiologist deviated from accepted standards of medical practice which was a proximate cause of the brain injury; but the third panelist disagreed. The panel unanimously rejected all other claims of malpractice, except that as to one claim against the pediatrician they unanimously found deviation from accepted standards but that such deviation was not a proximate cause of any injury to the infant.
+The case was settled with the aid of the trial judge on the day of trial and after a full day’s negotiations. The terms were $250,000 cash, $40,000 a year for the life of the child with a ten-year guarantee, and $100,000 lump sum at the end of ten years. For fee purposes the settlement may be summarized as follows:
+For attorney fee purposes, this case is similar to three other situations where increase of R. l:21-7(c)(6) allowances from 10% to 20% were approved. Merendino, supra; Pacillo v. Harris, 182 N.J.Super. 322 (Law Div.1982); Tobias v. Autore, 182 N.J.Super. 328 (Law Div.1982). In addition, the split R. 4:21 panel determination as to malpractice is a factor supporting allowance of the requested increase in attorney’s fee. R. 1:21— 7(f); DR 2-106(A)(l). The secrecy provisions of R. 4:21-7 are not intended to preclude reference thereto by an assignment judge determining a reasonable fee pursuant to R. l:21-7(f).
+Two other aspects of the present case require consideration. This was a difficult medical malpractice case that was fully prepared for trial by an attorney who is also a physician. Although it was suggested that this dual qualification might have permitted plaintiff’s attorney to develop the case in less time than a law'yer without medical training, the skill and ability of such a lawyer-doctor are factors supporting the reasonableness of the increased fee. DR 2—106(A)(1) and (7). Additionally, the parents of the infant plaintiff object to the increased fee application despite their complete satisfaction with the settlement.
+The objections of the parents are understandable. Although the written retainer agreement contains the standard provision reserving the attorney’s right to apply for an additional fee pursuant to R. l:21-7(f), they relied upon the R. 1:21—7(c) schedule incorporated in the retainer. They also suggested that the fee should be “structured” since the settlement was—but this overlooks the fact that the fee has already been discounted to present value by calculation on the net recovery based upon the present cost of the deferred annuity and “balloon” payments. In virtually all cases, it is impossible for lay persons to make an informed judgment as to the reasonableness of an attorney’s contingent fee. To safeguard against the possibility of such a fee improperly affecting the outcome of settlement negotiations, the New Jersey Supreme Court has limited R. 1:21—7(f) applications to the assignment judge. Under all the circumstances of this case, I am satisfied that the requested increase is reasonable and a total fee of $116,937.53 is approved.
+An appropriate order should be submitted pursuant to R. 4:42-1.
+The present cost of future annuity and lump sum payments are the recovery figures to be utilized for contingent fee calculation purposes. Merendino v. F.M.C., supra at 509.
