@@ -1,0 +1,45 @@
+---
+court: "Bergen County District Court"
+decided: "1978-10-13"
+citations: ["163 N.J. Super. 218"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TERHUNE COURTS, PLAINTIFF, v. MARY SGAMBATI, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/163/cases/0218-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 910925
+cites_cases: ["132 N. J. Super. 429", "134 N. J. Super. 567", "135 N. J. Super. 158", "136 N. J. Super. 432", "152 N. J. Super. 582", "18 A. L. R. 2d 880", "19 N. J. 443", "50 N. J. Super. 81"]
+---
+
+# Courts v. Sgambati
+
+## Majority (Huot, J. D. C.)
+
+Huot, J. D. C.
+This case raises for the first time the issue of whether a proposed change in a lease, which would prohibit pets, is reasonable within the meaning of N. J. S. A, 2A:18-61.1(i).
+Defendant has been a tenant in Apartment 201A of Terhune Courts Apartments, Lodi, New Jersey, for six years. Plaintiff has been landlord of this complex for four years.
+The initial lease ran from July 1, 1972 to June 30, 1973, and a “no pet” provision was stricken and initialled by a previous landlord. The lease running from July 1, 1974, to June 30, 1975 contains a “no pet” provision which remains unaltered. There are no other leases in evidence; however, it is undisputed that defendant resided as a year-to-year tenant until July 1, 1977, when she thereafter began a month-to-month tenancy.
+During her six .years in Apartment 201A defendant has owned a pet collie dog. There' has been no attempt to conceal the dog and plaintiff-landlord had at no time previous to July 24, 1978 attempted to enforce the “no pet” provision contained in the 1974 lease.
+Indeed, had the landlord based his present claim upon enforcement of this provision, -defendant’s argument for estoppel would be most persuasive.
+* * * it should be noted that if there is long inaction on the part oí the landlord, he may be held to have waived, not the breach, but the covenant itself, even though the provision against animals is absolute. * * * Annotation, “Landlord and Tenant — Pets,” 18 A. L. R. 2d 880, 882 (1951).
+Eather than seek enforcement of a past or present clause, plaintiff relies on the 1974 residential amendments; N. J. S. A. 2A :18 — 61.1. Under this statute a landlord is entitled to summary recovery of his property where ■
+The landlord or owner proposes, at the termination of a lease, reasonable changes of' substance in the' terms and conditions of the lease, including specifically any change in the term thereof, which the tenant, after written notice refuses to accept. [A. J. S. A. 2A :18-61.1 (i)]
+In the instant ease plaintiff landlord notified the tenant on July 24, 1978 that it no longer would permit pets. This change was to take place upon the signing of a new lease at the end of defendant’s tenancy. It should be noted that the landlord complied with the notice requirements of the statute. It is clear that neither waiver nor estoppel may apply where plaintiff does not base his claim on a past or present covenant and, therefore, does not seek to enforce a right he may have waived by past inaction.
+Defendant argues that plaintiff should be prohibited from incorporating a “no pet” clause in the new lease because of its prior permission for pets evidenced by its knowing failure to enforce such covenant in prior leases. Her conclusion, thus, is that once a landlord waives a lease provision, he is forever prohibited from inserting such provision in any subsequent lease with the same tenant.
+Such an approach ignores the very nature of the landlord-tenant relationship. A tenant’s rights in property end upon completion of the tenancy. The tenant’s relationship with the land and the landlord ceases upon termination of the lease and begins anew upon the signing of the next lease.
+A month-to-month tenancy is a continuing one which does not give rise to a new relationship for each month. However, where a landlord gives proper notice to quit and demand for possession at the end of the month, unless the tenant complies with the reasonable change in the lease, a holding over in compliance with the change creates a new tenancy. Stamboulos v. McKee, 134 N. J. Super. 567, 570-571 (App. Div. 1958); Saracino v. Capital Properties Associates, Inc., 50 N. J. Super. 81, 87 (App. Div. 1958).
+Having received proper notice of a proposed change in the lease, defendant, as a month-to-month tenant, may no longer rely on past covenants or the landlord’s past inaction. A new and separate tenancy is created at the end of the term with new and separate rights and obligations. Covenants as to a past tenancy have no bearing on a new leasehold.
+It can be seen that the equitable doctrines of waiver and estoppel do not apply to the instant facts. A landlord who has waived a covenant in the past may reassert that covenant as though it never existed in the first instance. This is possible only if the landlord complies with the requirements of N. J. S. A. 2A :18-61.1. Those requirements demand proper notice and that the change itself be reasonable.
+Proper notice having been given, it must be resolved whether a change from pets to “no pets” is reasonable under N. J. 8. A. 2A:18-61.1(i).
+Defendant contends that the reasonableness of the proposed change must depend upon a specific tenant’s circumstances as well as that of the landlord. The court does not agree.
+An interpretation of a legislative enactment demands an analysis of legislative intent and case law as well as balancing of all the factual circumstances. The court must, therefore, determine what the statute as a whole was intended to accomplish, as well as the law as it existed before the legislature acted.
+The purpose of 1974 amendments was to limit evictions and refusals to renew to “reasonable grounds” and “suitable notice.” Bradley v. Rapp, 132 N. J. Super. 429, 432-433 (App. Div. 1975). The legislative intent was to prevent arbitrary action in a time of a serious housing shortage. Sabato v. Sabato, 135 N. J. Super. 158, 164 (Law Div. 1975). This should not, however, lead to an anomalous, unreasonable, inconceivable or absurd result. Bradley v. Rapp, 132 N. J. Super. 429, 433 (App. Div. 1975).
+It is important to note that prior to the enactment of the 1974 amendments a landlord had an absolute right not to renew a lease. The statute restricts this by mandating a renewal unless certain requirements are fulfilled, i.e., proper notice and reasonable change in the lease which is rejected by the tenant. It is, therefore, clear that the statute, specifically the section in question, is in derogation of the landlord’s common law right of ownership and must be strictly construed. Dacunzo v. Edgye, 19 N. J. 443, 451 (1955); Floral Park Tenants Ass’n v. Project Holding, Inc., 152 N. J. Super. 582, 591 (Ch. Div. 1977).
+The cases have held that a “no pet” clause is reasonable. The Appellate Division has stated:
+We have no doubt of the reasonableness of the covenant forbidding dogs in the leased apartment within the meaning of the dispossess provisions of N. J. S. A. 2A :18-61.1(e). [Atlantic City Housing Auth. v. Coppock, 136 N. J. Super. 432, 435 (App. Div. 1975)]
+A strict interpretation of the instant section, in conformance with case law, finds a lease change prohibiting pets to be reasonable. Such an interpretation does not restrict the effectiveness of the statute because it does not foster arbitrary action by a landlord. Finally, in weighing the equities the court finds that not only defendant, but all tenants must be considered. The issue is not whether defendant has controlled her pet in the past. What is a reasonable change of a lease may not be left to such a subjective standard. An objective standard of reasonableness based on the needs of all the tenants as well as the ownership rights of the landlord must be developed.
+A landlord is responsible to all his tenants. When pets become a problem he must act for the benefit of all, even at the inconvenience of a few. This is not a case where an unscrupulous landlord seeks to oust a helpless tenant; rather, it is one where a landlord seeks to better his property at the insistence of the tenants and for the benefit of the tenants.
+Preventing a landlord who has allowed pets in the past from prohibiting them in the future would not be in the best interests of the tenants as a whole and, therefore, is neither reasonable nor was it intended by the Legislature. Where a landlord seeks to improve his property, he must be permitted a viable avenue by which to proceed even at the inconvenience of a particular tenant.
+Accordingly, it is the holding of this court that a change in a lease which prohibits pets is reasonable within the meaning of N. J. S. A. 2A:18-61.1(i).
+A judgment for possession is entered in favor of plaintiff. Because of the personal circumstances of defendant and also to give defendant an opportunity to reconsider plaintiff’s offer of a lease, the warrant for removal will not issue until January 31, 1979.
