@@ -1,0 +1,49 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1969-01-24"
+citations: ["104 N.J. Super. 360"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BOROUGH OF NEW SHREWSBURY, A MUNICIPAL CORPORATION OF THE STATE OF NEW JERSEY, PLAINTIFF, v. BLOCK 105, LOT 11, ASSESSED TO COLUMBUS SPELLMAN ESTATE; BLOCK 105, LOT 24, ASSESSED TO RANDALL PHIPPS; BLOCK 105, LOT 25, ASSESSED TO RANDALL PHIPPS; BLOCK 106C, LOT 7, ASSESSED TO SAMUEL TANZYMORE; BLOCK 139, LOT 14-14, 17, ASSESSED TO JOSEPH A. FRUCI; BLOCK 140, LOT 3-23, ASSESSED TO MARY SUNDRA; BLOCK 142, LOTS 1-169, 198-382, 439-605, 624, 625, 662-665, 674-689, 694-703, 706-802, 811-819, 825-827, 831-838, 841-854, 859-1060, ASSESSED TO HERBERT HARVEY, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/104/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 289342
+cites_cases: ["108 N. J. Eq. 17", "132 N. J. L. 287", "135 N. J. Eq. 587", "136 N. J. L. 479", "25 N. J. 241", "48 N. J. Super. 581", "8 N. J. 219", "82 N. J. Super. 64"]
+---
+
+# Borough of New Shrewsbury v. Block 105, Lot 11
+
+## Majority (Lane, J. S. C.)
+
+Lane, J. S. C.
+In this in rem tax foreclosure action defendant Herbert Harvey, claiming to be a mortgagee of the properties included in Schedule 7, has moved for a dismissal of the action as to that schedule on the ground that payment of some part of the taxes assessed against the property had been made within four calendar years next preceding the commencement of the action. Defendant Dorothy De Hamidian joins in the motion to dismiss. She seeks, however, to reserve to herself the right to move on the same ground at a later time to dismiss the complaint as to her. In view of the fact that matters outside the pleadings have been relied upon, the motion will be treated as a motion for summary judgment.
+The plaintiff seeks to foreclose a certificate of tax sale held November 5, 1964. The complaint was filed June 4, 1968 alleging that no part of any general land tax levied or assessed against the land had been paid for four calendar years next preceding the date of the filing of the complaint, and that no part of the general land tax levied and assessed against the land for the year 1968 had been paid.
+It is admitted by plaintiff that it received payments in the years 1964, 1965 and 1966 of taxes due prior to June 30, 1963. Such payments were made pursuant to an order dated May 10, 1963 in a prior foreclosure suit bearing Doclcet No. E-3433-60 involving the same property. That order provided that the premises in question could be redeemed by the payment to the borough by the record owner or his agent of $6,500 “agreed upon by the parties as the sum due and owing to the Borough to June 30, 1963 * *
+The order further provided that the payments were to be made:
+$1,700 on or before June 1, 1963
+$1,600 on or before May 1, 1964
+$1,600 on or before May 1, 1965
+$1,600 on or before. May 1, 1966
+No other tax payments were received. No part of the taxes assessed fox the second half of 1963, 1964, 1965, 1966, 1967 and 1968 have been paid.
+Initially, Harvey objects to the consideration by the court of an affidavit submitted by plaintiff incorporating the fact that the payments made as above set forth were made as a result of a prior order of this court for taxes that accrued before June 30, 1963. The basis for his objection is that the certificate of tax sale involved in this action states, “Sale is subject only to municipal liens accruing after December 31, 1963,” and that evidence should not be received to rebut the statutory presumption that such was an accurate statement.
+R. S. 54:5-52 provides:
+“The certificate of sale shall be presumptive evidence in all courts in all proceedings by and against the purchaser, his representatives, heirs, and assigns, of the truth of the statements therein, of the title of the purchaser to the land therein described, and the regularity and validity ox ail proceedings had in reference to the sale. After two years from the record of the certificate of sale, no evidence shall be admitted in any court to rebut the presumption, unless the holder thereof shall have procured it by fraud, or had previous knowledge that it was fraudulently made or procured.”
+It has been held that the only purpose of that statute is to aid in the enforcement and collection of unpaid taxes and assessments validly made. Hudson County Park Commission v. Jacobson, 132 N. J. L. 287, 288 (Sup. Ct. 1944). To allow Harvey to rely upon that statute and cause this court to disregard its own record would result in complete injustice. Vice-Chancellor Jayne, in Gilbert v. Pennington Trap Rock Co., 135 N. J. Eq. 587 (Ch. 1944), pointed out the nature of equity jurisprudence:
+“Equity jurisprudence in reality is a philosophy which can never be obliterated or abolished in any land or country where good faith, honest and fair dealing constitute a desirable standard of human conduct. The principles of equity are and should be sufficiently flexible to enable courts to determine from all the circumstances of each particular case whether or not the advantage sought by the litigant is unconscionable. In searching for the needle, one must not ignore the haystack in which it is imbedded.” (at p. 596)
+The situation here is similar to that which confronts the court where an attempt is made to use the statute of frauds as an instrument of fraud. See Willig v. Friedberg, 108 N. J. Eq. 17, 21 (E. & A. 1931). Harvey was a defendant in the prior action. The entry of the order of May 10, 1963 under which the payments were made was consented to by the attorneys representing Harvey in that action. The court will consider the affidavit concerning the payments made in 1964, 1965 and 1966.
+The substance of Harvey’s motion requires an interpretation of N. J. 8. A. 54:5-104.34, which provides:
+“No action may be instituted under this act on any tax sale certificate unless:
+a. More than two years have expired from the date of the tax sale out of which any such certificate arose, and
+b. Por the four calendar years next preceding the commencement of the action, no part of any general land taxes levied and assessed against the land covered by such certificate has been paid.”
+Paragraph (b) is ambiguous. It can either be read to mean that no part of any general land taxes levied and assessed against the property for the four calendar years next preceding the commencement of the action must not have been paid; or that during the four calendar years next preceding the commencement of the action no part of any general land taxes levied and assessed against the land at any time must not have been paid.
+N. J. S. A. 54:5-104.34 originally provided in paragraph (b) as follows:
+“b. No part of any general land taxes levied and assessed for the four calendar years next preceding the date of the petition against the land covered by such certificate has been paid.”
+There was no ambiguity in that provision. It is clear that in the original paragraph (b) the operative fact was not payment within the fonr-year period but rather payment of taxes levied and assessed within the four-year period.
+The amendment was contained in L. 1953, c. 51, § 59. The question before the court is whether the amendment was intended to make a substantive change in the statute. A reading of chapter 51 clearly shows that the purpose of this legislation was to make only procedural changes in Title 54 of the Revised Statutes to conform to the new court system and to rules promulgated by the Supreme Court. For example, all references to the Court of Chancery were deleted; all references to “decree” were changed to “judgment”; those portions of the original statute that had been super-ceded by the rules of the Supreme Court were deleted. It was, in short, a technical revision of the existing law.
+Eevisions are not construed to alter existing law unless there is a clear indication of such desired effect by the Legislature. In re Borough of Glen Rock, 25 N. J. 241, 249 (1957); Bass v. Allen Home Improvement Co., 8 N. J. 219, 224 (1951); Kessler v. Zink, 136 N. J. L. 479, 482 (E. & A. 1947).
+A mere change of phraseology does not overcome the presumption that there is no intention to change the existing law. Town of Hammonton v. Civil Service Commission, 82 N. J. Super. 64, 73 (App. Div. 1964). Here, there is no indication of any intention by the Legislature to make a substantive change of the law.
+N. J. S. A. 54:5-104.34(6) is interpreted to mean that no action may be instituted under the In Rem Tax Foreclosure Act on any tax sale certificate if part of any general land taxes levied and assessed against the land for the four calendar years next preceding the commencement of the action covered by the certificate has been paid. The awkwardness of the wording of the prior sentence shows one of the reasons lor the rephrasing in L. 1953, c. 51, § 59. Another reason was obviously to structure the paragraph similarly to paragraph (a), that is, to start the paragraph with the time limitation.
+The payment within four years of the commencement of the action of taxes levied and assessed for a period more than four years before the commencement of the action does not bar the action.
+The conclusion of the court is reinforced by N. J. S. A. 54:5-104.31 which provides that the act is to be liberally construed as remedial legislation to encourage the barring of rights of redemption. See Lakewood Tp. v. Block 251, Parcel 34, 48 N. J. Super. 581, 586 (App. Div. 1958).
+The motion for summary judgment is denied. The disposition of the motion made by Harvey will apply equally to the defendant Dorothy De Hamidian. Parenthetically, the court notes that Dorothy De Hamidian has in the past been associated with Harvey in his tax foreclosure matters.
