@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1979-08-16"
+citations: ["170 N.J. Super. 216"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DONALD A. BLEZNAK, S. DAVID BRANDT AND GOLDEN LAND CO., A PARTNERSHIP, PLAINTIFFS, v. TOWNSHIP OF EVESHAM, A BODY POLITIC, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/170/cases/0216-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 478098
+cites_cases: ["163 N.J.Super. 332", "17 N.J. 67", "52 N.J. 103"]
+---
+
+# Bleznak v. Township of Evesham
+
+## Majority (HAINES, J. S. C.)
+
+HAINES, J. S. C.
+Plaintiffs own 12.6 acres of land with a nursery school building constructed thereon in Evesham Township, Burlington County, New Jersey. They were granted a preliminary site plan approval for their nursery school use on August 17, 1978. Final approval was obtained on August 23,1978. The findings of fact and conclusions of law incorporated in the resolution of preliminary approval provided:
+The subject area is zoned GB; the Board finds that the intended use for the existing 214 story building is of the same general character as the uses allowed in said zone within the meaning of Code Section 160-27G. The Board further finds that the entire 12.6 acre area may be allotted to the proposed site in satisfaction of the one-acre minimum requirement of Code Section 160.28A.
+At the time plaintiffs were granted their approvals their property was situate in the general business zone as established by the zoning ordinance. In January 1979 that ordinance was amended and plaintiffs property became a part of the R-l Residential District of the township. Defendant takes the position that its revised ordinance controls the use of plaintiffs’ property; that their nursery school undertaking may continue as a nonconforming use, but may not be expanded or otherwise changed except in conformity with the residential provisions of the ordinance. Plaintiffs argue to the contrary. They contend that the use for which they obtained approvals is protected as to their entire 12.6-acre site for a period of two years under N.J.S.A. 40:55D-49 and 52 which provide:
+Preliminary approval of a * * * site plan * * * shall * * * confer upon the applicant the following rights for a 3-year period from the date of the preliminary approval:
+(a) [t]hat the general terms and conditions on which preliminary approval was granted shall not be changed, including but not limited to use requirements * * except that nothing herein shall be construed to prevent the municipality from modifying by ordinance such general terms and conditions of preliminary approval as relate to public health and safety. * * * [N.J.S.A. 40:55D-49]
+The zoning requirements applicable to the preliminary approval first granted * * * shall not be changed for a period of 2 years after the date of final approval. * * * Notwithstanding any other provisions of this act, the granting of final approval terminates the time period of preliminary approval. [N.J.S.A. 40:55D-52]
+The statutory permission to modify conditions of preliminary approval relating to public health and safety is of no moment here. Nothing before me indicates any modification for such purposes. Were that so, it would not matter: plaintiffs have received final approval and the statute permits modification of terms and conditions only with respect to preliminary approval.
+Defendants are distressed by the prospect of unlimited extension of the statutory time periods. They point to the possibility that plaintiffs will expand their facility during the next two years and make application within that time for a new preliminary site plan approval, in which event they would be protected for three years with respect to any approval granted, and for two additional years from the date they receive final approval — a possible extension of use approval for five years, a cycle which could be repeated indefinitely. The concern is imaginative but not improbable. Nevertheless, it appears to be precisely what the Legislature intended when it established lasting qualities for site plan approvals. The language of the statute is not ambiguous; it uses words with ordinary meaning entitled to ordinary interpretation. Fahey v. Jersey City, 52 N.J. 103, 107 (1968); Springfield Tp. v. Union Cty. Park Comm’n, 163 N.J.Super. 332 (Law Div.1978). Those words provide the protection which plaintiffs claim.
+Any entrepreneur commencing a new venture, as here, embarks upon an uncertain journey. He cannot know whether he will succeed or fail and, if he succeeds, whether his building and other improvements will require changes in order to accommodate growth and other unforeseeable future events. If he is obliged to proceed with the knowledge that his future plans may be frustrated through zoning changes, he may well decide not to proceed at all since success will carry the seed of its own defeat. The Legislature recognized this circumstance and protected approved uses for specific periods of time as set forth in the statute.
+The determination by the planning board that the entire 12.6-acre tract should be approved for nursery school use defines the area within which that use may be undertaken and expanded. The concerns now expressed by the township are ones which the planning board disposed of in its resolution of approval. Any restriction of the area of permitted use would have to be set forth there. The resolution contains no restriction. Its language is clear. This court may not impose limitations when the board imposed none.
+This matter proceeds by motion for summary judgment and is capable of final disposition under the rule of Judson v. Peoples Bank & Trust Company of Westfield, 17 N.J. 67 (1964). The facts are not in dispute. The motion is granted. Plaintiffs’ use of their entire 12.6 acres may continue in accordance with the site plan approval obtained by them, unaffected by the 1979 zoning ordinance.
