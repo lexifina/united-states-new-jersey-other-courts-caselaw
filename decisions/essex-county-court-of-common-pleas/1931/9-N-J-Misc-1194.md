@@ -1,0 +1,26 @@
+---
+court: "Essex County Court of Common Pleas"
+decided: "1931"
+citations: ["9 N.J. Misc. 1194"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY v. RALPH H. KINCAID."]
+source_url: "https://static.case.law/nj-misc/9/cases/1194-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 736205
+cites_cases: ["100 N. J. L. 240"]
+---
+
+# State v. Kincaid
+
+## Majority (Beennan, J.)
+
+Beennan, J.
+This is an appeal from a judgment on conviction had against the defendant in the Recorder’s Court of the town of Montclair for operating a motor vehicle while under the influence of intoxicating liquor. At the time set for the trial, in this court, a preliminary motion was addressed to the court to set aside the conviction for reasons then assigned, and later elaborated upon in the brief filed in behalf of the defendant appellant.
+It was agreed between the legal assistant for the prosecutor, representing the state, and counsel for the defendant, that the disposition of this motion would be dispositive of the case.
+It appears that the defendant was arrested on the 26th day of October, 1930, in the town of Montclair, and charged with having operated a motor vehicle while under the influence of intoxicating- liquor, and that the first complaint made against him charged him with having operated a motor vehicle while under the influence of intoxicating liquor on the 27th day of October, 1930. At the trial of this issue, after the state’s case was in, there was, of course, a variance between the proof and the complaint, the proof showing the offense on the 26th and the complaint alleging the offense on the 27th, and the trial court granted a motion, at the conclusion of the state’s case, to dismiss the proceedings by reason of the variance. The appellant was released and the bail that he had originally put up for his appearance returned to him. Subsequently, on the 14th of November, 1930, a new complaint was made against the defendant-appellant for operating a motor vehicle while under the influence of intoxicating liquor, on October 26th, 1930. He was tried on this, on December 4th, 1930, and found guilty of having violated article 14, subdivision 3, of the Motor Yehicle act, in that he did, on the 26th day of October operate a motor vehicle in the town of Montclair, while under the influence of intoxicating liquor, and he was fined $200.
+On the second trial counsel for the defendant appeared specially and objected to the jurisdiction of the court by reason of the prior trial and disposition, and took no other part in the proceedings. This he had to do under authority of State v. Rosenblum, 100 N. J. L. 240.
+The incidental objections to the second trial I pass over, conceiving that the real meritorious question was whether or not the dismissal of the first proceeding, after the state’s case was in, was conclusive and a bar to a further complaint and further trial of the defendant. The prosecutor for the state argues in Ms brief that they were separate proceedings, one having nothing to do with the other; but it is conceded that there was but one offense. What happened, as a matter of fact, was that the state in the first instance charged the offense on the wrong date and could not sustain the charge in the field of proof. Did it have then the further right to urge a new complaint, and did the court have authority to proceed thereon? It seems to me, in reason and logic, that it should not; for if the state, by reason of defects of proof, could be permitted to try a man a second time, there is no reason why it could not be done times without number, for the same offense.
+But a rule of reason is not sufficient unless it be buttressed by legal authority. I find upon examination the case of Ryley v. Brown, in Queen’s Bench Division, before Lord Coleridge, C. J., and Lord Esher, M. R., reported in 17 Cox C. C., p. 79. In that case the appellant was charged with non-compliance, on the 21st day of August, 1889, and ten days thereafter, with an order made by justices under section 2 of the Dogs act of 1871, requiring him to keep a dangerous dog under proper control. No evidence was given to support the charge except as to the 21st day of August, and the charge was dismissed on the ground that the offense had not been made out. Subsequently the appellant was charged with not keeping the dog under proper control on the 21st day of August, simply. This charge was proved and the appellant was convicted. It was held (quashing the conviction) that as the appellant was put in peril and might have been convicted on the first hearing the matter was res judicata on the second hearing, and the maxim nemo lis vexañ debet applied. It was urged in that case, by counsel for the appellant, that the matter was res judicata, and that the test was whether the evidence on both cases was the same and whether the defendant had on the first trial been put in peril, and that he had been. With this view the court, Coleridge, C. J., and Esher, M. R., coincided. This reasoning applies by clear analogy, it seems to me, in the instant case.
+The conviction is set aside.
