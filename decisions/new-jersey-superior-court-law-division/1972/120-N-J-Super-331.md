@@ -1,0 +1,35 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1972-07-13"
+citations: ["120 N.J. Super. 331"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ERVIN S. RILEY AND ELLEN RILEY, PLAINTIFFS v. MARILOU CONWAY SAVARY AND NOAH L. KLINGLESMITH, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/120/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 340418
+cites_cases: ["117 N. J. Super. 418", "118 N. J. Super. 480", "22 N. J. 428", "41 N. J. Super. 246", "57 N. J. 353"]
+---
+
+# Riley v. Savary
+
+## Majority (Rosenberg, J. C. C.)
+
+Rosenberg, J. C. C.
+(temporarily assigned). The instant matter before this court is a motion by plaintiffs pursuant to B. 4:42-11(b) for an order to direct defendants to pay prejudgment interest. In opposing the motion, the defendants have attacked the validity of R. 4:42-11(b).
+On June 6, 1969 plaintiff Ervin S. Riley sustained personal injuries in an automobile accident with defendant Marilou Conway Savary. The complaint was filed October 14, 1969 and on February 10, 1972 a jury awarded plaintiff Ervin S. Riley the sum of $7,500, and to his wife, who sued per quod, the sum of $700. On February 17, 1972 judgment was entered on the verdict.
+R. 4:42-11, effective January 31, 1972 provides in pertinent part:
+(b) Tort Actions. In tort actions, including products liability actions. the court shall include in the judgment interest at 6% per annum on the amount of the award from the date of the institution of the ad ion or from a date 6 months after the date of the tort, whichever is later.
+On the basis of this Rule plaintiffs seek interest from December 6, 1969 to February 17, 1972.
+Defendants have set forth various arguments in opposition to plaintiffs’ motion for interest.
+First, defendants contend that “The rule is not applicable in this case as plaintiffs never amended their complaint to seek interest at any time before judgment was entered.” However, this court does not think that the failure to amend the complaint bars the plaintiffs from collecting interest. As the court in Jersey City Redev. Agency v. Bancroft Realty Co., 117 N. J. Super. 418, 424 (App. Div. 1971) held: “Bancroft’s pleadings contain no claim for interest, and apparently interest was not sought at the trial level. Nevertheless, under the totality of the circumstances here presented we deem it ‘just’ to allow interest at 6% * * *."
+Defendants’ next contention is that R. 4:42-ll(b) is violative of both the United States and New Jersey Constitutions.
+Defendants argue that the 14th Amendment of the United States Constitution is violated on two grounds. The first is that the allowance of prejudgment interest constitutes a deprivation of property without due process of law, since the citizens of New Jersey have had the Rule arbitrarily imposed upon them without having had the opportunity to be heard. However, such a contention of unconstitutionality is without merit in that the citizens oí this State have no right to be heard on a rule-making procedure within the judiciary. Secondly, defendants argue that the Rule results in unequal protection of the law since tort actions are singled out for prejudgment interest. The purpose for such a classification is that tort actions are the very cause for the backlog of civil cases. In dealing with R. 4:58-2, which was superseded by R. 4:42-ll(b), Justice Francis stated in Crudup v. Marrero, 57 N. J. 353, 357 (1971) that the Rule was:
+* * * designed particularly as a mechanism to encourage, promote and stimulate early out-of-court settlement of negligence and unliquidated damage claims that in justice and reason ought to be sett.ed without trial. It is a matter of common knowledge that the vast majority of such eases are ultimately settled. Unfortunately, the disposition too often takes place on the “court house steps” or just before or after a jury is drawn, rather than in the many months that intervene between the institution of the suit and the ultimate trial date. The failure to make earlier adjustments is a major cause of the clogging of the trial lists and the tremendous backlog of automobile negligence cases that burden our judicial system.
+Thus, since the reason for the Eule is calendar control and since tort actions are the primary congestion of the calendar, the exclusion of causes of action other than torts under the prejudgment interest rule is not, in this court’s opinion, an unreasonable classification as to constitute a denial of equal protection of the law.
+Defendants contend that the New Jersey Constitution is violated in that the New Jersey Supreme Court, by adopting R. 4:42-11(b), in effect enacted substantive law. However, the Supreme Court has exclusive and plenary power to promulgate rules governing practice and procedure in the courts of this State. N. J. Const., Art. YI, § 2, par. 3. And as Justice Francis held in Crudup v. Marrero, supra at p. 361 “* * * the grant of interest under the rules is well within the inherent powers of this Court.” It should be further noted that in dealing with the constitutional power of the Supreme Court to adopt rules, the court in Bank of Commerce v. Markakos, 41 N. J. Super. 246, 249 (App. Div. 1956), appeal dismissed 22 N. J. 428 (1956) held that “It is apparent * * * that the Supreme Court deems the matter * * * to fall within its constitutional power. These determinations are binding upon us.” As such a determination is binding on the Appellate Division in Bank of Commerce v. Marlcalcos, supra so is the trial court bound in the case at bar.
+Argument is also made that the Rule is inequitable in that prejudgment interest takes on the characteristics of a penalty. However, the Rule merely permits the plaintiff to recover what has been adjudged to have been his all along by virtue of the tort committed. Defendants have cited examples of possible inequities with the Rule, such as delays due to cases placed on the Military List, but such hypotheticals are not presently before this court and should be dealt with as they arise.
+The final point raised by the defense is that R. 4:42-11(b) should only apply to torts occurring after its effective date of January 31, 1972. This court is not of the same opinion, but holds that the Rule is applicable to all judgments entered on or after January 31, 1972. The purpose of the Rule, to alleviate calendar congestion, would be frustrated for quite a few years if defendants’ interpretation of the Rule were to stand. This court’s holding is in agreement with McKee v. Harris-Seybold Co., 118 N. J. Super. 480, 481 (App. Div. 1972) wherein it was held that the “* * * rule does not apply retroactively to judgments entered prior to its effective date.” (Emphasis added).
+The validity of R. 4:42-11(b) having been upheld, interest on judgments at 6% per annum commencing December 6, 1969 is hereby awarded plaintiffs.
+Present an order accordingly.
