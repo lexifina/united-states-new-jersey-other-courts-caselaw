@@ -1,0 +1,32 @@
+---
+court: "Hudson County Court"
+decided: "1958-10-17"
+citations: ["52 N.J. Super. 373"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH NEMETH, PETITIONER-RESPONDENT, v. OTIS ELEVATOR CO., INC., RESPONDENT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/52/cases/0373-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 396017
+cites_cases: ["1 N. J. 167", "1 N. J. Super. 13", "12 N. J. Super. 171"]
+---
+
+# Nemeth v. Otis Elevator Co.
+
+## Majority (Duffy, J. C. C.)
+
+Duffy, J. C. C.
+This is an appeal by the employer from an order of the Division of Workmen’s Compensation which reinstated a claim petition previously dismissed for lack of prosecution. The petitioner has in turn moved to dismiss the appeal for alleged procedural defects.
+The question involved in the motion is whether the appellate procedure provided in R. R. 2:2-3 (a) applies to an appeal to the County Court from an interlocutory determination of the Division below. Was the respondent-appellant required to apply to this court for leave to appeal within ten days of the order of reinstatement of the petition ?
+It may be observed that R. R. 2:2-1 enumerates the causes in which appeals may be taken to the Appellate Division from “final judgments.” R. R. 2:2-3(a), on the other hand, provides for the discretionary grant of permission by that court to take appeals from “interlocutory” judgments, orders, decisions or actions. Specifically excepted from the operation of this latter rule are appeals governed by R. R. 5:2-5 (which regulates appeals to the County Court from judgments of the Workmen’s Compensation Division). Drom this exception in R. R. 2:2-3 (a) it may be presumed that the unqualified term “j udgment” in R. R. 5:2-5 embraces both final and interlocutory determinations.
+The reported cases do not throw much light on the problem. In Stone v. Dugan Brothers of N. J., 1 N. J. Super. 13 (App. Div. 1918), a similar order of reinstatement was reviewed pursuant to a writ of certiorari allowed by the former Supreme Court. In Skislak v. Continental Mining & Smelting Corp., 1 N. J. 167 (1918), the appeal of an order of the Compensation Bureau vacating an earlier order of dismissal was taken first to the Court of Common Pleas. The official report of Skislak v. Continental Mining & Smelting Corp., supra, does not disclose whether that appeal was taken as of right or upon leave of the Court of Common Pleas.
+Notwithstanding the opinion in Grogan v. William J. Scully, Inc., 12 N. J. Super. 171 (App. Div. 1956), which is advanced by the petitioner as authority for applying interlocutory appellate procedure herein, I am not of the opinion that the rules, as presently written, require leave of court for the prosecution of an appeal from an interlocutory determination of the Workmen’s Compensation Division. The Grogan case, supra, was an enforcement by the Appellate Division of a rule (R. R. 2:2-3(a)) specifically established for that tribunal. While I share with that court its judicial abhorrence for piecemeal appeals, and perceive their effects to be even more undesirable in workmen’s compensation litigation. nevertheless R. R. 5:2-5 does not contain an effective counterpart to R. B. 2:2-3(a). If compensation appeals to the County Court are to conform to appellate practice generally in this respect, an amendment to the rules will be necessary.
+Considering next the merits of the appeal, a resume of the events leading to the challenged order is appropriate.
+The claim petition was filed on June 12, 1954. It alleged the occurrence of a compensable accident on January 4, 1954. After a series of adjournments the petition was marked “not moved” on February 28, 1956. On March 7, 1957 it was dismissed for lack of prosecution. On March 4, 1958 the order of dismissal was vacated and the petition was restored to the trial calendar.
+It is contended by the respondent-appellant that the reinstatement of the petition was contrary to N. J. S. A. 34:15-54 in that “good cause” was not shown. The reason stated upon application for reinstatement in the supporting affidavit of petitioner’s attorney was that petitioner had a meritorious cause of action which would be barred by the statute of limitations if the case were not reinstated. The Deputy Director granted reinstatement in order, he said, that the petitioner might not be deprived of his day in court. The respondent-appellant urges that the term “good cause” as used in the statute must be construed in accordance with the standards set up in R. R. 4:62-2 which regulates relief from final judgment; that either mistake, inadvertence, surprise, excusable neglect or fraud must be shown.
+There is nothing in the language of N. J. S. A. 34:15-54 suggesting that “good cause” be so construed. In Skislak v. Continental Mining & Smelting Corp., supra, the Supreme Court characterized the section as showing “a legislative intention to give petitioners in compensation cases every reasonable opportunity to have their causes determined on their merits.”
+Prior to dismissal, on one occasion at least, an adjournment of the hearing of this matter had been requested by the respondent. The transcript shows, too, that petitioner’s claim had been handled by a number of attorneys. It is not too difficult to surmise that the passage of this claim from law office to law office would be reflected in its impeded movement on the trial docket.
+In any event, I am not convinced that the Deputy Director abused his discretionary power of restoral in this instance. In the absence of such abuse, the policing of the hearing calendars is best left to those who every day must contend with them, namely the Deputy Directors. The one-year limitation within which reinstatement may be had provides an effective statutory safeguard against the stale claims which respondent-appellant fears will result.
+The statute, being remedial in character, is to be broadly and liberally construed to effect the beneficent purposes of the Legislature. Both for the reasons stated in petitioner’s application for reinstatement and from the history oí the matter disclosed by the transcript I believe that the Deputy Director was in possession of sufficient facts to find good cause for reinstatement pursuant to N. J. S. A. 34:15-54.
+The order of the Division vacating the order of dismissal is affirmed, and the cause is remanded to the Division for expeditious prosecution.
