@@ -1,0 +1,21 @@
+---
+court: "New Jersey Court of Chancery"
+decided: "1932-04-13"
+citations: ["10 N.J. Misc. 552"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Oschwald Realty Company, a corporation, complainant, v. Harry Berman, defendant."]
+source_url: "https://static.case.law/nj-misc/10/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 739307
+---
+
+# Oschwald Realty Co. v. Berman
+
+## Majority (Bekby, Y. C.)
+
+Bekby, Y. C.
+The bill seeks the specific performance of a contract for the sale of lands. The defense sets up an alleged defective title. The cause was submitted upon an agreed state of facts and briefs. The sole question concerns the effect to be given to a confirmatory deed executed by the guardian of a lunatic, which appears in the chain of title of the complainant.
+Caroline McCallum was appointed guardian of Charles Hoffman, an alleged lunatic, by the orphans court of Essex county, on May 3d, 1912, pursuant to the provisions of chapter 47, P. L. 1911, and without the appointment of a commission de lunático inquirendo. Subsequently, on March 11th, 1913, and pursuant to an order of the orphans court, the guardian sold and conveyed the premises in question to one Conrad Koellhoffer for their full value, to wit, $8,000, which sum was duly paid to the guardian and, with the exception of a small sum now on hand, used by her for the payment of legacies chargeable upon the said land and for the support and maintenance of the alleged lunatic. Later, in 1923, pursuant to proceedings in this court, and after the appointment of a commission de hmatico inquirendo, Charles Hoffman was adjudged to be a lunatic and Caroline McCallum was thereupon duly appointed his guardian. Proceedings were then instituted in this court by Conrad Koellhoffer against all parties in interest, including the said guardian, which finally resulted in a decree of this court directing the guardian to execute and deliver to complainant, without further consideration than that which had already been paid, a deed in the nature of a confirmatory deed conveying any and all interest of the said lunatic in the premises in question to the said Koellhoffer, and it was therein further declared “that as to the above described premises the defendants and each of them including the lunatic defendant have no estate in or encumbrance upon the same or any part thereof.” It is the validity of that confirmatory deed which is here questioned, the defendant contending that this court had no authority to direct the guardian of the lunatic to execute a confirmatory deed; that under the statute this court could only direct a conveyance coincident with the payment of adequate consideration ; and that as no consideration was then paid the confirmatory deed is void.
+I entertain no doubt that the title of the complainants is good and that the decree directing the confirmatory deed by the guardian is valid. No appeal having been taken from that decree, it is binding and conclusive upon all parties to the suit. If statutory authority for a decree directing the execution of a confirmatory deed is necessary it may be found in P. L. 1897 ch. 68 p. 110, as amended; & Comp. Stat. p. ■279 §§ lie, et seq. To sustain the defendant’s contention here would be to challenge collaterally the 1 validity of the decree referred to and this cannot be done. But aside from these conclusions, assuming the original deed of March 11th, 1913, to have been void, can there be any doubt of the power of this court to restore the status quo ante of the parties? And had that been done the court in the next breath could have directed the resale and reconveyance of the same property for the same consideration as passed on the original sale, and this is conceded. The net result would then have been the same as now. But why all this useless formality ? Equity considers that as done which ought to have been done and this maxim is sufficient reason and authority for the decree directing the execution of the confirmatory deed, if no other existed. This court is not so impotent as is suggested by the defense here interposed. It is admitted that the contract of sale is a valid one and no other defense being suggested the complainant is entitled to a decree.
