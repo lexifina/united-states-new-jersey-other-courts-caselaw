@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1990-03-09"
+citations: ["241 N.J. Super. 293", "574 A.2d 1030"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MIN Y LEE, GUARDIAN AD LITEM OF SARAH LEE, A MINOR, PLAINTIFFS, v. THE TRAVELERS INSURANCE COMPANIES, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/241/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 350112
+cites_cases: ["134 N.J.Super. 481", "184 A.2d 83", "189 A.2d 204", "217 A.2d 484", "342 A.2d 209", "35 Md.App. 148", "370 A.2d 107", "39 N.J. 490", "76 N.J.Super. 246"]
+---
+
+# Lee v. Travelers Insurance
+
+## Majority (LINTNER, J.S.C.)
+
+LINTNER, J.S.C.
+Sarah Lee, an infant, was riding her bicycle when she was injured as a result of a collision with a motor vehicle operated by Jack Vierra. Vierra, who was uninsured, was operating a Yamaha Enduro 125. The accident occurred at an intersection of two roadways located within an apartment complex known as Hilltop Estates.
+Plaintiff, Min Y Lee, the mother of the infant, brings this action as guardian ad litem, to collect uninsured motorist and personal injury protection benefits from defendant Travelers Insurance Co. At the time of the accident Min Y Lee was the named insured under an automobile insurance policy issued by defendant. Plaintiff Sarah Lee was an additional insured under the terms of the policy.
+While both parties have filed motions for summary judgment regarding their respective positions, plaintiff’s attorney conceded at oral argument that defendant is entitled to summary judgment as to the claim for personal injury protection benefits.
+There remains the issue of coverage for uninsured motorist benefits.
+Defendant asserts that the vehicle operated by Vierra does not qualify as an uninsured motor vehicle under the provisions of N.J.S.A. 17:28-1.1 because it is a dirt bike, and therefore, designed principally for use off public roads. Plaintiff counters with an affidavit of an expert witness familiar with various types of motorcycles who opines that the Yamaha Enduro 125 is not a vehicle designed principally for off-road use but is one which is equally at home on public roadways.
+The applicable portion of N.J.S.A. 17:28-1.1 provides that “ ‘uninsured motor vehicles’ shall not include ... vehicles designed for use principally off public roads, except while actually upon public roads.” While plaintiff’s expert takes the position that the Yamaha Enduro 125 was not principally designed as an off-road vehicle, he admits that it can be utilized as a dirt bike. Defendant maintains that the Yamaha Enduro 125 is a dirt bike, and therefore, coverage would only be afforded if it were being operated upon a public roadway. Ordinarily, where a case may rest upon expert testimony justice is best served by a plenary trial on the merits. A court should be particularly slow in granting summary judgment when a determination rests upon the opinion of an expert witness. Ruvolo v. American Cas. Co., 39 N.J. 490, 500, 189 A.2d 204 (1963). There would appear to be a genuine question of material fact raised as to whether the vehicle in question is one designed for use off public roads.
+The next issue raised by plaintiff is that the roadway upon which the accident occurred was open to the public, and therefore, it would make no difference whether the vehicle was principally designed for off-road use. Defendant points out that the accident occurred on private property. Plaintiff argues that while the accident occurred on a roadway within the apartment complex, it should, as a matter of law, be deemed a public road because it is used for vehicular traffic by several hundred residents and presumably their guests, the Township of Edison requires the owners of the roadway to maintain and plow it and it was subject to site plan approval which mandates the same curbing grading and pavement required for public roadways.
+A search of the case law fails to reveal any decisions in which the distinction between a public and a private road has been discussed in the context of uninsured motorist benefits pursuant to N.J.S.A. 17:28-1.1
+While there appears to be no statutory definition of “public road,” N.J.S.A. 39:1-1 defines private road or driveway as one “not open to the use of the public for purposes of vehicular travel.” In State v. O’Connor, 76 N.J.Super. 246, 250, 184 A.2d 83 (Law Div.1962), Judge Molineux discussed the distinction between public highway and private drive as it applied to the violation of N.J.S.A. 39:4-52 prohibiting persons from racing motor vehicles upon public highways.
+It would thus appear that the distinction between a public highway and a private road or driveway is not based upon the ownership of the fee or the nature of the controlling authority, but rather upon whether or not the road or highway or driveway in question is open to the use of the public for purpose of vehicular traffic. [76 N.J.Super. at 250, 184 A.2d 83]
+In State v. Switchenko, 3 Conn.Cir. 511, 217 A.2d 484, 485 (1965) the Connecticut Circuit Court of Appeals described the essential feature of a public highway as being a way over which the public at large has a right to pass whereas a private road is one over which only a limited number of persons pass.
+In Walmsley v. State, 35 Md.App. 148, 370 A.2d 107, 109 (1977) defendant was convicted of “spinning of wheels” while on a parking lot belonging to a local tavern. In dealing with the issue at hand the Maryland Court of Special Appeals recognized that the test to be applied is the right of the public to travel on the particular road, driveway or parking lot, not the actual exercise of that right.
+Likewise, the determination of whether a motor vehicle is being used upon a public road, in the context of this case must turn upon whether the road in question is open to the public. If the public, in general, has the right to utilize a road for vehicular traffic then it must be considered to be a public road for the purposes of uninsured motorist coverage pursuant to N.J.S.A. 17:28-1.1.
+Neither party has specifically addressed the issue as to whether the location at bar is open for the use of the public for purposes of vehicular traffic. Our courts have held that the question of whether a road is a public highway or a private drive is ordinarily one for the jury. Atkins v. Campbell, 134 N.J.Super. 481, 490, 342 A.2d 209 (App.Div.1974). Absent a gate or some other type of barrier or restriction, it would appear that not only is the issue of the design of the vehicle one for the jury, so too is the question concerning the nature of the roadway itself.
+For the reasons set forth above, defendant’s motion for summary judgment as to PIP benefits is granted. Both plaintiff’s and defendant’s motions regarding uninsured motorist coverage are denied.
