@@ -1,0 +1,32 @@
+---
+court: "Monmouth County District Court"
+decided: "1957-09-27"
+citations: ["46 N.J. Super. 522"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ADMIRAL DISCOUNT CORPORATION, AS ASSIGNEE OF CONSUMER FOOD BUYING SERVICE, INC., PLAINTIFF, v. PETER BOVADIKOV AND MARTHA BOVADIKOV, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/46/cases/0522-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 433376
+cites_cases: ["127 N. J. Eq. 480", "5 N. J. Misc. 830", "8 N. J. 73", "87 N. J. Eq. 316"]
+---
+
+# Admiral Discount Corp. v. Bovadikov
+
+## Majority (Simmill, J. C. C.)
+
+Simmill, J. C. C.
+The plaintiff is a foreign corporation which has not procured a certificate from the Secretary of State to do business in this State. It sues upon a contract made in New Jersey between the defendants and Consumer Food Buying Service, Inc., another New York corporation not licensed to do business in New Jersey. After the contract had been made here Consumer Food Buying Service, Inc. assigned in New York the contract to the plaintiff. The defendants are in default on the contract and plaintiff sued thereon. The defendants moved to dismiss the suit on the ground that the plaintiff, being a foreign corporation is not entitled to maintain this suit in this State.
+B. 8. 14:15-3 provides, briefly, that every foreign corporation before transacting any business in this State shall file in the office of the Secretary of State a copy of its charter or certificate of incorporation and a statement setting forth the amount of the capital stock authorized and issued, the character of the business, the principal office in this State, and the name and place of abode of an agent upon whom process may be served. The Secretary of State is then directed to issue to the corporation a certificate that it is authorized to transact business in this State.
+B. 8. 14:15-4 provides:
+“Until such corporation so transacting business in this state shall have obtained such certificate of the secretary of state, it shall not maintain any action in this state upon any contract made by it in this state.”
+B. S. 14:15-5 provides:
+“When, by the laws of any other state * * * any other or greater * * * requirements are imposed upon corporations of this state, doing business in such other state * * * then the laws of this state impose upon their corporations * * * so long as such laws continue in force in such foreign state * * * the same * “ * requirements of whatever kind shall be imposed upon all corporations of such other state * * * doing business within this state. * * *”
+Tire law of the State of New York provides:
+“A foreign corporation, other than a moneyed corporation, doing business in this state shall not maintain any action in this state upon any contract made by it in this state, unless before making such contract it shall have obtained a certificate of authority. This prohibition shall also apply to any successor in title of such foreign corporation and to any person claiming under such successor of such foreign corporation or under either of them.” General Corporation Law, Mc K. Consol. Laws, c. 23, § 218.
+Defendants’ contention is bolstered by Babe Kaufman Music Corp. v. Mandia, 127 N. J. Eq. 480 (Ch. 1940). In that case the complainant, a New York corporation, carried on its business in New Jersey in disregard of the General Corporation Act. It brought suit to enforce a contract made while it was not licensed in New Jersey, and Vice-Chancellor Bigelow cited the New York law above set forth and stated in his opinion that the complainant was under the same disability which New York lays on New Jersey corporations and that no suit could be maintained here on the contract. The plaintiff, on the other hand, cites New York Bankers v. Bosworth, 5 N. J. Misc. 830 (Sup. Ct. 1927), wherein a trade acceptance was made in this State, dated in New York, accepted by the defendant in New Jersey and sold to the plaintiff in New York. The plaintiff and the trade acceptee were both corporations of New York not authorized to do business in this state. The trial court found that plaintiff had no standing in New Jersey by reason of the statute above cited. The Supreme Court reversed on the ground that the statute did not apply to isolated and single items of transaction in this State. In the case sub judice there was proof that Consumer Food Buying Service, Inc. had had other transactions in this State and that this was not an isolated or single item of transaction. Hence, that problem does not enter into this case. By obiter the Supreme Court stated that even though there was proof that there were other transactions in this State, the act did not preclude or prohibit the plaintiff from maintaining an action in this State because it purchased for value the trade acceptance and its transaction was exclusively in the State of New York.
+Of similar import is Hildreth Granite Company v. Freeholders of Hudson, 87 N. J. Eq. 316 (E. & A. 1916), the rationale of that determination being that the plaintiff’s contract was entered into not in this State but in the State of New York. In the ease sub judice the assignment was made in the State of New York, the place of domicile of both the assignor and the assignee, but the contract was made in New Jersey.
+The obligations of the defendants, however, do not arise out of the instrument of the assignment but from the contract itself and, hence, this court does not feel that either of the above cited cases has any application to the present controversy. See Ganger v. Moffett, 8 N. J. 73 (1951). The legislative interdiction in the statute is not against the legitimacy of the contract made; by a foreign corporation not licensed to do business in this State, but is against the maintenance of an action upon such a contract made by such a foreign corporation. The contract itself is valid, but a foreign corporation is prohibited from maintaining an action thereon. It would be facetious to suggest that by the mere expedient of making an assignment of the contract in another state, the legislative purpose could be thwarted.
+This court, therefore, holds that the plaintiff cannot circumvent the intention of the Legislature by the mere expediency of making an assignment in New York to another foreign corporation, thereby legitimatizing that which the Legislature has interdicted.
+The suit will be dismissed.
