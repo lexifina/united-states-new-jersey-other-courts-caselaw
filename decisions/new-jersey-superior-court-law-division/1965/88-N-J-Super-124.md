@@ -1,0 +1,37 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1965-06-01"
+citations: ["88 N.J. Super. 124"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM McNEFF, PLAINTIFF, v. JOS. L. MUSCARELLE, INC., AND JERSEY BOLT & SPIKE CORPORATION AND BURROUGHS CORPORATION, INDIVIDUALLY, SEVERALLY AND/OR JOINTLY, DEFENDANTS, AND JOS. L. MUSCARELLE, INC., THIRD-PARTY PLAINTIFF, v. IRVINGTON STEEL AND IRON WORKS, INC., THIRD-PARTY DEFENDANT. JOHN J. TORPPEY, PLAINTIFF, v. JOS. L. MUSCARELLE, INC., A CORPORATION, JERSEY BOLT & SPIKE CORPORATION, A CORPORATION, AND BURROUGHS CORPORATION, A CORPORATION, DEFENDANTS, AND JOS. L. MUSCARELLE, INC., A CORPORATION, THIRD-PARTY PLAINTIFF, v. IRVINGTON STEEL AND IRON WORKS, INC., A CORPORATION, THIRD-PARTY DEFENDANT."]
+source_url: "https://static.case.law/nj-super/88/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 307222
+cites_cases: ["11 N. J. Super. 600", "16 F. R. D. 330", "35 F. R. D. 210", "78 A. 2d 714"]
+---
+
+# McNeff v. Jos. L. Muscarelle, Inc.
+
+## Majority (Convery, J. C. C.)
+
+Convery, J. C. C.
+(temporarily assigned). This is an action brought by William McNeff and his co-workér John J. Torppey against defendant Jos. L. Muscarelle, Inc. (Muscarelle) and others, involving a construction accident which occurred on July 2, 1962, on which date the respective plaintiffs were working ón a steel beam wliich collapsed' and re: suited in personal injuries to both''of them. They were taken forthwith tó a hospital and subsequently received treatment over a long period of time.
+Suit was instituted against the general contractor and others alleging negligence in the manner of the design and supervision of the. said construction work as well, as the furnishing of improper materials: . • ,
+Defendant Muscarelle has admitted - in an- answer to an interrogatory propounded by coplaintiff John J. Torppey, that certain photographs were taken of the scene of the accident on July 2 or July 3, 1962.
+Muscarelle on 'the date of the alleged.accident immediately contacted its liability insurance carrier, which undertook to investigate the accident. Photographs were taken by a third person, paid for by Muscarelle and forwarded immediately and directly by it to its insurance carrier,-who, in turn, forwarded same to counsel for Muscarelle. ■
+Depositions have been taken of the employees of Muscarelle as. 'well .as plaintiff’s co-workers. It appears- that following the collapse of the steel beam it'was noted -that one-anchor bolt was broken and another anchor bolt was bent. There is conflicting testimony as to the exact location oí the anchor bolt and the description oí the scene of the accident. A reading of the deposition of Paul Zelazny, who was the on-thejobsite supervisor for Muscarelle, indicates that he was unable to recall all the events that took place at the scene of the accident when he testified on March 12, 3965, approximately three years after the accident. Zelazny said that he kept a daily report concerning the progress of the work involved at the construction site hut he was unable to locate it.
+Plaintiff accordingly moved pursuant to R. R. 4:24-1, in the interests of justice, for an order to compel the production of the aforesaid photographs and to obtain copies thereof. Defendant opposes the motion on three grounds: (1) under R. R. 4:24-1 the information is privileged as work product; (2) plaintiff has failed to show good canse under R. R. 4:24 — 1, and (3) plaintiff fails to show proof of undue hardship and injustice,-as required under the provisions of R. R. 4:16-2.
+R. R. 4:24-1 provides:
+“Upon motion of any party showing good cause .therefor ■ and upon notice to all other parties, and subject to the provisions ,of Kule 4:20-2, the court may (a) order any party to produce and permit the moving party, or someone acting on his behalf, to inspect and copy or photograph any designated-boohs, papers, documents, or tangible things, not privileged, which constitute, or contain evidence relating to any of the matters within the scope of the examination permitted by Kule 4:16-2 and which are in his possession, custody', or control; * * , . . ,
+Plaintiff has satisfied the requirements of the-rule requiring the “showing of good cause,” by reason of the affidavit filed in support of the motion to produce indicating the fací tual background relevant .to the production of the said phótót graphs. , .
+As was stated in Sclmilzer and Wildstein, New Jersey Buies Service, in discussing R. R. 4:24-1:
+“Generally speaking, inspection orders should issue upon a showing that the desired inspection of the documents or other property is relevant to the subject matter involved in the pending action and will aid the moving party in preparation of his case, or will avoid surprise or otherwise facilitate proof or progress at the trial, or that denial of production would prejudice the preparation of the case, or cause ‘undue hardship.’ Stenzler v. Wigton-Abbott Corp., 11 N. J. Super. 600, at 605, 78 A. 2d 714 (Law Div. 1951) and discussed at page A IV-452; * *
+In Stenzler the court granted plaintiff the right to inspect a scale model of a scaffold which was constructed by defendant's expert pending litigation. Defendant had built the model from plans after the scaffold had collapsed and was destroyed. The court held that this was not a work product privilege to deny plaintiff the right to inspect same.
+R. R. 4:34-1 has its counterpart in Rule 34 of the Federal Rules of Civil Procedure. While there are no cases in point in New Jersey of which the court is aware involving the production of photographs, there are authorities cited in 30 F. R. Serv. 2d 34:13.
+In Nickels v. United States, 35 F. R. D. 210 (D. C. N. D. Ohio 1960), good cause was shown under the Federal Tort Claims Act for production of photographs of a collision sued upon, where plaintiff had no opportunity to obtain photographs except through defendant and such photographs were important to both parties in preparing for trial.
+In Helverson v. J. J. Newberry Co., 16 F. R. D. 330 (D. C. W. D. Mo. 1954), photographs of the scene of an accident were ordered produced in view of the probability that the physical condition of the situs may have changed.
+The reference in the Rule to “privileged matter” refers to matter which in point of policy may be barred from use as testimony at the trial. R. R. 4:16 — 3 is subject to the Evidence Act of 1960 setting forth in detail the privileges which are accorded to a party in litigation under the evidence law of our State. N. J. S. 3A:84A — 1 (Rule 1) et seq. Defendant in this case does not have any privilege to refuse to disclose photographs taken at the scene of the accident unless it is of the opinion that the production thereof may lead to criminal prosecution and it seeks a privilege against self-incrimination. There is no possibility of any criminal action against the defendant herein.
+It is not in keeping with our present rules of discovery to permit the defendant to withhold photographs taken shortly after at the scene of the accident showing the very scene of the accident which has long since been altered and changed. The pictures should certainly speak for themselves and plaintiff should know in advance of trial what they disclose.
+For the foregoing reasons the motion is granted. An order may be submitted accordingly.
