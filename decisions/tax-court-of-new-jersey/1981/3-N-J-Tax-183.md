@@ -1,0 +1,34 @@
+---
+court: "Tax Court of New Jersey"
+decided: "1981-08-10"
+citations: ["3 N.J. Tax 183"]
+reporter: "nj-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EVESHAM TOWNSHIP, PLAINTIFF, v. PAUL F. NYE, JR., DEFENDANT."]
+source_url: "https://static.case.law/nj-tax/3/cases/0183-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 395487
+cites_cases: ["1 N.J.Tax 224", "123 N.J.L. 350", "148 A.2d 630", "172 N.J.Super., 245", "178 A.2d 625", "244 A.2d 97", "37 N.J. 39", "411 A.2d 737", "52 N.J. 103", "54 N.J.Super. 215", "8 A.2d 819"]
+---
+
+# Evesham Township v. Nye
+
+## Majority (LARIO, J. T. C.)
+
+LARIO, J. T. C.
+Defendant has filed a motion to dismiss the municipality’s appeals, alleging, that the complaints were filed with this court out of time.
+The material facts on this issue are as follows:
+The Burlington County, Board of Taxation granted reduced assessments to defendant on two premises known as Block 82, Lot 2, and Block 81, Lot 17, for the tax year 1980.
+The judgments were dated and entered in the county board’s records on October 21, 1980. On October 28, 1980, copies of the two judgments were mailed to the taxpayer’s attorney, who received them on October 29, 1980. On November 10, 1980 the county board mailed copies of these judgments to the municipality. These copies were received by the municipality on November 12, 1980.
+The Burlington County Tax Administrator, by affidavit filed herein, verified the two mailing dates of October 28, 1980 and November 10, 1980. The envelope addressed from the county board to the tax assessor was postmarked November 10, 1980 and it was stamped “Received Nov. 12 1980 Tax Assessor’s Dept.”
+The municipality filed these complaints with this court on December 26, 1980, which resulted in defendant’s motion based upon N.J.S.A. 54:2-39, which provides in pertinent part:
+Any party who is dissatisfied with the judgment of the county board of taxation upon his appeal may seek review of that judgment in the Tax Court by filing a complaint with the Tax Court pursuant to rules of court within 45 days of the service of the judgment of the county board, and the Tax Court shall hear and determine such matters and render its judgment.
+Defendant contends that the period within which to file appeals for both parties began to run from the date on which the judgment was served upon the taxpayer (October 28, 1980), regardless of the date when the judgment was served upon the municipality, claiming the appeal system was set up for the benefit of the taxpayer and the municipality had constructive notice of the judgment.
+If defendant’s position is correct, since more than 45 days elapsed from October 28, 1980 in the filing of these complaints, this court lacks jurisdiction. N.J.S.A. 54:2-39, supra. Prospect Hills Apt’s v. Flemington, 172 N.J.Super., 245, 1 N.J.Tax 224, 411 A.2d 737 (Tax Ct. 1979). On the contrary, the municipality asserts that its time for appeal began to run from the date the county board judgments were served upon it, and since it filed these appeals within 45 days therefrom, the appeals have been timely filed.
+In support of his position defendant cites Passaic v. Tax Appeals Div., 54 N.J.Super. 215, 148 A.2d 630 (1959), wherein the Appellate Division stated (at 219, 148 A.2d 630): “It is apparent that the statutory scheme is to charge all municipalities with constructive notice of the contents of the table from the date of its adoption by the county board.” Passaic is clearly distinguishable in that it dealt with the interpretation of a rule of the Division of Tax Appeals requiring appeals from actions or determinations of county boards to be filed within 30 days. The city was attempting to appeal the county equalization table prepared by the county board of taxation. The Division rule, adopted pursuant to statute, provided that any action or determination of a county board (with certain exceptions) be appealed to the Division within 30 days, of the action or determination appealed from. The Appellate Division held that this rule was clear in that it provided for the time of appeal to begin from the date of the county board’s action and not from the date of service thereon upon the city. However, the aforesaid rule of the former Division has no application to the present appeals.
+The appeals which are the subject of this motion are controlled by N.J.S.A. 54:2-39, supra, which, contrary to the aforesaid rule, states that appeals may be filed within 45 days of the service of the judgment. The words and meaning of this statute are clear and explicit. The section states that any party who is dissatisfied may seek review by filing a complaint with the Tax Court. This language clearly sets forth that the party appealing may seek a review within 45 days of service of the judgment; therefore, “service” refers back to the party appealing. The language of this statute can be given no other interpretation.
+Where the language of a statute is clear and its meaning and application is plain and unambiguous, there is no room for judicial construction. White v. Tax Appeals Bd., 123 N.J.L. 350, 353, 8 A.2d 819 (Sup.Ct.1939); Fahey v. Jersey City, 52 N.J. 103, 107, 244 A.2d 97 (1968).
+Défendant also claims he was prejudiced by reason of the fact that the municipality appealed after the taxpayer’s time to appeal had expired. This allegation is not supported in that the taxpayer had a right to file a counterclaim. Under R. 8:4-3 the time for filing of pleadings, other than the complaint, is as prescribed by R. 4:6-1. Under subsection (a) of this rule a defendant has the right to serve his answer, “including therein any counterclaim within 20 days after service of the summons and complaint.” Since the municipality did in fact appeal, defendant was not bound by the 45-day limitation from the date he received his copy of the judgment, but, instead, he had the right to file a counterclaim within 20 days of service of the copies of these complaints. In his counterclaim, defendant could have demanded the same relief he might have claimed had he filed the complaints initially. Accordingly, defendant has not been prejudiced thereby. See, also, Hackensack v. Rubenstein, 37 N.J. 39, 52, 178 A.2d 625 (1962). Nevertheless, in order to avoid the possibility of having two different appeal filing deadlines, county boards of taxation are admonished that copies of judgments for each appeal should be mailed simultaneously to all interested parties.
+Since plaintiff’s appeals were filed with this court within 45 days of service of the county board’s judgments upon plaintiff, its appeals were timely filed. Defendant’s motions for summary judgment dismissing the complaints are denied.
+It was explained that these plus all other appeals of the municipality were mailed out as a group at the same time.
