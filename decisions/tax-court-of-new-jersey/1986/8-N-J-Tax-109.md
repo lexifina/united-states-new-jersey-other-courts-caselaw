@@ -1,0 +1,27 @@
+---
+court: "Tax Court of New Jersey"
+decided: "1986-01-13"
+citations: ["8 N.J. Tax 109"]
+reporter: "nj-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MONSANTO COMPANY, PLAINTIFF, v. TOWN OF KEARNY, DEFENDANT."]
+source_url: "https://static.case.law/nj-tax/8/cases/0109-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 419517
+cites_cases: ["118 A.2d 529", "180 N.J.Super. 175", "20 N.J. 42", "416 A.2d 896", "434 A.2d 620", "445 A.2d 397", "468 A.2d 205", "5 N.J.Tax 469", "5 N.J.Tax 475", "7 N.J.Tax 224", "7 N.J.Tax 368", "83 N.J. 540", "89 N.J. 216", "94 N.J. 559"]
+---
+
+# Monsanto Co. v. Town of Kearny
+
+## Majority (CRABTREE, J.T.C.)
+
+CRABTREE, J.T.C.
+Defendant moves in this local property tax case to dismiss plaintiff’s complaint for failure to supply defendant’s assessor with an income statement in accordance with N.J.S.A. 54:4-34. That statute provides:
+Every owner of real property of the taxing district shall, on written request of the assessor, made by certified mail, render a full and true account of his name and real property and the income therefrom, in the case of income-producing property, and produce his title papers, and he may be examined on oath by the assessor, and if he shall fail or refuse to respond to the written request of the assessor within 45 days of such request, or to testify on oath when required, or shall render a false or fraudulent account, the assessor shall value his property at such amount as he may, from any information in his possession or available to him, reasonably determine to be the full and fair value thereof. No appeal shall be heard from the assessor’s valuation and assessment with respect to income producing property where the owner has failed or refused to respond to such written request for information within 45 days of such request or to testify on oath when required, or shall have rendered a false or fraudulent account. The county board of taxation may impose such terms and conditions for furnishing the requested information where it appears that the owner, for good cause shown, could not furnish the information within the required period of time. In making such written request for information pursuant to this section the assessor shall enclose therewith a copy of this section.
+The facts are undisputed. On September 10, 1984 defendant’s assessor transmitted to plaintiff by certified mail a request for income and expenses relative to real property owned by plaintiff within the defendant municipality. By letter of September 18, 1984 plaintiff, through its state and local tax manager in St. Louis, Missouri, advised the assessor that the property in question was a manufacturing plant owned and occupied by plaintiff. On August 15, 1985 plaintiff filed its complaint with this court by way of direct appeal pursuant to N.J.S.A. 54:3-21 seeking a reduction in its 1985 tax assessment.
+No income and expense statement was ever submitted in response to the assessor’s request; nor was a complete copy of N.J.S.A. 54:4-34, as amended by L. 1979, c. 91, effective May 16, 1979, furnished to plaintiff. Omitted from the copy of the statute furnished by the assessor were the last three sentences specifying the consequences of a failure to supply the requested information, authorizing the county board of taxation to impose terms for furnishing the information and directing the assessor to enclose a copy of the statute with the written request for income and expense data.
+Defendant argues that plaintiff’s failure to supply the requested income and expense information precludes judicial review of the 1985 tax assessment on plaintiff’s property and relies upon the antepenultimate sentence in the statute and upon Terrace View Gardens v. Dover Tp., 5 N.J.Tax 469 (Tax Ct.1982), aff’d o.b. per curiam 5 N.J.Tax 475 (App.Div.1983), certif. den. 94 N.J. 559, 468 A.2d 205 (1983), wherein N.J.S.A. 54:4-34 was applied to a direct appeal pursuant to N.J.S.A. 54:3-21.
+Defendant’s argument is without merit. The statute is clear and unequivocal; the severe sanction which it imposes, namely, foreclosure of judicial review of a tax assessment, is expressly limited to those cases where the owner fails to respond to the assessor’s written request for certain information “with respect to income-producing property.” Here, the property is an owner-occupied manufacturing plant. It is not income producing property. Where the words of a statute are clear and unambiguous there is no room for judicial construction, Duke Power Co. v. Patten, 20 N.J. 42, 118 A.2d 529 (1955); Stewart v. Hamilton Tp., 7 N.J.Tax 368 (Tax Ct.1985); nor in the absence of evidence of a contrary legislative intent may a court ascribe a different meaning to the statutory language. In re Jamesburg High School Closing, 83 N.J. 540, 416 A.2d 896 (1980). Put somewhat differently, if the words of a statute plainly convey legislative intent, a court must give effect to the statutory language as written. MacMillan v. Taxation Div. Director, 180 N.J.Super. 175, 434 A.2d 620 (App.Div.1981), aff'd o.b. per curiam 89 N.J. 216, 445 A.2d 397 (1982); Franklin Tp. v. Environmental Protection Dept., 7 N.J.Tax 224 (Tax Ct.1984).
+In view of the foregoing it is not necessary to address plaintiffs arguments concerning defendant’s failure to comply fully with the statute.
+Defendant’s motion will be denied. Plaintiff will prepare the appropriate order and submit it under R. 4:42-1(b).
