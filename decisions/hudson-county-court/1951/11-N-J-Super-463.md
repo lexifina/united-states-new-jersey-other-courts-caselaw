@@ -1,0 +1,25 @@
+---
+court: "Hudson County Court"
+decided: "1951-01-24"
+citations: ["11 N.J. Super. 463"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CENTRAL HOFBRAU CORPORATION, PLAINTIFF, v. 200 RIVER STREET CORPORATION, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/11/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 409014
+cites_cases: ["114 N. J. L. 240", "3 N. J. 235", "98 N. J. Eq. 85"]
+---
+
+# Central Hofbrau Corp. v. 200 River Street Corp.
+
+## Majority (Ziegener, J. C. C.)
+
+Ziegener, J. C. C.
+Defendant moves to dismiss the complaint herein on the ground that it states no claim to relief under R. 8. 2:26-66 et seq. (Uniform Declaratory Judgments Law), and that the plaintiff has no real interest in the subject matter, and that the question is moot.
+On June 8, 1950, the defendant sold and assigned to plaintiff a lease of premises in Hoboken, New Jersey, and said lease was originally made between one Raymond F. Hopper, as landlord, and defendant, as tenant, on May 1, 1946, for a term of five years. The lease contained a provision as follows: “Upon expiration of the present Ere insurance and public liabilities policies, the tenant will renew said policies in at least the same amount that is now upon the property, pay the premiums therefor and keep said policies in effect for the period of the lease.”
+At the closing between ¡fiaintiff and defendant, on June 8, 1950, a dispute arose as to the fire insurance premiums and an escrow agreement was executed by the parties whereby plaintiff’s attorney was to hold the sum of $400 for a 60-day period, within which time the parties were to determine said dispute. At the expiration of that time, and at the present time, the parties could not decide the dispute. It appears that the owner of said premises paid a premium of $313.84 on September 28, 1949, for fire insurance premiums covering the premises and expiring September 28, 1952, and also paid the premiums for the former policy issued in 1946 and expiring in 1949. Evidently, as shown by the escrow agreement, the owner of the premises paid premiums totaling $627.68 for these two policies. Also, it appears that Hopper, the owner who executed the lease, subsequently conveyed the premises to Andray, Inc., the present owner. Now plaintiff herein contends that the $400 in escrow should be paid to someone, including itself, hut not to the defendant, and the rights of the parties should be determined. The $400 withheld includes the amount paid for the 1946 policy and defendant’s pro rala share for the time it was in possession under the 1949 policy.
+The Uniform Declaratory Judgments Law, B. S. 2:26-66 et seq., was passed in New Jersey as a remedial sfatute, to settle and afford relief from uncertainty and insecurity with respect to rights, status and other legal relations. It empowers courts, among other things, to determine any question of construction or validity arising under a deed, will, or written contract, and declare the rights, status, or other legal relations thereunder of the parties thereto. Honetsky v. Russian Consolidated Mutual Aid Society of America, 114 N. J. L. 240 (Sup. Ct. 1935). However, where a plaintiff can have no relief against the party named as defendant, such party should not be forced into litigation which can have no final result in favor of plaintiff. Tanner v. Boynton Lumber Co., 98 N. J. Eq. 85 (Ch. 1925). There must be an actual controversy in existence in order for a party to avail itself of the remedy provided in the statute above mentioned. Not only must the plaintiff prove his tangible interest in obtaining a judgment, but the action must be adversary in character, that is, there must be a-controversy between the plaintiff and defendant, subject to the court’s jurisdiction, having an interest in opposing his claim. New Jersey Turnpike Authority v. Parsons, 3 N. J. 235, at page 240 (Sup. Ct. 1949).
+It is apparent that the plaintiff considered that a controversy was in existence between defendant and the owner of the premises herein, and not between itself (plaintiff) and defendant, when the above mentioned escrow agreement was executed. In said agreement the introductory clause begins: “There is a dispute between the owner of the premises 200 River Street, Hoboken, N. J.' and said 200 River Street Corporation, as to the liability of the former for payment of the fire insurance premiums on the building.” That appears to be the one and only dispute, or controversy in this transaction. The plaintiff is in no wise a party to that controversy, even as assignee of the lease. The $400, as part of the purchase price, belongs to the defendant, and if the owner contends that said defendant failed to pay the premiums as agreed he may take appropriate action. The plaintiff has no interest therein, and neither the escrow holder nor the landlord is a party herein.
+In view of the foregoing the other points raised by defendant need not be considered, and I will grant an- order dismissing the complaint.
