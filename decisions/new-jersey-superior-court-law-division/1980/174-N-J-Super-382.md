@@ -1,0 +1,36 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1980-05-07"
+citations: ["174 N.J. Super. 382"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY MARTIN, PLAINTIFF, v. AMERICAN APPLIANCE, LARRY CLEVELAND, WILLIAM HAAS, AMERICAN APPLIANCE CO., A CORPORATION OF THE STATE OF NEW JERSEY, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/174/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 290038
+cites_cases: ["166 N.J.Super. 84", "172 N.J. Super. 196", "64 N.J. 357", "70 N.J. 550", "77 N.J. 267", "80 N.J. 528"]
+---
+
+# Martin v. American Appliance
+
+## Majority (CONNOR, J. D. C.,)
+
+CONNOR, J. D. C.,
+temporarily assigned.
+This case was tried before the court and a jury. Recovery was sought for damages under the Consumer Fraud Act; N.J. S.A. 56:8-1 et seq., and for the tort of malicious prosecution. The matter was submitted to the jury upon written interrogatories. The jury determined as a matter of fact that defendants were guilty of consumer fraud but that plaintiff suffered no ascertainable loss of money or property as a result thereof. Defendants were also found to have committed the tort of malicious prosecution. Compensatory damages of $1,500 and punitive damages of $8,000 were awarded for that aspect of the case.
+Here presented is the issue of whether a plaintiff who is the victim of consumer fraud but who sustains no ascertainable loss of moneys or property as a result thereof may nonetheless be awarded reasonable attorneys’ fees and reasonable costs of suit pursuant to N.J.S.A. 56:8-19. (Since recovery was had on another count of the complaint, filing fees have already been awarded and need not be dealt with.)
+The court is satisfied that there can be no recovery for counsel fees and/or costs under the facts of this case.
+R. 4:42-9 provides that no fee for legal services shall be allowed in the taxed costs or otherwise except in certain specified instances. Subsection (a)(8) thereof allows counsel fees in all cases where permitted by statute. This rule embodies the traditional “American rule” that the prevailing litigant is ordinarily not entitled to collect a reasonable attorneys’ fee from the loser. The narrowness of the specific exceptions is to be rigorously enforced, “lest they grow to consume the general rule itself.” Van Horn v. Trenton, 80 N.J. 528, 538 (1979).
+Conversely, if the Legislature, through the exercise of its constitutional powers, has mandated the award of counsel fees, its will should be given effect. N.J.S.A. 56:8-19 reads as follows:
+Any person who suffers any ascertainable loss of moneys or property, real or personal, as a result of the use or employment by another person of any method, act, or practice declared unlawful under this act or the act hereby amended and supplemented may bring an action or assert a counterclaim therefor in any court of competent jurisdiction. In any action under this section the court shall, in addition to any other appropriate legal or equitable relief, award the damages sustained by any person in interest. In all actions under this section the court shall also award reasonable attorneys’ fees, filing fees and reasonable costs of suit.
+There is no available legislative history to assist the court. There is an accompanying Governor’s statement which understandably lauds in general this statutory endeavour to protect the public from the use of any unconscionable practice, deception or fraud in connection with the sale of merchandise or real estate.
+Two maxims of statutory construction immediately come to mind. First, remedial legislation should be liberally construed so as to accomplish the result intended by the Legislature. See Service Armament Co. v. Hyland, 70 N.J. 550, 559 (1976). Second, in determining what the Legislature intended, the place to start is with an examination of the statute being interpreted, giving due regard to context and the statutory scheme as a whole. See Service Armament Co., supra; Singleton v. Consolidated Freightways Corp., 64 N.J. 357, 362 (1974).
+Applying these principles, the court is satisfied that in order to recover counsel fees and costs one must first suffer an “ascertainable loss of moneys or property.” A logical interpretation to be given the statute is that the first sentence allowing one who has sustained such a loss to maintain an action qualifies the remainder of the paragraph. Thus to be eligible for the remedies outlined there must first be the requisite loss of moneys or property.
+Other language within N.J.S.A. 56:8-19 reinforces this conclusion. The statute provides, “In any action under this section the court shall in addition to any other appropriate . relief, award threefold . . damages . .. In all actions under this section the court shall also award reasonable attorneys’ fees . . ..” (Emphasis supplied). The “under this section” provision indicates that the relief mentioned is available to those suffering damage.
+Furthermore, the use of the word “also” supports this conclusion. Black’s Law Dictionary (5 ed. 1979) defines “also” as “besides, as well, in addition, likewise, in like manner, similarly, too . . ..” Webster’s Third New International Dictionary of the English Language, Unabridged (1976) defines “also” as “in the same manner as something else ... in addition . as well . . . besides too. . . . ”
+The context clearly indicates the intent that counsel fees and costs be awarded “in addition to” treble damages. Since there are no damages, there can be no recovery for the additional items enumerated.
+Our Supreme Court in Daaleman v. Elizabethtown Gas Co., 77 N.J. 267, 271 (1978), while considering other matters, had occasion to paraphrase N.J.S.A. 56:8-19 as follows: “The act . permits a person, who suffers a loss due to a method, act or practice declared unlawful under the act, to sue and recover threefold the damages sustained, together with reasonable attorney’s fees and costs of suit . . ..” (Emphasis supplied). That summary of the statute indicates the interpretation to be given and also supports the conclusion reached.
+Similar results have been reached by courts construing other remedial statutes which seek to protect the public or equalize bargaining position. Thus, under the Franchise Practices Act; N.J.S.A. 56:10-1 et seq., the court in Westfield Centre Service, Inc. v. Cities Service Oil Co., 172 N.J. Super. 196 (App.Div. 1980), limited recovery for counsel fees to those efforts which were successful, and denied counsel fees for those efforts of counsel which did not result in a benefit to plaintiff. The language of N.J.S.A. 56:10-10 construed by the court is similar to language being dealt with here.
+N.J.S.A. 46:8-21.1 permits the court to award a successful tenant reasonable attorneys’ fees. In Jaremback v. Butler Ridge Apts., 166 N.J.Super. 84, 88 (App.Div. 1979), the court held that a successful party was one who was afforded an affirmative recovery. In the absence of an affirmative recovery for the tenant, there was no finding for the tenant and no entitlement to counsel fees.
+Accordingly, plaintiff’s motion for counsel fees and costs is denied.
