@@ -1,0 +1,24 @@
+---
+court: "New Jersey State Board of Tax Appeals"
+decided: "1942-02-24"
+citations: ["20 N.J. Misc. 99"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MORRIS GRANGE NO. 105, PATRONS OF HUSBANDRY, PETITIONER, v. TOWNSHIP OF PARSIPPANY-TROY HILLS, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/20/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 432394
+cites_cases: ["123 N. J. L. 509"]
+---
+
+# Morris Grange No. 105 v. Township of Parsippany-Troy Hills
+
+## Majority (Quinn, President.)
+
+Quinn, President.
+Petitioner is a fraternal organization, seeking exemption from taxation for its building and a five-acre tract of land upon which the former is situated, in the ■Township of Parsippany-Troy Hills. An appeal from an assessment for the year 1940 was denied by the Morris County Board of Taxation, and this appeal is taken from that determination.
+It is clear that petitioner is within the scope of the classification set up by R. 8. 54:4-3.26; N. J. S. A. 54:4-3.26, of fraternal organizations entitled to exemption from taxation on property used for the purposes and in the work of such organizations. Acquackanonk Grange, No. 183, v. City of Clifton, New Jersey Tax Reports, 1934-1939, p. 659. The issue upon which exemption is resisted by the township is that the property does not qualify under the statutory proviso that “no part of such property is used for pecuniary profit.” The basis for the objection is rested upon these facts.
+One of the principal functions of the Morris Grange is the running of an annual agricultural fair. For this purpose, the agency»- of the Grange is the Morris County Fair Association, whose directors are all members and officers of the Grange. It was conceded by- the treasurer of the Grange that the Fair Association is its subsidiary. The annual fair is run on a fair grounds consisting principally of the tract under appeal, and partly of land rented for the purpose. The general admission is charged the public for admission to the grounds, and many amusement concessions are operated in conjunction with the fair, some by the Fair Association and others by commercial concessionaires who pay the association for the privilege. In addition there are refreshment and parking concessions, all of which contribute to the Fair Association. The proceeds of the fair, after satisfying the expenses of its operation, are turned over to the Grange. These operations took place both in 1939 and in 1940 and are material to the issue herein, as of the assessing date, October 1st, 1939.
+We are clear that this regular and annual enterprise, to which the property of the petitioner was in part devoted, is attributable to the petitioner. The relationship between the Grange and the Fair Association is clearly that of principal and agent, if not that of principal and subsidiary. The pecuniary aspects of the fair consist both of the income to the Grange, and the profit-making activities of the concessionaires. Under given circumstances, the first aspect may amount to, or fall short of constituting, a use for pecuniary profit. If the income is only incidental to a proper and normal fraternal activity, as for example, the operation of a bar restricted to members and their guests, the exemption is not lost. Hoboken Lodge No. 74, Benevolent Protective Order of Elks, v. City of Hoboken, New Jersey Tax Reports, 1934-1939, p. 643; affirmed (Supreme Court, 1939), 123 N. J. L. 509; 9 Atl. Rep. (2d) 783. If the income is the result of a designedly profit-making activity, not incidental to normal fratemalism, and conducted in the maimer of commercial operators generally, there is no exemption. Trenton Lodge No. 164, Loyal Order of Moose, v. City of Trenton, New Jersey Tax Reports, 1934-1939, p. 761. In the second aspect referred to, there is unquestionably an operation for profit, prohibited by the section to exemption claimants. Id., Moorestown Grange v. Township of Moorestown, Id. 680. In this aspect, clearly, there has been a use of petitioner’s property for pecuniary profit. See, also, Centro Espanol of Elizabeth v. City of Elizabeth, Id. 675; Township of Ridgewood v. Ridgewood Lodge B. P. O. E. No. 1455, Id. 647. Annually the various concessionaires of refreshments, parking lot, entertainment and amusements of various types plied their commercial activities on petitioner’s property. These activities are obvious uses of the property or part of it, for pecuniary profit, and since they are not incidental to any proper fraternal purpose, and are regular in their occurrence, they bring the case within the rulings cited hereinabove, which define the scope of the statute in this regard.
+The assessment is affirmed.
