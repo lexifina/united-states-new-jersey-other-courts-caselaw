@@ -1,0 +1,28 @@
+---
+court: "New Jersey State Board of Tax Appeals"
+decided: "1941-11-18"
+citations: ["19 N.J. Misc. 637"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY McBRIDE, EXECUTRIX OF THE ESTATE OF ANTHONY MARRI, PETITIONER, v. CITY OF JERSEY CITY, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/19/cases/0637-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 456066
+cites_cases: ["127 N. J. L. 295"]
+---
+
+# McBride v. City of Jersey City
+
+## Majority (Quinn, President.)
+
+Quinn, President.
+On October 1st, 1938, Anthony Marri was a resident of the City of Jersey City, and on April 14th, 1939, he died a resident of that taxing district, leaving an estate consisting of $12,428.01 in cash, deposited in New York City banks. Petitioner qualified as executrix and the respondent’s assessing authorities made a personal property assessment against the estate in her hands, for the year 1939, in the amount of $12,400. The actual entry on the tax duplicate was made on or about May 15th, 1939. The assessment lists had not yet been filed with the Hudson County Board of Taxation, as a result of delay in preparation of the city budget that year. When finally filed, the list included the assessment referred to above, and here in dispute.
+An appeal to the Hudson County Board of Taxation resulted in an affirmance of the assessment.
+Petitioner urges: (1) the assessment was made too late and is illegal in that the procedure outlined in R. S. 54:3-20; N. J. S. A. 54:3-20, for assessing omitted property, was not followed by the city; (2) that the property, being cash entitled to exemption under R. S. 54:4-3.23; N. J. S. A. 54:4-3.23, is not assessable in the hands of petitioner; (3) that the assessment is not supportable as against the decedent, the property having been situated out of the state upon the assessing date, October 1st, 1938; (4) that petitioner is entitled to deductions for debts owing by the estate. Hone of these contentions suffices to prevent an affirmance of the assessment.
+1. Although taxing districts are required by statute to file-their tax duplicates with the county board of taxation on or prior to January 10th, this requirement is, as a practical matter, frequently honored by its breach, rather than by its observance. Furthermore, in 1939 the date was extended two months after March 2d, by Pamph. L. 1939, ch. 16. In the recent decision of Ridgewood Elks Holding Corp. v. Village of Ridgewood (Court of Errors and Appeals), 127 N. J. L. 295, municipal assessors who had entered certain property as exempt for the years 1938 and 1939, in the duplicates filed with a county tax board, nevertheless made an entry in October, 1939, assessing the property as a taxable ratable for those years, upon the basis of a decision of this board respecting the taxability of the property for the year 1937, which was handed down in March, 1939, prior to the filing of the 1939 list with the county board. Ho notice of the assessment was given the taxpayer until August, 1940. A writ of certiorari to review a tax sale of the property for the non-payment of the 1938 and 1939 taxes so assessed was dismissed, and the Court of Errors and Appeals affirmed the judgment, on the specific ground that under R. S. 54:4-58 and 54:4-59; N. J. S. A. 54:4-58 and 54:4-59, no tax may be set aside in any action, suit or proceeding, for any irregularity or defect in form, or illegality in assessing the tax, if the person or property assessed, is, in fact, liable to taxation or assessment.
+It would clearly appear that the present ease is an a fortiori situation, and that the assessment must be sustained if the property was actually subject to taxation, as of October 1st, 1938. The failure of the assessing authorities to proceed as in cases of omitted assessments, if under the circumstances they should have done so, is at most an irregularity or illegality not fatal to an assessment, under the construction of R. S. 54:4-58, 54:4-59; N. J. S. A. 54:4-58, 54:4-59, in the Ridgewood case.
+2. It is doubtful whether cash deposited out of the state is subject to exemption under R. S. 54:4-3.23; N. J. S. A. 54:4-3.23, but, in any event, no exemption could be allowed in this case, because of the failure of the decedent to have filed a statement of his taxable property, and a claim of exemption, on or prior to January 10th, 1939. R. S. 54:4-15; N. J. S. A. 54:4-15, as construed in Public Service Corp. v. City of Newark, New Jersey Tax Reports, 1934-1939, p. 269.
+3. Upon the assessing date, this property consisted of intangible personalty, i. e., the several rights of action which decedent held against the New York banks where his funds were deposited. The property was not tangible personalty. Petitioner’s reliance upon R. S. 54:4-9; N. J. S. A. 54:4-9, providing for the assessment of tangible personalty in the taxing district where found, does not, therefore, avail her any relief, and the further provision in the cited section, that “the tax on other personal property shall be assessed on each inhabitant in the taxing district where he resides on October first,” confirms the right of the respondent taxing district to make the levy here questioned.
+4. Yo deduction for debts is claimable, none having been shown to exist on October 1st, 1938, qnd no claim .for such deduction having been filed with the city, as required by R. S. 54:4-14; N. J. S. A. 54:4-14.
+The taxpayer having offered no proofs establishing a lesser valuation for the property assessed than the amount of the assessment appealed from, the judgment of the Hudson County Board, sustaining the assessment, is affirmed.
