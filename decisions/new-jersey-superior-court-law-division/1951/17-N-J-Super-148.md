@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Law Division"
 decided: "1951-12-24"
-citations: ["17 N.J. Super. 148", "17 N.J. Super. 536"]
+citations: ["17 N.J. Super. 148"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["PUBLIC SERVICE ELECTRIC & GAS COMPANY, A CORPORATION OF NEW JERSEY, P
 source_url: "https://static.case.law/nj-super/17/cases/0148-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 427651
-cites_cases: ["113 A. 648", "13 N. J. Super. 383", "138 Md. 116", "139 S. C. 516", "178 F. 2d 179", "187 F. 2d 675", "241 U. S. 190", "273 U. S. 280", "323 Mass. 354", "36 S. Ct. 541", "47 S. Ct. 386", "80 A. 2d 473", "82 N. E. 2d 215", "9 F. 2d 543", "92 N. J. L. 631", "92 N. J. L. 94"]
+cites_cases: ["113 A. 648", "13 N. J. Super. 383", "138 Md. 116", "139 S. C. 516", "178 F. 2d 179", "187 F. 2d 675", "241 U. S. 190", "273 U. S. 280", "323 Mass. 354", "36 S. Ct. 541", "47 S. Ct. 386", "82 N. E. 2d 215", "9 F. 2d 543", "92 N. J. L. 631", "92 N. J. L. 94"]
 ---
 
 # Public Service Electric & Gas Co. v. Reading Co.
