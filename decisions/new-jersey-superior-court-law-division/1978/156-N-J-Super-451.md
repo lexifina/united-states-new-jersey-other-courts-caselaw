@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1978-02-15"
+citations: ["156 N.J. Super. 451"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SHEER BROTHERS, INC., PLAINTIFF, v. MARLBORO HOME BUILDERS, INC ET AL., DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/156/cases/0451-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 873723
+cites_cases: ["102 N. J. Eq. 517", "102 N. J. Super. 300", "104 N. J. Eq. 201", "107 N. J. Super. 389", "13 F. Supp. 263", "193 U. S. 197", "55 N. J. Eq. 583"]
+---
+
+# Sheer Bros. v. Marlboro Home Builders, Inc.
+
+## Majority (Miller, J. C. C.,)
+
+Miller, J. C. C.,
+Temporarily Assigned. This is a case involving the question of the cancellation of a mechanic’s notice of intention, properly filed under N. J. S. A. 2A:44-71 et seq., once the four months following the date of the final labor or delivery has passed. N. J. S. A. 2A :44-91, without the filing of a lien claim. It presents the question of the existence of remedies to prevent the invoking of the defense of the statute of limitations in an action in the Law Division. The facts are simple:
+Plaintiff is a contractor who agreed to construct a series of houses for defendant. He was paid in installments derived from the successive individual sales of each house. It is conceded that a mechanic’s notice of intention was properly filed with respect to the entire tract and that prior to the sale of each house a pro rata installment was paid plaintiff out of the proceeds of such sale. Because this mode of payment was satisfactory, plaintiff refrained from filing a lien claim as to the last series of houses and concedes he cannot do so now because the time prescribed by the statute has passed.
+The final series of sales has been consummated. Because of the existence of the notice of intention, at each closing defendant title company placed in escrow a sum sufficient to satisfy plaintiff’s claim on that house. This money it still holds. Its situation is that of a stakeholder in a classic interpleader situation.
+Plaintiff brought this action on a book account, whereupon defendant denied plaintiff’s claim and asserted a counterclaim. Issue has been joined and the matter is ripe for trial.
+Defendant has moved in this action to discharge the mechanic’s notice of intention on the theory that it is now unenforceable since the four months’ statute of limitations has passed. This would, of course, place it in a position to demand the escrow money from the title company.
+It is true that the lien is unenforceable if the lien claim be under the statute. It is equally true, to paraphrase First Nat'l St. Bank of N. J. v. Carlyle House, Inc., 102 N. J. Super. 300, 313 (Ch. Div. 1968), aff’d o.b. 107 N. J. Super. 389 (App. Div. 1969), that mechanic’s liens are unknown to the common law and have no recognition in equity. However, to view this particular case in so narrow a light is to turn one’s back on the fundamental business of the courts, which is to administer justice. It further denigrates the ability of our New Jersey judicial system to adapt itself to provide a remedy in a given case. In brief, it sells justice too short.
+This is not a mechanic’s lien suit. It is a suit on a book account in the Law Division. To allow defendant to assert a technical procedure to obtain what is at least conceivably the fruit of plaintiff’s labors is to reduce justice to the least common denominator of mediocrity. While justice is not so variable as the legendary chancellor’s foot, neither is it as rigid as the bed of Procrustes.
+There is thus presented a situation where a strict application of the rules of law would clearly result in injustice. A court presented with such a situation, and bound by an obligation to enforce the law, steers between Scylla and Charybdis. Should it enforce the law and work injustice or should it disregard the law and attempt to do justice on the old theory, “Fiat justitia, mat coelum" (let justice prevail though the heavens fall) ?
+The trouble with the latter course, inviting as it may seem, is that it tends to substitute the personal philosophy of the judge, obviously an unknown variable, for a known rule of law by which all may guide their course in the future. The admonition of Mr. Justice Holmes must never be lost sight of: “Hard cases make bad law.” Northern Securities v. U. S., 193 U. S. 197, 24 S. Ct. 436, 48 L. Ed. 679 (1903).
+The obvious solution, therefore, is to employ the equity powers of the court to act in personam upon defendant and enjoin it from asserting the statute of limitations.
+This is precisely the type of situation which called forth the evolution of the Court of Chancery in England. 1 Pomeroy's Equity Jurisprudence (5 ed. 1941), §§ 16, 17 at 20-24. The use of the writ of injunction to stay actions at law was one of the earliest functions of the Chancellor. 4 Pomeroy, op. cit.j § 1360 at 973-974. Such proceedings have long been embedded in our New Jersey practice. See Kocher, Chancery Practice 482 (1914); 2 Kocher & Trier, Chancery Practice and Precedents § 1584 at 1338 (1924). In our modern practice, of course, the two courts have combined, and either trial branch may employ the functions of the other. N. J. Const. (1947), Art. VI, § III, par. 4.
+It has long been settled law that the Court of Chancery had the power to enjoin a defendant from asserting the bar of the statute of limitations in an action at law, Holloway v. Appelget, 55 N. J. Eq. 583, 585 (E. & A. 1897); Howard v. West Jersey, etc., R. R. Co., 102 N. J. Eq. 517, 523 (Ch. 1928), aff’d o. b. 104 N. J. Eq. 201 (E. &A. 1928), LaPorte v. U. S. Radium Corp., 13 F. Supp. 263, 273 (D. N. J. 1935); 42 Am. Jur. 2d, Injunctions § 213 at 993.
+This situation thus is not insolvable in equity, which acts in personam. Based upon defendant’s course of conduct, an order will issue dismissing defendant’s motion, enjoining defendant from interposing the barrier of N. J. S. A. 2A :44-98 and directing the title company to pay the escrow money to the Clerk of the Superior Court. If defendant’s position in the main suit is correct, the money will be available to him at the end of the case. If plaintiff’s view is correct, defendant never was entitled to it at all and thus he cannot really get hurt since all he is entitled to is justice, which he is getting. Let such an order be submitted.
