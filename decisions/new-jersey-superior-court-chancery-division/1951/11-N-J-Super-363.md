@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1951-01-19"
+citations: ["11 N.J. Super. 363"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NEWARK TWENTIETH CENTURY TAXICAB ASSOCIATION, A CORPORATION OF NEW JERSEY, PLAINTIFF, v. HARRY LERNER, ET AL., DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/11/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 409007
+cites_cases: ["1 N. J. 193", "142 N. J. Eq. 301", "185 F. 2d 225", "43 N. J. Eq. 82", "44 N. J. Eq. 298"]
+---
+
+# Newark Twentieth Century Taxicab Ass'n v. Lerner
+
+## Majority (Stein, J. S. C.)
+
+Stein, J. S. C.
+The several defendants, by four motions, seek a dismissal of the complaint herein on substantially the same ground: namely, that the complaint sets forth no claim or cause of action upon which the plaintiff is entitled to any relief. These motions are a substitute for the former general demurrer and have operated to admit, but only for the purposes of the motions, the allegations of the complaint.
+The complaint is brought by an association of taxicab drivers, incorporated under our statute which permits persons to incorporate for purposes not pecuniary (R. 8. 15:1-1 el seq.). That association has for its function the good and welfare of its members and serves that object by various facilities, such as a common telephone call system, a uniform color scheme for the cabs, a central garage for the more economical purchase of gasoline and supplies, and the negotiation of liability insurance for the cabs owned by the individual members. Such insurance, which is mandatory under the law, is obtained from the defendant insurance company. The latter is a mutual company and its members are its policyholders. The plaintiff association owns no cabs and holds no insurance policy from the defendant company. The policies issued by the insurance company are issued directly to the individual members of the plaintiff association (and to outsiders), who severally and directly pay the premiums therefor to the insuranee company. The complaint fails to disclose any property right or interest residing in the plaintiff association in respect, of any of the funds, properties or assets of the insurance company.
+The complaint makes various charges against the president, the vice-president and the counsel of the defendant insurance company. When these charges are examined, it is found that they all relate to acts which, if done, constitute alleged wrongs against the insurance company itself or against its policyholders. Amongst the wrongs so charged' áre excessive salaries, improper commissions, and other conduct claimed to be objectionable and prejudicial to the members of the plaintiff association as policyholders in the defendant company. It is needless to analyze each allegation, for each charge leads to the same conclusion: namely, that the alleged offending conduct does not and cannot constitute a wrong to the plaintiff association. It is clear that the association has, in respect of the affairs of the defendant insurance company and the conduct of the latter’s officers, no such property right as can be violated.
+One may not have judicial redress in respect of a matter in which he is without interest, right or duty. This rule was said to be “fundamental” in the case of Baxter v. Baxter, 43 N. J. Eq. 82 (Ch. 1887) ; affirmed, 44 N. J. Eq. 298 (E. & A. 1888).
+In the case of New Jersey Bankers Ass’n. v. Van Riper, 1 N. J. 193 (1948)., reversing 142 N. J. Eq. 301 (Ch. 1948), it was held that an association of member 'banks could not maintain a cause in equity in respect of a matter in which the association itself had no property interest, notwithstanding the fact that there the plaintiff association did represent a “community of purpose and unity of legal question” with which the member banks were greatly concerned.
+In the case of Brown v. Ramsey, 185 F. 2d 225 (U. S. C. A. 1915), it was said: “Courts do not listen to parties who complain of wrongs done to others but not to them. In such a case there is no justiciable controversy between the parties before the court.”
+It is here held that the complaint exhibits no “justiciable controversy” between the plaintiff association and the defendants herein. Nor is the complaint rescued by any claim that the association sues as a representative of its members and that therefore this is a class action. Such a representative action can be maintained only by a plaintiff who is himself a member of the class sought to be represented. See Buie 3:23 — 1 and New Jersey Bankers Ass’n. v. Van Riper, supra. Here it cannot possibly be held that the plaintiff association is itself a member of the class for which relief is sought. Therefore, for the reasons stated the motions to dismiss are granted.
+After the court heard oral argument and reserved decision, plaintiff’s attorney advised the court that he was bringing a new action in behalf of individual members of the plaintiff association against the same defendants. The attorneys for the defendants have advised the court that such new action has in fact been brought and that they have been served with notice of an application to consolidate that action with the earlier one in which the motions to dismiss have been under advisement. I see no reason for withholding the dismissal of the earlier complaint. Consolidation may in proper circumstances be permitted, but only where the actions sought to be consolidated are severally maintainable. There is no advantage in consolidating a controversy so plainly non-justiciable with one of a maintainable character.
+Present judgment.
