@@ -1,0 +1,37 @@
+---
+court: "New Jersey Division of Tax Appeals"
+decided: "1948-01-06"
+citations: ["26 N.J. Misc. 72"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BOROUGH OF NORTH ARLINGTON, PETITIONER, v. RIVERVIEW GARDENS, SECTION ONE, INCORPORATED, RESPONDENT. BOROUGH OF NORTH ARLINGTON, PETITIONER, v. RIVERVIEW GARDENS, SECTION TWO, INCORPORATED, RESPONDENT. For the Year 1946."]
+source_url: "https://static.case.law/nj-misc/26/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 436514
+cites_cases: ["100 Atl. Rep. 205", "125 N. J. L. 37", "23 Atl. Rep. 948", "54 N. J. L. 544", "90 N. J. L. 142"]
+---
+
+# Borough of North Arlington v. Riverview Gardens
+
+## Majority (Labbecque, Commission!®.)
+
+Labbecque, Commission!®.
+The above two eases were argued, together by consent.
+Eiverview Gardens, Section One, Incorporated, is the owner of certain property situated in the Borough of North Arlington, consisting of a garden-type apartment development. Eiverview Gardens, Section Two, Incorporated, is the owner of a similar development in the same municipality. For the year 1946, the properties were assessed at two hundred twenty-four thousand seven hundred fifty ($224,750) dollars and three hundred seventy-two thousand seven hundred fifty ($372,750) dollars, respectively. On or about August 7th, 1946, the Borough of North Arlington filed petitions of appeal to the Bergen County Board of Taxation, seeking an increase in the assessment on the improvement in each case.
+On October 2d, 1946, the two cases came on for hearing before the county board, which entered judgment dismissing each appeal and affirming the assessments. From the actions of the county board in so doing, the municipality has filed the present appeals with us.
+The taxpayer now moves to dismiss both appeals on the ground that we are without jurisdiction to hear the same.
+It is first urged that we are without jurisdiction for the reason that the municipality failed to file its petition of appeal in each ease within the time limited by law (Pamph. L. 1946, ch. 161; rule 5 of the Division of Tax Appeals). The facts adduced in support of this contention are briefly these; on October 2d, 1946, the municipality’s appeals came on for hearing before the county board and in the presence of counsel for the respective parties, the board announced its dismissal of the appeals and adopted a resolution to that effect. Thereafter, the petitions of appeal to us were not filed until November 8th.
+On its part, the municipality urges that the time to appeal did not begin to run until the date of publication of the entry of the judgments of the county board, that it did not receive notice of the entry of such judgments until October 31st, 1946, and that hence, the appeal was filed within time.
+An examination of the applicable statutes bears out the municipality’s contention on this score. Pamph. L. 1946, ch. 161, § 8 (R. S. 54:2-39; N. J. S. A. 54:2-39), as amended provides as follows:
+“Any appellant who is dissatisfied with the judgment of the county board of taxation upon his appeal may appeal from that judgment to the Division of Tax Appeals in the State Department of Taxation and Finance by filing a petition of appeal to the division, in manner and form to be by said division prescribed, within one month from the date on which the county board of taxation shall have published the entry of judgment or within one month from the date fixed for final decisions by the county boards, whichever date shall be earlier.”
+It is to be noted that the legislature thus provided that the time for appeal should begin to run, not from the date of the judgment of the county board, but from the date of publication of the “entry of such judgment.”
+In determining the meaning of the latter provision, recourse must again be had to chapter 161 of the laws of 1946. Section 18 of that statute, R. S. 54:3-26; N. J. S. A. 54:3-26, as amended, provides as follows:
+“The county board of taxation shall hear and determine all such appeals within three months after the last day for filing such appeals, and shall keep a record of its judgment thereon irt permanent form, and shall transmit a memorandum of its judgment to the taxpayer, and in all cases where the amount of tax to be paid shall be changed as a result of an appeal, to the collector of the taxing district.”
+It is undisputed that notices of the county board’s action, which were dated October 10th, were mailed to the attorney for the municipality and to the municipal collector on October 30th. Ho evidence is produced that the notices mailed to the taxpayers bore a different date or that they were mailed to them any sooner. We conclude, therefore, that the municipality’s appeals were filed within time.
+It is next urged that the petitions of appeal to us should be dismissed for the reason that the municipality in its petitions of appeal to the county board failed to charge that it was discriminated against. It is also urged that there was no official action by the municipal governing body finding that the Borough was discriminated against and authorizing the filing of the appeal on this ground.
+The rule is well settled that a municipality may appeal to the County Board of Taxation only when it feels discriminated against. This discrimination may involve the assessed valuation of property in the district itself or in another taxing district in the county. R. S. 54:3-21; N. J. S. A. 54:3-21. In re Jersey City, 23 N. J. Mis. R. 311; 44 Atl. Rep. (2d) 189. The power to increase valuations of property for the purposes of taxation being statutory, must be exercised in strict compliance with the statute conferring jurisdiction. Englewood v. Hopper, 54 N. J. L. 544; 23 Atl. Rep. 948. It was therefore necessary, in order to confer jurisdiction upon the county board, that the municipality charge in its petitions of appeal that it was discriminated against. In re Jersey City, 24 N. J. Mis. R. 315; 49 Atl. Rep. (2d) 26.
+The petition of appeal filed with the county board in each of the cases sub judice failed to charge or allege discrimination against the municipality. In the absence of such an allegation, the county board was without power to hear the appeals. If the county board was not vested with jurisdiction to hear the appeals, neither are we. Oradell v. State Board of Tax Appeals, 125 N. J. L. 37; 13 Atl. Rep. (2d) 479. And this is so, notwithstanding that the question of jurisdiction may not have been raised before the county board. McMichael v. Horay, 90 N. J. L. 142; 100 Atl. Rep. 205, and In re Jersey City, 23 N. J. Mis. R. 311; 44 Atl. Rep. (2d) 189. The evidence before us likewise indicates that the resolution authorizing the taking of the appeal, and dated August 6th, 1946, likewise failed to allege discrimination. A second resolution, dated November 6th, 1946, was ineffective to correct this omission.
+Since the county board was without jurisdiction to hear the appeals in the first instance, they should have been dismissed. It follows that the appeals filed by the municipality to this Division must likewise be dismissed.
+The conclusion reached renders it unnecessary to consider the remaining grounds urged in support of the motion.
+The motion is granted, and in each ease, the action of the county board is affirmed, and the petition of appeal dismissed.
