@@ -1,0 +1,45 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1985-05-20"
+citations: ["203 N.J. Super. 210"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY W. MONTAGUE, INDIVIDUALLY AND MARY MONTAGUE, ADMINISTRATRIX OF THE ESTATE OF ROBERT MONTAGUE, DECEASED, PLAINTIFFS, v. ALFRED J. PETIT-CLAIR, JR., ESQ., AND ROYAL INSURANCE COMPANY, DEFENDANTS, AND STEPHEN ROBERT WOZNIAK, AN INFANT BY HIS GUARDIAN AD LITEM, JOHN J. WOZNIAK, PLAINTIFF, v. MARY W. MONTAGUE, ALFRED J. PETIT-CLAIR, JR., ESQ., ROYAL INSURANCE COMPANY, ALEXANDER D. GUTHRIE AND ANNE G. YOKANA, DEFENDANTS, AND ALFRED J. PETIT-CLAIR, JR., ESQ., THIRD-PARTY PLAINTIFF, v. GRUBER & RACZKOWSKI, ESQS., THIRD-PARTY DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/203/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 374941
+cites_cases: ["151 N.J.Super. 312", "186 N.J.Super. 465", "34 N.J. 128", "410 U.S. 113", "68 N.J. 368", "71 N.J. Super. 1"]
+---
+
+# Montague v. Petit-Clair
+
+## Majority (BACHMAN, J.S.C.)
+
+BACHMAN, J.S.C.
+This consolidated action comes before this court by way of cross-motions for summary judgment pursuant to R. 4:46-2.
+On June 24, 1980, Robert Montague was struck by an automobile as he walked along a road with his wife, Mary Montague, who at the time was three months pregnant. He died shortly thereafter on July 1, 1980.
+On July 3, 1980, Alfred Petit-Clair, Jr., Esquire filed a wrongful death action on behalf of Mary Montague. The complaint in paragraph 6 alleged that “decedent left surviving him, his wife, plaintiff, Mary Montague, age 19, and one unborn child scheduled for birth in January 1981.”
+On August 6, 1980, Mary Montague received Letters of Administration and Letters of Administration Ad Prosequendum. A bond in the amount of $1,000 was posted.
+Sometime in early August, 1980, the litigation was settled by Petit-Clair with Royal Insurance Company (hereinafter referred to as Royal) for $87,000 on a $100,000 policy.
+On August 13, 1980, two general releases were executed by Mary Montague individually and in her capacity as Administratrix and Administratrix Ad Prosequendum of the Estate of Robert Montague. Both releases certified that neither Robert Montague nor Mary Montague left any living issue. The settlement monies were then paid by Royal to Petit-Clair, who disbursed the funds to Mary Montague.
+Plaintiff Stephen Wozniak, by his guardian Ad Litem, John J. Wozniak, contends that Royal was negligent in that it failed to follow procedural requirements prescribed by statute and court rule and did not adhere to a reasonable standard of care in paying out the settlement monies. Royal is therefore said to be liable to Stephen Wozniak for his rightful share of the proceeds recovered in the Wrongful Death Action.
+The Wrongful Death Statute N.J.S.A. 2A:31-6 provides in pertinent part that:
+When an action is commenced by an Administrator ad prosequendum under this chapter, no payment in settlement thereof or in satisfaction of a judgment rendered therein shall be made to him, but such payment shall be made only to the duly appointed general administrator of the estate of the decedent, who has filed a bond or supplemental bond adequate to protect the persons entitled to receive the amount so paid. [Emphasis supplied].
+In regard to payment of wrongful death proceeds R. 4:96-5 states:
+When a payment is to be made to an Administrator for damages due under N.J.S.A. 2A:31-1 to 6, inclusive (relating to death by wrongful act) or for damages sustained by the decedent prior to death, the administrator shall, prior to receiving payment, furnish to the person liable a certificate of the surrogate or judge of the Superior Court setting forth the amount of the payment and certifying that the administrator has furnished adequate security in accordance with the statute. [Emphasis supplied.]
+It is conceded by all parties herein that no supplemental bond nor certificate of adequate security was furnished to Royal before payment was made to Mary Montague.
+It is plaintiffs position that such payment constitutes negligence as a matter of law. Negligence is conduct which falls below a standard recognized by law as essential to the protection of others from unreasonable risks of harm. Sanzari v. Rosenfeld, 34 N.J. 128 (1961).
+In the present case it is conceded that Royal did not receive a certificate of adequate security before making payment to Mary Montague. Certainly, the apparent violation of a statute and of a court rule would be evidence of negligence to be considered by the trier of fact. Braitman v. Overlook Terrace Corp., 68 N.J. 368 (1975), Bortz v. Rammel, 151 N.J.Super. 312 (App.Div.1977); Mattero v. Silverman, 71 N.J. Super. 1 (App.Div.1962). However, such a determination requires that the total circumstances of the settlement be examined.
+The general releases executed by Mary Montague and prepared by her attorney certified that neither she nor decedent left any living issue although the complaint explicitly indicated that she was with child “scheduled for birth in January, 1981.” We do not know the extent to which Royal investigated those statements before settling the case. The court finds the factual circumstances surrounding the settlement unclear, and thus, Royal cannot be found to be negligent as a matter of law. Therefore, plaintiffs motion for summary judgment is denied.
+Royal, by way of cross-motion, contends that Stephen Wozniak was not and is not a dependent as defined in the wrongful death statute and is therefore not entitled to any wrongful death proceeds.
+The wrongful death statute N.J.S.A. 2A:31-4 provides that:
+The amount recovered in proceedings under this chapter shall be for the exclusive benefit of the persons entitled to take any intestate personal property of the decedent, and in the proportions so entitled to take the same. If any of the persons so entitled were not dependent on the decedent at his death, the remainder of the persons so entitled shall take the same as though they were the sole persons so entitled were then dependent on him, they shall all take as aforesaid.
+Thus, the issue presented herein is whether a child, conceived before his father’s death and born six months thereafter, is dependent on his deceased father for purposes of recovery under the Wrongful Death Act.
+The Wrongful Death Statute, N.J.S.A. 2A:31-4, provides that persons entitled to take any intestate personal property of the decedent, and who are dependent, are entitled to wrongful death proceeds. Stephen Wozniak would unquestionably take under our intestacy laws. N.J.S.A. 3B:5-8. However, Royal argues that the language of N.J.S.A. 2A:31-4 indicates that an afterborn child is not entitled to wrongful death proceeds because such a child was not dependent on decedent at the time of his death.
+Although this court has been unable to locate a case that has ruled precisely on this issue, the case of Hudgins v. Serrano, 186 N.J.Super. 465 (App.Div.1982), provides meaningful guidance. In Hudgins, the court held that a child born 17 days after decedent’s death was entitled to receive wrongful death proceeds. That child could not have been aborted between his father’s death and his birth. Stephen Wozniak could have. In fact, Royal’s position is that Stephen Wozniak was not dependent upon decedent at the time of decedent’s death, because the choice of his existence and thus his inheritance rights were solely within his mother’s discretion. Roe v. Wade, 410 U.S. 113, 93 S.Ct. 705, 35 L.Ed.2d 147 (1973).
+The court will not speculate on what might have been. It will decide this issue upon the facts as they are. Stephen Wozniak was not aborted. He, like the child in the Hudgins case is very much alive and dependent. Although the Hudgins court did not expressly address the issue presented herein, it showed no reluctance in including the after-born child in the distribution of wrongful death proceeds. The fact that Stephen Wozniak was not born until approximately six months after decedent’s death does not dissuade this court from holding that he is entitled to receive his appropriate share of wrongful death proceeds. Therefore Royal’s motion for summary judgment is denied. Counsel for plaintiff shall submit an appropriate order.
+The Court is aware that pursuant to N.J.S.A. 2A:31-6:
+No release or cancellation of a judgment whether by warrant or otherwise, by an administrator ad prosequendum or by his attorney of record or attorney in fact shall release the person making payment from liability to the persons entitled to any intestate personal property of the decedent, shall operate as a valid cancellation of the judgment or be an authority to the clerk of any court to cancel the judgment of record.
+3B:5-8 After Born Heirs
+Relatives of the decedent conceived before his death but born thereafter inherit as if they had been born in the lifetime of the decedent.
