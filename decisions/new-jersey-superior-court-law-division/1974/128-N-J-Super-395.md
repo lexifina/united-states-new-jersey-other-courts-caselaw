@@ -1,0 +1,61 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1974-04-17"
+citations: ["128 N.J. Super. 395"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. RICHARD DeMOTT, DEFENDANT-PETITIONER."]
+source_url: "https://static.case.law/nj-super/128/cases/0395-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 318455
+cites_cases: ["102 N. J. Super. 164", "113 N. J. Super. 436", "302 U. S. 319", "342 U. S. 165", "40 N. J. Super. 416", "408 U. S. 471", "96 L. Ed. 183"]
+---
+
+# State v. DeMott
+
+## Majority (Galda, J. S. C.)
+
+Galda, J. S. C.
+This is a petition for post-conviction relief made pursuant to B. 3 :22-2 on behalf of Eichard DeMott. Because of the somewhat novel nature of the points raised, some review of the pertinent facts of this matter ought to be made.
+On May 12, 1972 Eichard DeMott was sentenced by this court to a State Prison term of 2-3 years for the possession and distribution of heroin.
+On June 9, 1972 a motion to modify this sentence was granted by this court. Pursuant to this modification, the prison sentence was suspended on condition that DeMott submit to inpatient treatment at the St. Dismas Eehabüitation Facility for a two-year period. The record indicates that he left the Dismas Facility without permission on the same day he arrived, June 14, 1972.
+Because of the violation of the terms of the modified sentence imposed, DeMott was resentenced for violating probation by Judge Shields on July 11, 1972. Judge Shields reimposed the original sentence prescribed by this court on May 12, 1972 — that is, 2-3 years in State Prison.
+It appears from the records, and indeed from the presentence investigation, that DeMott was on parole from a sentence of an indeterminate term at Yardville at all times during these proceedings. This parole status grew out of a sentence imposed upon a conviction for robbery in 1970.
+Although the presentence investigation clearly states the fact that DeMott was on parole, there was no mention of this by the attorneys or by the courts during any of the three occasions that DeMott appeared for sentencing. Specifically, no mention was made of the possibility that DeMott might face additional incarceration as a parole violator. As a result of this, no decision was made by this court or by Judge Shields as to whether the sentence being imposed was to run consecutively to, or separately from, any potential sentence which might be imposed by the parole authorities at a later time.
+On or about June 21, 1973 DeMott or his attorney received official confirmation of the fact that a detainer for a parole violation had, in fact, been filed against him at Ms present place of incarceration. The time involved for this parole violation is two years and seven months.
+This petition for post-conviction relief was filed on January 2'i, 1974. On March 8, 1974 the State moved that the petition be dismissed pursuant to R. 3 :22-9 in that the petition did not set forth a cognizable ground under R. 3 :22-2. The motion was denied and the matter set down for a plenary hearing.
+As I see it, the issue presented is whether, under these circumstances, petitioner has been denied due. process of law in contravention of the Fourteenth Amendment of the TL S. Constitution.
+Petitioner essentially argues that he has been condemned to a sentence longer than what might have boon imposed by virtue of the silence of the sentencing courts.
+To fully understand this argument, it is incumbent that we examine the applicable law on this subject.
+N. J. S. A. 30:4-123.27 reads in pertinent part:
+* * * Ho part of a sentence, for which a parole has been granted and revoked, shall be deemed to be served by a prisoner, whose parole was revoked, while he is serving a sentence for an offense other than the one for which he was paroled.
+On its face, this statute would seem to indicate that the time owed on a violation of parole may not be deemed to run concurrently with a sentence imposed for a crime committed while on parole.
+This is not the construction that the courts have made when interpreting this statute, however. In State v. Grant, 102 N. J. Super. 164 (App. Div. 1968), it was said:
+•i- * « [W]e are convinced that' the statute was not intended to and does not divest a court charged with the duty of sentencing a defendant for such subsequent crime of its inherent power to impose such sentence as it may in its discretion consider just to the individual and adequate for the protection of society. While the duty of determining questions of parole devolves upon the State Parole Board, the power of imposing sentence as a correctional measure, and the determination of how the public interest will best be served thereby, lies with the judiciary. * * [at 170]
+See also, State v. Fudali, 113 N. J. Super. 436 (App. Div. 1971).
+State v. Grant, supra, stands, therefore, for the proposition that a sentencing judge majr, in his discretion, order that any additional time imposed by the parole authorities upo-n a defendant for violation of parole be served concurrently to the sentence he imposes.
+The limitation of this holding is the following:
+* * ■> absent a contrary direction by the sentencing judge, a sentence for a crime committed while on parole shall be deemed ... to be served separately from service of the incomplete sentence on which parole was previously granted. [Grant 102 N. J. Super, at 171; Fudali 113 N. J. Super, at 433]
+In other words, a defendant may be given a sentence, whereby any time deemed owing by the parole authorities will be served concurrently to the new sentence, but if the court remains silent on this question, the presumption which arises is that the two sentences are not to run concurrently but are to be served consecutively.
+It is this “presumption by silence” which is assailed by DeMott in this petition.
+In my opinion his contention is meritorious.
+Due process of law has been defined many times by the Judiciary. It has been said that due process means “those fundamental principles of liberty and justice which lie at the base fo all our civil and political institutions.” Palko v. Connecticut, 302 U. S. 319, 58 S. Ct. 149, 82 L. Ed. 288 (1937).
+A violation of due process occurs when Judicial proceedings
+* « * “offend tliose canons oí decency and fairness which express the notions of justice of English-speaking peoples even toward those charged with the most heinous offenses” *' * ’h These standards of justice are not authoritatively formulated anywhere as though they were specifies. Due Process of law is a summarized constitutional guarantee of respect for those personal immunities which, s" * * are "so looted in the traditions and conscience of onr people as to be ranked as fundamental.” [Rochin v. California, 342 U. S. 165, 72 S. Ct. 205, 96 L. Ed. 183 (1952)]
+Obviously, then, without attempting to delineate the full ambits of the concept, when we speak of procedural due process of Law, we are speaking of the fundamental fairness that is to be accorded to the individual.
+Morrissey v. Brewer, 408 U. S. 471, 92 S. Ct. 2593, 33 L. Ed. 2d 484 (1972), explicitly extends the concept of due process to the parolee. While that case was primarily concerned with the procedures and rights involved in parole revocation hearings, my reading of it indicates to me that the rationale behind the case is such that we ought not to attempt to confine its general holding to the limited facts that it was decided upon. While this, of course, is not to imply that a parolee is entitled to the full “panoply of rights” that is accorded a defendant before conviction of a crime, it does appear that many elements of due process or “fundamental fairness” must be afforded a parolee.
+There are a number of other considerations that have entered into my decision that the petitioner has indeed been denied duo process of law.
+First, it seems to me, there is merit in petitioner’s argument that there is no logic or fairness in presnming consecutive sentences in the face of judicial silence when dealing with parole violators, when the laws of our State presume concurrent sentences when dealing with judicial silence in the face of multiple offenses by an individual.
+To clarify this we start with the holdings of State v. Pohlobel, 40 N. J. Super. 416, 423 (App. Div. 1956), and the eases arising thereunder. These cases stand for the proposition that when an individual is sentenced on multiple offenses and the court is silent on the issue of whether the sentences should run consecutively or concurrently, the presumption is in favor of defendant and the sentences are deemed to run concurrently.
+To emphasize the point, consider the following hypothetical situation. Defendant X is convicted of a series of armed robberies. He is sentenced on each count separately. The court fails to indicate whether the multiple sentences are to run concurrently or consecutively. The law will presume concurrent sentences were intended.
+Defendant Y is on parole for a minor offense. While on parole he commits another minor offense. The court again is silent as to how the parole violation time is to run. Under the present scheme consecutive sentences would be presumed. The absurdity of this situation speaks for itself.
+Next, I feel that the proposed revisions of our criminal laws proposed in the New Jersey Penal Code bjr the New Jersey Criminal Law Bevasion Commission, made in October 1971, also lend support to petitioner’s argument.
+Proposed section 2C:44-5-e states
+Wlion a defendant is sentenced to imprisonment for an offense committed while on parole in this State, such term of imprisonment and any period of reimprisonment that the Parole Board may require the defendant to serve upon the revocation of his parole, shall run concurrently, unless the Court orders them to run consecutively.
+I am mindful of the fact that the proposed revisions by the Commission have not yet been enacted by the Legislature. This docs not mean that a court should ignore what it considers to be sound and well-reasoned recommendations by a highly distinguished commission.
+Lastly, it appears to me that when one balances the equities of the situation one cannot but agree with petitioner in his assertion here. All that the petitioner is requesting is a day in court during which a judge will decide whether he is deserving of concurrent sentences or if consecutive time is a more just result. It is no answer to assert that petitioner should have raised the question on a previous occasion. Frankly, I doubt it is reasonable to assume that petitioner could have anticipated the situation he finds himself in today.
+The remedy in this case is relatively simple. I shall now decide a question that, to my thinking, should have been decided in the summer of 1972. That question is, “Should petitioner’s parole violation term run consecutively or concurrently to the 2-3-year sentence imposed upon him on July 11, 1972?”
+My findings are that had this question been raised at the original sentencing, I would have explicitly sentenced him to serve the two sentences consecutively. Petitioner was already on parole for committing a robbery. When he appeared before this court in June 1972 it was for the possession and distribution of heroin. The seriousness of these crimes and the dangers they present to society are such that I cannot in good conscience say that Kichard DeMott was a worthy candidate for his court’s leniency. I therefore hold, for purposes of the record, that any time deemed owing by the parole board shall be served consecutively to the sentence imposed by this court in June 1972.
+Some further comments are in order. This court has, today, held that it is á violation of due process of law to presume consecutive terms of incarceration under these circumstances.
+Because of the obvious implications of such a holding, whether this decision is to be applied in a prospective fashion only, or in some other manner, is not a proper decision for this court to make. It seems to me that such a determination is a function which lies more properly with the appellate courts or with the State Legislature itself.
