@@ -1,7 +1,8 @@
 ---
 court: "Passaic County Circuit Court"
 decided: "1929"
-citations: ["7 N.J. Misc. 202", "7 N.J. Misc. 200"]
+decided_precision: "year"
+citations: ["7 N.J. Misc. 202"]
 reporter: "nj-misc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
