@@ -1,0 +1,26 @@
+---
+court: "New Jersey Department of Labor, Workmen's Compensation Bureau"
+decided: "1928"
+citations: ["6 N.J. Misc. 927"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RUSSELL A. WIM, PETITIONER, v. LAMBERTVILLE STONE QUARRY COMPANY, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/6/cases/0927-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 732639
+---
+
+# Wim v. Lambertville Stone Quarry Co.
+
+## Majority (W. E. Stubbs, Deputy Commissioner.)
+
+At the end of the case the attorney for the petitioner asked permission to submit a memorandum of law and was given permission to do so, and the attorney for the respondent was requested to answer the same when received.
+At the trial of the case the petitioner testified in his own behalf and Mr. Ireland, one of, the officers of the respondent, also testified in regard to the uses of the wharf alongside of the canal. The facts in the case seem to be clear that the petitioner parked his ear on a wharf formerly used by the respondent and the timber of which was owned by the respondent, but which has been for some time in disuse and was on property belonging to the canal company directly opposite and across the road from the property of the respondent. The petitioner’s work in the quarry consisted of going from the quarry to the blacksmith shop with drills, and back to the quarry. The blacksmith shop was adjacent to the road about opposite to where the petitioner’s car was parked. A fellow-employe asked the petitioner for a cigarette and he found that he had left them in his car, and so in order to give his fellow-employe a cigarette and also to'get one for himself, he crossed the road to his car, procured the cigarettes, and while on his way back to the blacksmith shop and while crossing the highway, was struck by an automobile and injured. The only question under controversy in the case is as to whether under these circumstances the injury by accident suffered by the petitioner arose out of and in the course of his employment with the respondent, it being stipulated and agreed that the wages of the petitioner wrere $27 per week, and it being further stipulated that the question of the amount of temporary and permanent disability would be gone into at a later time if it wrere decided that the accident arose out of and in the course of his employment.
+OPINION.
+A scrutiny of the facts presented in this case discloses two questions, for consideration, both of which are fundamental elements of the New Jersey Compensation statute. The laws of some of our sister states grant compensation for any accident occurring in the course of employment. The New Jersey act includes an additional qualification. The accident must arise out of the employment. The application of these two rules has been the cause of endless argument. Counsel for petitioner in this case cites numerous decisions of courts of appeal, substantiating his contention that the case at bar comes within these two requirements. Counsel for the respondent quotes an equal number of such decisions upholding the contrary conclusion. I find myself unable to concur wholly with either one or the other of these sets of rulings. Most of them do not analyze the situation far enough. Claims have been dismissed on the ground that the injury resulted by virtue of a hazard common to the community, and not peculiar to the particular industry; for instance, the hazard of the street, the risk of being struck by lightning or the danger of being in a tram crash or shipwreck. The nature of the hazard is not the criterion. We must go behind that to the authority responsible for the exposure.
+If a person is on the street of his own volition, and is struck by a speeding car, or by lightning (little difference in these days of reckless driving), there is no one to whom he can transfer the responsibility for his assumption of such risk; however, it is an entirely different matter if the conditions of his employment, or the orders of his employer, necessitate his being exposed to the above hazards. The authority behind the exposure must be held responsible. Every risk thus experienced becomes a hazard of the occupation.
+In the case at bar, the petitioner is entitled to the benefits of the Compensation act if he was on the public highway by virtue of any of the conditions of his work, or because of the exercise of the authority of the master; otherwise, he is not so protected. It appears from the testimony that the exposure responsible for his injury was the result of a desire on his part to satisfy a craving, endangered by an acquired habit, in no way whatsoever related to his work. That an employer may see fit not to object to such indulgence does not grant the employe the privilege of enlarging and extending the normal hazards of the occupation in order to accomplish that end.
+In view of the foregoing it seems unnecessary to consider whether or not this accident occurred in the course of the petitioner’s employment.
+Therefore, it not having been shown that this accident arose out of the petitioner’s employment, the petition must be and is herewith dismissed.
+W. E. Stubbs, Deputy Commissioner.
