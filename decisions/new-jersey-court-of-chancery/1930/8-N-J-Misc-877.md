@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Court of Chancery"
 decided: "1930-12-01"
-citations: ["8 N.J. Misc. 877", "8 N.J. Misc. 881"]
+citations: ["8 N.J. Misc. 877"]
 reporter: "nj-misc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
