@@ -1,0 +1,36 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1990-07-11"
+citations: ["243 N.J. Super. 573", "580 A.2d 1107"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SEBASTIAN MILAZZO, PLAINTIFF, v. EXXON CORPORATION, A CORPORATION, EXXON RESEARCH AND ENGINEERING CO., A CORPORATE SUBSIDIARY OF EXXON CORPORATION AND LEONARD S. BERNSTEIN, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/243/cases/0573-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 330106
+cites_cases: ["116 N.J. 433", "134 A.2d 775", "139 N.J.Super. 351", "294 A.2d 13", "307 A.2d 571", "354 A.2d 92", "46 N.J.Super. 418", "561 A.2d 1130", "61 N.J. 230", "63 N.J. 351"]
+---
+
+# Milazzo v. Exxon Corp.
+
+## Majority (IRONSON, J.S.C.)
+
+IRONSON, J.S.C.
+Following the trial of the above-captioned action which was a handicap discrimination claim under the New Jersey Law Against Discrimination (N.J.S.A. 10:5-1 et seq.), that resulted in a jury award in favor of plaintiff in the amount of $276,144 in compensatory damages and $100,000 in punitive damages, plaintiff moved for the entry of prejudgment interest on the compensatory damage award. Plaintiff has recognized that prejudgment interest does not lie on the punitive damage award by virtue of the case of Belinski v. Goodman, 139 N.J.Super. 351, 354 A.2d 92 (App.Div.1976), and therefore, makes no claim for same in this application.
+Plaintiff in support of his motion relies on the recently enacted amendment to N.J.S.A. 10:5-3 which was signed into law by Governor Florio on April 16,1990, the day before trial in this matter commenced. The amendment became effective as of the date of signing and applies to any pending action. The amendment not only granted any party to a legal action brought pursuant to the “Law Against Discrimination” the right to a jury trial, but also provided that “all remedies available in common law tort actions shall be available to prevailing plaintiffs.” Plaintiff contends that, by virtue of the amendment and R. 4:42-ll(b) which provides prejudgment interest in tort actions, he is entitled to same in this action.
+Defendant in opposition to this application cites the case of Shaner v. Horizon Bankcorp., 116 N.J. 433, 561 A.2d 1130 (1989), wherein the Supreme Court stated:
+... the LAD provides a distinctive statutory cause of action that is not the equivalent in purpose or function to a common-law cause of action and
+... is not the equivalent of other common-law tort or contract actions for wrongful employment termination. The LAD itself ‘does not indicate that the Legislature intended discrimination to be treated as a tort.’ [Id. at 453, 561 A.2d 1130]
+It was in response, however to the Shaner case that the Legislature has now spoken by way of the April 16, 1990 amendment. The statement attached to the legislation mentions the Shaner case and clearly shows the Legislature’s intent in passing the amendment. The statement provides, in part, the following:
+This bill would amend the LAD to grant a plaintiff the right to a jury trial. This bill would also add language to the findings section of the LAD listing the hardships (i.e. economic loss, emotional trauma) which victims of discrimination might suffer and language indicating that the LAD is to be liberally construed so that all common law remedies, including compensatory and punitive damages, are available to persons protected by the LAD.
+Indeed, not only does the amendment include economic loss and emotional trauma as personal hardships suffered because of discrimination, but, also, adds to that list time loss, physical and emotional stress and severe emotional illness, all of which are traditional elements of compensatory damages in common law tort actions.
+Where the Legislature has clearly spoken the court may not ignore the Legislature’s intent and must give full force and effect to it. Hancock v. Board of Review, 46 N.J.Super. 418, 134 A.2d 775 (App.Div.1957).
+Since the amendment now includes “all remedies available in common law tort actions shall be available to prevailing plaintiffs” the question for resolution by this court then becomes whether prejudgment interest for the compensatory damage portion of the jury’s award, which included claims for economic loss, and mental and emotional stress, should be considered as one of the “remedies available in common law tort actions” and be made available to plaintiff in this case, even though the provision for prejudgment interest is made by court rule rather than common law. The court, based upon the clear language and intent of the Legislature, rules that it should be so available, since the court rule without question is a “remedy” available to common law tort actions. The court must also give deference to the Legislature’s intent expressed in the amendment, when in speaking of the common law remedies including compensatory and punitive damages, that “... this act shall be liberally construed in combination with other protections available under the laws of this State.”
+In the case of Busik v. Levine, 63 N.J. 351, 307 A.2d 571 (1973), the Supreme Court dealt with the question of the validity of the rule which authorized prejudgment interest in tort actions. In upholding the appropriateness of the rule, the Court stated:
+We note that where liability for prejudgment interest was established by statute, the statutes were held to be “remedial” and hence applicable to actions brought before the statute’s effective date, and this notwithstanding the usual rule that statutes operate prospectively, [Id. at 361, 307 A.2d 571]
+Accordingly, if prejudgment interest by statute is termed “remedial,” there is no valid reason not to also conclude that prejudgment interest by court rule is “remedial” in nature.
+This court rejects defendants’ contention that it would be improper to assess prejudgment interest against them for periods prior to April 16, 1990, since the amendment specifically states: “This act shall take effect immediately and shall apply to any action pending on that date.” In addition as seen by the case of In re Petition of South Lakewood Water Co., 61 N.J. 230, 294 A.2d 13 (1972):
+The situation is substantially similar to one in which state or local legislation affecting a cause is altered during the litigation. The law is settled that when such a change occurs, the disposition of the case is determined by the latest enactment. [Id. at 248, 294 A.2d 13]
+It is not inequitable for defendants to be responsible for the prejudgment interest in this case for, as seen by the Busik case, supra, the purpose of prejudgment interest is not punitive but rather compensatory in nature to indemnify plaintiff for the loss of moneys which could have been earned if the payment had not been delayed and for which defendants had the use thereof.
+The court, based upon the applicable percentages mandated by R. 4:42-11(b), computes the prejudgment interest for the applicable time periods in question to be in the total sum of $72,182 and enters an award for plaintiff in that amount on the compensatory damage claim. An appropriate order has, this date, been signed by the court.
