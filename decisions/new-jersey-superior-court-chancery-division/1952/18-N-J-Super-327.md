@@ -1,0 +1,36 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1952-03-07"
+citations: ["18 N.J. Super. 327"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF, v. BROWNS, INCORPORATED, A CORPORATION, ETC.; COSTA REALTY COMPANY, A CORPORATION, ETC.; AND THE BOROUGH OF LODI, IN THE COUNTY OF BERGEN, A MUNICIPAL CORPORATION, ETC., JOINTLY, SEVERALLY AND IN THE AFFIRMATIVE, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/18/cases/0327-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 448122
+---
+
+# State v. Browns, Inc.
+
+## Majority (Grimshaw, J. S. C.)
+
+Grimshaw, J. S. C.
+On April 1, 1936, for part of the right of way of Route 6 in Bergen County, the State purchased from the Millbank Realty Corporation a tract of land in the Borough of Lodi. In addition to the property conveyed there was also granted to the State:
+“* * * the right to lay, construct, maintain, use, repair, renew and operate sub-surface drains and a concrete headwall on lands of the grantor herein outside the Highway right of way as may be required, substantially at the locations shown on the aforesaid plan;
+AND also the right to construct and maintain abutments and wing walls on lands of the grantor herein outside the Highway right of way as may be required for the bridge to be constructed to carry the aforesaid State Highway over a tributary of Saddle Biver, substantially at the locations shown on the aforesaid plans; * *
+The plan referred to in the deed was a map showing the location of the center line and right of way lines of the highway, as adopted by the State Highway Commission.
+In 1937, Millbank Eealty Corporation conveyed to the Springfield Corporation a tract of land bordering the highway on the south, which tract included the plots now owned respectively by the defendants Costa Eealty Company and Browns, Incorporated, and which tract was burdened with the easement theretofore granted to the State. Costa Eealty Company acquired title to the property in 1943 and Browns, Incorporated, obtained title to its property in 1946.
+At the time of the conveyance from the Millbank Eeálty Corporation to the State, a tributary of Saddle Eiver flowed somewhat erratically through the property now owned by Costa and Browns. This stream had a well-defined channel of varying width. It usually contained water to a depth of two and one-half feet. A drain pipe connected with catch basins on each side of the highway in front of defendants’ property, carried the surface water from the highway to the tributary of Saddle Eiver.
+To the rear and south of the Browns and Costa property there is a stretch of low, marshy land. In wet weather the stream would overflow at this point, causing serious inconvenience to persons living in the neighborhood. In 194?, the Borough of Lodi, seeking to remedy the marshy condition, dug a new channel and relocated the stream. Neither before nor after the course of the stream was changed did the borough obtain approval of its action from the State Water Policy Commission.
+As a result of the relocation of the stream, the old channel became a dry ditch. Both Costa and Browns proceeded to All with dirt the portion of the old channel which crossed their respective properties. In the process, Costa completely covered the highway drain pipe with about three feet of dirt at the point where it emptied into the old channel.
+In July, 1950, and again in August, floods rendered the highway practically impassable. The Highway Department investigated and discovered that the drain pipe had been blocked. At first efforts to clear the pipe were resisted by the defendant Costa. Later the Highway Department was permitted to uncover the mouth of the drain pipe. In addition, a hole ten feet in length and 15 feet wide was dug. Further excavating was then prevented by the defendant Costa.
+As a result of the clearing of the drain pipe the flood condition on the highway was relieved and there has been no recurrence of the floods. But at the end of the drain pipe there now exists a large pool of stagnant water which because of the fill surrounding it cannot drain away.
+As I see it, the relocation of the creek by the Borough of Lodi in no way contributed to the condition about which the State complains. Of course the flow of water was stopped, thus making it possible for Costa and Browns to fill in the old channel. But the borough’s action did not interfere with the State’s drainage rights. And that is the problem with which we are concerned. It becomes unnecessary, therefore, for the purposes of this litigation, to decide whether or not the borough acted legally.
+Nor is it necessary to decide whether the tributary of Saddle River was an ancient water course. We are concerned with drainage, not riparian rights.
+Both Costa and Browns have interefered with and obstructed the State’s easement without legal justification. By filling in the channel of the stream they have made it impossible for the highway drainage system to function as it did prior to 1947. While there has been no recurrence of the flood on the highway, there can be no assurance, in the absence of proper drainage, that other floods will not result. And that is a chance which the State is not required to take.
+By the deed of April 1, 1946, the State acquired the right to have the surface waters from the highway drain away over the lands of the Millbank Realty Corporation. As a part of that drainage system the State also acquired the right to relocate and widen the channel of the creek when necessary. Those rights are easements which are burdens upon the property of the defendants Costa and Browns as successors in title of the Millbank Realty Corporation. And it requires no extended citation of authority to sustain the proposition that this court can and will prevent any illegal interference with those easements.
+I have no doubt that this court, if the situation required it, could compel the reopening of the old channel. Such an order, however, would result in undue hardship to the defendants without a corresponding benefit to the State. The plaintiff’s concern is that adequate drainage facilities for its highway shall be maintained. It is a matter of indifference to the State whether the draining waters pass through the bed of the creek or through some other adequate channel. And so long as that channel is adequate, its nature and course can be determined by the parties.
+Costa and Browns are equally guilty of obstructing the State’s easement. The action of Costa in blocking the mouth of the- drain pipe provided no justification for the filling in of the channel by Browns, Incorporated. Therefore, they should bear equally the cost of providing adequate drainage facilities.
+By way of cross-claim Costa Realty Company seeks an injunction to prevent interference with its drainage rights by Browns, Incorporated. The evidence is not sufficient to warrant a conclusion that the Costa drainage problems are due to the action of Browns, Incorporated. The cross-claim will be dismissed.
+Judgment may be entered in accordance with the views expressed above.
