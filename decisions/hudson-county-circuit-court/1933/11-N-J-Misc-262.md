@@ -1,0 +1,53 @@
+---
+court: "Hudson County Circuit Court"
+decided: "1933-01-09"
+citations: ["11 N.J. Misc. 262"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DANIEL A. FERENCZI, PLAINTIFF, v. THE NATIONAL SULPHUR COMPANY, ALSO KNOWN AS NATIONAL SULPHUR COMPANY, INCORPORATED, A CORPORATION OF THE STATE OF NEW YORK, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/11/cases/0262-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 449789
+cites_cases: ["103 N. J. L. 635", "11 L. R. A. (N. S.) 713", "121 Fed. Rep. 298", "130 N. Y. 642", "137 Okla. 288", "146 Fed. Rep. 449", "155 Fed. Rep. 77", "173 N. Y. Supp. 568", "179 N. Y. Supp. 271", "21 N. Y. Supp. 887", "229 N. Y. 210", "253 Fed. Rep. 161", "43 L. R. A. 730", "61 L. R. A. 402", "89 N. J. Eq. 336", "98 Atl. Rep. 410"]
+---
+
+# Ferenczi v. National Sulphur Co.
+
+## Majority (Ackerson, C. C. J.)
+
+Ackerson, C. C. J.
+The amended complaint alleges that plaintiff and defendant entered into a certain agreement on January 18th, 1932, as evidenced by an exchange of letters (three in number), which are incorporated in the pleading by reference, from which the defendant agreed to hire the trucking service of the plaintiff, and the plaintiff agreed to furnish such service to certain specified points at agreed rates for a period of one year, for the transportation of all of the material of the defendant to the said points of destination for said period. It is further alleged that the plaintiff, pursuant to said alleged agreement, proceeded with the handling of all of the defendant’s trucking to said points of destination in accordance with the terms of said agreement until August 29th, 1932, on which date the defendant, without just cause, refused to give the plaintiff any further work. The amended complaint then alleges an offer of performance by plaintiff, and claims damages for the breach of said agreement.
+Defendant now moves to strike out the amended complaint as not disclosing a cause of action because the alleged agreement is unilateral and lacks mutuality and hence is not enforceable.
+The first of the three letters upon which the alleged agreement is based was written by the plaintiff to the defendant on January 8th, 1932, and is as follows:
+"In answer to your request for trucking rates from your plant at Bayonne, N. J., to the following points of destination, they are:
+(Here follows a schedule of rates.)
+Bates on other points not mentioned above will be given upon request.
+Thanking you for your inquiry, I remain,
+Yours very truly,
+D. A. Feeeeczi.”
+On January 18th, 1932, defendant answered as follows:
+"We acknowledge receipt of your letter of the 8th inst., quoting cartage rates on contract to handle our cartage to different points.
+We will accept your bid with the understanding that it is good for one year and that you will have ample equipment ready at all times to handle our business.
+We would thank you to confirm this letter, and have you start working on Wednesday, January 20th, 1932.”
+To which plaintiff replied on January 23d, 1932:
+"I am in receipt of your letter of January 18th, acknowledging my letter of January 8th, quoting you my trucking rates from your plant at Bayonne to different points of destination.
+It pleases me very much to know that you have accepted my rates for a contract that will run for a period of one year, at which time it may bo renewed.
+I will at all times have ample equipment to handle your business and will serve you to the best of my ability, which I know will be most satisfactory to you.”
+The real ground of this motion is that there was no promise on the part of the defendant to ship its goods in whole or in part by the plaintiff’s trucks.
+The cardinal rule for the construction of written contracts is to ascertain and give effect to the mutual intention of the parties. So, to ascertain the intention of the parties, if more than one construction of the language used is possible, the circumstances surrounding the transaction may be considered as well as the written document. Basic Iron Ore Co. v. Dahlke, 103 N. J. L. 635, 638. In the case at bar the complaint alleges in effect that the contract was in operation for more than seven months, during which time plaintiff handled all of defendant’s trucking business to said points of destination in accordance with the terms of said agreement.
+In passing upon the validity of contracts of this character the general rule is that it will be presumed that the parties thereto intended to make a binding and enforceable obligation. Baker v. Murray, 137 Okla. 288; 74 A. L. R. (Anno.) 477. As between two equally reasonable constructions, we should adopt the one which makes the contract valid, as against that reaching a contrary result. Pittsburgh Plate Glass Co. v. V. H. Neuer Glass Co., 253 Fed. Rep. 161.
+Contracts to furnish such material as one may need or require in his business for a specified time, are, by the weight of authority, held mutual and binding on the parties, where the nature of the purchaser’s business is such as to make the quantity of the article he will need subject to a reasonably accurate estimate. The basis of the rule is that the purchaser’s obligation to buy to the extent of his requirements or needs supplies mutuality. Pittsburgh Plate Glass Co. v. V. H. Neuer Glass Co., supra; Lima Locomotive, &c., Co. v. National, &c., Co., 155 Fed. Rep. 77; 11 L. R. A. (N. S.) 713; 43 L. R. A. 730; Loudenback Fert. Co. v. Tenn, &c., Co., 121 Fed. Rep. 298; 61 L. R. A. 402; Inman v. Dudley, &c., Co., 146 Fed. Rep. 449; 74 A. L. R. (Anno.) 477; Atlantic Pebble Co. v. Lehigh Valley Railroad Co., 89 N. J. Eq. 336; 98 Atl. Rep. 410; East v. Cayuga Lake Ice Line, 21 N. Y. Supp. 887; Wells v. Alexander et al., 130 N. Y. 642; Ehrenworth v. Stuhmer, 229 N. Y. 210; Schlegel Manufacturing Co. v. Peter Cooper Glue Factory, 179 N. Y. Supp. 271; Reeves v. Fulton Market, 173 N. Y. Supp. 568.
+The doctrine of a purely executory contract, where the reciprocal promises depend upon each other for support, is, of course, elementary. The difficulty is to determine what are and what are not such promises.
+In the case of Atlantic Pebble Co. v. Lehigh Valley Railroad Co., supra, the court after citing two cases as illustrative of what promises are reciprocal and what are not proceeded as follows:
+“Numerous other cases, illustrative both of promises not sufficient to constitute a valid consideration and promises which are sufficient, are cited in Williston on Sales, 798.
+“The distinguishing principle may possibly be stated to be that where the promise has for its subject-matter something which by the terms of the contract is left to depend for its very existence upon the future election of the promisor, it will not form a valid consideration for an executory contract, but where such subject-matter, in the normal and bona fide course of event as contemplated by both parties, is not thus left dependent, it will form such valid consideration, although there may be left elements of quantity, requirement, selection, &c., agreed to be left to the future discretion of the promisor.”
+In the case of Reeves v. Fulton Market, supra, the court very clearly points out the distinction above referred to in the following language:
+“An agreement to furnish such goods as shall be needed by the established business of the acceptor during a limited time, is binding, and may be enforced, because it contains the implied agreement that the acceptor will purchase from the offerer all the articles that its business shall require during the period in question. * * * An accepted offer to sell goods at specified prices during a limited time in such amounts and quantities as the acceptor may want or desire in his business, without any statement of the amount or quantity, is held to be without consideration and void, because the acceptor is not bound to want, desire or take any of the articles contemplated.”
+In the case sub judice the defendant is a manufacturer and was obligated to engage trucking facilities for the delivery of its merchandise such as the contract in question provides for, and the obligation of arranging for such trucking facilities lo the extent of its needs, supplies the mutuality in the agreement. The defendant had an established business, and its trucking requirements could be approximately estimated. It was sufficient consideration for such a contract, that the duty existed of giving to the plaintiff such trucking business as the needs of the defendant’s enterprise required.
+So far as a promise on the part of the defendant to ship all of its goods by the plaintiff’s trucks to the designated points is concerned, it seems clear that such was the intention of the parties.
+In the case of Ehrenworth v. Stuhmer, supra, the court said : “It is contended that there was no express promise to purchase any particular amount of the black bread, but this promise, even if it be not expressed, is implied. The plaintiff impliedly, if not expressly agreed to buy all the black bread which he can use on his route.”
+In the case of Mills-Morris Co. v. Champion Spark Plug Co., 71 Fed. Rep. (2d ed.) 38; 74 A. L. R. (Anno.) 478, the court said:
+“While the seller did not agree in express terms to sell to the buyer yet the obligation was clearly implied in its undertaking, and the requirements that is expected of the buyer, * * *. The buyer had an established trade, and there was implied, in the language referred to, an obligation to buy from defendant all the plugs that plaintiff should actually, in good faith, and in the normal course of its business, require in supplying its business.”
+In the case at bar, there is no question but that the parties intended that the plaintiff was to take care of all of the trucking needs of the defendant for a period of one year to certain points of destination, and that the defendant promised to give all of its trucking work during the said period to the plaintiff. The only part of the agreement which is not definite is the quantity of the defendant’s requirements in the normal operation of its business; and since it is evident that the parties contemplated a binding contract and it was not left to the whim or wish of the defendant as to the quantity, but was left to its actual business requirements, this contract must be considered as valid and binding upon both parties in view of the authority herein above cited.
+The defendant’s motion to strike out the plaintiff’s complaint will, therefore, be denied, and an order may be presented in accordance with the conclusion thus reached.
