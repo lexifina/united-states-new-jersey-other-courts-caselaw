@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1951-03-26"
+citations: ["12 N.J. Super. 544"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. RAYMOND MURPHY, PLAINTIFF, v. STANLEY J. MORRIS, SIDNEY STARR, SOPHYE MORRIS, AND GLOUCESTER SPINNING CORPORATION OF NEW JERSEY, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/12/cases/0544-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 425611
+cites_cases: ["117 N. J. Eq. 50", "121 N. J. L. 389", "127 N. J. Eq. 49"]
+---
+
+# Murphy v. Morris
+
+## Majority (Haneman, J. S. C.)
+
+Haneman, J. S. C.
+This is a motion to dismiss the complaint on the following grounds: (1) the plaintiff is barred, having elected his remedy in a prior .suit in the Superior Court of New Jersey, Chancery Division, Camden County, entitled J. Raymond Murphy, plaintiff, v. Gloucester Spinning Corporation of New Jersey, defendant; (2) the action herein, insofar as it seeks rescission for fraud, was not timely brought; (3) the contract involved herein provides for arbitration and plaintiff is therefore relegated, in the event he has a cause of action, to submit to arbitration.
+The amended complaint herein sets up plaintiff’s cause of action in 12 separate and distinct counts. Counts 1 to 6 inclusive seek recovery for money advanced by plaintiff to defendant Gloucester Spinning Corporation. Counts I, 8, 9 and 10 seek rescission of the contract entered into between the plaintiff and defendants Stanley J. Morris, Sidney Starr and Gloucester Spinning Corporation upon the alleged fraudu-' lent representations of the said Stanley J. Morris and Sidney Starr in inducing the plaintiff to enter into said contract, and recovery from Stanley J. Morris and Sidney Starr of the consideration paid to them for stock in said Gloucester Spinning Corporation. The 11th and 12th counts seek relief against certain actions of the said Stanley J. Morris and Sidney Starr in connection with the conduct and operation of the Gloucester Spinning Corporation.
+On January 24, 1949, plaintiff commenced an action in the Superior Court of New Jersey, Chancery Division, against Gloucester Spinning Corporation, Docket No. C-664-48, in which he alleged that he was a stockholder in the named defendant corporation and a creditor by reason of having advanced certain stuns of money to the defendant corporation, and that the said defendant corporation was insolvent. This action sought the appointment of a receiver for the said Gloucester Spinning Corporation. In this action plaintiff was unsuccessful. Thereafter, the present action was commenced.
+Although the complaint now filed is framed with different phraseology, the relief sought in counts 1 to 6 inclusive and counts 11 and 12 are more or less identical with the relief sought in the prior suit.
+Defendants argue that since in the prior suit the plaintiff had approbated the contract under which he obtained his stock from Stanley J. Morris and Sidney Starr, he cannot now be heard to reprobate the contract on the ground of fraud. The question, therefore, with which we are concerned is whether the plaintiff had elected his remedy in the prior suit.
+An election of remedies may generally be defined as choosing between two or more different and co-existing modes of procedure and relief allowed by law on the same state of facts. 18 Am. Jur., p. 129; 28 C. J. Sec., p. 1057; 20 C. J., p. 2.
+| 2] The essential conditions or elements of election of remedies are (1) the existence of two or more remedies; (2) the inconsistency between such remedies, and (3) a choice of one of them. Levy v. Massachusetts Accident Co., 127 N. J. Eq. 49 (E. & A. 1939); Tremarco v. Tremarco, 117 N. J. Eq. 50 (E. & A. 1934); Adams v. Camden Safe Deposit & Trust Co., 121 N. J. L. 389 (Sup. Ct. 1938).
+Tiie doctrine is applicable where an aggrieved party has two remedies by which he may enforce inconsistent rights growing out of the same transaction.
+In the case sub judice the plaintiff, in his initial action, sought the appointment of a receiver on the ground that the defendant corporation was insolvent and in that action alleged that he was a stockholder and a common creditor of said corporation. In the second action, disregarding for the purpose of this opinion all of the relief demanded except that by way of rescission, the plaintiff alleges that he was fraudulently induced to enter into a contract under which he obtained the stock, and seeks relief as a result thereof, not as against the corporation but as against the two individuals, Stanley J. Morris and Sidney Starr. It is therefore apparent that the second suit is against different parties than the first suit. It is also apparent that the relief sought is different. The transaction out of which the two causes of action arose are not identical. In the first cause of action, to be successful it was unnecessary for the plaintiff to make any allegation concerning his stockholdings in the defendant corporation. The allegation of his creditor status would have been sufficient. It follows, therefore, that the two actions were not brought to redress the same wrong, nor did they arise out of the same state of facts.
+As Mr. Justice Heher stated in Adams v. Camden Safe Deposit & Trust Co., supra:
+“Tie doctrine of election of remedies, considered by eminent authority as ‘a harsh, and now largely obsolete rule,’ is one to be strictly confined within its reason and spirit.”
+The doctrine of election of remedies, confined as above suggested, need not here be applied. Defendants’ motion on this ground will be denied.
+The second basis upon which defendants argue for a dismissal is also here held without merit, since the question of time within which the action should have been brought can only be determined upon a final hearing and production of the necessary evidence in open court, subject to examination and cross-examination. This, in the final analysis, may well be a defense upon a final hearing but is not a ground at this stage of the proceeding for the dismissal of the complaint.
+The third basis upon which defendants move for a dismissal is also here held without merit. The effect of this action by the plaintiff is to attack the whole contract which, among other things, makes provision for arbitration in the event of any difference or controversy under said contract. In the event the plaintiff is successful, this clause must fail with the entire contract. In the event the plaintiff is not successful, we may be faced with a different state of facts and then be obliged to determine the applicability of the arbitration clause to the balance of the allegations of plaintiff’s complaint.
+The motion will be denied.
