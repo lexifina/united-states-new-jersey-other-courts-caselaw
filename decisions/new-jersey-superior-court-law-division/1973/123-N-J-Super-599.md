@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1973-05-03"
+citations: ["123 N.J. Super. 599"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOIS GLASS, WERNER GLASS AND DONALD GLASS, PLAINTIFFS, v. FORD MOTOR COMPANY AND WESTFIELD MOTOR SALES, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/123/cases/0599-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 297323
+cites_cases: ["104 Cal. Rptr. 433", "121 N. J. Super. 299", "18 Hastings L. J. 9", "501 P. 2d 1153", "51 N. J. 130", "54 N. J. 585", "60 N. J. 402", "60 N. J. 413", "8 Cal. 3d 121"]
+---
+
+# Glass v. Ford Motor Co.
+
+## Majority (Steiebetjgge, J. C. C.,)
+
+Steiebetjgge, J. C. C.,
+Temporarily Assigned. This is a products liability action in which the plaintiffs allege that defendants breached implied warranties of merchantability and of fitness for a particular purpose under the Uniform Commercial Code. N. J. 8. A. .12A:2-314, 12A: 2-315. Although not specifically pleaded by name, the theory of strict liability in tort, as set out in the Restatement, Torts 2d, § 402A, is equally applicable to the situation at bar. Justice Erancis has urged that warranty language be avoided in products liability actions, and that the pleadings allege what is in fact the essence of such a suit, which is an action in tort and not in contract.
+[Practical administration suggests that the principle of liability be expressed in terms of strict liability in tort thus enabling it to be applied in practice unconfined by the narrow conceptualism associated with the technical niceties of sales and implied warranties. [Newmark v. Gimbel’s, Inc., 54 N. J. 585, 595 (1969)]
+The question for consideration concerns the effect that should be given to defendant Ford Motor Company’s request to charge No. 11. The requested charge is as follows:
+The standard of safety with respect to the liability of the manufacturer of a product apart from negligence is similar to that described as the implied warranty of merchantability, and with respect to the allegation of liability against the defendant apart from negligence, the plaintiff has the burden of establishing, along with causation, that the product was unreasonably dangerous and not reasonably fit for the ordinary purpose for which such articles are sold and used because of a defect therein which arose out of the design, preparation or manufacture of the article while it was in the control of the manufacturer.
+The italicized phrase is evidently drawn verbatim from § 402A of the Restatement, which states:
+(1) One who sells any product in a defective condition unreasonably dangerous to the user or consumer or to his property is subject to liability for physical harm thereby caused to the ultimate user or consumer, or to his property, if
+(aj the seller is engaged in the business of selling such a product, and
+(b) it is expected to and does reach the user or consumer without substantial change in the condition in which it is sold. (2) The rule stated in Subsection (1) applies although
+(a) the seller has exercised all possible care in the preparation and sale of his product, and
+(b) the user or consumer has not bought the product from or entered into any contractual relation with the seller. [Italics supplied]
+The court holds that the additional element of “unreasonable danger” is not a valid part of the concept of strict liability in tort in the State of New Jersey. It therefore adopts as law § 402A, minus the phrase “unreasonably dangerous” and minus any necessity for the jury to find that the product was in a “defective condition unreasonably dangerous.” If the jury finds that (1) the product was defective while in the hands of defendant; (2) this defect proximately contributed to the harm complained of, and (3) plaintiff was a reasonably foreseeable user or consumer of the product, that is sufficient to give a verdict to plaintiff.
+The function of the “unreasonably dangerous” qualification in § 402A is, at best, unclear. Dean Prosser thought that it was added to save the manufacturer, processor or distributor of a product that might, inherently, harm some people (e. g., whiskey, drugs) from becoming “automatically responsible for all the harm that such things do in the world.” Prosser, “Strict Liability to the Consumer in California,” 18 Hastings L. J. 9, 23 (1966).
+If the sole effect of the “unreasonably dangerous” qualification were to prevent a seller from becoming an insurer, it would not meet with objection. But, as is made clear in Cronin v. J. B. E. Olson Corp., 8 Cal. 3d 121, 104 Cal. Rptr. 433, 501 P. 2d 1153 (Sup. Ct. 1972), the requirement “. . . has burdened the injured plaintiff with proof of an element which rings of negligence.” (104 Cal. Rptr. at 442, 501 P. 2d at 1162). That is, the jury is influenced by the “unreasonable danger” requirement to employ the “reasonable man” standard and thereby arrive at the conclusion that an “ordinary consumer” either would, or would not have expected the defective condition of the particular product. If the jury finds that the defect would have been expected by the ordinary consumer •— which is the same as saying that the product’s defective condition was not unreasonably dangerous — then the injured plaintiff, regardless of his own expectations, is denied recovery.
+The notions of negligence and of strict liability, however, are antithetical to each other. Brody v. Overlook Hospital, 121 N. J. Super. 299, 309 (Law Div. 1972). The purpose of the doctrine of strict liability, for various policy reasons too well known to be repeated here, is “to relieve the plaintiff from problems of proof inherent in pursuing negligence * * * remedies.” Cronin, supra, 104 Cal. Rptr. at 442, 501 P. 2d at 1162. This court is free to purge the “unreasonably dangerous” requirement from strict tort liability in New Jersey, since that qualification has never been expressly adopted as the common law of this State in any of the controlling cases that have cited § 402A. See, e. g., Rosenau v. New Brunswick and Gamon Meter Co., 51 N. J. 130, 136 (1968); Newmark v. Gimbel’s, Inc., 54 N. J. 585, 595 (1969): Bexiga v. Havir Mfg. Co., 60 N. J. 402, 408 (1972); Finnegan v. Havir Mfg. Co., 60 N. J. 413, 420 (1972). As Cronin, supra, 104 Cal. Rptr. at 442, 501 P. 2d at 1162, correctly observes, “a requirement that a plaintiff also prove that the defect made the product “unreasonably dangerous’ places upon him a significantly increased burden and represents a step backward * *
+This court will not take that step, and therefore holds that the qualification of “unreasonable danger” plays no role in the common law concept of strict liability in tort.
