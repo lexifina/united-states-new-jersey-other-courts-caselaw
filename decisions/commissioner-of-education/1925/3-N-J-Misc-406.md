@@ -1,0 +1,28 @@
+---
+court: "Commissioner of Education"
+decided: "1925-04-07"
+citations: ["3 N.J. Misc. 406"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Herman Shapiro, appellant, v. Board of Education of the City of Paterson, respondent."]
+source_url: "https://static.case.law/nj-misc/3/cases/0406-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439961
+---
+
+# Shapiro v. Board of Education
+
+## Majority (C. J. Stbahan, Assistant Commissioner of Education.)
+
+The appellant in .this action who, on September 1st, 1921, was appointed a teacher in the Paterson public schools, contests the validity of the action of the board, of education of the city of Paterson in notifying appellant on June 27th, 1924, that his services as teacher in the public schools of that city would not be required after June 30th, 1924. Appellant contends that he has been for three years employed as a teacher in the school district of the city of Paterson, protests against what he alleges to be a dismissal without cause and without the preferring of charges or the granting of a hearing, and demands reinstatement in his position of teacher in the Paterson High School.
+A hearing in tins case was conducted by the assistant commissioner in the city hall in Paterson, on Wednesday, March 11th, 1925, at which testimony of witnesses on both sides was heard. Opportunity for filing briefs, moreover, upon the legal points involved has been afforded counsel for both sides.
+The decisions of tins department, as. well as those of the supreme court, notably that of Davis v. Overpeck Township Board of Education (filed in the office of the clerk of the supreme court and not reported), hold that three consecutive calendar years of service in the same district are necessary to place a teacher under the protection of the Teachers’ Tenure act.
+The appellant, whom the testimony shows to have been appointed September 1st, 1921, could not, in the commissioner’s opinion, be deemed to have been under tenure at the time of his dismissal on June 30th, 1924, since he had not then completed the three consecutive calendar years of service necessary as above stated to' gain tenure. Neither, in the commissioner’s opinion, could be be deemed to have been in process of attaining tenure by virtue of a valid contract for a third calendar year, or, in fact, to have any valid contract of any kind for the third year, which the Paterson board of education could be considered to have violated. The appellant’s third appointment does not, from the testimony, appear to have been for a definite term; he was not, moreover, in possession of any written agreement, and the Paterson board of education did not, in lieu of such written agreement, have any written rules and regulations, governing the appointment of its teachers. The rules of the Paterson board of education, cited in the brief of appellant’s counsel, deal entirely with the licensing of its teachers and not with their appointment.
+Section 154,, article 8 of the 1921 compilation of the School law, authorizes boards of education to make rules and regulations governing the engagement and employment of principals and teachers', and goes on to provide that “if a board of education shall not have made rules, and regulations as aforesaid, then no contract between such board of education and a teacher shall be valid'undess the same be in writing * * * in triplicate, signed by the president and district clerk or secretary of the board of education and by the teacher,” and one copy filed with the board, one with the teacher and one with the county or city superintendent.
+Tlie appellant, as above stated, held no written contract at the time of his dismissal in June, 1924, nor did the Paterson board of education have any definite rules and regulations governing the employment, terms, &e., of its teachers.
+In view of the above statute, therefore, it is the opinion of the commissioner that at tire time of appellant’s dismissal by the Paterson board of education in June, 1924, there was no valid and binding contract between him and the board of education either in the way of a written agreement or term of employment fixed by rules and regulations as required by law, and that the appellant cannot accordingly claim any violation of his rights..
+Moreover, in order for a person to¡ be legally employed as a teacher in the public schools of New Jersey, both the law and the rules of the state board of education require that he possess a valid teacher’s certificate in full force and effect. Rule 4, page 359 of the 1921 compilation of the School law of the state board of education rules provides that “the responsibility for holding the proper form of certificate rests with the teacher.” Mr. Shapiro, the appellant in tins case, was eligible for a certificate to be issued by the Paterson city board of examiners, but at the time of his dismissal in June, 1924, he possessed no. certificate of any kind.
+In view of the fact, therefore, that appellant at the time of Ms dismissal possessed no teaeliing certificate as required both by the law and the rules of the state board of education, and was serving no valid term of employment either by a written contract or under the rules of the Paterson board of education, his claim that he was. unlawfully dismissed on June 30th, 1924, by the Paterson board of education cannot, in the commissioner’s opinion, be sustained.
+The appeal is accordingly hereby dismissed.
+C. J. Stbahan, Assistant Commissioner of Education.
