@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1949-02-03"
+citations: ["2 N.J. Super. 397"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLOTTE PORTUGUESE, PLAINTIFF, v. GEORGE ZISS AND MARY ZISS, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/2/cases/0397-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 368494
+---
+
+# Portuguese v. Ziss
+
+## Majority (Stein, J. S. C.)
+
+Stein, J. S. C.
+The question before the court in this case is whether a certain mortgage made by William Wade and Mary Wadp, his wife, to Benjamin Nadelberg recorded on October 15, 1924 in the Essex County Register’s Office in Book F52 page 476, and which remains uncancelled of record, constitutes a lien or cloud upon the title to premises 416-18 Park Avenue, East Orange, including No. 190 North Clinton Street, being attached 2i/->-story frame building consisting of three stores and upon which there are three garages.
+On August 4, 1948, the defendants and one Max Zinberg entered into an agreement in writing whereby the defendants agreed to sell this property to Max Zinberg. The agreement on August 14, 1948 was assigned to the plaintiff.' The purchase price in the agreement of sale is $15,000 and the property was to be conveyed by deed oí bargain and sale with covenant against grantor.
+The complaint in the first cause of action seeks judgment for the sum of $500, being the deposit paid when the contract was entered into on the ground that the defendants are unable to convey title as provided by the agreement because of the outstanding uncancelled mortgage above mentioned. The second count seeks declaratory judgment and an adjudication as to the rights of plaintiff and defendants under the contract of sale and specific performance of the contract if it is determined that the title is marketable. The mortgage in question was assigned by Nadelberg to Jacob Fox June 30, 1928, by assignment of mortgage recorded in Book 202 of Assignment of Mortgages page 112 for Essex County.
+Orange Holding Co., Inc., a New York corporation of which Fox was president and principal stockholder obtained a deed for the premises July 15, 1927. The deed recited the conveyance was subject to three mortgages, one of which was the mortgage in question. The mortgages with the exception of the one here in question were cancelled and discharged of record.
+October 24, 1935, the Orange Holding Co., Inc., conveyed the premises to Jacob Fox. The deed is signed and acknowledged by Jacob Fox only as president of the corporation. No mention of the $5,000 mortgage (in the complaint mistakenly mentioned as $500) is made.
+Jacob Fox died in New York leaving a will, an exemplified copy of which is recorded under date of June 28, 1939 in Book Z12 of Wills, page 139 for Essex County. In his will he devised the property covered by the mortgage to his “sister Ida Matz and her two daughters * * * in fee simple.” The eighth paragraph of the decedent’s will provided: ‘T do hereby declare and direct my executors to cancel all the bonds and any and all other evidences of indebtedness, other than stock of the Owners & Tenants Electric Co., Inc. held by me and owned by me.”
+Under the law merger of the mortgage will not be presumed where the holder of both the mortgage interest and the fee has expressly declared his intention that there should 'be no merger, or where the holder of both the mortgage interest and the fee would be injured by the merger as by an encumbrance subsequent to the mortgage acquiring a preferred position due to the merger. On the other hand, merger is presumed as a matter of law from the uniting of the greater and lesser estates in the same person, in the absence of an indication of a contrary intention.
+In this case the decedent Fox indicated by his will in the eighth paragraph that he desired and directed all bonds and any other evidences of indebtedness to be cancelled. If it had not been his intention that the mortgage was to merge in the deed which he accepted, which mortgage was given as security for the payment of the bond accompanying the same, it is reasonable to assume that he would have said so. Again in the fourth paragraph of his will he devised the property in question, together with other property to his sister, Ida Matz, and her two daughters, and concluded the paragraph with the statement “All the foregoing are gifts in fee simple.”
+Ida Matz was also an executrix with six other persons named as executors of the will of decedent. She testified that the first she heard of the mortgage in question was when her daughter became the owner of .the property and sold the same in 1946. Further this witness says that in the federal and estate tax returns made by the executors the property in question was reported as being held by the estate free and clear of encumbrances. Her testimony generally was that she and the remaining executors knew nothing about such a mortgage or its existence. If it had been the intention of the decedent that the mortgage should not merge the mortgage and bond accompanying the same would have been found among 'his effects. Again when the decedent obtained title to the premises from the Orange Holding Co., Inc., he acquired the title by warranty deed. No reference was contained in the deed with respect to the mortgage. It is reasonable to presume that he did not intend to enforce the lien against his grantor.
+The defendants answering the complaint, counterclaim and pray for specific performance of the contract.
+Considering the proof before me I conclude that the property in question is unencumbered and that judgment specifically enforcing the contract of sale should be awarded the defendants on the counterclaim.
