@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1948-11-03"
+citations: ["1 N.J. Super. 362"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DAVID J. W. BELL, PLAINTIFF, v. ANNA W. J. BELL, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/1/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 369368
+cites_cases: ["81 N. J. Eq. 190", "86 A. 406"]
+---
+
+# Bell v. Bell
+
+## Majority (Grimshaw, J. S. C.)
+
+Grimshaw, J. S. C.
+The plaintiff, David J. W. Bell, and the defendant, Anna W. J. Bell, are husband and wife. He seeks to have certain property standing in the name of Anna W. J. Bell declared to be held by her in trust for his benefit. Bell also asks that the property he conveyed to him.
+Plaintiff had been married previously and divorced. The property in dispute had been acquired during the prior marriage. When that union was about to terminate the property was conveyed to Douglas S. Bell, brother of the plaintiff, in trust for the plaintiff.
+Plaintiff and defendant were married on March 25, 1938. The disputed deed from Douglas S. Bell and Margaret F. Bell, his wife, to Anna W. J. Bell was dated February 10, 1938, before the defendant had become Anna Bell, but was recorded in April, after the marriage had taken place. Bell testified that he and the defendant, Anna Bell, together with Douglas Bell and his wife, met at the office of the building and loan association which held the mortgage on the property. The deed was signed by Douglas Bell and his wife, and then plaintiff, according to his story, told the defendant that the property was being transferred to her to hold until he wanted it deeded to him or to someone he should designate. To this, Bell said, defendant agreed. Douglas Bell testified that the property was turned over to the defendant "with the understanding when he wanted it back to do as he saw fit it would be turned over.” Douglas Bell could not remember the exact conversation'. Mrs. Douglas Bell, who was present at the meeting, testified that there was no discussion between the parties as to the conditions under which the property was transferred. She stated that her husband said they wanted the deed signed and she signed it.
+Anna Bell, the defendant, testified 'that shortly after the marriage, and while she was still living in her own home, Bell came to her and told her that he was turning over the property to her. Anna Bell expressed surprise but said that if he wanted to turn over the property she had no objection. She denied having been at the building and loan office and said that the first time she saw the deed was some years later when she paid off the mortgage. She also denied that Bell put any condition upon the transfer. Somewhat in corroboration of Anna Bell’s testimony, and in conflict with his direct testimony, Bell testified on cross-examination that after the marriage he told Anna Bell that title to the property had been put in her name. He could not recall what she said about it.
+Two witnesses called by the plaintiff testified to statements made by Mrs. Bell concerning the property. There was no attempt to fix the time when the statements were made nor was there any effort on the part of the witnesses to give the exact language of the statements. Some letters written by the defendant were offered in evidence. They were written in 1941, three years after the transfer was made. They referred to promises made by the defendant to turn the property over to the plaintiff. They did not say when or under what circumstances the promises were made. Defendant admitted authorship of the letters. She said that upon occasion the plaintiff would become intoxicated and beat her. He would demand the conveyance of the property to him. She stated that the promises were made and the letters written in an endeavor to placate Bell. Whether or not that testimony is true, neither the letters nor the testimony concerning the statements made by the defendant are of any help in' solving the problem. They are too remote in point of time from the date of the transfer of the property.
+The rule in this state is well settled that where a husband procures real estate to be conveyed to his wife, he paying the consideration, a presumption arises that he intends to settle the property on her, and while such presumption may be rebutted, the proof offered to accomplish it must be certain, definite, reliable and convincing, leaving no reasonable doubt of the intention of the parties. And the proof relied on to rebut the presumption of a settlement must he of facts antecedent to or contemporaneous with the purchase or else immediately afterwards so as to be, in fact, part of the same transaction. McGee v. McGee, 81 N. J. Eq. 190, 86 A. 406.
+Plaintiff’s proofs fail to meet the standards set by the rule. His testimony concerning the conditions placed upon the transfer was corroborated rather weakly 'by his brother. On the other hand, defendant denied that Bell told her that she was to hold the property for him. In this she was corroborated by Mrs. Douglas Bell, the only unprejudiced witness who testified that there was no discussion of conditions when the transfer was made.
+Plaintiff, having failed to overcome the presumption of a gift, there must be a judgment for the defendant.
