@@ -1,0 +1,33 @@
+---
+court: "New Jersey Department of Labor, Workmen's Compensation Bureau"
+decided: "1925"
+citations: ["3 N.J. Misc. 924"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH SULLIVAN, PETITIONER, v. EDWARD F. CLARK, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/3/cases/0924-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439597
+cites_cases: ["38 N. J. L. J. 105"]
+---
+
+# Sullivan v. Clark
+
+## Majority (John J. Stahl, Referee.)
+
+On petition for compensation. On finding of facts and determination. On rule for judgment.
+A petition having been filed in the above-stated cause, praying for the compensation to which the petitioner may be entitled by virtue of the terms and provisions of an act entitled, “An act' prescribing the liability of an employer to make compensation for injuries received by an employe in the course of employment, establishing an elective schedule of compensation and regulating procedure for the determination of liability and compensation thereunder,” approved April 4th, 1911, and the. several acts amendatory thereof and supplemental thereto, and a time and place for the hearing of said petition having been fixed, and it appearing to the referee that the said petition and order fixing the time and place of said hearing have been duly served upon the respondent, and the respondent having filed an answer to said petition, and the matter having been heard before John J. Stahl, referee, at the workmen’s compensation bureau chambers, 571 Jersey avenue, Jersey City, New Jersey, on July 18th, 1924, and continued on September 5th, 1924; September 11th, 1924; October 3d, 1924; October 10th, 1924; October 14th, 1924, and December 2d, 1924, in the presence of Frank W. Iieilenday, Esq., of counsel with A. A. Melniker, attorney for the petitioner, and James J. Farley, Esq., attorney of the respondent, and the parties having produced witnesses and having submitted their proofs, and counsel having been heard thereon, and the proofs and arguments having been duly considered, together with testimony .adduced—
+1 do find and determine as follows from the evidence as follows :
+The case at bar involves one of frost bite or freezing, and whether the same constitutes an accident arising out of and in the course of employment, within the purview of the Workmen’s Compensation act. The facts in evidence were that the petitioner, Joseph Sullivan, employed as a chauffeur of a newspaper delivery truck by the respondent, Edward P. Clark, while driving the said truck in the performance of his duties during the early morning hours of January 27th, 1924, by the severe cold and exposure to the same, suffered frost bites of both feet. As a general principle, the Workmen’s Compensation act assumes to provide compensation for industrial accidents only; those growing out of the employment and caused by the industry. Those caused by the employment and produced by the industry are compensatory. It does not apply to- injuries resulting from those forces of nature described in the common law as vis major, or the acts of God; such acts or forces as are wholly uncontrollable by men. However, it is not intended to- bold that injuries from frost bite can in no-'case be clue to an accident arising out of and in the course of the employment. It has been rightly said that they can be. Burke v. Ballentine, 38 N. J. L. J. 105. In the Burks case it was said that if there is some circumstance peculiar to the employment which subjected the workman to greater danger from the severity of the elements than would ordinarily he incurred by others not engaged in that particular employment, the accident does arise out of the employment. Burke v. Ballentine. supra. To suffer from frost bite is a risk known to all, and independent of employment, yet, the circumstances of a particular employment might make the risk not a general one, but one sufficiently exceptional to justify its being held that the accident from such risk was an accident arising out of the employment.
+Prom the evidence adduced in the present case, I am of the opinion that the petitioner, Joseph Sullivan, during the course of: liis employment on January 27th, 1924, was subjected to greater clanger from the severity of the weather, and because of this extra hazard, suffered from frost' bite of both feet, which I hold constitutes an accident arising out of and in the course of his employment. I, therefore, find as a fact:
+1. That the petitioner, Joseph Sullivan, was employed by the respondent, Edward P. Clark, on January 27th, 1924, and for a period of three years prior thereto, as a. chauffeur, and that his duties, among other things, consisted of driving an open Mack truck and making early morning delivery of newspapers; that the said employment was subject to the provisions of section 2 of the Workmen’s Compensation act, otherwise known as the elective schedule of compensation.
+2. That the- petitioner received wages from the respondent at the time of. his injuries at the rate of $24 per week, which included his flat weekly salar3r, plus $3 extra for night driving.
+3. That on the aforesaid 27th day of January, 1924, the petitioner met with accident arising out of and in the course of his employment as hereinbefore described; of which accident respondent had due notice within the statutory period, as described in paragraph 15 of the aforesaid act.
+4. That as a result of said accident, the petitioner suffered a temporary disability lasting from January 27th, 1924, to December 2d, 1924, and that the petitioner has a permanent disability of five per centum of the total, caused by the involuntary contraction of the tendons of the toes of both feet, aggravated or otherwise brought on by the frost bite.
+5. That the petitioner is entitled to the medical expenses and hospital services in the sum of $100, as provided by paragraph 14 of the aforesaid act; the petitioner is limited to this amount because of his failuré to furnish or file in due time an application or petition for extra medical allowances as provided in paragraph 14.
+6. That the petitioner’ attorney is entitled to an allowance of counsel fee which I fix in the sum of $200, and assess the same against the respondent. ■
+7. That the petitioner is entitled to compensation for a period of forty-four and two-seventh weeks at the rate of $16 per week for temporary disability, and twenty-five weeks at the same rate for permanent disability, based on five per cent, total permanent disability.
+8. Costs of stenographic attendance will he allowed the petitioner.
+* * * * * * $ $ $
+John J. Stahl, Referee.
