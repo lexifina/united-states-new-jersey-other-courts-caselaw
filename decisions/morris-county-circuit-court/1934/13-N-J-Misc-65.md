@@ -1,0 +1,27 @@
+---
+court: "Morris County Circuit Court"
+decided: "1934-12-06"
+citations: ["13 N.J. Misc. 65"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HAROLD SHIFRIN, PLAINTIFF, v. MAX MINTZ, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/13/cases/0065-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 575207
+cites_cases: ["1 A. L. R. 1551", "102 N. J. L. 432", "117 N. E. Rep. 951", "128 Atl. Rep. 543", "131 Atl. Rep. 921", "155 N. E. Rep. 67", "221 N. Y. 475", "244 N. Y. 111", "44 Atl. Rep. 630", "63 N. J. L. 554"]
+---
+
+# Shifrin v. Mintz
+
+## Majority (La weenoís, 0. C. J.)
+
+La weenoís, 0. C. J.
+On being moved for trial, inasmuch as the facts were not in dispute, the case was withdrawn from the jury and submitted to the court for determination, as involving a question of law only on a motion for a nonsuit.
+Defendant was, when the accident giving rise to the suit occurred, the owner of an office building in Morristown. A firm occupying, under lease, offices in the building engaged a window cleaning company in whose employ plaintiff was to wash the windows, and the company sent him to do the work, lie had been so employed for a number of years and bv reason of his experience knew the hazardous nature of such work and the risk entailed.
+Beneath the windows on the exterior of the building is a stone ledge, evidently intended for ornamental purposes, ten and a half inches wide. The windows are equipped with ordinary half sash which can be raised and lowered from the bottom and the top, and on the inside, at the time, were screens which could be raised and, if desired, removed.
+Immediately preceding the accident, plaintiff had raised the screen of one of the -windows on the inside and without removing it had washed the glass. He then raised the lower sash and leaving it and the screen in that position went through the window and was standing on the ledge doing his work, while holding on with his left hand at the bottom of the raised sash, when the screen or sash, he was not clear which, suddenly dropped, causing him to release his hold and to lose his balance. The result was that he fell to the sidewalk and was seriously injured.
+There were no hooks on the building outside the window to which a safety belt, sometimes used by window cleaners, could be attached. Plaintiff knew this and was familiar with the construction of the window, including the presence of the inside screen, as he had on a number of former occasions cleaned this window and had taken a similar position on the ledge while working outside.
+There was no proof of any statutory or municipal regulation requiring the owner to provide the building with window hooks or other device'for the use of window cleaners. Plaintiff’s suit sounded accordingly in common law negligence for defendant’s alleged failure to provide him, as an implied invitee on the premises, with a reasonably safe place in which to do his work, and in particular to place a ledge on the outside of the building of sufficient width upon which he could stand in safety. Just how wide this ledge should have been, considering the way in which the accident happened, was not set up in the complaint, nor was it stated while plaintiff was under examination at the trial. As a matter of fact, it appeared that at other times he did his work while standing on the ledge in question without falling. There was no suggestion that either the window sash or the screen inside had been negligently constructed or placed.
+Counsel for defendant on the indicated state of facts urged that there was no legal liability on the part of defendant and that no recovery could be had by plaintiff. He therefore moved a nonsuit. The inquiry naturally arising is, what was the proximate cause of plaintiff falling? Was it the sudden and unexpected dropping of the sash or screen, for the raising of which he, himself, was responsible; or was it due to the fact that the ledge did not provide him with adequate footing as claimed? It seems sufficiently clear that nothing short of a safety belt, having regard to the manner of the occurrence, attached in some wav to the building would have prevented plaintiff from falling. But defendant was under no duty to furnish window hooks, a belt, or any other safety appliance, in the absence of statutory requirement or municipal regulation. Cf. Dougherty v. Pratt Institute, 244 N. Y. 111; 155 N. E. Rep. 67. ISTor did defendant’s liability arise because of the sudden dropping of the sash or screen. No negligence can be inferred so far as he was concerned in that respect. See McLean v. Studebaker Brothers Co., 221 N. Y. 475; 117 N. E. Rep. 951; 1 A. L. R. 1551. In Bielecki v. Max Hertz Leather Co., 3 N. J. Mis. R. 375; 128 Atl. Rep. 543; affirmed, 102 N. J. L. 432; 131 Atl. Rep. 921, it was said that the owner of a building is not bound to construct it in such a way that it will not be dangerous to people who are ignorant or careless, while in Haskell v. L. H. Kurtz Co., L. R. A. 1917-F-831, it was pointed out that the owner of a building is not to be held liable to a window washer, who. with knowledge of the conditions, attempts to do the work in a dangerous manner. See, also, Saunders v. Eastern Hydraulic Brick Co., 63 N. J. L. 554; 44 Atl. Rep. 630.
+Since plaintiff’s injury was not shown to have been due to the negligence of defendant, it follows that the motion for nonsuit should be granted.
