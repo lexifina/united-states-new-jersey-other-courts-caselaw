@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1988-01-19"
+citations: ["224 N.J. Super. 432"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JEANNE TAYLOR LIST, PLAINTIFF, v. DOUGLASS S. LIST, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/224/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 348636
+cites_cases: ["108 N.J.Super. 331", "179 N.J.Super. 164", "18 N.J.Super. 12", "192 A.2d 797", "25 N.J. 573", "41 N.J. 277", "46 N.J. 531", "65 N.J. 329", "9 ALR3d 538"]
+---
+
+# List v. List
+
+## Majority (KRAFTE, J.S.C.)
+
+KRAFTE, J.S.C.
+This is a post-judgment motion originally returnable October 30, 1987, in which the defendant seeks an order from the court dismissing any and all future proceedings between the parties for lack of jurisdiction. This court deems it appropriate instead to invoke the equitable doctrine of forum non conveniens, sua sponte.
+The parties in question were divorced in New Jersey pursuant to a Judgment of Divorce entered on December 23, 1982. The plaintiff then relocated to the State of North Carolina. Recently the defendant also moved to North Carolina and as a result of both parties now residing in that state, filed this motion. Pending before this court is a plenary hearing scheduled for March, 1988, wherein post-judgment relief is sought concerning support payments.
+The doctrine of forum non conveniens is firmly embedded in the common law of this State. Civic Southern Factors v. Bonat, 65 N.J. 329, 332 (1974); Starr v. Berry, 25 N.J. 573 (1958). Under this doctrine, a court can prevent the imposition upon its jurisdiction of the trial of causes when it determines that for convenience of the litigants and witnesses, and in the interest of justice, the action should be instituted in another forum. Wangler v. Harvey, 41 N.J. 277, 286 (1963). The ease of access to other sources of proof is also a factor for the court to consider before invoking this equitable doctrine. Semanishin v. Metropolitan Life Ins. Co., 46 N.J. 531, 533 (1966).
+This State is almost completely devoid of case law regarding this doctrine and its relationship to matrimonial proceedings. See Loonan v. Marino, 179 N.J.Super. 164 (Ch.Div.1981). Indeed, in New Jersey, the doctrine of forum non conveniens has primarily been applied in actions based on out-of-state, non statutory torts involving personal injuries where the defendant is not a New Jersey resident and the bulk of witnesses are also non-residents. Amercoat Corp. v. Reagent Chem & Research, Inc., 108 N.J.Super. 331, 347 (App.Div.1970).
+Since both parties now reside out of state, a heavy burden would be imposed upon each litigant if any subsequent proceedings were required to be heard by this court. Although the present tendency of the courts is to avoid a rigid formula and to weigh sundry factors, the doctrine of forum non conveniens is principally concerned with preventing harassment and vexation. But it is not enough that this party will be seriously inconvenienced, it must also appear that a transfer will not result in significant hardship to the moving party. Wangler v. Harvey, 41 N.J. 277, 286 (1963); Starr v. Berry, 25 N.J. 573, 587 (1958).
+This situation differs from most in that it is the defendant, the moving party in this post-judgment litigation, who is seeking to have these proceedings dismissed. In most cases involving forum non conveniens, it is the responding party who desires a change in forum. In applying the standard, the defendant himself will be seriously inconvenienced because he now resides out of state and would benefit from being able to bring any further litigation in a forum actually more accessible to both parties. There will also be no significant hardship imposed on the plaintiff since she has resided in North Carolina for a number of years and undoubtedly has encountered a difficult burden in maintaining these post-judgment proceedings in New Jersey. Since both parties now reside outside the State of New Jersey, this court recognizes the remedy which will benefit each litigant.
+The defendant requests that all pending matrimonial litigation between the parties be dismissed for lack of jurisdiction. This court does have and continues to have actual jurisdiction over these parties for proceedings in execution or enforcement of the judgment. Kase v. Kase, 18 N.J.Super. 12,15 (1952). However, this court prefers to invoke forum non conveniens, the basis of which is not an absolute lack of jurisdiction over the subject matter but rather the impropriety of the court’s actually exercising jurisdiction. It has been recognized that the objection that an action has been instituted in a forum non conveniens may be made by the court sua sponte. Wilburn v. Wilburn, 192 A.2d 797, 9 ALR3d 538, 544 (Dist.Col.App.1963).
+The plaintiff argues that this matter should be dismissed without prejudice and that the court should transfer the case to the proper vicinage in North Carolina. This court finds no authority for such a transfer. Alternatively, the plaintiff seeks to have this court retain jurisdiction since it was the defendant who initiated this post-judgment litigation regarding support payments, thereby warranting a plenary hearing. This court decides merely not to invoke its jurisdiction at this time which, if done, would place an unnecessary burden on both parties.
+As the doctrine of forum non conveniens is equitable in nature, the matter is left to the sound discretion of the trial judge. Since both parties are basically in agreement that under the circumstances it would be unduly burdensome to conduct any further post-judgment proceedings before this tribunal, this court finds that it should decline to exercise its jurisdiction at this time for the above-mentioned reasons.
+Defendant shall submit an appropriate order.
