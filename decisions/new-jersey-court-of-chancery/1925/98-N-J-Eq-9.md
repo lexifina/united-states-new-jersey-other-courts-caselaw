@@ -1,0 +1,21 @@
+---
+court: "New Jersey Court of Chancery"
+decided: "1925-09-23"
+citations: ["98 N.J. Eq. 9"]
+reporter: "nj-eq"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alfred Weber, complainant, v. Aurelia Weber, defendant."]
+source_url: "https://static.case.law/nj-eq/98/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 29290
+---
+
+# Weber v. Weber
+
+## Majority (Lewis, Y. C.)
+
+Lewis, Y. C.
+This is a bill to impress a trust upon a portion of the proceeds of the sale of certain real property located in Hudson county, New Jersey, and for an accounting. In the year 1911 the complainant’s father died, leaving as part of his estate the property mentioned. Complainant’s brother Erank, as administrator c. t. a. of his father’s estate, sold the property to Nagle, and Ihle, taking back as part of the purchase price a first mortgage of $8,500, dated April 29th, 1912. To complete that conveyance Nagle and Ihle borrowed the sum of $3,500 from the complainant and the defendant, the latter being the wife of the administrator aforesaid. Of this sum of $3,500, $1,000 was contributed by the complainant and $2,500 by the defendant. This loan was secured by a second mortgage on the said property, executed by Nagle and Ihle, the purchasers; but this mortgage was taken1 in the name of the defendant, Aurelia Weber, alone. Alfred Weber’s name did not appear as one of the mortgagees. In the execution and receipt of this second mortgage the said Erank Weber represented his wife, the defendant, and caused the mortgage to be executed in his wife’s name alone. In 1915 Nagle and Ihle conveyed the property to Walser, subject to the first and second mortgages referred to. Walser made default, and Erank Weber, as administrator as aforesaid, foreclosed against Walser, and also against the defendant, Aurelia Weber, his wife, as the mortgagee named in the second mortgage. On Eebruary 26th, 1918, a final decree was entered in the foreclosure proceedings in favor of the administrator in the sum of $9,148.84, and in favor of the defendant as mortgagee, on the second mortgage for $3,872.17. On the foreclosure sale the property was purchased by the defendant, she using in this purchase the decree in her favor on the second mortgage, and no other consideration appears to have heen passed upon the foreclosure sale. Following this purchase, however, the defendant executed a new mortgage to her husband, Erank Weber, as administrator as aforesaid, for the amount of his decree in the foreclosure proceedings. The defendant took title to the property in question from the sheriff on the foreclosure sale by deed dated May 22d, 1918. Title was taken in her name alone. On September 1st, 1921, defendant sold this property to Armstrong for $20,000, as follows: Cash, $2,500, subject to first mortgage $9,300, and second mortgage executed to defendant alone, $8,200, total $20,000. Subsequently, complainant accepted interest upon his investment of $1,000, and later on accepted payment of the principal sum, so invested by him, from defendant. Complainant now claims that in accepting said principal and interest, and in the executing of a release to defendant, he was misled as to the real situation by his brother Erank, who manipulated the whole transaction, and that defendant should, therefore, be decreed to pay to him the proportionate amount of the net proceeds of the joint adventure, based upon his original contribution with defendant, and that the defendant should account for the same, together with the rents, issues and profits accruing during the time that the .property was held by her.
+It is contended that complainant is not overly strong mentally, and that defendant’s husband took advantage of the mental condition of complainant and his trustful nature in the transaction. I agree with this contention, and I am clear that the defendant, who was a co-principal with the complainant in the original investment, is bound to account to the complainant proportionately for all profits which she may have realized from the holding and sale of the property acquired through the application of the original mortgage held in her name as the joint property of complainant and defendant.
+A decree for such an accounting may, therefore, be entered.
