@@ -1,0 +1,38 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1971-08-30"
+citations: ["116 N.J. Super. 143"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF: THE APPLICATION OF THE ATTORNEY GENERAL OF NEW JERSEY, TO PUNISH BRUCE GRASING AND DOMINICK DeCARLO FOR FAILURE TO OBEY A SUBPOENA."]
+source_url: "https://static.case.law/nj-super/116/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 295575
+cites_cases: ["108 N. H. 58", "176 Misc. 959", "2 N. J. 540", "203 F. Supp. 575", "226 A. 2d 865", "279 F. Supp. 558", "29 N. Y. S. 2d 458", "293 F. Supp. 794", "42 N. J. Super. 282"]
+---
+
+# In re the Attorney General
+
+## Majority (Byrne, J. S. C.)
+
+Byrne, J. S. C.
+This action is brought by the Attorney General on behalf of the Office of Consumer Protection to hold in contempt, for failure to obey a subpoena, defendants Grasing and DeCarlo. It raises for the first time in New Jersey the issue of the propriety of a “forthwith” subpoena.
+The subpoena in this matter was issued to defendants in connection with their operation of Lady Slender Health Studios, Inc., a New Jersey corporation, engaged in providing weight reduction and physical conditioning facilities services to women.
+Pursuant to an investigation concerning the sudden closing of Lady Slender’s Cliffside Park studio, defendants Grasing and DeCarlo met with Charles J. Irwin, Director of Consumer Protection, at his Newark office. At this meeting questions were posed to defendants in an attempt to determine the number of persons enrolled as members in the Cliffside Park studio. In response to the questions Grasing stated that the books containing such information were in the hands of the accountant and he was, therefore, unable to answer the questions. Director Irwin proceeded to contact the accountant and was informed that the records were not in the accountant’s possession but were at Grasing’s residence. A subpoena was then issued by Director Irwin to defendants requiring them to turn over certain documents. Grasing was requested to proceed directly to his residence accompanied by an investigator from the Office of Consumer Protection, and that materials specified in the subpoena be produced. Defendants thereupon contacted their attorney who informed them that the subpoena as issued was a nullity. Subsequent to the conversation between defendants and their attorney as to the efficacy of the subpoena, Director Irwin indicated to defendants that he would give until “the first of the week” to produce the records. That oral modification was declined and a contempt order to show cause ensued.
+No challenge is raised regarding the authority to issue the subpoena. Under N. J. S. A. 56 :8-3 and 4 the Attorney General has the authority to conduct hearings and issue subpoenas. Defendants allege, however, that the immediacy of the subpoena, as it was originally drawn, makes the subpoena a nullity.
+The subpoena as issued contained the following provisions:
+We command you that, laying aside all business and excuses, you personally and severally produce for inspection before the bearer of this subpoena as designee of the Attorney General of New Jersey the following:
+.1) Any and all contracts, membership agreements, enrollment forms or any other document or record evidencing the existence of contracts for services to be provided to members of the consuming public by Gady Slender Health Studio at 529 Anderson Avenue, Cliff-side Park, New Jersey.
+2) Any and all books, accounts or other similar records evidencing payments received from members of the consuming public for services to be provided by Lady Slender Health Studio at 529 Anderson, Avenue, Cliffside Park, New Jersey.
+• .The court considers the subpoena issued in this case to be a “forthwith” subpoena. The basis for this position is clear— a .subpoena requiring an immediate or “forthwith” production of documents is the same in its meaning, purpose and effect as one commanding the laying aside all business and excuses to produce certain documents. Immediate turnover of documents is the result of both a “forthwith” subpoena and the subpoena issued in this case.
+.Although some courts have interpreted a “forthwith” subpoena to require immediate response, Emmons v. Ingebretson, 279 F. Supp. 558, 566 (D. N. D. Iowa 1968), there is no precise definition of “forthwith” as far as time is concerned. Its meaning depends upon the. circumstances of the case and the act to be performed. Hinse v. Burns, 108 N. H. 58, 226 A. 2d 865, 866 (Sup. Ct. 1967). From the circumstances of this case and acts to be done, to wit, prompt turnover of documents, it can be reasonably inferred that Director Irwin ascribed an immediate response to the command to lay aside all business and excuses and produce certain records for inspection.
+Such subpoenas have been the source of criticism and court sanction. When the subpoena’s command has been complied with, courts have indicated that the turnover of documents may under some circumstances constitute an unreasonable search and seizure within the proscriptions of the Fourth Amendment. The authorities are assembled in In re Grand Jury Subpoena, Duces Tecum, etc., 203 F. Supp. 575 (S. D. N. Y. 1961); see Schultz v. Yeager, 293 F. Supp. 794 (D. N. J. 1967).
+Our Supreme Court has stated in State v. Cooper, 2 N. J. 540, that
+A subpoena duees tecum must be specified with reasonable certainty, and there must bé substantial showing that they contain evidence relevant and material to the issue. If the specification is so broad and definite as to be oppressive and in excess of demandant’s necessities, the subpoena is not sustainable, [at 556]
+Where, as here, an individual is served with a subpoena duces tecum requiring a “forthwith” or immediate delivery of documents, without giving the subpoenaed party sufficient opportunity to consult with counsel regarding the subpoena, the due process rights and privileges of the individual are seriously jeopardized. A party served with such a subpoena is unable to determine if the subpoena adheres to the basic requirements as outlined in State v. Cooper, supra; he either turns over the documents forthwith or refuses and subjects himself to be held in contempt.
+A person served with a subpoena to testify or to produce records should be entitled to legal advice if he so desires, prior to the time he must decide whether to respond, move to quash or ignore the subpoena. A “forthwith” subpoena erodes and practically eliminates this right.
+Accordingly, this court finds that:
+1. The “forthwith” subpoena as originally issued is invalid in that it denies the owner of the records a reasonable opportunity to procure a judicial determination of the legal efficacy or propriety of the process and denies due process of law. In re Atlas Lathing Corp., 176 Misc. 959, 29 N. Y. S. 2d 458 (Sup. Ct. 1941).
+2. The oral modification of the subpoena here obviated the dangers in requiring an immediate turnover of documents. Counsel was contacted and an additional time was given. Defendants chose to ignore the subpoena as modified. The fact that the refusal was on advice of counsel does not make it less a contempt. Under the circumstances, Grasing and DeCarlo’s conduct constitutes a contempt.
+The unusual nature of the issue here makes immediate punishment inappropriate. The court will therefore give Grasing and DeCarlo ten days from the date hereof to comply with the terms of the amended subpoena. In re West Wildwood, 42 N. J. Super. 282 (Ch. Div. 1956).
