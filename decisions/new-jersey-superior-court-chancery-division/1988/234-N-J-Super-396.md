@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1988-10-14"
+citations: ["234 N.J. Super. 396"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN MCCARTHY AND MARY MCCARTHY HIS WIFE; JOHN KUNISH AND SHIRLEY KUNISH, HIS WIFE, PLAINTIFFS, v. JOSEPH SCHWALJE, ET ALS., DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/234/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 296127
+cites_cases: ["17 N.J. 67", "36 N.J.Super. 142", "51 N.J. 584", "99 N.J.Super. 76"]
+---
+
+# McCarthy v. Schwalje
+
+## Majority (BACHMAN, J.S.C.)
+
+BACHMAN, J.S.C.
+Robert and Rosemary Mandy and Joseph and Bernadette Schwalje formed a partnership in 1978 to own and operate a liquor store, Barry’s Liquors. A series of complex financial transactions followed, and various property of the partners was used to secure financing for the venture. The partnership defaulted on its obligations, and a series of foreclosure suits was instituted.
+Three mortgages remain open as of record on the Mandy property. By a determination by this Court on April 10, 1987, these are as follows:
+(1) A mortgage dated August 31, 1981 by the Mandys and the Schwaljes to Kunish and McCarthy.
+(2) A mortgage dated June 9, 1982 and recorded March 1, 1983, now held by First Fidelity Bank, by assignment from Ethicon Credit Union.
+(3) A mortgage dated May 15, 1985 held by Lumbermen’s Mortgage Corporation. Lumbermen’s assigned its mortgage to First Fidelity on or about September 9, 1987.
+By postponement recorded May 16, 1985, Kunish and McCarthy agreed to subordinate their instrument to the second and third mortgages.
+Defendant Schwalje has moved to foreclose on this mortgage, assigned to him by Kunish and McCarthy, in order to recover debts allegedly owed by his former partners, the Mandys. Schwalje also seeks summary determination of amounts due him by defendant Mandy. Mandy has cross-moved to discharge the mortgage as of record, and to remove the lis pendens which had been placed on the property by Kunish and McCarthy in their foreclosure effort. Additionally, First Fidelity Bank’s motion to intervene was granted by court order dated October 5, 1988.
+It is clear in light of the foregoing facts that First Fidelity Bank holds the first and second mortgages on the Mandy property, since this court previously determined the priority by its opinion of April 10, 1987. By virtue of Kunish and McCarthy’s subordination agreement, their mortgage is behind First Fidelity’s secured interests. It is undisputed that the Kunish and McCarthy mortgage was paid in full by Schwalje. In Atlantic Seaboard Co. v. Borough of Seaside Park 36 N.J.Super. 142, 154 (App.Div.1955), the Court stated that once a bond and mortgage have been satisfied they cannot be revived without the authorization of the obligor upon the bond and the owner of the estate in land. Furthermore, a co-guarantor is a principal debtor for the portion of the debt he ought to pay, and a surety for the remainder. D’Ippolito v. Costoro, 51 N.J. 584, 591 (1968). As a surety he has a right to exoneration, and in cases of hardship an equity court may order the other guarantors to pay their fair share before a default where otherwise an action at law or in equity would be required to reimburse the plaintiff through equitable contribution. Id. It is clear that Schwalje, as co-guarantor, voluntarily paid his share of the debt, and the remainder thereon without first moving for the equitable remedy of exoneration. The attempt to now obtain contribution under this instrument is in substance an action that would properly have been made before notice of default or made after overpayment. The regular avenue of collecting any amounts possibly due him remains open through an action for equitable contribution.
+A revival of a mortgage once paid is tantamount to executing a new mortgage, and once satisfied, a mortgage may not be revived without the authorization of the obligor on the bond and the owner of the estate in land. First Federal v. Fink, 99 N.J.Super. 76 (Ch.Div.1968); Atlantic Seaboard, 36 N.J.Super. at 154. No such authorization exists. It is clear that First Fidelity’s first and second mortgages are still open. The Kunish and McCarthy mortgage, which by agreement became the third mortgage on the Mandy property, has been paid in full by Schwalje. Mandy did not consent to the creation of a new obligation to Schwalje. The instrument held by Schwalje therefore has no legal effect, and cannot be foreclosed upon. Since this instrument formed the basis for placing the lis pendens on the Mandy property, and that basis no longer exists, the Mandy’s cross-motions to declare the mortgage discharged as of record, and to remove the lis pendens, are granted.
+Additionally, Schwalje has asked this court to fix the sums owed between the parties. Neither side disputes that as partners, each was jointly liable for the corporate obligations as to Kunish and McCarthy. However, Schwalje also contends that the Mandys are responsible for a share of additional monies he alone borrowed from Ethicon. Mandy contests this debt, and states that the only Ethicon debt the Mandys agreed to be liable for is the promissory note of $85,000 and any other amount owed Ethicon is Schwalje’s responsibility only, as there is no agreement to be a co-obligor on this further debt. Clearly, a genuine material question exists regarding what debts were to be the responsibility of the partnership, what debts Schwalje undertook on his own and what both parties are responsible for paying.
+Under R. 4:46 summary judgment shall be rendered if no genuine issue exists as to any material fact challenged. The oft-stated principle of Judson v. People’s Bank, 17 N.J. 67 (1954), is the court’s role on motion for summary judgment is to decide whether a genuine dispute exists as to any material fact, but not to decide the issue if it exists. In the instant case, there clearly exists a genuine material dispute as to the amounts owed between the parties, and Schwalje’s motion to fix the amounts must be denied.
+Counsel for the defendant Schwalje should submit the necessary form of order.
