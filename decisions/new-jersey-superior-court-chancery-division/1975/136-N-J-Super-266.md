@@ -1,0 +1,25 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1975-09-19"
+citations: ["136 N.J. Super. 266"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LEONARD E. ZUHLCKE, PLAINTIFF, v. GENEVIEVE ZUHLCKE, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/136/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 913099
+cites_cases: ["115 N. J. Eq. 219", "132 N. J. Eq. 583", "141 N. J. Eq. 456", "23 N. J. 645", "38 N. J. Super. 311", "39 N. J. 208", "42 N. J. 407", "67 N. J. Eq. 165"]
+---
+
+# Zuhlcke v. Zuhlcke
+
+## Majority (Tams, J. C. C.,)
+
+Tams, J. C. C.,
+Temporarily Assigned. In 1968 the parties, then husband and wife, entered into a loan transaction whereby the husband signed an agreement to repay money borrowed from his wife. Subsequently, on October 22, 1974, a judgment of divorce between the parties was entered by this court. A property settlement agreement was later reached and a consent order signed in this matter on January 23, 1975, with paragraph 6 thereof providing that the issue of enforceability of the agreement was to be reserved for a “separate legal proceeding.”
+Since the parties are no longer married, the attorney for the husband interprets the quoted phrase to deprive the Chancery Division of jurisdiction to hear this action. On the other hand, the wife’s attorney argues that since her client is asserting a claim which accrued during the marriage, and not a right obtained pursuant to a post-divorce agreement, the Chancery Division must entertain this suit.
+While the parties agreed on the issues of support, custody and equitable distribution of property, they could not reach an agreement as to the repayment of the loan, so it was decided to reserve it for future determination. Thereafter a hearing was held where evidence was given about the making of the agreement and the subsequent advances thereunder. At that hearing plaintiff raised the objection to this court’s jurisdiction and thereupon briefs were submited by respective counsel. A study of the case law discloses that in New Jersey the equity court has complete and exclusive jurisdiction over contracts between husband and wife and this jurisdiction is inherent and constitutional. See Harrington v. Harrington, 141 N. J. Eq. 456, 457, 476 (Ch. 1948). The fact that the parties were later divorced and agreed to reserve this action for future determination, does not change the character of the contract as one entered while they were married in 1968. The jurisdiction of the Court of Chancery over contracts between husbands and wives is inherent and subsequent change in the marital status does not affect this jurisdiction. Ibid, at 477.
+Turning to the claimed bar of the statute of limitations raised by the husband, it is clear that since this suit on the note is between parties who, at the time, were husband and wife, it is triable in equity as above determined. Being purely equitable in nature, “the statute of limitations has no application”. See Morris v. Pennsgrove Nat'l Bank & Trust Co., 115 N. J. Eq. 219, 220 (Ch. 1934). Nor does there appear to be laches in the instant case. It is quite logical and reasonable that the defendant wife was reluctant to bring any action to collect this debt during the existence of the marriage. There were separations and reconciliations during the marriage, and under these circumstances, such a claim would have been destructive to domestic peace, a reason which equity recognizes as justification for not prosecuting such claims. Ibid, at 221; also compare Notaro v. Notaro, 38 N. J. Super. 311 (Ch. Div. 1955).
+This court is satisfied from the proofs made at the hearing that the wife advanced to her husband a total of $576.84 under the loan agreement and that the sums of money later given to the wife by her husband during marriage were not intended to be payments against this debt. See Collins v. Babbitt, 67 N. J. Eq. 165, 174 (Ch. 1904). Accordingly, Genevieve Zuhlcke is entitled to judgment against Leonard E. Zuhlcke in the sum of $576.84.
+The question arises whether interest should be allowed on this judgment. The general rule in law is that in the absence of an express provision to the contrary, a liquidated obligation carries conventional interest from the due date, as a matter of course, see Mahoney v. Minsky, 39 N. J. 208, 212 (1963) ; moreover, in the absence of a definitely controlling precedent, courts of equity are free to decide all questions pertaining to the allowance of interest according to the “plainest and simplest considerations of justice and fair dealing” in the given case. See Stout v. Sutphen, 132 N. J. Eq. 583, 590 (Ch. 1943); also see Small v. Schuncke, 42 N. J. 407, 415 (1964), and Consolidated Police, etc., Pension Fund Comm. v. Passaic, 23 N. J. 645, 652 (1957). Since the wife has been deprived of the beneficial use of the $576.84 from June 16, 1968, the date of the last advance to her husband, interest will be allowed from that date; no costs to either party.
