@@ -1,0 +1,38 @@
+---
+court: "Bergen County Circuit Court"
+decided: "1935-07-11"
+citations: ["13 N.J. Misc. 528"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAMUEL ADAMO, PLAINTIFF, v. COUNTY OF BERGEN, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/13/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 576614
+cites_cases: ["102 N. J. Eq. 50", "139 Atl. Rep. 721", "24 Atl. Rep. 723", "38 N. J. L. 67", "47 N. J. L. 417", "54 N. J. L. 421", "8 Atl. Rep. 505"]
+---
+
+# Adamo v. County of Bergen
+
+## Majority (Caeerey, C. C. J.)
+
+Caeerey, C. C. J.
+This is one of several suits filed against the county of Bergen for the recovery of money alleged to be due the plaintiffs for services rendered as special investigators appointed by the prosecutor of the pleas. The determination with respect to the claim of Adamo will be dispositive of the several suits mentioned.
+A motion was made by the county counsel to strike out the complaint filed by Adamo upon the following grounds:
+1. The board of chosen freeholders of the county of Bergen has been improperly joined as a party defendant to the suit.
+2. The summons issued herein is contrary to the provisions of article 17, section 1703, Pamph. L. 1918, ch. 185.
+3. The Bergen County Circuit Court is without jurisdiction to try the alleged cause of action set forth in the complaint.
+4. The facts alleged in said complaint constitute no cause of action against either of the named defendants in that:
+(a) Plaintiff fails to allege to have filed sworn bills for services alleged to have been rendered or to have obtained the approval thereof by the proper authorities.
+(b) There is no legal duty on the part of the county of Bergen to pay the plaintiff for the services alleged to have been rendered to the prosecutor of the pleas. Most of these objections have been disposed of by force of the following stipulation:
+“1. That the plaintiff, Samuel Adamo, was engaged by the prosecutor of the pleas of the county of Bergen, as alleged in said complaint.
+“2. That the plaintiff performed the services for the prosecutor of the pleas, as alleged in said complaint.
+“3. That the bill of the plaintiff was approved by the prosecutor of the pleas and by the judge of the Court of Quarter Sessions, as provided by the statutes.
+“4. The said bills have not been approved by the board of chosen freeholders of the county of Bergen.
+“5. The facts stated in this stipulation are limited in their application to the motion to strike.”
+The question to bo considered is the effect of chapter 19, Pamph. L. 1933 (N. J. Stat. Annual 1933, p. 109, § 53-95), and its application to the plaintifPs claim. The statute reads as follows: “It shall be the duty of the prosecutor of the pleas for each county to use all reasonable and lawful diligence for the detection, arrest, indictment and conviction of offenders against the laws; and all necessary expenses incurred thereby, certified to and approved under his hand, by a judge of the Court of Oyer and Terminer or judge of the Court of Quarter Sessions for any county, shall be paid by the board of chosen freeholders thereof (whenever the same shall be approved by such board of chosen freeholders:) provided, however, that the amount or amounts to be expended shall not exceed the amount fixed by the board of chosen freeholders in its regular or emergency appropriation, unless such expenditure is specifically authorized by order of the justice of the Supreme Court presiding in such county.” This act amends section 95 of the “Criminal Procedure act.” Public Laws 1898, p. 901; 2 Comp. Stat., p. 1850, which reads as follows: “It shall be the duty of the prosecutor of the pleas for each county to use all reasonable and lawful diligence for the detection, arrest, indictment and conviction of offenders against the laws, and all necessary expenses incurred thereby certified to and approved under his hand, by a judge of the Court of Oyer and Terminer or the judge of the Court of Quarter Sessions for any county, shall be paid by the board of chosen freeholders thereof.”
+Under this statute of 1898 the judge’s certificate is conclusive; Lindabury v. Freeholders, 47 N. J. L. 417; Irving v. Applegate, 49 Id. 377; 8 Atl. Rep. 505.
+It will be observed that under the statute of 1933, under which the plaintiff claims, there has been added: “whenever the same shall be approved by such board of chosen freeholders; provided, however, that the amount or amounts to be expended shall not exceed the amount fixed by the board of chosen freeholders in its regular or emergency appropriation, unless such expenditure is specifically authorized by order of the justice of the Supreme Court presiding in such county.” We are not concerned with the proviso; however, the additional sentence, “whenever the same shall be approved by such board of chosen freeholders,” cannot be disregarded. Taking the construction placed upon section 95 of Pamph. L. 1898 we must conclude that the legislature at the time of the enactment of the 1933 amendment knew of the existing law and by force of the amendment attempted and did limit the right of the prosecutor to expend money in the operation of his office.
+To sustain the plaintiff’s claim, the 1933 amendment would have to be disregarded, and the issue determined as of the act of 1898. The court cannot ignore the mandate of the legislature through the language “whenever the same is approved by the board of chosen freeholders,” which relates to “expenses” contemplated both by the act of 1898 and the amendment of 1933. In State, Edmund Bartlett v. The Inhabitants of Trenton, 38 N. J. L. 67, the court said: “In the construing of a statute, every part of it must be viewed in connection with the whole, so as to make all parts harmonize, if practical, and give a sensible effect to each.” The legislature did not intend that amendment of 1933 to be without meaning. See, also, John Farrell v. The State, 54 N. J. L. 421; 24 Atl. Rep. 723, where the court said: “A statute which is amended is thereafter, and as to all acts subsequently done, to be construed as if the amendment had always been there; and the amendment itself so thoroughly becomes a part of the original statute that it must be construed, in view of the original statute, as it stands after the amendments are introduced and the matters superseded by the amendments eliminated.” The statute may place the prosecutor in an embarrassing position, in that, in the proper performance of his duty he may require the aid of investigators beyond the number allowed by the statute and he may expect compensation be paid to those investigators, yet, the amendatory act of 1933 offers no guarantee of the recognition of the expenses incurred. In Stephenson v. Stephenson, 102 N. J. Eq. 50; 139 Atl. Rep. 721, Mr. Justice Kalisch said: “In interpreting and construing a statute, the court must consider, 1. The old law; 2. The mischief, and last, the remedy.” It may be well said that the legislature contemplating the conclusiveness of the certificate of the judge, as laid down in Lindabury v. Freeholders, sought to effectuate a change in the existing law and by this amendment did so. This is clearly a legislative right.
+The plaintiff is seeking a judgment against the county of Bergen, I will conclude that the right of Adamo to compensation depends upon the approval by the board of chosen freeholders as a condition precedent to his right to such compensation.
+There was no such approval. Under the circumstances the complaint will be stricken.
