@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1948-11"
+citations: ["1 N.J. Super. 490"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANK MANCINI, PLAINTIFF, v. FLORA DE LILLIS, ET ALS., DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/1/cases/0490-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 369267
+cites_cases: ["12 N. J. Eq. 280"]
+---
+
+# Mancini v. DeLillis
+
+## Majority (Donges, J. S. C.)
+
+Donges, J. S. C.
+Plaintiff is the owner of a six-acre produce farm in the Borough of Carlstadt, Bergen County, New Jersey; defendant Flora DeLillis owns a similar farm in the immediate neighborhood, and operates the same with the. assistance of her two son's (who are also- defendants). The terrain in this vicinity is low, and a series of ditches serves to drain off excess water from rains and melting snows. Complaint is made by plaintiff that the main ditch serving his land and that of defendants has been blocked off by the defendants at a point where the ditch passes through the DeLillis property, with the result that plaintiff’s land is now unusable as a farm for want of proper drainage..
+A transcript of the testimony taken at final hearing on February 6, 1946, has been furnished me. I feel constrained to observe that much of the testimony respecting the locar tion of ditches, elevations, and the like, is confused; some is unintelligible. However, the testimony of credible and disinterested witnesses makes clear all that is necessary for a decision of this case.
+It would appear that this general area lays within, and South of, an angle made by the intersection of Washington Avenue and Mousetown Road. For many years — at least fifty — a main ditch, running in a general Northerly direction, has existed which carried water from the property which plaintiff now owns, through the property of his adjoining neighbor (Frietella,), thence through, defendants’ property, and-thence to a -culvert under Washington Avenue; about 1930 a secondary ditch was dug on defendants’ farm, running from the main ditch to a point in' Mousetown Road approximately 250 feet from the culvert under Washington Avenue. In the Spring of 1945, immediately before the filing of this suit, defendant Ludwig DeLillis blocked the main ditch at a point on his mother’s property where his secondary ditch connected with it, endeavoring to lead the flow of water to an outlet at the Mousetown Road. The elevation of the outlet at the Mousetown Road, is however, about a foot and a half greater than the elevation of the Washington Avenue culvert. In consequence, the water level in the ditch draining plaintiff’s farm is raised to a point that impairs proper drainage and renders farming unprofitable, if not impossible.
+By way of defense, it is urged that as a matter of law, the court will not protect a litigant whose claim relates solely to the flow of surface water. The authorities are to the contrary. Nearly a century ago, in Earl v. DeHart, 12 N. J. Eq. 280, our Court of Errors and Appeals unanimously affirmed the Chancellor who said (at page 283):
+“A water-course is defined to be ‘a channel or canal for the conveyance of water, particularly in draining lands.’ It may be natural, as when it is made by the natural flow of the water, caused by the general superfices of the surrounding land from which the water is collected into one channel, or it may be artificial, as in case of a ditch, or other artificial means, used to divert the water from its natural channel, or to carry it from low lands, from which it will not flow, in consequence of the natural formation of the surface of the ■surrounding land.”
+At page 285 the Chancellor continues:
+“This water having run in the same course for more than twenty years, and the complainant, and those under whom she holds, having enjoyed it as a right during that period in its present channel, no one has a right to dam up the channel or to divert the course of the water, to the injury of the complainant’s land. It makes no difference whether it is a natural water-course or an artificial ditch. If it is a mere ditch, and the complainant’s land has enjoyed the use of it for more than twenty years, and as an adverse right, then it is an easement which the owner of the complainant’s land has in that of the defendants ; it is a privilege without profit, and is as much the subject of protection as a natural water-course.”
+That case has been frequently cited as authority by the courts of this State, and by the courts of our sister states, and so far as has been called to my attention, the principles there enunciated retain their full vigour to this day.
+While it is true, as defendant argues, that the Bill of Complaint does not specifically state whether the asserted right arises in plaintiff by virtue of a deed or by prescription (which, of course, presupposes a grant), nevertheless I deem the allegations of the Bill adequate in the present instance. Apparently the want of a more specific statement of plaintiff’s claim did not work any surprise or disadvantage to defendants in the presentation of their defense. Besides, defendants did not press their objection' until the parties and their witnesses were actually before the court for the final hearing on the merits. The motion for dismissal is disallowed.
+I am satisfied that plaintiff is entitled to an injunction. Ludwig DeLillis admits having dug the diversionary ditch, and he admits having placed the block which diverts the flow of water in the main ditch and prevents it from reaching the Washington Avenue culvert and sends it toward the Mousetown Road outlet. The block must be removed. It is not available to defendants to say that at small expense or trouble the plaintiff, or the County of Bergen (which maintains culverts, outlets, and ditches adjacent to County roads) can effect a more efficient drainage of plaintiff’s farm. Such a defense admits of injury. Earl v. DeHart, supra.
+There will be a judgment for plaintiff, with costs.
