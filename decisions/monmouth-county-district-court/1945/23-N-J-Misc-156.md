@@ -1,0 +1,26 @@
+---
+court: "Monmouth County District Court"
+decided: "1945-04-27"
+citations: ["23 N.J. Misc. 156"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EVELYN T. WALKER, PLAINTIFF, v. GEORGE R. STENECK, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/23/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 720870
+cites_cases: ["111 N. J. L. 439", "168 Atl. Rep. 796", "87 N. J. L. 57", "93 Atl. Rep. 679"]
+---
+
+# Walker v. Steneck
+
+## Majority (Evans, D. C. J.)
+
+Evans, D. C. J.
+This action is upon a state of demand in tort claiming damages for loss of earnings and various moneys expended in medical treatment, including doctor’s bills. A notice of special appearance and intention to move for a dismissal of the suit on the ground that the cause of action is barred by the statute of limitations was filed by the attorney for defendant. The question raised on the hearing of the motion was; is the action barred by the statute of limitations ?
+The summons was issued December 11th, 1944, the date of the alleged negligence as set forth in the state of demand is May 23d, 1942.
+Counsel for plaintiff in his memorandum draws aside the legal veil and states that the real party in interest is the Hartford Accident and Indemnity Company and expresses his intention that this cause of action will be amended to so indicate, or, if an amendment is not possible, that a new action be instituted in that manner. One hearing has been had upon the motion and in order to avoid protracted hearings or unnecessary litigation I shall assume for the purpose of this decision that counsel for plaintiff has so amended his state of demand by and with the consent of court. The captioned' plaintiff it is alleged sustained injuries in an automobile accident on May 23d, 1942, and subsequently was awarded compensation in an informal hearing in the Workmen’s Compensation Court. In addition thereto doctors and hospital bills were paid by the real plaintiff, the employers insurance carrier. It is stated in the memorandum for plaintiff that proper notice had been sent to the defendant in accordance with the Workmen’s Compensation Act of New Jersey, which I assume is N. J. S. A. 34:15-40. Plaintiff contends that this action is governed by the ruling of Fryer v. Mt. Holly Water Co., 87 N. J. L. 57; 93 Atl. Rep. 679, and not by Smith v. Red Top Taxicab Corp., 111 N. J. L. 439; 168 Atl. Rep. 796.
+Fryer v. Mt. Holly Water Co., supra, held that the statute of limitations for personal injury actions (then Comp. Stat., p. 3162, now N. J. S. A. 2:24-2) applied only to an action by the person injured, or on his behalf, for damages resulting to him from the wrongful act of the defendant and that therefore the claim of the father for loss of services and other expenses resulting from the injury to her was not within the two year statute of limitations since the right of the father was based upon a violation of his property right.
+Smith v. Red Top Taxicab Corp., supra, held that loss of earnings and disbursements for physician’s services, &c., cannot be classified as damage to property but the result of personal injuries and prevented plaintiff from splitting the cause of action.
+The substituted plaintiff secures its rights to reimbursement by virtue of N. J. S. A. 34:15—40 which says: “When an injured employee or his dependents fail within one year of the accident to either effect a settlement with or institute proceedings for recovery of damages for his injuries and loss against the third person or corporation, the employer or his insurance carrier, ten days after a written demand on the injured employee or his dependents, can either effect a settlement with or institute proceedings against the third person or corporation for the recovery of damages for the injuries and loss sustained by suelt injured employee or Ms dependents and any settlement made or proceedings had and taken by such employer or his insurance carrier against such third person or corporation, and such right of action shall be only for such right of action that the injured employee or his dependents would have had against the third person or corporation, and shall constitute a bar to any further claim or action by the injured employee or his dependents against the third person or corporation. The legal action contemplated herein above shall be a civil action at law in the name of the injured employee or by the employer or insurance carrier in the name of the employee to the use of the employer or insurance carrier, or by the proper party for the benefit of the next of kin of the employee.”
+The very wording of the statute from which the substituted plaintiff secures its rights restricts it to the right of action that the enjured employee had or in other words a violation of her personal rights. It could possibly be termed statutory subrogation. The substituted plaintiff in this instance would be subject to the same defenses as were available against the injured employee and therefore the statute of limitations would be that of N. J. S. A. 2:24-2. Motion to dismiss granted.
