@@ -1,0 +1,35 @@
+---
+court: "New Jersey Department of Labor, Workmen's Compensation Bureau"
+decided: "1941-02-04"
+citations: ["19 N.J. Misc. 132"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARIE B. MISALE, PETITIONER, v. SCHIFFENHAUS BROS., INC., NEW JERSEY MANUFACTURERS’ CASUALTY INSURANCE CO., RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/19/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 456007
+---
+
+# Misale v. Schiffenhaus Bros.
+
+## Majority (John C. Wegner, Deputy Commissioner.)
+
+*******
+From the stipulation of counsel and the testimony adduced, I find and determine as follows:
+That on April 26th, 1939, the petitioner, Marie B. Misale, a married woman of the age of twenty-nine years, was in the employ of the respondent as a machine operator and had been so employed for some short period of time prior thereto.
+On that day, at about four-forty-five p. m., as she was feeding cardboard through an electric paper box machine, the front of her smock became caught or engaged in the lower gear drawing her toward the machine. She tried to free herself and stretched out her right hand to shut off the power and in so doing the top part of her smock came in contact with and was caught in the top gear. In her endeavors to free herself she fell forward against the machine striking her fight abdomen in the region of her appendix. While at the shop she felt nervous, shaky and suffered pains and cramps in her abdomen. Upon her arrival at home she retired to bed, but was unable to sleep well because of the persistence of the cramps in her abdomen.
+The following morning she returned to work although she felt ill, but was unable to pursue her employment and at noon returned home. Her symptoms at that time were nausea, nervousness and she developed vaginal bleeding. (Her last menstrual period occurred on April 16th, 1940, and the flow had ended five days prior to the accident.) The following day the vaginal flow was more profuse and she felt so extremely weak that she was confined to her bed. She thereupon summoned Dr. Samuel Goldstein to her home for treatment. The petitioner during this period observed a hematoma and a discolored area on her right abdomen. Her physician then treated her with diathermy and medications until May 11th, 1939, when, by reason of her continued symtoms and failure to respond satisfactorily to treatment, she was admitted to the Newark "Beth Israel Hospital. Throughout this entire period her right abdomen continued painful to touch and the vaginal bleeding persisted.
+An examination, on her admission to the Newark Beth Israel Hospital on May 11th, 1939, disclosed “tenderness over the right lower quadrant, especially over McBurney’s point.” On surgical consultation with Dr. Danzis, it was found that the petitioner was bleeding moderately from the uterus; that there was tenderness in the right iliac fossa, and a surgical operation was indicated if the bleeding did not stop.
+The vaginal bleeding persisted and her doctor elicited tenderness on the right side of the abdomen. An operation was performed by Dr. Goldstein in the presence of Dr. Danzis on May 13th, 1939, during which he found that the left ovary was cystic. The cystic left ovary was found to be ruptured and was removed. At the same time the surgeon removed her appendix which he described as chronic, and two-thirds of the right ovary which was very cystic.
+Following the discharge of the petitioner on May 29th, 1939, from the hospital, Dr. Goldstein continued to treat her; her symptoms of pain in the lower right abdomen persisted and about June 5th, 1939, her vaginal bleeding recurred. In addition, the petitioner continued to grow weak and her physician prescribed hot baths, medications, diathermy and injections in an attempt to relieve the symptoms. They were unsuccessful and the patient was readmitted to the Newark Beth Israel Hospital on August 28th, 1939. On that admission the tenderness over the right lower quadrant of her abdomen was still present, and the remaining portion of the right ovary was removed. Subsequent to the second operation the petitioner continued under the treatment of Dr. Goldstein up to the present date. She has developed symptoms of nervousness, headaches, hot flashes, and the classic symptoms of an artificial menopause from which she is now suffering and for which she is still receiving treatment.
+There also testified Dr. Melvin Lustig and Dr. Marvin Oransky, internes at the Newark Ijleth Israel Hospital, and Dr. John Huberman, D?. Koppel and Dr. Christopher O. Beling, endocrinologists and neurologists who had occasion to examine the petitioner and testify in her behalf.
+On behalf of the respondent there appeared and testified Dr. M. Danzis, a surgeon, Dr. L. H. Loeser, a neurologist, and Dr. Norton, an endocrinologist.
+After carefully considering the testimony adduced, I feel that the testimony and opinion of Dr. Goldstein as to the effect of the industrial accident, on the petitioner, warrants acceptance. I find that the accident caused a rupture of the left ovary and that the petitioner in addition suffered a traumatic neurosis as a result thereof. I further find that the removal of the right ov ary, its sequalse, and the ensuing artificial menopause, are not related to the accident in question in any way.
+The testimony of this physician was of particular interest and importance to the court. Dr. Goldstein was the attending physician of the petitioner, having been consulted by her of her own volition. While his treatment was later authorized by the respondent he, nevertheless, was called and appeared as a witness for the petitioner. His testimony to the effect that it was his opinion that the injury was to the one ovary and that the removal of this ovary was the result of the injury, appears the reasonable and proper situation in this case. His testimony relative to the removal of the other ovary also impressed this court. It was this doctor’s opinion that the injury played no part in the removal of the right ovary but that inasmuch as this ovary was found to be cystic its removal was done as a medical measure and was in no way associated with the accident in this case.
+The court was also impressed with the testimony of Dr. Danzig. This physician was called into the case by the petitioner’s treating physician, Dr. Goldstein. His testimony was in accordance with that of the testimony of Dr. Goldstein.
+% if: # :1: %
+I further find the permanent disability attributable to said accident, which I feel consists of the removal of the left ovary and a traumatic neurosis as its sequahs, amounts to twenty-five per cent, of partial permanent total disability. ❖ ❖ ❖
+I further find that the condition of the right ovary, and the removal thereof, was in nowise the result of the accident in this case and that the disability chargeable to the respondent should be confined to the removal of the left ovary and any condition attributable thereto alone.
+❖ % sfc
+John C. Wegner, Deputy Commissioner.
