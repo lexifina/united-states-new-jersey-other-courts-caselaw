@@ -1,0 +1,41 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1965-05-12"
+citations: ["87 N.J. Super. 566"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF, v. VINCENT INDELICATO, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/87/cases/0566-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 291477
+cites_cases: ["27 N. J. L. 265", "34 N. J. 35", "51 N. J. L. 240", "6 Rutgers L. Rev. 503", "82 N. J. L. 200", "9 N. J. 569"]
+---
+
+# State v. Indelicato
+
+## Majority (ScHTJLMAsr, J. C. C.)
+
+ScHTJLMAsr, J. C. C.
+(temporarily assigned). Defendant was indicted by the Hudson County grand jury for presumably nonfeasance in office in violation of N. J. S. 2A:85-1. He now moves to strike said indictment by notice of motion, brief and affidavits attached thereto on the ground that he is not a public officer but an independent contractor.
+The fact disclosed at the hearing which was not controverted by the State was that defendant was retained by the City of Jersey City to conduct an independent annual audit for the year of 1963, as well as for two years prior thereto. Accompanying the moving papers was a certified copy of the resolution of the governing body of Jersey City appointing him to examine the accounts of certain designated departments of said city for the year 1962. Defendant by affidavit alleged the same services for the years 1961 and 1963.
+Defendant at this time does not argue the legal sufficiency of the indictment of which the court has grave doubts, but argues instead that defendant is not an “officer” of the municipality. The indictment charges defendant with being the “City Auditor” and willfully and unlawfully neglecting his duties as such to audit and investigate the inaccurate and untrue records and receipts of one Bernard Bosengard, Acting City Clerk and Assistant Municipal Clerk of the City of Jersey City.
+The authority for appointing an auditor for a municipality is contained in N. J. S. 40A :5-4, which is as follows:
+“40A:5-4. Annual audit required.
+The governing body of every local unit shall cause an annual audit of its books, accounts and financial transactions to be made and completed within 5 months after the close of its fiscal year and for that purpose shall employ a registered municipal accountant of New Jersey. Nothing in this chapter shall prohibit the making of such audit by the director upon the request of the governing body.”
+Is a registered municipal accountant employed by the city a public officer under the saving clause section of N. J. S. 2A:85-1? Defendant does not argue that he should have been indicted under N. J. S. 2Á: 135-1, but concedes in his brief, for the purpose of this argument, that an officer is indictable for nonfeasance under N. J. S. 2A :85-l. Without deciding that fact, or even the legal sufficiency of the indictment, the court is constrained to decide this motion within the scope argued by defendant, namely, that he is not a public officer and cannot be indicted as such.
+The cases in New Jersey dealing with public officers are many and varied. The first systematic collection of the cases was made by Professor Glasser in his article entitled, “A New Jersey Municipal Law Mystery; What is a ‘Public Office’?” 6 Rutgers L. Rev. 503 (1952). The historical development of Avho is a public officer commences with the landmark case of City of Hoboken v. Gear, 27 N. J. L. 265 (Sup. Ct. 1831), wherein the test of governmentality was developed. This was followed by another landmark case, Fredricks v. Board of Health, 82 N. J. L. 200 (Sup. Ct. 1912), wherein the definition of the term “office” was stated as follows:
+“An office is a place in a governmental system created or recognized by the law of the state which either directly or by delegated authority assigns to the incumbent thereof the continuous performance of certain permanent public duties.” (at p. 201)
+The State did not file an answering brief bnt relied in its oral argument in the case of State v. Begyn, 34 N. J. 35 (1961). That case held that defendant was clearly an officer (sanitary inspector in Health Department) by any possible test. The court referred to the test of the Fredricks case, supra, as “formalistic” but, then (on page 43) the court cites and relies upon State v. Goodman, 9 N. J. 569 (1952), where the “governmentality” test is clearly and specifically followed.
+The statute requiring an annual audit, N. J. S. 40A:5-4, uses the term “employ a registered municipal accountant of New Jersey.” It also removes the services of said registered municipal accountant from the prohibitions of the bidding statute. N. J. S. A. 40:50-l. See N. J. S. 40A :5-ll:
+“No local unit shall be required to advertise for bids for any of the work performed pursuant to 40A :5-4 [annual audit].”
+In addition, the Legislature has provided for revocation or cancellation of a registered municipal accountant’s license where he
+<i® * * ghall have knowingly omitted to report any error, omission, irregularity, violation of law or discrepancy found in the books or accounts, or shall have issued false reports of the audit of any local unit, or of such a nature as not to' comply with the requirements of the director, or if such registered municipal accountant shall fail to file such report and recommendations as herein directed, or neglect or refuse to carry out any agreement for audit, his registration license may be canceled by the State Board of Public Accountants.” (N. J. S. 40 A :5-10)
+It is important to distinguish a government office from a government contract, and a public office from mere employment. As stated in 3 McQuillin, Municipal Corporations, § 12.30:
+“A government office, it has been declared, is different from a government contract. The latter from its nature is necessarily limited in its duration and specific in its object. The terms agreed upon define the rights and obligations of both parties, and neither may depart from them without the assent of the other. Therefore, an agreement, authorized by law, between the government and third parties, expressly stipulating and describing the duties and fixing the compensation, does not create an office.” (at p. 170)
+“The essential characteristics which differentiate a public office from mere employment are said to be: (1) An authority conferred by law, (2) the power to exercise some portion of the sovereign functions of government, and (*3) permanency and continuity.
+In a New Jersey case, office is thus distinguished from employment: “In every definition given of the word ‘office,’ the features recognized as characteristic, and distinguishing it from a mere employment, are the manner of appointment and the nature of the duties to be performed—whether the duties are such as pertain to the particular official designation and are continuing and permanent and not occasional or temporary. In particular cases other distinctions appear which are not general.” (See Lewis v. Jersey City, 51 N. J. L. 240 (Sup. Ct. 1889) (at p. 172)
+Defendant in this case did not possess any power of government. He did not make any decisions in relation to policies and programs, and he in no way exercised any governmental discretion. His only function was to provide a service to the City of Jersey City. The city was required to obtain this service by N. J. S. 40A :5-4.
+In this court’s opinion defendant clearly was in the position of an independent contractor.
+It is clear that the Legislature has regarded the auditor’s services to be rendered under N. J. 8. 40A:5-4 as professional services to be rendered on the basis of contract between the parties. Defendant’s duties were merely to audit the books. He had no control or discretion to exercise any governmental function of the City of Jersey City. He was merely a check on the departments and department heads responsible for keeping the various accounts. The relationship between the parties, that is, the City of Jersey City and defendant, and the work to be performed under their arrangement, have none of the indicia of a public office sufficient for the defendant to be indicated as a "public officer.”
+The Motion to dismiss the indictment is granted.
