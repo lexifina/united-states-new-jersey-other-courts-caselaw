@@ -1,0 +1,37 @@
+---
+court: "Bergen County District Court"
+decided: "1930"
+citations: ["8 N.J. Misc. 245"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE F. EATON, Jr., PLAINTIFF, v. CHARLES SCHILD AND CLARA SCHILD, DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/8/cases/0245-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 426726
+cites_cases: ["105 So. Rep. 319", "107 N. E. Rep. 944", "12 N. E. Rep. 683", "131 N. Y. Supp. 884", "147 N. Y. App. Div. 422", "249 Pac. Rep. 1011", "26 N. J. L. 525", "263 Pac. Rep. 365", "38 N. Y. App. Div. 624", "40 Mich. 592", "55 N. J. Eq. 658", "55 N. Y. Supp. 917", "60 N. J. L. 338", "66 N. J. L. 253", "81 N. J. L. 456", "84 N. J. L. 206", "84 N. J. L. 577", "99 Atl. Rep. 762"]
+---
+
+# Eaton v. Schild
+
+## Majority (Losche, J.)
+
+Losche, J.
+The rule to show cause obtained by defendants brings up for consideration a judgment in favor of the plaintiff rendered after a trial without a jury. The state of demand, in part, alleges as follows :
+“Plaintiff residing in the city, county and State of New York, says that:
+1. On or about August 3d, 1929, he was operating his automobile in a westerly direction on Paterson Plank road, a public thoroughfare, near the town of- Secaucus, county of Hudson, and State of New Jersey.”
+The action was brought to recover for property damage resulting from a collision between plaintiff’s and defendants’ automobiles. The automobile driven by plaintiff was the property of plaintiff’s wife and was registered in her maiden name, Celena Contemone. Plaintiff resided in New York with his wife where, on August 3d, 1929, she loaned him her automobile. Plaintiff then drove it to the place where the accident happened.
+Defendants contend that upon these facts the judgment may not be sustained. To decide the question presented, it is necessary to determine plaintiff’s status with respect to the-automobile when it was damaged, as has been found, by defendants’ fault.
+Bailment is a contractual relationship. 6 C. J. 1102, § 19-Plaintiff’s wife having loaned him the automobile in New York, the law of that state governs. Thompson v. Taylor, 66 N. J. L. 253 (at p. 257). Such a lending constituted plaintiff a bailee under the laws of New York since there is-in that state no impediment to a contract between husband and wife. Busch v. Klein, 38 N. Y. App. Div. 624; 55 N. Y. Supp. 917; Thompson v. Taylor, supra. Plaintiff then came-to this state and had his accident while holding the status of' bailee of the automobile.
+A bailee may recover for the damage to the bailed article. N. Y., L. E. & W. R. R. Co. v. New Jersey Electric Railway Co., 60 N. J. L. 338 (at p. 341); affirmed, 61 Id. 287; Warren v. Finn, 84 Id. 206 (at p. 209); Preziaso v. Union City Cleaning and Dyeing Co., 6 N. J. Mis. R. 171 (at p. 172). His recovery may be to the full extent of the damage to the-article. The Central Railroad of New Jersey v. Bayway Refining Co., 81 N. J. L. 456 (at p. 459).
+Defendants next contend that, if plaintiff is permitted to-recover, his bailor may recover a second time. In such second suit, however, the right to relief would rest upon the same-point or question, and, the same property and the same parties, or those in privity with them, would be involved. Privity exists between bailor and bailee. Ladany v. Assad (Conn.), 99 Atl. Rep. 762 (at p. 765). The doctrine, res adjudicata,. therefore, applies; White v. Mindes, 8 N. J. Adv. R. 124 (at p. 126) (not yet officially reported); and a recovery by the bailee is a bar to any recovery by his bailor. The Central Railroad of New Jersey v. Bayway Refining Co., supra.
+Defendants next contend that, even though all this be-true, the state of demand is insufficient in that it merely refers to the automobile as “his automobile” and does not allege that plaintiff was a bailee. This is not so. The principles of the common law method of pleading are essentially followed despite the adoption of onr modern rules. Lully v. National Surety Co., 8 N. J. Adv. R. 202 (at p. 204) (not yet officially reported). At common law, to state a good cause of action in trespass for injury to personal property, it was necessary to allege that the property injured was the plaintiff’s. It was not necessary to allege legal ownership. An allegation of possession was sufficient since some of the incidents of ownership, among which is the right not to have the property injured, prima facie, follow possession. In Todd v. Jackson, 26 N. J. L. 525 (at p. 538), the Court of Errors and Appeals said:
+“The action of trespass, both as to real and personal property, is a possessory action. A party in possession is, prima facie, the owner, and that possession will entitle him to recover to the extent of the injury done, unless the defendant show something in mitigation of the damages.”
+In Thompson v. Jannarone Contracting Co., 6 N. J. Mis. R. 320 (at p. 321), the Supreme Court said:
+“The action of trespass is a possessory action, the one in possession is the apparent owner and entitled to maintain the action.”
+The state of demand in this ease satisfies the requirements. That plaintiff had certain property rights in the automobile may not be doubted because as against everyone but his bailor his possessory interest was equivalent to actual ownership (Warren v. Finn, 84 N. J. L. 206—at p. 209); and, to protect this interest plaintiff could and did sue in his own right.
+Johnson v. Florida Brewing Co. (Fla.), 105 So. Rep. 319, was an action of trespass on the case wherein Johnson, a bailee, sought to recover damages caused to his bailed automobile in a collision with the defendant’s automobile. The declaration alleged that Johnson “was the owner” of the bailed automobile. The Supreme Court of Florida, in sustaining the declaration, said (at p. 320):
+“It has been held in such an action that the usual mode of pleading is for the declaration to allege ownership by the plaintiff, and that any proof of ownership which will support the action of trespass will he sufficient under such an,allegation to entitle the plaintiff to recover; that, the mere right of possession being sufficient to maintain the action against every one but the owner of the legal title, the allegation that the plaintiff is the owner is well made out by merely proving his right of possession as bailee. Rocker v. Perkins, 17 D. C. (6 Mackey) 379. See, also, 21 Encycl. Pl. & Pr. 287.”
+Other authorities to the same effect are: Armstrong v. Kubo & Co. (Cal.), 263 Pac. Rep. 365; Herries v. Bell (Mass.), 107 N. E. Rep. 944; Mizner v. Frazier, 40 Mich. 592; Swift v. Pacific Mail S. S. Co. (N. Y.), 12 N. E. Rep. 683; McMurray v. Fargo, 147 N. Y. App. Div. 422; 131 N. Y. Supp. 884; Yrisarri v. Clifford (N. M.), 249 Pac. Rep. 1011. Another consideration which should not be overlooked is that strict formality in pleading is not required in this court. Kennell v. Gershonovitz, 84 N. J. L. 577 (at p. 578).
+Defendants’ final contention is that without an allegation in the state of demand setting forth plaintiff’s status as bailee, there is nothing in the record to enable them, if necessary later, to invoke the protection of the doctrine, res adjudicata. Defendants lose sight of the fact that parol evidence would he admissible to aid them in that event. Clark Thread Co. v. William Clark Co., 55 N. J. Eq. 658 (at p. 663—reversed on another point).
+The rule to show cause is discharged.
