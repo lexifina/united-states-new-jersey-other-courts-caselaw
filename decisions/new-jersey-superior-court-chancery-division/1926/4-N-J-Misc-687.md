@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1926-08-06"
+citations: ["4 N.J. Misc. 687"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Strathmere Lumber Company et al., complainants, v. City of Sea Isle City; William Davis, contractor, et al., defendants."]
+source_url: "https://static.case.law/nj-misc/4/cases/0687-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 584296
+cites_cases: ["51 Atl. Rep. 414", "70 N. J. Eq. 388", "71 N. J. Eq. 759", "77 N. J. Eq. 512", "80 N. J. Eq. 94", "82 N. J. Eq. 81", "83 N. J. Eq. 49"]
+---
+
+# Strathmere Lumber Co. v. Sea Isle City
+
+## Majority (Ingersoll, Y. C.)
+
+Ingersoll, Y. C.
+This case is to he determined upon a stipulation of facts made by the parties as follows:
+“1. A certain written contract known as contract 509, dated April 19th, 1922, was duly made between the city of Sea Isle City, a municipal corporation in the county of Cape May and State of New Jersey, and William Davis, contractor, for building and constructing a timber pile jetty on the ocean front at Matilda street, in said city of Sea Isle City, as shown on plans and specifications attached to said contract, for the sum of $2,750, said contract being awarded to said William Davis by said city of Sea Isle City by resolution on or about May 3d, 1922.
+“2. There is due and payable to said contractor from said city of Sea Isle City an unpaid balance on said contract of $1,435, with interest.
+“3. Two hundred and sixteen dollars and thirty-eight cents, with interest from February 3d, 1923, be paid said Strathmere Lumber Company, the full amount of its claim filed for materials furnished to the said contractor and actually used in the execution and completion of said contract.
+“4. The complainant South Jersey Furniture Corporation obtained judgment entered March 14th, 1923, in the New Jersey supreme court against William Davis for $1,954.07, damages and costs, and by virtue of an execution duly issued thereon, the sheriff of said county of Cape May, on March 20th, 1923, seized and levied upon any and all money due 'or to become due to said William Davis from said city of Sea Isle City by said contract 509, or otherwise, by presenting said execution to said city of Sea Isle City and demanding said moneys according to law. The sum of $1,060.65, surplus moneys in chancery of New Jersey, docket 52, page 469, in a suit by Hafleigh & Compaq, complainant, to foreclose mortgage against William Davis et ah, defendants, were paid on or about April 25th, 1924, to the sheriff of the county of Mercer by the clerk of said court of chancery, said sheriff having levied upon said surplus moneys by virtue of an alias execution issued November 2d, 1923, upon said judgment for $1,954.07 hereinabove mentioned. The amount due April 25th, 1924, on said judgment, with interest, the fees of said sheriff of Mercer county, and costs of said alias execution and levy thereunder were $2,108.26, said payment ■of $1,060.65, leaving the balance now due on said judgment :of $1,047.61, with interest from April 25th, 1924, the fees of said sheriff of the county of Cape May and costs of said execution and levy thereunder by said sheriff of the county of Cape May.
+“5. The claims of the above-named defendants, Elijah B. Steelman, Richard Hiles, James Lloyd, Emil Ketnir (or Kitner), Alvin Thompson, John B. Thompson, John L. Buzby and John Bramell, and of the above-named complainant, Michael A. Luongo Company, were filed in manner and form and within such time after the completion or acceptance of the work performed under said contract, as required and according to the Municipal Mechanics’ Lien law (Revision of 1918) ; but said claims were not filed until after the levy mentioned in paragraph 4 had been made on the funds by the sheriff of the county of Cape May.
+“6. It is the intention of this agreement that all issues may be determined upon the single question of law whether the funds should be first applied to the payment of the claims mentioned in paragraph 5 or to the levy made by the sheriff of the county of Cape May mentioned in paragraph 4, subject to the payment in full of the claim of Strathmere Lumber Company mentioned in paragraph 3, which claim, in either case, is to be paid first, it being understood that if it be determined that said funds should be first applied to the payment of said levy, then any balance of said funds which may remain after the payment in full of said levy shall be paid to the said claims; and if it be determined that said funds shall first be applied to the payment of said claims, then any balance of said funds which may remain after the payment in full of said claims shall be paid to the said le\y * *
+The only question for determination as stated in paragraph 6 is: Do the claims filed by the defendants after the levy made by the sheriff take priority thereto?
+Vice-Chancellor Leaming, in Mack Mfg. Co. v. Citizens Coust. Co., So N. J. Eq. 331, said: “The statute mider which complainant claims a lien expressly provides that the lien shall attach from the time it is filed, and our courts have repeatedly held that this provision, unlike the provisions of the Mechanics’ Lien act which relates the lien to a prior date, is destructive of the idea of an inchoate lien prior to that time. This has been held in the following cases in this court and in our court of errors and appeals: Garretson v. Clark and Harris v. Garretson, 51 Atl. Rep. 414; Somers Brick Co. v. Souder, 70 N. J. Eq. 388, 394; S. C. on appeal, 71 N. J. Eq. 759, 762; Cope v. Walton Co., 77 N. J. Eq. 512, 517; Board of Education v. Tait, 80 N. J. Eq. 94, 96; Agnew Co. v. Paterson Board of Education, 83 N. J. Eq. 49, 66; S. C. on appeal, Ibid. 336, 339.
+■ “The views stated by Vice-Chancellor Stevenson in Agnew Co. v. Paterson Board of Education, supra, touching the effect of a federal bankruptcy receivership, are, in my judgment, equally applicable to a receivership under our Corporation act.”
+“Levy on personal property is seizure of the judgment debtor’s right at the time of delivery of the execution to the sheriff.” Schneider v. Schmidt, 82 N. J. Eq. 81.
+The levy being prior to the filing of the claims, ‘the judgment creditor’s right to the fund became attached prior to .the right of the defendants by reason of the filing of their claims.
+A decree will be advised in accordance with these views.
