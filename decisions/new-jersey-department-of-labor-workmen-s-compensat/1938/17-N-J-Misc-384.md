@@ -1,0 +1,30 @@
+---
+court: "New Jersey Department of Labor, Workmen's Compensation Bureau"
+decided: "1938-12-28"
+citations: ["17 N.J. Misc. 384"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THEODORE De GROOT, PETITIONER, v. HENRY BECKER & SONS, INC., RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/17/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 431840
+---
+
+# De Groot v. Henry Becker & Sons, Inc.
+
+## Majority
+
+I have given careful consideration to the evidence presented in this matter and have spent a great deal of time in the study of the case which I consider one of serious import. The trial was continued over a long period of time, because of the volume of important evidence presented.
+The case has proved a most difficult one to decide. The situation, as I see it, is entirely a question of fact. I have heard the evidence and the opinion of the doctors. Some of the doctors recognized the relationship between this disability and the accident; other doctors gave an entirely different view. So in reaching a decision I must consider not only the medical evidence, but also all the facts involved, and from those facts reach my deduction.
+Now; in considering the facts in this case, I have taken into account the petitioner’s past, and I have considered also the testimony relating to this accident. Frankly, I am not impressed with the contention that the petitioner was not in normal health before the accident, or with his nearsightedness, which is not an uncommon ailment, an abnormal condition. He came from Holland in 1930, and took this job as a milkman, which is in my opinion a position entailing hard manual labor, inasmuch as it necessitates chiefly night work with considerable lifting to be done. And I cannot help but be impressed with, the fact that he scarcely lost a day from work; and I am not impressed with the fact that occasionally he had a cold or a headache or an attack of indigestion. I consider those things are part of a normal life. I feel that np to the time of this accident, he led what might be considered a normal life, and that his health, if anything, was slightly above the average.
+Now, as to this accident: As indicated by the evidence, this petitioner while in a milk truck, the type which has a door on each side and which is familiar to all of ns, is abont to get ont of the truck just as it is struck by an automobile. From the evidence of the occupants of the car, I feel that the collision must have been severe, inasmuch as they testified they were all dazed, and that bottles of milk were knocked from the wagon and scattered in all directions. Then we have the evidence of the petitioner, who testified that he was struck on the head by a milk case; that he was injured in the hand; that he was injured on the heel, and that he was rendered unconscious. Whether or not the petitioner was struck on the head and rendered unconscious is the crux of this case. By his evidence as presented, and the corroborating testimony of the occupants of the car, I believe that he sustained a head injury. I cannot imagine that a man standing up in a milk wagon and being struck by an oncoming car would receive no greater injury than cuts on the heel and hand. There is no doubt in my mind that he was rendered unconscious.
+Of course, there is evidence that there was no report of head injury in the hospital, and that for a period of time the man attended the clinic where he was treated only for injury to his heel. However, there was a report of head injury at the police station where he was taken prior to going to the hospital.
+He testified that for the first two or three days following the accident, he had severe headaches which temporarily subsided. This testimony is significant from the point of view of the petitioner’s credibility, for if he had not testified honestly, he could have said that the headaches continued uninterruptedly from the time of the accident, in an attempt to strengthen his case. However, he did say that the headaches subsided temporarily but came on again; and by December, it appears that he was suffering seriously from headaches. We have the testimony to this effect of Dr. Phelps; we have the testimony of his wife that around Christmas time he did not appear to be himself. In February, his condition was such that he was unable to work, and he was dizzy, he staggered and his vision was affected. At that time he went under the- care of physicians who were unable to agree upon any diagnosis. The following year he was operated upon by Dr. Masson, who ascertained the true cause of his disability, namely a tumor on the brain.
+I am not impressed with the testimony that this accident caused the tumor, but the issue is whether this accident aggravated that condition. After a great deal of thought, I have come to' the conclusion that the petitioner has sustained the burden of proving that this accident did aggravate the tumor and caused the petitioner to be in the condition in which he is now, namely totally disabled.
+I am somewhat impressed by the report of the operation wherein it says that the tumor was vascular; and although some doctors tried to bring out that this tumor was immovable and calcified, I am not convinced of that fact. Of course, eighteen months had passed since this original condition. Ho doubt there was some calcification, and yet the tumor seemed to be active.
+I have to accept the facts as presented to me and the picture I have before me is a man, who from the evidence, was in normal health before this accident. And then within a short time all these symptoms developed seriously. They were not slow growing symptoms, but came on within a few months.
+After considering all the facts, I have decided that the petitioner’s disability is -now the result of this accident which arose out of and in the course of his employment, and I therefore find judgment in favor of the petitioner.
+*******
+Chakbes E. Cobbin,
+Deputy Commissioner.
