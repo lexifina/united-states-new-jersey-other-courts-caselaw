@@ -1,0 +1,32 @@
+---
+court: "Tax Court of New Jersey"
+decided: "1985-07-16"
+citations: ["7 N.J. Tax 469"]
+reporter: "nj-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CITY OF EAST ORANGE, PLAINTIFF, v. LISMARC REALTY MANAGEMENT CORP., DEFENDANT; LISMARC REALTY MANAGEMENT CORP., PLAINTIFF, v. CITY OF EAST ORANGE, DEFENDANT."]
+source_url: "https://static.case.law/nj-tax/7/cases/0469-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 421240
+cites_cases: ["1 N.J. Tax 236", "113 A.2d 13", "176 N.J.Super. 254", "18 N.J. 163", "184 N.J.Super. 371", "190 N.J.Super. 528", "195 N.J.Super. 373", "196 N.J.Super. 587", "2 N.J.Tax 392", "3 N.J.Tax 183", "4 N.J.Tax 38", "422 A.2d 810", "446 A.2d 201", "464 A.2d 1156", "479 A.2d 435", "483 A.2d 839", "491 A.2d 691", "5 N.J.Tax 637", "99 N.J. 189"]
+---
+
+# City of East Orange v. Lismarc Realty Management Corp.
+
+## Majority (CRABTREE, J.T.C.)
+
+CRABTREE, J.T.C.
+This is a local property tax case wherein the municipality (hereinafter defendant) moves to dismiss the complaint of Lismarc Realty Management Corporation (hereinafter plaintiff) for failure to pay taxes as required by N.J.S.A. 54:51A-l(b). Plaintiff challenges the constitutionality of that statute, asserting a denial of equal protection mandated by the New Jersey and United States Constitutions. The Attorney General has intervened pursuant to R. 4:28-4 to support the constitutionality of the statute.
+The facts are not in dispute.
+Plaintiff, the owner of real property located at 148 South Munn Avenue, East Orange, New Jersey (Block 215, Lot 4), sought review of the 1984 assessment on its property before the Essex County Board of Taxation. At the time of such review all taxes due and owing for the first three quarters of 1984 had been paid. The county board entered judgment on November 1, 1984 reducing the assessment from $288,200 to $264,900. On December 14, 1984 plaintiff filed its complaint in this court seeking a further reduction in the assessment. On the same day, defendant filed its complaint in this court seeking an increase in the original assessment.
+At the time plaintiff’s complaint was filed in this court the fourth installment of 1984 taxes was unpaid. Payment of that last installment was made, however, on January 29, 1985. Defendant’s motion to dismiss was filed on April 11, 1985.
+N.J.S.A. 54:51A-l(b) provides, pertinently:
+At the time that a complaint, has been filed with the tax court seeking review of judgment of county tax boards, all taxes or any installments thereof then due and payable for the year for which review is sought must have been paid....
+This statute has been construed as establishing payment of taxes as a jurisdictional prerequisite to Tax Court review of a county board judgment; and failure to comply therewith compels dismissal of taxpayer’s complaint. Schneider v. East Orange, 196 N.J.Super. 587, 483 A.2d 839 (App.Div.1984). Defendant’s position, however, goes beyond mere dismissal of plaintiff’s complaint. Defendant contends that it has a right to proceed on the basis of its own complaint and that it has the absolute right under R. 8:3-9 to withdraw prior to the close of proofs. The dismissal of plaintiffs complaint at the present stage of the case removes, in advance, any impediment to the treatment of such withdrawal as a dismissal of the entire case. Cherry Hill Tp. v. U.S. Life Ins. Co. of N.Y., 176 N.J.Super. 254, 1 N.J. Tax 236, 422 A.2d 810 (Tax Ct.1980). Defendant acknowledges that, if the case is tried on its merits, chapter 123 (N.J.S.A. 54:51A-6) will be applied to the court’s finding of true value and, as a result, the original assessment may be raised or lowered. Weyerhaeuser Co. v. Closter Boro., 190 N.J.Super. 528, 464 A.2d 1156 (App.Div.1983); Devonshire Development Assoc. v. Hackensack, 184 N.J.Super. 371, 2 N.J.Tax 392, 446 A.2d 201 (Tax Ct.1981).
+Put differently, defendant claims the right to proceed and seek an increase in the assessment while denying plaintiff the right to a further reduction if defendant decides to withdraw before the close of proofs.
+As we said in Verden Realty Mgt. Co. v. East Orange, 5 N.J.Tax 637 (Tax Ct.1983): “Acceptance of defendant’s position would exalt form over substance at the expense of substantial justice.” At 642. Substantial justice is the aim of the rules and all pleadings should be construed in light of that objective. Melone v. Jersey Central Power & Light Co., 18 N.J. 163, 113 A.2d 13 (1955). In the case sub judice, had plaintiff filed late, i.e., beyond the 45 days required by law for appeals from county board judgments, the same jurisdictional bar applicable to the failure to pay taxes would have been imposed. See Mayfair Holding Corp. v. North Bergen Tp., 4 N.J.Tax 38, 39 (Tax Ct.1982). However, notwithstanding such late filing, the timely filing of a complaint by the municipality would enable plaintiff to file a counterclaim within 20 days from service of the complaint, R. 8:4-3, incorporating by reference R. 4:6-1; and in such counterclaim plaintiff could demand the same relief it might have claimed had it filed a complaint initially. Evesham Tp. v. Nye, 3 N.J.Tax 183, 187 (Tax Ct.1981). No claim is made by defendant that N.J.S.A. 54:51A-l(b) applies to counterclaims.
+Thus, it is appropriate—and just—under the bizarre facts of this case to treat plaintiff’s pleading as a counterclaim; and it is so treated. Given the simultaneous filing of complaints by both plaintiff and defendant, the denomination of plaintiff’s pleading as a counterclaim preserves plaintiffs right to judicial review without compromising the legislative policy embodied in N.J.S.A. 54:51A-l(b) that the current year’s taxes must be paid as a condition precedent to such review.
+In view of the foregoing, defendant’s motion is denied. Under the circumstances it is unnecessary to address plaintiff’s arguments concerning the constitutionality of N.J.S.A. 54:51A-Kb).
+Plaintiff will prepare the appropriate order and submit it pursuant to R. 4:42-l(b).
+But see F.M.C. Stores Co. v. Morris Plains Bor., 195 N.J.Super. 373, 479 A.2d 435 (App.Div.1984), leave to appeal granted 99 N.J. 189, 491 A.2d 691 (1984), a case involving an appeal by a municipality in a revaluation year. The Appellate Division held that the municipality- was bound by the statutory filing deadline where it sought an increase in the assessment.
