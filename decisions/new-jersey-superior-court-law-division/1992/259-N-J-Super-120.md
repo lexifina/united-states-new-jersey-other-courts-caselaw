@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1992-06-18"
+citations: ["259 N.J. Super. 120", "611 A.2d 672"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF, v. RODNEY BULL, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/259/cases/0120-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 342142
+cites_cases: ["124 N.J.Super. 189", "176 N.J.Super. 49", "305 A.2d 800", "422 A.2d 97", "49 Wis.2d 105"]
+---
+
+# State v. Bull
+
+## Majority (WERTHEIMER, J.S.C.)
+
+WERTHEIMER, J.S.C.
+The question before this court is whether defendant may pursue a “Claim of Right” pursuant to N.J.S.A. 2C:20-2(c) in defense of a first degree robbery charge. Defendant was indicted for, among other charges, “committing a theft while armed with a deadly weapon” contrary to the provisions of N.J.S.A. 2C:15-1.
+Defendant’s alleged victim testified at trial that defendant approached her shortly after midnight on April 30, 1990 while she was walking home, pulled a knife, placed it to her throat and demanded her money. Defendant took the stand in his own behalf and denied he threatened the victim with a knife and said he was only trying to recoup $20.00 that he gave to the complainant earlier. In furtherance of this position, the defense attorney has requested that the court charge the jury regarding a Claim of Right. The court now declines this request, principally because the defendant testified that he did not care if he re-couped the two specific $10.00 bills that he allegedly loaned the victim. Rather, he merely wanted $20.00 back.
+There is a paucity of New Jersey case law which discusses this defense. Prior to the enactment of the N.J. Code of Criminal Justice, which became effective on September 1, 1979, an attempt to collect a debt, even under a good faith belief that the person was entitled to the property taken, was held not to be a defense to a robbery charge. State v. Ortiz, 124 N.J.Super. 189, 191-192, 305 A.2d 800 (App.Div.1973). When the N.J. Code of Criminal Justice was passed, it specifically noted that “Claim of Right... is an affirmative defense to prosecution for theft (if) the actor ... [ajcted under an honest claim of right to the property” (inter alia) N.J.S.A. 2C:20-2(c). Thus, the Legislature called into issue the actor’s animus furandi, his intent to steal. As theft, the taking of the property of another, is an element of robbery, under this statute one cannot form the mens rea for the crime of robbery if he intends to take back his own property. Thus, the Ortiz Court’s rejection of “self-help through violence” was specifically countered in the “new code.”
+However, because such vigilantism is still abhorred and because citizens should be encouraged to redress one’s own wrongs through recourse to the judicial process, this defense has been strictly construed. See State v. D’Agostino, 176 N.J.Super. 49, 55-56, 422 A.2d 97 (App.Div.1980). It has been held that the interest to which the defendant claims a right “must be to specific property.” State v. D’Agostino, supra.
+This condition is quite obviously easy to understand and apply when it comes to personal property, e.g., a specific chair, a certain automobile, a specific suit. The defense becomes questionable when dealing with fungibles, but it becomes suspect when dealing with money. Debts are customarily re-paid in the same amount, not with exactly the same currency, that was loaned. Lenders customarily do not care what denominations they receive but only that they be re-paid the amount borrowed.
+That is precisely the reason that the Supreme Court of Wisconsin distinguished between specific property and money:
+The distinction between specific personal property and money is important. A debtor can owe another $150 but the $150 in the debtor’s pocket is not the specific property of the creditor. One has the intention to steal when he takes money from another’s possession against the possessor’s consent even though he only intends to apply the stolen money to a debt. The efficacy of self-help by force to enforce a bona fide claim for money does not negate the intent to commit robbery. ... A debt is a relationship and in respect to money seldom finds itself embedded in specific coins and currency of the realm. Consequently, taking money from a debtor by force to pay a debt is robbery. The creditor has no such right of appropriation and allocation. Edwards v. State, 49 Wis.2d 105, 181 N.W.2d 383, 388 (1970)
+It appears, however, that our courts should permit the defense under our Code if the defendant can convince the trier of facts that he only sought to reacquire the same coin and currency.
+This court believes that such a position is dangerous and incapable of good faith confirmation. However, this court is also mindful that as a trial tribunal it is commissioned to follow state law and appellate authority. Thus, as currently posited the law of this State would seem to allow a defendant to argue to a jury that he cannot be found guilty of robbery because he was only attempting to reacquire the very same currency he loaned. This appears to this court to unduly encourage vigilantism, to embolden acts of violence with a shield of lawfulness and to discourage the civilized pursuit of the judicial process. One would hope that the Legislature or an appellate court will soon pronounce such a specter as unacceptable.
+In the case at bar, however, the defendant has failed to assert his claim of right to specific property, admitting that if available he would have taken any currency that equalled the amount he allegedly gave his victim. Therefore, the defense of a Claim of Right is inapplicable, irrelevant, immaterial and, therefore, unavailable. The defendant’s Request to Charge same is denied.
