@@ -1,0 +1,57 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1989-12-21"
+citations: ["238 N.J. Super. 649", "570 A.2d 503"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF, v. VICTOR OTERO, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/238/cases/0649-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 344116
+cites_cases: ["105 A.2d 1", "118 N.H. 458", "15 N.J. 384", "18 U.S.C.A. § 4241", "2 N.J. 426", "319 A.2d 461", "362 U.S. 402", "371 N.Y.S.2d 840", "383 U.S. 375", "389 A.2d 1379", "420 U.S. 162", "538 F.2d 972", "589 F.2d 811", "65 N.J. 21", "67 A.2d 175", "82 Misc.2d 1090"]
+---
+
+# State v. Otero
+
+## Majority (PASSERO, J.S.C.)
+
+PASSERO, J.S.C.
+This opinion considers the following issues relative to the statutory criteria (N.J.S.A. 2C:4-4) affecting a criminal defendant’s competency to stand trial.
+A. Who bears the burden of proof to establish competency?
+B. What standard of proof is required?
+C. May this court order compelled medication to achieve sufficient competency?
+Defendant, Victor Otero, is charged in a nine-count indictment with various crimes, including attempted murder and kidnapping. Within one week following his arrest, defendant was admitted to the Forensic Psychiatric Hospital in a depressed, agitated, delusional and hallucinatory state. Defendant was treated with anti-psychotic medication and, after showing “improvement,” was discharged to the Passaic County Jail. He remained at the Passaic County Jail for approximately five months until September 20, 1989, when, after a hearing upon motion of defendant, this court ordered defendant re-admitted to the Forensic Psychiatric Hospital for a court-ordered competency evaluation, pursuant to N.J.S.A. 2C:4-5, as there existed reason to doubt defendant’s fitness to proceed to trial.
+During the second hospitalization, defendant’s anti-psychotic medications were increased, and defendant was found by the treating and evaluating psychiatrists to be competent to stand trial. This determination was based primarily on defendant’s response to the increased dosages of anti-psychotic medication.
+A competency hearing was held by this court on November 8, 1989, and at this hearing two staff psychiatrists from the Forensic Psychiatric Hospital, including the medical director, testified that in their opinion, based on reasonable medical certainty, although defendant suffered from a schizophrenic disorder, defendant was competent to stand trial and would remain competent to stand trial provided defendant is maintained on anti-psychotic medication.
+Two psychiatrists retained by defendant found defendant to be incompetent to stand trial, and one testified at the competency hearing that anti-psychotic medication could not render defendant competent to stand trial.
+Neither New Jersey statutory nor decisional law specifically addresses the issues as to the evidentiary standard and allocation of the burden of proof in competency proceedings.
+It is clear that competency to stand trial is a requirement of due process, Drope v. Missouri, 420 U.S. 162, 171, 95 S.Ct. 896, 903, 43 L.Ed.2d 103 (1975), and such issue may, at any time, be raised by either party or by the court on its own motion. N.J.S.A. 2C:4-5(a). Because of the inherent due process issue, the quantum of proof sufficient to raise the issue of competency is, and should, not be great. A court should hold a competency hearing whenever there is a bona fide dispute about one’s competency to stand trial. See Pate v. Robinson, 383 U.S. 375, 86 S.Ct. 836, 15 L.Ed.2d 815 (1966).
+Although some jurisdictions place the onus on defendant to prove his incompetency to stand trial, see Spencer v. Zant, 715 F12d 1562 (11 Cir.1983) (applying Georgia law), a fair reading of our code of criminal justice (N.J.S.A. 2C:1-1 et seq., hereinafter “code”) and an examination of analogous federal provisions clearly shows that once a “bona fide dispute” as to competency has been raised (N.J.S.A. 2C:4-5(a)), the burden is upon the State to establish competency to stand trial and to do so by a preponderance of evidence standard.
+A proceeding to determine competency to stand trial, after indictment and prior to trial, has historically been viewed as a collateral issue in the nature of a civil proceeding. State v. Gibson, 15 N.J. 384, 105 A.2d 1 (1954). See also N.J. Const. (1947), Art. I, par. 9.
+Since a preceeding to determine competency is in the nature of a civil proceeding, N.J.S.A. 2C:1-13e becomes relevant: “In any civil action commenced pursuant to any provision of this Code the burden of proof shall be by a preponderance of the evidence.”
+An examination of analogous federal provisions supports this interpretation of the evidentiary burden under our code. For example, 18 U.S.C.A. § 4241(d), which sets forth the standard to be applied in a competency hearing in federal court, provides in pertinent part:
+(d) Determination and disposition ... If, after the hearing, the court finds by a preponderance of the evidence that the defendant is presently suffering from a mental disease or defect rendering him mentally incompetent to the extent that he is unable to understand the nature and consequence of the proceedings against him or to assist properly in his defense, the court shall commit the defendant to the custody of the Attorney General. [Emphasis supplied.]
+This evidentiary standard as to the competency issue is also addressed in the Uniform Rules of Criminal Procedure, which provide:
+The court shall first consider the issue of the defendant’s competence. If no evidence indicating incompetence has been offered or the court finds by a preponderance of the evidence that the defendant is competent, the court shall enter an order finding that the defendant is competent. Otherwise, the court shall enter an order finding that the defendant is incompetent. [Unif.R.Crim.Proc., Rule 446g. (1987); emphasis supplied.]
+Although allocation of the burden of proof is practically significant only in a rare case, it is significant where, as under the facts presented herein, this court is not satisfied by proof beyond a reasonable doubt that the State has established defendant’s competency to stand trial.
+This court is satisfied that the onus of proving competency to stand trial is upon the State. This is in accord with the concept that competency to stand trial is grounded in notions of fundamental fairness and that no burden of proof should be placed upon a defendant. See U.S. v. Digilio, 538 F.2d 972, 988 (3 Cir.1986).
+On the issue of who bears the burden of proof, N.J.S.A. 2C:4-4(b) initially provides that “[a] person shall be considered mentally competent to stand trial on criminal charges if .the proofs shall establish....” Likewise, N.J.S.A. 2C:1-13, which also concerns the burden of proving a fact when not an element of an offense, provides in pertinent part:
+d. When the application of the code depends upon the finding of a fact which is not an element of an offense, unless the code otherwise provides:
+(1) The burden of proving the fact is on the prosecution or defendant, depending on whose interest or contention will be furthered if the finding should be made; and
+(2) The fact must be proved to the satisfaction of the court or jury, as the case may be.
+In deciding whether the court may compel medication to achieve sufficient competency, it is first necessary to determine the criteria for competency for criminal defendants. Before the advent of the code, the traditional standard to be applied in determining whether one is capable of standing trial was that “one unable to comprehend his position, to consult intelligently with counsel and plan his defense cannot be put to trial.” State v. Auld, 2 N.J. 426, 67 A.2d 175 (1949); State v. Spivey, 65 N.J. 21, 319 A.2d 461 (1974). The standards of the code are more precise and detailed. N.J.S.A. 2:4-4(a) forbids the trial, conviction or sentencing of a person who lacks capacity to understand the proceedings against him or assist in his own defense. Subsection b(1) requires a defendant to be oriented as to time, place and things, and subsection b(2) requires that a defendant’s elementary mental processes be such that he comprehends seven enumerated factors that bear upon his prosecution.
+It is clear that the standards for a determination of a defendant’s competency to stand trial are different from the criteria employed in determining criminal responsibility for alleged criminal offense. Therefore, one may suffer from a mental illness and, nevertheless, be competent to stand trial.
+In Dusky v. United States, 362 U.S. 402, 80 S.Ct. 788, 4 L.Ed.2d 824 (1960), the United States Supreme Court elaborated on the “comprehend and defend” test, in accordance with federal statutory provisions regarding competency, holding that the test is not merely whether a defendant is oriented to time and place and has some recollection of events, but “whether he has sufficient present ability to consult with his lawyer with a reasonable degree of rational understanding—and whether he has a rational as well as factual understanding of the proceedings against him.” 80 S.Ct. at 789.
+Although our code speaks in terms of defendant’s capacity to stand trial, due process indicates that the “capacity” to stand trial relates to a defendant’s present ability (at the time of trial) to stand trial.
+Court-ordered medication, administered in a medically accepted manner, may be utilized to achieve sufficient competency.
+The testimony of the State’s psychiatrists was that defendant has been made competent to stand trial primarily through the administration of anti-psychotic medication, and it was their opinion that such competency would continue, provided defendant was maintained on such medication.
+Although there is no New Jersey decision on this issue, considered opinions from other jurisdictions support this proposition. See United States v. Hayes, 589 F.2d 811 (5 Cir.1979); People v. Parsons, 82 Misc.2d 1090, 371 N.Y.S.2d 840 (N.Y.Co.Ct.1975). (In fact, if a defendant, who by his voluntary choice made while competent, becomes incompetent to stand trial because he withdraws medication, he may be deemed to have waived his right to be tried while competent. State v. Hayes, 118 N.H. 458, 389 A.2d 1379 (N.H.1978)).
+However, periodic reviews, up to the time of trial, will be required to determine if defendant has maintained his competency to stand trial, albeit through the use of court-ordered medication.
+In conclusion, I find that:
+1. Defendant does, in fact, suffer from mental illness in the nature of a schizophrenic disorder.
+2. This psychotic condition is and has been responsive to anti-psychotic medication.
+3. With the maintenance of defendant upon anti-psychotic medication, defendant is able to meet the statutory criteria set forth in N.J.S.A. 2C:4-4(b).
+4. The State has met its burden by establishing by a preponderance of the evidence that defendant is presently competent to stand trial and that his competence will be maintained through the administration of anti-psychotic medication.
+5. All medication is to be administered in a medically acceptable manner.
+6. Defendant’s competency status will be reviewed again by this court no later than five (5) days prior to the scheduled trial date.
