@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1950-04-19"
+citations: ["8 N.J. Super. 434"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RITA WOLFER, PLAINTIFF, v. JOSEPH A. OEHLERS, JOSEPH R. OEHLERS, AND LORETTA CAROLINA GALLAGHER, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/8/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 358602
+cites_cases: ["123 N. J. L. 252", "165 Tenn. 415", "168 Miss. 439", "198 N. E. 320", "289 N. Y. 438", "293 Mass. 39", "46 N. E. 2d 509", "55 S. W. 2d 263", "8 A. 2d 337"]
+---
+
+# Wolfer v. Oehlers
+
+## Majority (Woods, J. S. C.)
+
+Woods, J. S. C.
+Plaintiff, Eita Wolfer, on or about September 8, 1949, filed a complaint against Joseph A. Oehlers, Joseph E. Oehlers and Loretta Carolina Gallagher, for personal injuries sustained by her while riding in an automobile operated by Joseph E. Oehlers and owned by Joseph A. Oehlers, as a result of an accident between the Oehler’s car and an automobile operated by the defendant, Loretta Carolina Gallagher.
+Thereafter, on December 31, 1949, the plaintiff, Eita Wolfer, married the defendant, Joseph E. Oehlers, and she is presently his wife. Defendants, Joseph A. Oehlers and Joseph E. Oehlers now move to have the complaint of Eita Wolfer stricken and dismissed as to either or both of them, on the ground that relief cannot be granted upon plaintiff’s claim inasmuch as she is now married to the defendant, Joseph E. Oehlers.
+In support of the motion counsel for the defendants argues the common law principle and cites 41 C. J. S., Husband and Wife, 880, § 396, and other authorities. Among them is the case of Hudson v. Gas Consumers Association, 123 N. J. L. 252, 8 A. 2d 337 (E. & A. 1939), in which Chief Justice Erogan held: “It is, of course, a settled matter that a wife may not have a suit for damages against her husband for his tort. This is the common law rule and no statute has been enacted in this state that disturbs it.”
+The question is, whether or not the “Married Women’s Act,” B. 8. 37:2-9 which provides as follows:
+“Any married woman may maintain an action in her own name without joining her husband therein, for all torts committed against her, of her sepárale property, in the same manner as she lawfully might if a feme sole, and the nonjoinder of the husband shall not be pleaded in any such action. * * *”
+permits this suit to continue against Joseph A. Oehlers and Joseph E. Oehlers, jointly and severally. The law is very clear, that where a personal tort is committed against her during coverture, the wife cannot maintain an action against her husband. The doctrine of identification still bars a married woman from instituting suit against her husband.
+In this instance, however, the tort was alleged to have been committed when Rita Wolf ex was single and Joseph R. Oehlers was single and the suit for the recovery of damages as a result of the personal injuries sustained, was instituted prior to their marriage. We are now called upon to determine whether or no Rita Wo-lfex Oehlers can proceed with her action. As far as we are able to discover there is no case reported in the State of Hew Jersey covering the facts. In the case of Scales v. Scales, 168 Miss. 439, 151 So. 551, the plaintiff while riding in the defendant’s car was injured as the result of a collision. Later she married the defendant and then brought suit for personal injuries. The court held that although the statute conferred upon a wife the right to sue her husband on many causes of action that she might have against him, no right was conferred on the wife for the right to sue for a personal tort against her by her husband. “At common law the ground on which no right of action accrues to one spouse against the other for the commission of a personal tort is the legal unity of their persons by virtue of the marriage. The reason underlying this rule apply with equal force to the continuance of a cause of action which one spouse has against the other prior to their marriage. Therefore, in the absence of a statute to the contrary, a right of action in one spouse against the othe'r for the commission of a personal tort existing prior to the marriage is extinguished by the marriage.” The same line of reasoning was used in the case of Raines v. Mercer, 165 Tenn. 415, 55 S. W. 2d 263, and Coster v. Coster, 289 N. Y. 438, 46 N. E. 2d 509.
+The case of Lubowitz v. Taines, 293 Mass. 39, 198 N. E. 320, also seems to be dispositive of this matter. We quote in part from the report: Where an unmarried woman sustained injuries due to a man’s negligence and sued him, and before trial they were married, “her right of action was not such a thing in action as would become her separate property” within the meaning of the Married Woman’s Act, “but was barred by the general disability of husband and wife to sue each other for a tort.”
+We are of the opinion that the law of the State of New Jersey has not been changed by statute, and that by virtue of the marriage status there exists a reciprocal disability which precludes a suit by one spouse against the other for personal injuries. Therefore, upon the marriage of the plaintiff, Rita Wolfer with the defendant, Joseph R. Oehlers, her antenuptial right of action for the injuries complained of, was extinguished. The motion to dismiss the plaintiff’s complaint as to the defendant, Joseph R. Oehlers is allowed.
+The suit against Joseph A. Oehlers, who appears to be the father-in-law of Rita Wolfer Oehlers, will be continued without prejudice, pending proofs to show the relationship between the father and son as agent, servant or employee. The motion to dismiss the plaintiff’s complaint as to the defendant, Joseph A. Oehlers, is denied, without prejudice, and he may renew his motion at the proper time.
