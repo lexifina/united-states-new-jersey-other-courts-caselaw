@@ -1,0 +1,39 @@
+---
+court: "Somerset County Juvenile and Domestic Relations Court"
+decided: "1982-03-05"
+citations: ["184 N.J. Super. 499"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY IN THE INTEREST OF H. D., A JUVENILE."]
+source_url: "https://static.case.law/nj-super/184/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 888253
+cites_cases: ["33 L.Ed.2d 321", "403 U.S. 15", "405 U.S. 518", "408 U.S. 901", "415 U.S. 130", "56 N.J. 346", "62 N.J. 594", "92 S.Ct. 2479"]
+---
+
+# State ex rel. H. D.
+
+## Majority (LEAHY, J. S. C.)
+
+LEAHY, J. S. C.
+(temporarily assigned).
+H. D. was adjudicated delinquent after a hearing for directing the words “you God-damned jerkoff,” “fucking jerkoff” and “I’m going to kick the shit out of you” to a police officer while in custody in the North Plainfield Police Station. The incident followed continuous boisterous behavior and verbal harrassment of the officer for several hours late in the evening of August 27, 1981. The language was addressed repeatedly to the officer in a loud voice as he was booking the juvenile on another offense.
+When H. D. appeared to enter a plea counsel for the juvenile moved to dismiss the complaint for failure to make out a violation of N.J.S.A. 2C:33-2(b) as charged. The motion was renewed at trial. H. D. was adjudicated delinquent and counsel then moved for a judgment of acquittal.
+Counsel urges that this conduct will not support an adjudication of delinquency because if done by an adult it would not be a violation of N.J.S.A. 2C:33-2(b), which states
+... [a] person is guilty of a petty disorderly persons offense if, in a public place, and with purpose to offend the sensibilities of a hearer or in reckless disregard of the probability of so doing, he addresses unreasonably loud and offensively coarse or abusive language, given the circumstances of the person present and the setting of the utterance, to any person present.
+The essence of this argument is that this statute is unconstitutional since it may punish as a criminal act spoken words arguably protected by the First Amendment.
+At the time of the hearing this court found that, under the circumstances, the words used by the juvenile did not constitute “fighting words” likely to cause an immediate breach of the peace or move the hearers to present violence. A police officer would not be expected to so react, especially in police headquarters. Thus, the only issue is whether the prohibition of unreasonably loud and offensively coarse or abusive language uttered with intent to offend a hearer’s sensibilities violates the First Amendment’s guarantee of freedom of expression. The issue is one of first impression after judicial and legislative reaction to the controversy surrounding the predecessor to this statute, N.J.S.A. 2A:170-29(1).
+Counsel urges that the application of N.J.S.A. 2C:33-2(b) in the present case is governed by State v. Rosenfeld, 62 N.J. 594 (1973). Rosenfeld, after remand from the United States Supreme Court, 408 U.S. 901, 92 S.Ct. 2479, 33 L.Ed.2d 321 (1972), for consideration in light of Cohen v. California, 403 U.S. 15, 91 S.Ct. 1780, 29 L.Ed.2d 284 (1971), held that the predecessor statute was limited to prohibiting utterance of “fighting words” only. The Rosenfeld Court expressly rejected an alternative formulation advanced in State v. Profaci, 56 N.J. 346 (1970), that the statute also prohibited language uttered to offend the sensibilities of the hearer. Recognizing the continued effect of Rosenfeld, we nonetheless reject this contention as applicable to the revised statutory language.
+N.J.S.A. 2C:33-2(b) was enacted by the Legislature after Rosenfeld struck Prof acts second alternative from the interpretation of the predecessor statute. Rosenfeld had expressly recognized that the decisions whether to further pursue regulation of offensive language and the appropriate method of doing so were policy decisions solely the province of the Legislature within the framework mandated by decisions of the United States Supreme Court, and stated,
+... the restructuring of Profacfs second alternative at this time would implicate currently troublesome policy considerations which should in the first instance be dealt with by our Legislature rather than this Court... .
+... determinations as to the lines to be drawn are at this juncture more appropriately to be made by the legislative rather than the judicial branch. [62 N.J. at 602-603.]
+No clearer indicator of a legislative intention to do so can be had; N.J.S.A. 2C:33-2(a) embodies the Rosenfeld “fighting words” test while subpart (b) proscribes offensive language much more narrowly than did the doctrine enumerated in Profaci.
+Of course, the legislative decision must still withstand exacting constitutional scrutiny; it must be carefully drawn so as not to be susceptible to interpretation permitting regulation of protected expression, no matter how vulgar or offensive that expression actually is. Gooding v. Wilson, 405 U.S. 518, 521-522, 92 S.Ct. 1103, 1105-1106, 31 L.Ed.2d 408 (1972). The state may not punish only spoken words. Lewis v. New Orleans, 415 U.S. 130, 134, 94 S.Ct. 970, 972-973, 39 L.Ed.2d 214 (1974). Nor may it punish the mere fact of communication. Cohen v. California, 403 U.S. 15, 19, 91 S.Ct. 1780, 1785, 29 L.Ed.2d 284 (1971). And even where the words may be vulgar or offensive to some who may hear them, the state cannot punish for their utterance merely to sanitize public debate and expression. Id. at 20-22,91 S.Ct. at 1785-1786.
+The proscription of the revised statute extends only to unreasonably loud and offensively coarse or abusive language, and only when the speaker’s intent is to offend the hearer or where he recklessly disregards the likelihood of such offending. The language alone is no longer enough to support a conviction merely because it is vulgar or unpopular. See 2 Model Penal Code § 250.2 at 333-334 (ALI 1980). In fact the Legislature engrafted an additional element to the offense: the nature and content of the language must be evaluated consistently with the circumstances of the person present and the setting of the utterance, thus removing any possibility that language alone could support a finding of guilt or that protectable speech could be punished.
+It is plain that the juvenile in this case intended to offend the police officer. The language used contains no trace of protectable dialogue about any topic. The proofs establish that there had been a continuing course of harassment over a period of at least 90 minutes after the officer first told H. D. and the group he was with to move to another location. At the time the words involved in the current charge were spoken the juvenile was in custody as the result of a final confrontation over his conduct. Given these circumstances, the juvenile’s only purpose in so speaking was to offend the officer, in effect, to exact verbal vengeance for his arrest.
+The court also considers the juvenile status of the offender, the lateness of the hour and the deliberateness of the juvenile’s conduct in the continued harrassment as further proof that no valid First Amendment expression was contemplated or involved.
+This court cannot conceive that our Legislature intended, aware as it was of its duty to scrupulously follow Rosenfeld’s direction, to approve such unjustifiable and offensive behavior, or to license undue harassment and deliberate provocation of peace officers serving the public.
+The motion to set aside the judgment previously entered is denied.
+That statute read in relevant part:
+Any person who utters loud and offensive or profane or indecent language in any public street or other public place, public conveyance, or place to which the public is invited ... is a disorderly person.
