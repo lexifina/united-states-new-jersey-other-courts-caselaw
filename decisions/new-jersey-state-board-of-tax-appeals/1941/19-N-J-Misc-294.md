@@ -1,0 +1,26 @@
+---
+court: "New Jersey State Board of Tax Appeals"
+decided: "1941-04-01"
+citations: ["19 N.J. Misc. 294"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MIDDLESEX REFINING COMPANY, PETITIONER, v. J. H. THAYER MARTIN, STATE TAX COMMISSIONER, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/19/cases/0294-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 456086
+cites_cases: ["145 Atl. Rep. 922", "24 Atl. Rep. 507", "32 Atl. Rep. 2", "54 N. J. L. 430", "56 N. J. L. 717", "69 Atl. Rep. 451"]
+---
+
+# Middlesex Refining Co. v. Martin
+
+## Majority (Quinn, President.)
+
+Quinn, President.
+Petitioner claims to be a manufacturing corporation with more than fifty per cent, of its capital stock issued and outstanding invested in manufacturing pursuits carried on in this state, and therefore exempt from the assessment of corporation franchise taxes under R. S. 54:13-7; N. J. S. A. 54:13-7. It accordingly appeals from an assessment of such taxes levied against it by the State Tax Department for the year 1939.
+The sketchy proofs at the hearing show the following facts only, although petitioner’s counsel make assertion of other facts in their brief. Petitioner is the owner of a building constituting an oil refinery, together with miscellaneous machinery and equipment for such purposes, situated at Piscataway in Middlesex county. On April 1st, 1937, petitioner leased the entire plant and its equipment to Seaboard Refining Company, which stocked a quantity of crude oil upon the premises and stored it there for several years, including all of the year 1939. The lease was not introduced in evidence, and presumably petitioner was simply in the relationship of landlord to the Seaboard Refining Company. It appears that from some time in 1937 and through the year 1939, no actual refining took place on the premises because of unfavorable economic conditions. In any event the Seaboard Company applied for and received exemption from franchise tax for the year 1939, by reason of its operations at this plant.
+Petitioner contends that, as of the assessing date, January 1st, 1939, the process of refining at the plant was in only a temporary state of suspension, so that there was no loss of the exemption based on cessation of actual manufacturing. Raritan Radiator Co. v. State Tax Department, New Jersey Tax Reports, 1912-1934, p. 667; Vulcanite Portland Cement Co. v. State Tax Commissioner, New Jersey Tax Reports, 1934-1939, p. 662.
+It is then argued that the manufacturing activities at the plant are so closely tied up with petitioner, that it is itself to be considered a manufacuring company, in the sense of the statute. We think not.
+The connecting circumstances shown by the proofs are these: A Mr. Graham was president of the petitioner corporation, and held two-thirds of the common stock of the Seaboard Company. Either petitioner alone, or petitioner and Mr. Graham together (it is not clear which from the testimony), hold all of the preferred stock in Seaboard. Petitioner finds itself unable to engage in refining directly, or even to invest in oil, because it is subject to the claims of a considerable number of creditors. The plant itself is “protected” from creditors by a large mortgage thereon arranged by Mr. Graham. The whole picture presented by the proofs is that of an owner company, carefully segregated and maintained apart from an operating company, occupying only the relationship of landlord and tenant. That of itself does not operate to transfer the status of the lessee manufacturing company to the lessor corporation. Balbach Smelting and Refining Co. v. State Board (Supreme Court, 1929), 145 Atl. Rep. 922.
+Nor is the situation here presented assimilable to that involved in North American Phonograph Co. v. Board of Assessors (Supreme Court, 1892), 54 N. J. L. 430; 24 Atl. Rep. 507; affirmed (Court of Errors and Appeals, 1894), 56 N. J. L. 717; 32 Atl. Rep. 2. In that case the North American company, owner of exclusive patents for the manufacture of phonographs, in which its capital was almost exclusively invested, entered into an agreement with Edison Phonograph Works, whereby sole and exclusive rights to manufacture the patented article were granted to the Edison company, and the latter agreed not to manufacture phonographs for use within the United States for parties other than North American. The court concluded that the manufacturing activities under the agreement by Edison constituted North American a manufacturing company, the decision being based upon the finding that the real relationship between the parties was that of principal and agent. No such relationship is even remotely suggested in the instant ease between petitioner and Seaboard. Middlesex Refining Company is not shown to bear any of the expense and risk of the operating company in the same sense as did the North American Company in the cited case. And see Alton Machinery Co. v. State Board (Supreme Court, 1907), 69 Atl. Rep. 451. Because of its precarious credit situation, Mr. Graham testifies that he could not afford to permit it to do so.
+The claim for exemption is denied and the assessment affirmed.
