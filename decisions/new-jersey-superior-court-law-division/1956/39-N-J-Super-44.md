@@ -1,0 +1,49 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1956-01-16"
+citations: ["39 N.J. Super. 44"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FLOWERS BY DiALTON’S, A CORPORATION, PLAINTIFF, v. THE AMERICAN INSURANCE COMPANY, A BODY CORPORATE, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/39/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 387455
+cites_cases: ["11 N. J. 515", "123 A. 149", "13 N. J. Super. 166", "133 S. W. 2d 489", "140 F. 2d 24", "168 Okl. 514", "175 Tenn. 228", "2 N. J. Misc. 44", "20 A. L. R. 2d 1249", "27 N. J. L. 68", "34 P. 2d 579", "63 Harv. L. Rev. 1177", "7 N. J. 436"]
+---
+
+# Flowers By DiAlton's v. American Insurance
+
+## Majority (Larrabee, J. C. C.)
+
+The opinion of the court was delivered by
+Larrabee, J. C. C.
+Plaintiff ordered fire insurance on December 23, 1954 from the Edwards Agency which, as agent for the American Insurance Company, issued an oral binder. A fire loss occurred on January 3, 1955 and plaintiff sues on the oral binder, the policies not having been issued. The Edwards Agency has paid the loss claim of $1,500, taken an assignment of the claim and is added as plaintiff. These facts are stipulated and the case is submitted to the court for determination, the sole issue being whether or not B. 8. 17:36-5.3 bars recovery. This statute reads as follows:
+“Contracts for temporary insurance.
+Binders or other contracts for temporary insurance may be made orally for a period which shall not exceed ten days or in writing for a period which shall not exceed sixty days and shall be deemed 1o include all the terms of such standard fire insurance policy and all such applicable endorsements, approved by the Commissioner of Banking and Insurance, as may be designated in such contract of temporary insurance; except that the cancellation clause of such standard fire insurance policy and the clause thereof specifying the hour of the date at which the insurance shall commence, may be superseded by the express terms of such contract of temporary insurance.”
+Plaintiff contends that in counting the numbers of days, the first is excluded and the last included. 20 A. L. R. 2d 1249, at 1250, and that since the last day is Sunday, January 2, 1955, it is a dies non and therefore the last day actually is January 3, 1955, the date of the fire.
+Defendant contends that the cases which hold Sunday to be a dies non are cases where an act is to be performed within a certain time; that the statute quoted does not contemplate any act to be performed, it simply places time limitation on the term of a contract.
+There is no New Jersey authority directly in point. In Decor-El, Inc., v. Bertsch, 13 N. J. Super. 166 (Law Div. 1951), the fire loss occurred October 9, 1949, after an oral binder was given on September 7, 1949. Since over a month elapsed from the date of the binder to the fire loss, the current problem was not there available for solution.
+There is no doubt that Sunday is a dies non when it is the last day for performance of an act before the bar of limitations becomes effective. As stated in Poetz v. Mix, 7 N. J. 436, at 445 (1951).
+“Although there is diversity of opinion elsewhere, it is well settled in this state that where, by statute, an act is due arithmetically on a day which turns out to be a Sunday or legal holiday, it may be lawfully performed on the following day, and if that day be also a dies non- on which the public offices are closed to the transaction of business, according to the ‘holiday’ acts, supra,, a similar rule applies.”
+In the instant case there is no act to be done which is barred by the lapse of a period of time. The act which plaintiff would normally do to remedy his difficulty would he to obtain a new binder from some other insurance company. Plaintiff had coverage during Sunday. There was no legal bar to his obtaining a new binder on Monday.
+Further, in the dies non cases, an act which cannot be done on Sunday may be done on Monday; thus, theoretically, the term is not extended because the person could not have acted on Sunday. But if the binder is effective through Monday, the term actually is extended because the binder is effective coverage on Sunday as well as any other day.
+A binder is a contract for temporary insurance. See 5 Words and Phrases, Binders, page 518. Concurrently with it the owner orders an insurance policy. This order is placed subject to acceptance by the insurance company, which ordinarily accepts by delivery of policies. Thus, ordinarily the existence of a binder does not place the insurance company under a greater duty than that expressly stipulated in the Standard Fire Insurance Policy. By issuing the binder, it does not agree to issue the policy. The insurance company, therefore, was under no duty to act or issue a policy.
+The order for a policy might continue indefinitely until withdrawn or declined, bnt no liability could be predicated upon it until acceptance, and there is neither acceptance shown, nor is the suit based upon the order of a policy.
+If the term “Binder” included the order to purchase a policy, it could be contended that the last day for the insurance company to accept the order was Sunday. Since acceptance is performance by delivering the policies, the time to act by acceptance should then be continued through Monday. Stryker v. Vanderbilt, 27 N. J. L. 68 (Sup. Ct. 1858); Connelly v. Ward, 2 N. J. Misc. 44 (Ch. 1923), 123 A. 149, that if the order and binder are one, the binder as well as the order should continue effective through Monday. Bnt this contention would fail because in the absence of proof to the contrary the binder and the order are separate and not dependent and the extension of one would not extend the other.
+Plaintiff further contends that State v. Rhodes, 11 N. J. 515 (1953), holds that the rule of dies non applies to all statutes which do not specify a method of computing time. The language of the court follows:
+“We embrace the foregoing views and the resulting principal that in the absence of implied or express legislative direction to the contrary, general statutes of limitations, criminal as well as civil, are to be construed in the light of the common law rule of computation which excludes the first day, and includes the last day unless it is dies non, in which event the following day is included.”
+The court also said:
+“We find nothing in our legislation or judicial decisions which would lend any significant support to the view that the Legislature contemplated different rules of time computation in civil and criminal statutes of limitations. On the contrary, recognition of a simple rule of time computation, applicable equally to civil and criminal proceedings, finds ample support in reason and persuasive authorities elsewhere.”
+And further:
+“In fixing a period of limitation the Legislature may undoubtedly prescribe the time and provide expressly how it shall be computed. See Developments in the Law — Statutes of Limitations, 63 Harv. L. Rev. 1177 (1950), where, as in our State, the Legislature has failed to set forth any specific method of computation, the matter becomes one of statutory construction in the light of such relevant common law guides as are available (cases cited).”
+■ The language of the Supreme Court is wide enough to include the instant case. But the Rhodes case was a case where an act remained to be done on the dies non. Thus it is dictum if applied to cases where no act is to be done.
+The Supreme Court, in the first paragraph quoted, refers to “statutes of limitations, criminal as well as civil.” In the second paragraph the court is referring to “a simple rule of time computation, applicable equally to civil and criminal proceedings,” and in the third paragraph the court refers directly to a law review article on the statute of limitations.
+The genesis of the rule derives in part from canon law, and because the “act to be done” or “legal action” was impossible because the courts were closed or because of a statutory prohibition against acts on Sunday.
+The authorities cited by the Supreme Court available to the County Court are all “acts to be performed” cases. None are examples of the extension of the term of a contract. The language of the Supreme Court indicates that its decision follows those cases. The court does not expressly include all “varieties of limitation cases. Consequently, this court interprets the Supreme Court’s decision as limited to “acts to be performed” eases.
+“Usually, where no act is to be performed, a terminal Sunday will not be excluded from computation of time.
+Nevertheless, the statutes requiring that the last day, if it falls on Sunday, is to be excluded in computing time are held to apply only where some act is to be done on the last day.” 52 Am. Jur., par. 19, at page 345, and page 347.
+The binder, as stated, is a temporary contract of insurance, good for a period which shall not exceed ten days, and includes all the terms of the standard fire insurance policy. See R. S. 17:36-5.3.
+Usually, an ordinary contract of insurance which is for a specified period of time will not be extended when the last day of the period falls on Sunday. 86 C. J. S., Time, 14(10), page 898; Mutual Benefit Health & Accident Ass’n v. Kennedy, 140 F. 2d 24 (5 Cir. 1943); Davis v. Mutual Benefit Health & Accident, 168 Okl. 514, 34 P. 2d 579 (Sup. Ct. 1934); Shankle v. Home Ins. Co. of New York, 175 Tenn. 228, 133 S. W. 2d 489 (Sup. Ct. 1939) (none contra).
+There is no good reason why a different rule should be applied to a binder, which is a short-term contract of insurance.
+An order for judgment may be submitted under R. R. 4:55-1.
