@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1951-01-25"
+citations: ["11 N.J. Super. 552"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SID KRUGER, PLAINTIFF, v. HARBER REALTY CORP., A NEW JERSEY CORPORATION, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/11/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 409018
+cites_cases: ["108 Fed. 199", "126 N. J. L. 82", "309 U. S. 294", "97 N. J. Eq. 400"]
+---
+
+# Kruger v. Harber Realty Corp.
+
+## Majority (Stanton, J. S. C.)
+
+Stanton, J. S. C.
+Plaintiff brought this action for the return of $3,000 paid by him as a deposit under a contract for the purchase of lands from defendant, and for the impression of a lien for that sum upon the said lands. The only issue is whether a judgment entered against John Sarubbi on February 18, 1933, when he was the owner of the premises in question, is still a lien thereon despite an adjudication of bankruptcy against him on May 1, 1933. Sarubbi was discharged in bankruptcy in October, 1933, but the proceeding was reopened years later and on March 21, 1937, the premises were conveyed by the trustee for a nominal consideration to the holder of a substantial mortgage lien on the premises, subject however “to any and all encumbrances whatsoever.”
+Defendant contends that the lien is null and void as to it, as one claiming under and through the trustee in bankruptcy. Section 67 (f) of the Bankruptcy Act, at the time with which we are concerned, provided as follows: -
+“All levies, judgments, attachments, or other liens, obtained through legal proceedings against a person who is insolvent, at any time within four months prior to the filing of a petition in bankruptcy against him, and any bond which may be given to dissolve any such lien so created, shall be deemed null and void in case he is adjudged a bankrupt, and the property affected by the levy, judgment, attachment or other lien, and any nonexempt property of his which he shall have deposited or pledged as security for such bond or to indemnify any surety thereon, shall be deemed wholly discharged and released from the same, and shall pass to the trustee as a part of the estate -of the bankrupt, unless the court shall, on due notice, order that the right under such levy, judgment, attachment, or other lien shall be preserved for the benefit of the estate; and thereupon the same may pass to and shall be preserved by the trustee for the benefit of the •estate as aforesaid. And the court may order such conveyance as •shall be necessary to carry the purposes of this section into effect: Provided, That nothing herein contained shall have the effect to •destroy or impair the title obtained by such levy, judgment, attachment, •or other lien, of a bona fide purchaser for value who shall have ae•quired the same without notice or reasonable cause for inquiry.”
+"With respect to this, Mr. Justice Roberts in Fischer v. Pauline Oil Co., 309 U. S. 294, 302 (1940), stated:
+“Although sec. 67 (f) unequivocally declares that the lien shall be deemed null and void, and the property affected by it shall be deemed wholly discharged and released, the section makes it clear that this is so only under specified conditions. At the date of creation •of the lien the bankrupt must have been insolvent; the lien must have been acquired within four months of the filing of the petition in bankruptcy; and the property affected must not have been sold to a bona fide purchaser. Furthermore, the lien is preserved if the trustee elects to enforce it for the benefit of the estate. These conditions create issues of fact which, as between the trustee, or one claiming under him, and the lienor, or one claiming by virtue of the lien, the parties are entitled to have determined judicially. The courses open to the trustee under the Bankruptcy Act of 1898 were to proceed to have the lien declared void, by plenary suit, or by intervention in the court where it was obtained, or by applying, in the bankruptcy cause, to restrain enforcement, as might be appropriate in the circumstances.”
+In Kobrin v. Drazin, 97 N. J. Eq. 400 (Ch. 1925), it was held:
+“Furthermore, judgments recovered within four months of the filing of the petition are not automatically dissolved by the adjudication. Insolvency of the bankrupt, at the time they were recovered, is an indispensable condition to the operation of the act. Insolvency must be established as a fact. Simpson v. VanEtten, 108 Fed. 199. The right to annul such judgments is in the trustee for the benefit of the bankrupt estate. He alone may invoke the act. He cannot assign the privilege, or abandon it to the bankrupt. 7 C. J. 197, 199.”
+It is admitted that there was no judicial determination that Sarubbi was insolvent at the time the judgment was entered. Defendant contends that the insolvency of Sarubbi on the date of the creation of the lien was adequately established by the submission to plaintiff of an affidavit by Sarubbi, the jurat of which is dated April 19, 1950, and a copy of which was submitted on this motion. The invalidity of the judgment lien cannot be established in this manner. Nor does it appear that the trustee in bankruptcy moved to avoid the lien. The contrary is indicated by this conveyance of the premises subject “to any and all encumbrances whatsoever.” Fischer v. Pauline Oil Co., supra; Kobrin v. Drazin, supra; Grimbalis v. Stelling, 126 N. J. L. 82 (Sup. Ct. 1941).
+Plaintiff may have summary judgment.
