@@ -1,0 +1,35 @@
+---
+court: "Mercer County Circuit Court"
+decided: "1937-12-21"
+citations: ["16 N.J. Misc. 1"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY ELLEN REYNOLDS, PLAINTIFF, v. JOHN E. REYNOLDS, Jr., DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/16/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 452671
+cites_cases: ["100 N. J. Eq. 431", "136 Atl. Rep. 187", "219 Ill. 182", "23 N. J. L. 330", "279 Pac. Rep. 32", "32 Atl. Rep. 316", "42 N. J. Eq. 15", "6 Atl. Rep. 286"]
+---
+
+# Reynolds v. Reynolds
+
+## Majority (Oliphant, C. C. J.)
+
+Oliphant, C. C. J.
+This matter has been submitted to the court for determination upon the pleadings and briefs filed by the respective counsel.
+The cause was originally entered and filed in the Court of Chancery. By an order made by that court on March 16th, 1937, the cause was transferred, with the record thereof and all papers filed therein, for hearing and determination in the Mercer County Circuit Court, “for the reason that the Court of Chancery had not jurisdiction of the subject-matter of the cause, the said cause being cognizable at law.”
+The complaint seeks the construction of the last will and testament of John B. Reynolds, deceased, who died testate on July 25th, 1933, and whose will was duly probated in the Mercer county surrogate’s office.
+The pertinent provisions of the will are as follows:
+“Second: I give, devise and bequeath to ray beloved wife, Mary Ellen Eeynolds, my house and lot wherein I reside known as No. 856 Strawberry street, Trenton, New Jersey, to have and to hold the same to her own use forever.
+“Third: In view of the fact that I have heretofore transferred to my said wife, Mary Ellen Eeynolds, two hundred (200) shares of the Standard Oil Company of Indiana and also considering that I have heretofore conveyed to my said wife a lot located at the corner of Maplewood and Brunswick avenues, Trenton, New Jersey, it is my wish and express desire that the foregoing transfer and conveyance together with the aforesaid devise shall be by her received in lieu of her dower in my estate.”
+By the fifth paragraph of the will, the residuary estate was devised to John E. Eeynolds, Jr., the defendant herein.
+Plaintiff contends that by virtue of the proper and legal construction of paragraph 3 of the will, the same constitutes a devise by implication of the lot of land therein mentioned to the plaintiff, Mary Ellen Eeynolds. The defendant in its answer neither admits nor denies this allegation, but relies entirely upon the true construction of the will effecting the devise in question.
+The law upon the subject of implied devises is well settled. As said in Holton et al. ads. White, 23 N. J. L. 330, “the general policy of the law and the leaning of courts is against the doctrine of implied estates under devises in wills, and has tended rather to limit than extend it.”
+In Hurlbut v. Hutton, 42 N. J. Eq. 15 (at p. 28); 6 Atl. Rep. 286, we find Chancellor Runyon speaking as follows: “To create a devise by inference, the implication must be a necessary one, there must be such a strong probability of an intention to devise that an intent to the contrary cannot be supposed. 2 Row. Dev. 199. Said Lord Eldon, in Dashwood v. Peyton, 18 Ves. 27, 41: T find no authority for holding a mere recital, without more, to amount to a gift or demonstration of an intention to give.’ Even where a testator in the codiciJ recites that by his will he has made a devise or bequest, which does not there appear, the codicil does not, by such recital, create that bequest or devise. Sir John Romilly, M. R., in Re Arnold’s Estate, 33 Beav. 163, 171. Where a testator bequeathed all his real and personal estate to a person whom he named, but stated that on his [the testator’s] death his father’s property would, under his father’s will, devolve upon his nephews, which was not the fact, for it formed part of the testator’s estate, it was held that the father’s property did not pass under the will. Circuitt v. Perry, 25 Beav. 275.”
+In the instant case, there is no recital of a devise nor any expression or indication of an intention to devise. The will merely states that the testator had by another instrument conveyed the property to his wife, which in fact, he had not done.
+The correct rule is stated in 69 Corp. Jur. 70, ¶ 1124, as follows: “Where a testator erroneously recites in his will that he has by the will given certain property when he has not effectually done so, such recital may be taken as sufficient evidence and expression of his intention to give by will, and the devise or bequest may be implied,” but “a gift,by will' will not be implied from an erroneous recital that he has, by some instrument other than the will, given property to a certain named person when in fact he has not done so.” In the case of Allenbach v. Ridnour, 279 Pac. Rep. 32; 51 Nev. 437, it was held that an undelivered deed did not become a part of a will as a devise after death, although the will referred to the deed as having been executed. To the same effect also is the opinion in Noble v. Tiplon, 219 Ill. 182.
+The Court of Appeals of Maryland in Zimmerman v. Hafer, 32 Atl. Rep. 316, in a case akin to the present one held “the doctrine as to the effect of erroneous recitals in wills, is well established, namely, that if the erroneous recitals in a testamentary instrument be of a gift contained in this instrument, the recital may operate as being in itself a devise or bequest by implication of that very property. But where the erroneous recital refers to an estate created by other instruments, that recital cannot operate to create an estate by implication.”
+Vice-Chancellor Buchanan in Peoples National Bank v. Tipper et al., 100 N. J. Eq. 431; 136 Atl. Rep. 187, said: “This court can construe and make definite an actual testamentary intent of the testator, where that intent has been placed by the testator in his will, either expressly or impliedly, however ineptly or ambiguously the phraseology in which such intent to dispose is clothed; but it cannot make a will, nor a testamentary disposition of any of testator’s property where the testator himself has made no such disposition nor attempted so to do.” These latter words undoubtedly mean that the court cannot make a testamentary disposition where the testator did not attempt to do so by the will itself.
+The mere recital by the will that the testator had heretofore conveyed the lot in question to the plaintiff ’ shows no such intention on the part of the testator to devise the lot by his will, but simply recites a fact, probably at the time believed by him to be true, to wit, that he had conveyed the property to the plaintiff by deed, which in truth, had never been done.
+I am of the opinion that under the facts and the law, there can be no devise of the lot of land in question to Mary Ellen Reynolds by implication, but that title to the said lot is in the defendant, John E. Reynolds, Jr., the residuary devisee.
