@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1990-12-14"
+citations: ["246 N.J. Super. 196", "586 A.2d 1364"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOYCE RANGE, PLAINTIFF, v. LINROY P. MCLARTY, VICTORY LOUIS, JACOB’S TAXI, INC., DIRECTOR OF THE DIVISION OF MOTOR VEHICLES, UNSATISFIED CLAIM AND JUDGMENT FUND BOARD, AND THE COMMISSIONER OF INSURANCE, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/246/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 331365
+cites_cases: ["109 N.J. 258", "109 N.J. 271", "133 A.2d 373", "148 A.2d 193", "219 N.J.Super. 96", "428 A.2d 1254", "45 N.J.Super. 445", "529 A.2d 1044", "536 A.2d 746", "536 A.2d 752", "54 N.J.Super. 54", "85 N.J. 550"]
+---
+
+# Range v. McLarty
+
+## Majority (YANOFF, J.S.C.)
+
+OPINION
+YANOFF, J.S.C.
+(temporarily assigned, retired, on recall).
+The facts in this case are not complex. Plaintiff Range was a passenger in an uninsured vehicle owned by McLarty which was involved in a collision with a vehicle owned by Jacobs Taxi. Jacobs Taxi had insurance and settled with Range for $25,000. As part of the settlement, Range dismissed her suit against Jacobs and gave a general release. Range now is suing the Unsatisfied Claims and Judgment Fund (“UCJF”) for personal injury protection (“PIP”), under N.J.S.A. 39:6-86.1. UCJF moves for summary judgment against Range, claiming that Range’s release of Jacobs Taxi deprived UCJF of its rights against that entity. UCJF also seeks summary judgment to obtain reimbursement from Jacobs Taxi of any sum which it may pay Range.
+Since the taxi company is not the owner of a passenger vehicle, as defined in N.J.S.A. 39:6A-2(a), Jacobs Taxi is not responsible for PIP. The statutory scheme of the New Jersey Automobile Reparation Reform Act (“No-Fault Law”), N.J.S.A. 39:6A-4, is described in Sotomayor v. Vasquez, 109 N.J. 258, 261-262, 536 A.2d 746 (1988) as having two objects: 1) to provide coverage for medical expenses and lost income to members of the family of an insured residing in the family home; and 2) to occupants of an insured automobile, driven with the consent of the named insured, or of an uninsured automobile driven by a driver with automobile insurance.
+In this case, Range was in neither an insured automobile, nor in an uninsured automobile driven by an insured driver. Additionally, as indicated, because the taxi was a commercial vehicle, Range could not recover PIP benefits from Jacobs Taxi. This creates a prima facie situation of entitlement to recover from UCJF which can be defeated only if Range is not qualified to recover from UCJF as a person excluded from coverage under N.J.S.A. 39:6A-7, or under N.J.S.A. 39:6-70.
+In Aetna Ins. Co. v. Gilchrist Bros., Inc., 85 N.J. 550, 428 A.2d 1254 (1981), a subrogation provision in an automobile liability policy for PIP payments was held inoperative because extinguished by the rule laid down in N.J.S.A. 39:6A-12, which excluded from evidence in personal injury litigation, amounts paid for PIP. Commenting on this in Wilson v. Unsatisfied Claim & Judgment Fund Bd., 109 N.J. 271, 536 A.2d 752 (1988), the Court said:
+... The 1983 amendments to the “No-Fault” Law now seem partially to overrule Aetna v. Gilchrist, supra, in that N.J.S.A. 39:6A-9.1 “confers a primary right of reimbursement on the injured party’s insurer” against a tortfeasor, like Gilchrist, who was not required to maintain PIP coverage or against a tortfeasor who failed to carry PIP protection. Id. 280, 536 A.2d 752.
+UCJF is a governmental agency, part of the Department of Insurance, N.J.S.A. 39:6-60, 64a. Until the enactment of L. 1990, c. 8, sec. 10, it had no right to claim payment for PIP benefits paid by it against a tortfeasor. The current statute reads:
+An insurer, health maintenance organization or governmental agency paying benefits pursuant to subsection a., b. or d. of section 13 of P.L.1983, c. 362 (C. 39:6A-4.3) or personal injury protection benefits in accordance with section 4 or section 10 of P.L.1972, c. 70 (C.39:6A-4 or 39:6A-10), as a result of an accident occurring within this State, shall, within two years of the filing of the claim, have the right to recover the amount of payments from any tortfeasor who was not, at the time of the accident, required to maintain personal injury protection or medical expense benefits coverage, ... N.J.S.A. 39:6A-9.1. (Emphasis added.)
+In Buoni v. Browning Ferres Industries, 219 N.J.Super. 96, 99-100, 529 A.2d 1044 (Law.Div.1987), Judge Brochin ruled that the right of an insurance carrier to recover PIP benefits paid by it against a tortfeasor was not a subrogation right, but a direct right. Comparably, when the statute was amended after the Buoni ruling to confer upon UCJF the identical right of recovery for PIP benefits which had been exercised by an insurance carrier in Buoni, the right created was a direct right, not one of subrogation. Significant facts in Buoni parallel those in this case. Plaintiff settled with and released the tortfeasor. However, there was an insurance carrier responsible for PIP, while here there is no such insurance.
+L. 1990, c. 8, sec. 10 was enacted after the decision in Buoni. Normally, the Legislature shall be “... deemed to have adopted the construction placed ...” on a statute by judicial decision. Cox v. Hruza, 54 N.J.Super. 54, 61, 148 A.2d 193 (App.Div. 1959); River Development Corp. v. Liberty Corp. 45 N.J.Super. 445, 458, 133 A.2d 373 (Ch.Div.1957). It is thus reasonable to infer that by the amendment of 1990, the Legislature intended that the same rights which Buoni had established in favor of insurance carriers would be extended to governmental agencies—in this case, UCJF.
+Wilson v. Unsatisfied Claim & Judgment Fund Bd., supra, and Sotomayor, supra, establish the rule that a passenger in an uninsured motor vehicle who is not protected by the family coverage to which reference has been made, is entitled to PIP benefits against UCJF, despite the availability of recovery against an insured third party. Wilson held that in such a case, a claimant did not have to “comply with all of the elements of the Fund statute, including those requiring that the individual have no course of action against an insured defendant”. Id. 109 N.J. at 275, 536 A.2d 752.
+The obvious conclusion is that Range is entitled to recovery against UCJF, and that UCJF has a direct right against Jacobs Taxi.
+Counsel for Range should submit an Order consistent with the above, pursuant to Rule.
