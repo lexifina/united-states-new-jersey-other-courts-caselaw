@@ -1,0 +1,49 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1975-07-02"
+citations: ["135 N.J. Super. 559"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CITY OF CAMDEN, A MUNICIPAL CORPORATION, PLAINTIFF, v. JUANITA DICKS, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/135/cases/0559-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 300110
+cites_cases: ["108 R. I. 444", "122 N. J. Super. 156", "131 N. J. Super. 551", "14 N. J. 186", "19 N. J. 493", "312 N. Y. S. 2d 252", "320 Mass. 124", "325 S. W. 2d 838", "34 A. D. 2d 351", "35 N. J. 570", "38 N. J. 529", "39 N. J. 1", "39 N. J. 26", "64 N. J. 1", "64 N. J. Super, 281", "68 N. E. 2d 11"]
+---
+
+# City of Camden v. Dicks
+
+## Majority (Heine, J. S. C.)
+
+Heine, J. S. C.
+This action raises the question whether it is ultra vires for a city to agree to pay its employee upon retirement 50% of her accumulated sick time.
+The City of Camden entered into a collective bargaining agreement with Council Ho. 10, New Jersey Civil Service Association, acting in behalf of the supervisory personnel of the city, which, among other terms and conditions of employment, provided as follows:
+Upon retirement from service to the City of Camden * * * the employee shall receive fifty percent (50%) of his accumulated sick time as additional severance pay said payment not to exceed $12,000.00.
+Following the adoption of the agreement the city paid defendant upon her retirement the sum of $4,614.52 for her percentage of accumulated sick time.
+Later, the city determined that it had no power or authority to so contract; that such a provision constituted an ultra vires act on its part, and it brought this suit to recover the money paid.
+While the defense of ultra vires is available to a municipal corporation, Spoerl v. Pennsauken Tp., 14 N. J. 186, 189 (1954), the defense has its limitations. In Summer Cottager’s Ass’n of Cape May v. Cape May, 19 N. J. 493 (1955), it was pointed out that
+There is a distinction between an act utterly beyond the jurisdiction of a municipal corporation and the irregular exercise of a basic power under the legislative grant in matters not in themselves jurisdictional. The former are ultra vires in the primary sense and void; the latter, ultra vires only in a secondary sense which does not preclude ratification or the application of the doctrine of estoppel in the interest of equity and essential justice, [at 504]
+Our courts have already recognized the “strong recent trend towards the application of equitable principles of estoppel against public bodies where the interests of justice, morality and common fairness clearly dictate that course.” Gruber v. Raritan Tp., Mayor & Tp. Comm., 39 N. J. 1, 13 (1962); Hill v. Eatontown Bd. of Adjust., 122 N. J. Super. 156, 164 (App. Div. 1972).
+The city urges that it had no authority to enter into the agreement concerning accumulated sick leave time. Maywood, Ed. Ass’n. Inc. v. Maywood Bd. of Ed., 131 N. J. Super. 551 (Ch. Div. 1974), dealt with a similar contention as it applied to a board of education.
+N. J. 8. A. 40:69A-29 provides,
+Each municipality governed by an optional form of government * 31 *■ shall, subject to the provisions of this act or other general laws, have full power to:
+(a) organize and regulate its internal affairs, and to establish, alter and abolish offices, positions and employments and to define the functions, powers and duties thereof and fix their term, tenure and compensation.
+Camden operates under Mayor-Council Plan B 40 :69A-49 et seq.
+The city is further controlled by the provisions of the Civil Service Act, N. J. S. A. 11:19 — 1 et seq. Under N. J. S. A. 11:24A-3 every employee is entitled to sick leave with pay of 15 days every year after the first year, and the amount of such leave not taken shall accumulate to the employee’s credit from year to year.
+Neither of the above statutes prohibits the city from making payment for unused sick leave, but the city argues that since there is no express authority in either of the statutes to compensate retiring employees by way of percentage of unused accumulated sick leave time, that to contract as it did constituted an ultra vires act.
+Municipalities operating under the Faulkner Act, N. J. 8. A. 40:69A-1 et seq., have ample authority under N. J. 8: A. 40:69A-29 to fix compensation of its employees. This statutory grant of authority is broad enough to include payment for unused sick leave in the form of additional compensation upon retirement.
+Additional authority is contained in the Employer-Employee Relations Act, N. J. 8. A. 34-.13A-5.3. Compensation to be paid public employees is surely included in terms and conditions of employment authorized to be negotiated. Englewood Bd. of Ed. v. Englewood Teachers, 64 N. J. 1, 6-7 (1973).
+The city employer receives benefits from such an agreement. It induces competent and efficient workers to enter public service, encourages employees to stay in public service and deters absenteeism for trifling ailments. Maywood, supra; Teachers Ass’n, Central H. S. D. No. 3 v. Board of Ed., etc., 34 A. D. 2d 351, 312 N. Y. S. 2d 252, 256-257 (App. Div. 1970); Providence Teachers Union v. School Committee, 108 R. I. 444, 276 A. 2d 762 (Sup. Ct. 1971); cf. Quinlan v. City of Cambridge, 320 Mass. 124, 68 N. E. 2d 11 (Sup. Jud. Ct. 1946); City of Orange v. Chance, 325 S. W. 2d 838 (Tex. Civ. App. 1959).
+The Legislature in no place has withdrawn from a municipality the power to pay for unused sick leave. In the absence of express restriction against bargaining for that term of an employment contract between an employer and its employees, the authority to provide for such payment resides in the municipality under the broad powers and duties delegated by the statutes. Were it otherwise a municipality would not be able to bargain collectively and to make agreements concerning terms of employment with its employees unless specific statutory authority for each provision of the agreement existed. Such a narrow and inflexible construction would virtually destroy the bargaining powers which public policy has installed in the field of public employment and throttle the ability of a municipality to meet the changing needs of employer-employee relations. Teachers Ass’n, Cent. II. S. D. No. 3 v. Board of Ed., etc., supra. Such a construction would undermine the laudable purposes of New Jersey Employer-Employee Relations Act, N. J. S. A. 34:13A-1 et seq.
+It is further argued that the absence of such express authority should be interpreted as an implied prohibition against such agreement or payment. In support of this argument it is pointed out that with regard to state employees the Legislature has provided for payment for unused sick leave time (N. J. 8. A. 11:14-9), while no such provision is made for municipal employees. The argument continues that the doctrine of expressio wvius esi exclusio alterius requires a holding that it was the legislative intent to withhold the like treatment for municipal employees as for state employees.
+The doctrine of expressio unius esi exclusio alterius has been said to be
+* * * a mere aid to interpretation. * * * it usually serves to describe a result rather than to assist in reaching it. The final question is whether in a given context an express provision with respect to a portion of an area reveals by implication a decision wtih respect to the remainder. The issue is one of intention. The answer resides in the common sense of the situation. [ Reilly v. Ozzard, 38 N. J. 529, 539 (1960)]
+Maywood Ed. Ass’n. v. Maywood Bd. of Ed., supra; 2A Sutherland, Statutory Construction (4 ed. Sands 1973), § 47.24 at 127.
+In Maywood the court held that the action of the Legislature, N. J. S. A. 11:14r-9, in providing mandatory supplemental compensation to retiring state employees for their unused sick leave without taking any action concerning payment for unused sick leave time with respect to any other class of public employees, cannot, in itself, be interpreted as evidencing a legislative intent to prohibit payment for unused sick leave to nonstate employees. The court held that
+A more reasonable interpretation of its action is that as to other public employees such payments were and continue to be committed to the discretion of the public employers within their existing statutory authority to compensate their employees.
+This court fully agrees with the holding in Maywood.
+The city emphasizes its contention by pointing out that a bill was introduced in the Assembly 1974 session (Assembly Bill No. 653) intending to supplement the Civil Service Act (Revised Statutes Title 11) so as to permit counties, municipalities and school districts to make supplemental compensation to its employees for unused accumulated sick leave. The statement accompanying the bill states
+Although P. L. 1973, c. 130 entitles retiring State employees to supplemental compensation for unused accumulated sick leave, there is no authority under current law for counties, municipalities and school districts to provide similar benefits to their employees. * * *
+The bill has not yet passed the Assembly. So, of course, it is far from becoming law. Such a bill is no more than an attempt to amend existing legislation. It may be that the Legislature did not nor will not act further in the matter because it may have considered that the law did in fact include the purposes of the proposed amendment, or the bill is objectionable for other reasons, and so there was no need to act further in the matter. Hilton Acres v. Klein, 64 N. J. Super, 281, 294 (App. Div. 1960), mod. 35 N. J. 570 (1961); Moore v. Bd. of Freeholders, 39 N. J. 26, 30 (1962); 2A Sutherland, Op. Cit., § 48.18 at 224.
+Judgment for defendant. Uo costs.
