@@ -1,0 +1,41 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1964-11-16"
+citations: ["85 N.J. Super. 351"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KASSER DISTILLERS PRODUCT CORP., A PENNSYLVANIA CORPORATION AND WILEN BROS. INC., A PENNSYLVANIA CORPORATION, PLAINTIFFS, v. ARTHUR J. SILLS, ATTORNEY GENERAL OF THE STATE OF NEW JERSEY AND JOSEPH LORDI, DIRECTOR OF THE DIVISION OF ALCOHOLIC BEVERAGE CONTROL, DEFENDANTS, AND N. J. WINE AND SPIRIT WHOLESALERS ASSOCIATION; GORDON BASS & CO.; CENTRAL BEVERAGE CO.; CREST WINE & SPIRITS COMPANY; CROWN, LTD.; DEALERS LIQUOR CO.; DORCHESTER, INC.; F & A DISTRIBUTING CO.; FEDERAL WINE & LIQUOR CO.; FLAGSTAFF LIQUOR CO.; FLEMING & McCAIG, INC.; GALSWORTHY, INC.; GARDEN STATE LIQUOR WHOLESALERS; GATEWAY DISTRIBUTORS, INC.; GILLHAUS BEVERAGE CO.; GOLD STAR LIQUORS, INC.; J & J DIST. CO.; JERSEY NATIONAL LIQUOR CO.; E. L. KERNS CO.; MAJESTIC WINE & SPIRITS COMPANY; MERCHANTS WINE & LIQUOR CO.; PHILLIPSBURG BEVERAGE CO.; JOS. H. REINFELD, INC.; ROYAL LIQUOR DISTRIBUTORS; AND TRENTON BEVERAGE CO., DEFENDANT-1NTERVENORS."]
+source_url: "https://static.case.law/nj-super/85/cases/0351-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 509444
+cites_cases: ["24 N. J. 295", "304 U. S. 401", "32 N. J. 199", "377 U. S. 324", "38 N. J. 484"]
+---
+
+# Kasser Distillers Product Corp. v. Sills
+
+## Majority (Wick, J. S. C.)
+
+Wick, J. S. C.
+This is an order to show cause why a restraining order should not be entered enjoining the named defendants from enforcing the amendment to N. J. S. A. 33 :1-11 against the plaintiffs, and others similarly situate, pending final hearing.
+The plaintiffs have filed a verified complaint demanding judgment that N. J. S. A. 33:1-11, as amended, be declared unconstitutional and void, and further demanding that the named defendants be restrained and enjoined from enforcing said statute as amended.
+As of November 17, 1964, N. J. S. A. 33:1-11 will read, in part, as follows (the amended portion is italicized) :
+“Plenary wholesale license. 1. The holder of this license shall be entitled, subject to rules and regulations, to sell and distribute alcoholic beverages to retailers and wholesalers licensed in accordance with this chapter and to sell and distribute without this State to any persons pursuant to the laws of the places of such sale and distribution, and to maintain a warehouse and sales room; provided however, that the delivery of such aleohoUe beverages by the holder of this license to retailers licensed under this Title shall be from inventory in a warehouse located in New Jersey which is operated under a plenary wholesale license. The fee for this license shall be $3,000.00. * * * « * * * *
+Wine wholesale license. 2b. The holder of this license shall be entitled, subject to rules and regulations, to sell and distribute any naturally fermented, treated, blended, fortified and sparkling wines, to retailers and wholesalers, licensed in accordance with this chapter, and to sell and distribute without this State to any persons pursuant to the laws of the places of such sale and distribution, and to maintain a warehouse and salesroom; provided however, that the delivery of such wines by the holder of this license to retailers licensed under this Title shall be from inventory in a warehouse located in New Jersey which is operated under a wine wholesale license. The fee for this license shall be $1,500.00.”
+Plaintiff Kasser is the holder of a New Jersey plenary wholesale license under N. J. S. A. 33:1-11(1) and plaintiff Wilen is the holder of a wine wholesale license under N. J. S. A. 38:1-11 (2b).
+Plaintiffs contend that the amendments, which will require them to make deliveries to New Jersey retailers from inventory in a warehouse located in New Jersey, are unconstitutional. They seem to base this allegation on four grounds:
+(1) The amendments put an undue burden on interstate commerce.
+(3) The amendments discriminate against out-of-state wholesalers.
+(3) The amendments bear no reasonable relationship to any valid’ public purpose.
+(4) The amendments discriminate against licensed New Jersey wholesalers as opposed to limited wholesalers (N. J. S. A. 33:1-11 (2a)) and state beverage distributor/3- (V. J, S. A. 33:1-11 (2c)).
+The first two grounds can be disposed of quickly. In view of the Twenty-first Amendment to the Federal Constitution, it is settled law that a state is “totally unconfined by traditional Commerce Clause limitations when it restricts the importation of intoxicants destined for use, distribution, or consumption within its bonders.” Hostetter v. Idlewild Liquor Corp., 377 U. S. 324, 330, 84 S. Ct. 1293, 12 L. Ed. 2d 350, 355 (1964).
+It is also well settled law that the equal protection clause does not apply to importation of intoxicating liquors. This is the rule even though plaintiffs had a valid license and interests in New Jersey when the amendments in question were passed. Mahoney v. Joseph Triner Corp., 304 U. S. 401, 58 S. Ct. 952, 82 L. Ed. 1424 (1938).
+The third ground deals with the valid public purpose of the amendments. The plaintiffs contend that this was not a valid exercise of the State’s police power, but they have offered no evidence to support this allegation.
+“The right, most extensive in nature, to regulate the field of intoxicating liquors is within the police power of the State, and this power is practically limitless.” Blanck v. Mayor, etc., and Borough Council of Magnolia, 38 N. J. 484, 490 (1962).
+In view of this statement by our Supreme Court, and with the burden certainly on the plaintiffs to convince this court that the amendments are unconstitutional, the court can find no basis to grant the relief asked for on this ground.
+There remains, then, only the fourth ground. As stated, the burden is on plaintiffs to convince the court of the unconstitutionality of the statute. A statute is presumed constitutional, and the court should sustain the legislative will if at all possible. Two Guys from Harrison, Inc. v. Furman, 32 N. J. 199 (1960).
+“The burden of demonstrating that a statute contravenes the equal protection clause is extremely formidable, * * *. [i]t is not enough to demonstrate that the legislative objective might be more fully achieved by another, more expansive classification, for the Legislature may recognize degrees of harm and hit the evil where it is most felt. * * * [This] same freedom of legislative decision must attend the exercise of the police power.
+* * * [W]here an act of the Legislature is challenged, there is no way to corral the considerations which moved the individual lawmakers to vote for the measure, * * * and if any state of facts can reasonably be conceived which would support the classification, the act must be sustained. * * * Thus, one who attacks has the task of establishing a negative proposition, the inherent difficulty of which is compounded by the play of the rule that the law must be upheld if any set of facts can reasonably be conceived to support it under any of the broad principles relating to the power to classify.” N. J. Restaurant Ass’n v. Holderman, 24 N. J. 295, 300 (1957)
+It is the opinion of this court that plaintiffs have not met this task. There are many reasons why the Legislature may have chosen to limit the application of the amendments. Plaintiffs have not established this “negative proposition.”
+The court also notes that the mere fact that the amendments may be to the private benefit of some, while a detriment to others, is of no consequence if the legislation concurrently protects the public interest. The judiciary cannot probe the inner thoughts of the lawmakers. If a legislator votes for a measure because of some undisclosed invalid ■purpose, he is accountable only to his own conscience. Two Guys from Harrison v. Furman, supra.
+Eor the reasons set forth in the foregoing opinion, and for the additional reason that the court does not feel that the plaintiffs have demonstrated that they will suffer irreparable damage, plaintiffs have not shown a right free from doubt and the restraining order will be denied.
