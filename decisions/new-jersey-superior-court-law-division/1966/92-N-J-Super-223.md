@@ -1,0 +1,39 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1966-08-16"
+citations: ["92 N.J. Super. 223"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE APPLICATION OF ANTHONY R. CUCCI FOR THE FILING OF PETITION OF NOMINATION FOR PRIMARY ELECTION HOUSE OF REPRESENTATIVES WITH THE SECRETARY OF STATE, STATE OF NEW JERSEY. IN THE MATTER OF THE APPLICATION OF ALFONSO MORGILLO FOR THE FILING OF PETITION OF NOMINATION FOR PRIMARY ELECTION HOUSE OF REPRESENTATIVES WITH THE SECRETARY OF STATE, STATE OF NEW JERSEY."]
+source_url: "https://static.case.law/nj-super/92/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 308218
+cites_cases: ["10 N. J. 435", "13 N. J. 185", "15 N. J. Super. 11", "16 N. J. Misc. 34", "19 N. J. Super. 313", "196 A. 423", "87 N. J. Super. 587", "89 N. J. L. 458", "90 N. J. L. 295"]
+---
+
+# In re Cucci
+
+## Majority (Feller, J. S. C.)
+
+Feller, J. S. C.
+These two cases involve the same issues of law and arise out of the same facts, with the sole difference being the names of plaintiffs and the fact that Anthony Cucci resides in the 14th congressional district and Alfonso Morgillo lives in the 13th congressional district. The cases have been consolidated for argument.
+The facts have been stipulated to by counsel.
+Plaintiffs had petitions of nomination prepared for filing in order to become candidates in the coming primary election for the office of members of the House of Representatives from their respective congressional districts. The petitions were to be filed before 4 p. m. on August 4, 1966, in the office of the Secretary of State, at Trenton by plaintiff Cucci and by a properly designated agent of plaintiff Morgillo, namely, his campaign manager Edward C. J. Meehan.
+Cucci and Meehan left Jersey City at about 2 p. m. on August 4, 1966, en route to Trenton. They became involved in a traffic jam resulting from a traffic accident on the approach to the Hackensack River Bridge at Communipaw Avenue, Jersey City, Hew Jersey. Once they were able to re-route their trip and avoid the traffic jam — after being tied up in traffic for some considerable time — Cucci and Meehan proceeded to Trenton within the permissible speed limits. They arrived at the office of the Secretary of State at about 4:20 p. m. and presented the petitions to Deputy Secretary of State Robert M. Ealcey, who refused to accept them for filing.
+I.
+The question raised is whether a petition of nomination may be filed within a reasonable time after the statutory deadline when the delay is through no fault of the applicants. There is no Hew Jersey precedent precisely on point.
+The statutory time limit is set in N. J. S. A. 19 :23-14, which provides that
+“Petitions addressed to the Secretary of State, the county clerks, or the municipal clerks, shall be filed with such officers, respectively, before 4 :0() o’clock p. m. of the fortieth day next preceding the day of the holding of the primary election for the general election.
+Within 6 days after the last day for filing the petitions for nominations at the primary election for the general election, the municipal clerk shall certify to the county clerk the full and correct names and addresses of all candidates for nomination for public and party office and the name of the political party of which such persons are candidates together with their slogan and designation.”
+The legislative purpose is to he ascertained by considering all provisions of the Election Act in pari materia. In re Chirico, 87 N. J. Super. 587, 591 (App. Div. 1965). In addition, our case law has long hold that the election laws are to he liberally construed. In Kilmurray v. Gilfert, 10 N. J. 435 (1952), the late Chief Justice Vanderbilt, speaking for a unanimous court, said as follows:
+“Election laws are to be liberally construed so as to effectuate their purpose, Carson v. Scully, 89 N. J. L. 458, 465 (Sup. Ct. 1916), affirmed, 90 N. J. L. 295 (E. & A. 1917). They should not be construed so as to deprive voters of their franchise or so as to render an election void for technical reasons, In re Stoebling, 196 A. 423, 16 N. J. Misc. 34 (Cir. Ct. 1938) ; Sharrock v. [Borough of] Keansburg, 15 N. J. Super. 11 (App. Div. 1951).”
+This basic policy was applied by the Appellate Division in the recent case of In re Chirico, supra, where Judge Goldmann stated as follows:
+“As we read the Election Act, and particularly those provisions relating to primaries, we perceive an evident legislative purpose to afford the electorate maximum opportunity to vote on those whose names have been put forward by nomination. The opportunity of voters to express their choice at a primary election should not be diminished by too narrow a reading of chapter 23 of Title 19. Our highest court has clearly expressed itself in this area, holding that election laws are to be construed liberally so as to effectuate their purpose; they should not be construed so as to deprive voters of their franchise. Wene v. Meyner, 13 N. J. 185, 197 (1953) ; Kilmurray v. Gilfert, 10 N. J. 435, 440 (1952).” (at pages 592, 593)
+An examination of the election laws, in particular N. J. S. A. 19:23-19 and 20, indicates that the 4 p. m. deadline is not intended to be an absolute bar. These sections in effect allow the Secretary of State and others, in case a petition is defective (excepting as to the number of signatures), to notify the candidate and to permit him to amend the petition either in form or substance so as to remedy the defect within three days. The Kilmurray case, supra, indicates that the reason for these statutory deadlines is “to afford the various election officials sufficient time in which to attend to the mechanics of preparing for the general election.” It is undisputed here that the delay will in no way hinder the election officials in the preparations for the election.
+Furthermore, in the case of In re Byrne, 19 N. J. Super. 313 (Law Div. 1952), a municipal election was involved and a petition of nomination was held to be validly filed although submitted after the clerk’s office had closed for the day.
+The defendent argues that the statute requires that the filing must be accomplished before 4 p. m. A strict reading of the statute would support this view; however, it would defeat the legislative purpose and seems to be precluded by the Kilmurray and Chirico cases, supra. In addition, reference is made to the case of Wene v. Meyner, 13 N. J. 185 (1953), wherein Justice Heher, speaking for the court, held that
+“A statute is not to be given an arbitrary construction, according to tlxe strict letter, but rather one that will advance the sense and meaning fairly deducible from the context. The reason of the statute prevails over the literal sense of terms; the manifest policy is an implied limitation on the sense of the general terms, and a touchstone for the expansion of narrower terms.”
+The delay in the cases now before the court was through no fault of plaintiffs. Traffic jams are a result of our modern means of transportation and cannot be foreseen. Notwithstanding these difficulties plaintiffs made every reasonable effort to reach the office of the Secretary of State before 4 p. M. The petition was presented within a reasonable time after the statutory deadline, namely, at 4:20 p. M.
+This court holds that a petition of nomination may be filed within a reasonable time after the statutory deadline when the delay was through no fault of the applicant. An order will, therefore, issue directing the Secretary of State to accept plaintiffs’ petitions for filing as within time.
+An appropriate order may be submitted in accordance with the provisions of R. R. 4:55.
