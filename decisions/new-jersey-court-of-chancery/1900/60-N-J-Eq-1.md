@@ -1,0 +1,28 @@
+---
+court: "New Jersey Court of Chancery"
+decided: "1900-05-25"
+citations: ["60 N.J. Eq. 1"]
+reporter: "nj-eq"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Mayor, &c., of Woodridge and The Mayor, &c., of Wallington, both in the county of Bergen, v. The Mayor, &c., of Carlstadt, The Inhabitants of the Township of Bergen and George Zimmerman, all in in the county of Bergen."]
+source_url: "https://static.case.law/nj-eq/60/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 186189
+cites_cases: ["32 Vr. 107", "81 Vr. 860"]
+---
+
+# Mayor of Woodridge v. Mayor of Carlstadt
+
+## Majority (Pitney, V. C.)
+
+Pitney, V. C.
+The principal reliance of defendants in support of the demurrers at the argument was that, under the construction put upon the act of April 16th, 1896, by the supreme court, in the case of Orvil v. Woodcliff, 32 Vr. 107, the contract of July 27th, 1897, was not binding on the township of Bergen without a vote of the people in its confirmation. But this ruling was, after the argument herein, reversed by the court of errors and appeals, as reported in SB Vr. 292, and it was held that the vote of the township was not necessary, and that the action of the . township committee bound the township.
+It remains to consider other objections.
+The objection next in importance is that the contract is incomplete, being a mere memorandum looking to a future and complete agreement, and is revocable, and appears by the bill to have been revoked by the township of Bergen; and further, that it is uncertain, vague and indefinite in its meaning.
+In considering these objections it must be borne in mind that the duty of the defendants to unite with the complainants and agree, or attempt to agree, on a division, is thoroughly established, not only by the decision of the supreme court in Carlstadt v. Bergen, but by that of the court of appeals in the ease of Orvil v. Woodcliff, just referred to; and it may be fairly inferred and assumed that the meeting of the representatives of the four municipalities on July 27th, 1897, was held in pursuance of the mandate of the supreme court. I fail to find anything in the bill which shows a direct revocation, or attempt ' to revoke, by the authorities of the township of Bergen, and, as the second section of the act of April 16th, 1896, makes the action of a majority of the-municipalities binding on the others, I doubt the power of one of the four to revoke the contract after it has once been entered into. Further, in the absence of fraud, accident or mistake, I doubt the power of a majority to revoke.
+As to its indefiniteness: I think it sufficiently clear and definite as a basis of a settlement. And that was all it was intended to be. Besides, the allegations of the bill show that-the defendants did not object to carrying it out on that or any other ground, but were apparently, or pretended to be, ready to proceed. '-The real difficulty in the way of a settlement, such as the complainants1 ought to be satisfied with, was that the defendants had made a conveyance of the property, which was subject to the agreement, at an inadequate price, and. apparently intended to insist in carrying out the settlement on the basis' that ■they were to account for those-properties at the price which they had received for-them. Or, to state it differently,'they had • attempted to render themselves incapable of performing the agreement by aliening a part of its subject-matter; and the object of the bill is not so much to enforce-the carrying out of the agreement as to annul the action just named. It is substantially the same as a bill by vendee against vendor for the specific performance of a contract to convey land, and with it, added, a statement that after the contract was made the vendor had conveyed it to a third party, with notice of the contract, for a nominal consideration, for the purpose of defeating, in whole or in part, the enforcement of the contract.
+And this consideration disposes of the only other serious objection raised, and that is, that the bill is multifarious, and that there is a misjoinder of causes of action; that the defendant Zimmerman is not interested in the other question. •
+This objection, clearly, is without merit. The object of the suit is to carry out the contract of July 27th, 1897, which was made in obedience to a mandate of the court and in fulfillment of a clear legal duty resting upon the defendants; and in order to accomplish that result it is necessary to dispose of the fraudulent conveyance from the township to Zimmerman, who was at the time mayor of Carlstadt, the 'other defendant, and is ehargeable with notice of the contract to convey the very property, or the greater part of it, entered into several days before the conveyance to him. It is not necessary to cite authorities to show that such a suit is not open to. the .charge of being vicious by reason of either multifariousness or misjoinder of causes of action or parties. ■ ■ • *
+This is clearly a case for proceeding in this court. It is manifest that the aid of an expert accountant is necessary to state the accounts between the parties, and no action at law can avail' to apportion these assets on the basis of the agreement of July 27th, 1897. The contract, if it cannot be carried out between the parties without judicial aid, must, of necessity, come into a court of equity, where all the persons interested have been made parties, and the rights'of each enforced.
+The demurrers should be overruled, with, costs, with leave to the defendants to answer on the iisual terms.
