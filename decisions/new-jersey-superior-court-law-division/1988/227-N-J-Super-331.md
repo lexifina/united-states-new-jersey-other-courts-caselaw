@@ -1,0 +1,36 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1988-05-20"
+citations: ["227 N.J. Super. 331"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JANE WILDSTEIN, PLAINTIFF, v. TRU MOTORS, INC., PAMELA NITTOLO, RALPH NITTOLO, ANN JONES, WILLIE HARDYS ENTERPRISE, JOSEPH SCHORK, JR., AND WILLIE HARDY, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/227/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 287592
+cites_cases: ["126 N.J.Super. 254", "15 U.S.C. § 1989", "15 U.S.C.A. § 1981", "15 U.S.C.A. § 1989", "15 U.S.C.A. § 1991", "4 N.J. 82", "409 So.2d 507", "524 F.2d 162", "69 Wis. 2d 125", "97 N.J. 37"]
+---
+
+# Wildstein v. Tru Motors, Inc.
+
+## Majority (MENZA, J.S.C.)
+
+MENZA, J.S.C.
+The question in this case is whether punitive damages may be awarded in a consumer fraud case where the plaintiff has not suffered a compensable loss.
+Plaintiff purchased a 1976 Mercedes Benz from the defendant, Pamela Nittolo. She discovered, shortly after the purchase, that the odometer of the vehicle had been turned back. Plaintiff brought suit against the seller and three of the car’s previous owners, alleging fraud and violations of both the federal odometer statute (15 U.S.C.A. § 1981, et seq.), and the New Jersey Consumer Fraud Act (N.J.S.A. 56:8-1, et seq.).
+After a lengthy non-jury trial, this Court held that the defendants, Willie Hardy and Willie Hardy Enterprises, were responsible for the re-setting of the odometer and dismissed the claims against the other defendants. This Court also held that the plaintiff failed to prove that she had suffered a pecuniary loss as a result of the re-setting of the odometer, because the price she had paid for the automobile was the fair market value of the vehicle even with the additional mileage.
+The federal odometer statute provides that a plaintiff who is successful in proving that an odometer has been re-set shall be awarded three times his actual damages or the sum of $1,500, whichever is greater, plus attorney fees and costs. 15 U.S.C.A. § 1989(a)(1). This remedy is enforceable in state courts. See Vogt v. Nelson, 69 Wis. 2d 125, 230 N.W.2d 123 (Wis.Sup.Ct.1975).
+The New Jersey Consumer Fraud Statute provides that treble damages are to be awarded to any person who suffers “any ascertainable loss of moneys ... as a result of any method, act or practice declared unlawful under this act.” N.J.S.A. 56:8-19. It also provides that the “use or employment by any person of an unconscionable commercial practice ... is ... an unlawful practice.” The intentional re-setting of an odometer is clearly unconscionable conduct encompassed by the statute. The plaintiff cannot recover under the state statute, however, because she did not sustain a compensable loss. She may recover under the federal statute, but being cognizant of the minimal remedy afforded to her under that statute, she elects not to do so. She seeks, instead, recovery for punitive damages under common law fraud.
+The re-setting of the odometer in this case is conduct which constitutes legal fraud. “Legal fraud or misrepresentation consists of a material representation of a presently existing or past fact, made with knowledge of its falsity, with the intention that the other party rely thereon, and he does so rely to his damage.” Foont-Freedenfeld v. Electro-Protective, 126 N.J.Super. 254, 257 (App.Div.1973). It is also conduct which warrants an award of punitive damages even if there are no compensable damages.
+To warrant a punitive award, the defendant’s conduct must have been wantonly reckless or malicious. There must be an intentional wrongdoing in the sense of an "evil-minded act” or an act accompanied by a wanton and wilful disregard of the rights of another. (Citation omitted). Nappe v. Anschelewitz, Barr, Ansell & Bonello, 97 N.J. 37, 49 (1984).
+Because of the fortuitous circumstance that an injured plaintiff failed to prove compensatory damages, the defendant should not be freed of responsibility for aggravated misconduct.
+People should not be able with impunity to trench wilfully upon a right. Moreover, it is especially fitting to allow punitive damages for actions such as legal fraud, since intent rather than mere negligence is the requisite state of mind____ We therefore hold that punitive damages may be assessed in an action for an intentional tort involving egregious conduct whether or not compensatory damages are awarded, at least where some injury, loss or detriment to the plaintiff has occurred. Id. at 50-51.
+The plaintiff did suffer injuries in this case. She suffered a loss of bargain. Awarding her punitive damages, however, depends on whether the Consumer Fraud Act preempts the common law remedies for legal fraud, so as to make the Act the exclusive remedy for consumer frauds.
+There is a presumption that a statute is consistent with the common law. A statute which creates a remedy of an existing right is regarded as cumulative, rather than exclusive, of a common law remedy, unless there is a clear legislative expression to the contrary. 2A Singer, Sutherland, Statutes and Statutory Construction § 50.05 (Sands 4th ed. 1984). “If a change in the common law is to be effectuated, the legislative intent to do so must be clearly and plainly expressed.” Blackman v. Iles, 4 N.J. 82, 89 (1950).
+Nothing in the act or its legislative history states that the act preempts common law remedies. To the contrary, section 19 of the act provides that treble damages should be awarded “in addition to any other appropriate legal or equitable relief.” It is clear, therefore, that the Consumer Fraud Act does not bar plaintiff from collecting punitive damages for legal fraud.
+Similarly, there is nothing in the plain language of the federal statute, or the comments thereto, which indicates that Congress intended to alter or abolish remedies afforded to the plaintiff by common law. In fact, in 15 U.S.C.A. § 1991, Congress stated that the federal odometer law does not affect state laws regarding odometer tampering, except to the extent that such state laws create inconsistencies with the federal law. In Bill Terry’s Inc. v. Atlantic Motor Sales, 409 So.2d 507, 509 (Fla.App.Ct.1982), the Florida court, citing Edgar v. Fred Jones Lincoln-Mercury, 524 F.2d 162 (10th Cir.1975), held that § 1991’s reference to “inconsistencies” applies
+only to less stringent state laws on the same subject and not to common law fraud counts. Where, as here, the punitive damage award for common law fraud exceeded the damages under 15 U.S.C. § 1989, no “inconsistency” with the federal Act results if the greater amount is awarded.
+For these reasons, this Court holds that the remedies in the federal odometer statute are not exclusive, and that the plaintiff may elect to recover damages either under common law fraud or under the federal statute. Since the defendants’ conduct warrants the imposition of punitive damages, the plaintiff has elected to recover under her common law right.
+The Court awards the plaintiff and against the defendants, Willie Hardy and Willie Hardy Enterprises, the sum of $5,000.00 in punitive damages.
+These defendants did not file an answer and are in default.
