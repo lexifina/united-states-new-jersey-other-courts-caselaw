@@ -1,0 +1,27 @@
+---
+court: "New Jersey Department of Labor, Workmen's Compensation Bureau"
+decided: "1928"
+citations: ["6 N.J. Misc. 892"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES FLANAGAN, PETITIONER, v. HAYES-HUNT CORPORATION, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/6/cases/0892-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 733025
+---
+
+# Flanagan v. Hayes-Hunt Corp.
+
+## Majority (Harry J. Goas, Deputy Commissioner.)
+
+1. Petitioner testified that for sometime prior, in March, 1926, he had been in the employ of the respondent as a general repairman.
+2. That on March 4th, 1926, while gas-blasting a cowl vent he struck the back of his right hand and sustained a cut about one inch long which bled somewhat; that he went to Mr. Morrissey, the foreman, who put iodine on the hand, then he went to the first aid room. On his way to the first aid room a Mr. Ered Allen and a Mr. Michael Loftus were encountered and that he mentioned the accident to them. In fact he was at the time working with Mr. Loftus and Mr. Loftus knew of the accident at the time it happened. That he reported to the first aid room on the date of March 4th and continued to work for the respondent with a few interruptions for several months thereafter. That after treatment at the first aid room on March 4th he saw his own physician, Dr. Coffee, who treated him several times, and that subsequent to his treatment by Dr. Coffee he was treated by Dr. Miles O’Eeilly, and following that he was under the care of Dr. Phelps of the Orange Hospital. He further testified that he had done no work since he left the employ of the respondent.
+3. Mr. Ered Allen testified that he was in the employ of the respondent during the months of February and March, 1926. Sometime about the month of March he saw the claimant who told him he had a cut on the hand and he was going to the first aid room. He admitted he did not actually know whether the claimant had been to the first aid room or not and further stated that he wdrked in an entirely different part of the building from Mr. Elanagan.
+4. Mr. Michael Loftus testified that he was a fellow-workman of the petitioner, and that on or about the 4th of March, 1926, he knew that the petitioner cut his hand and that the petitioner stated to him that he was going to the first aid room, but he did not know of his own knowledge whether or not the petitioner had been to the first aid room.
+5. Dr. Michael Coffee testified that he first saw the petitioner on March 4th, 1926, at which time the petitioner had a small cut on the back of the right hand. This was covered with mercurechrome ointment and was in his opinion a fresh cut and not infected. That he only saw the petitioner seven or eight times.
+6. Mrs. Hickey, the nurse at the respondent’s plant, testified that she has been the nurse in charge of the first aid room from the beginning of 1926 up to the present time. She testified that she first saw Mr. Elanagan on September 21st, 1926, when he came to the first aid room and the back of his right hand was somewhat swollen and had the appearance of being somewhat chapped. That she saw no cut or other wound. She testified further that whenever an employe reports to the first aid room with or without an injury she makes a record on a card which she keeps. She further testified that there is a large amount of cheesecloth used in the plant and very frequently men do not report to the first aid room with minor injuries, but bind up their wounds with pieces of cheesecloth and continue to work.
+7. Mr. Skinner, paymaster of respondent’s plant, referring to the payroll records, testified that Mr. Elanagan did not do any work for the respondent between Eebruary 19th, 1926, and March 15th, 1926.
+8. That Mr. William B. Wilson, safety and personnel man of the respondent, testified that he is the person to whom accident reports are made, and that he had no record of any accident occurring to James Elanagan on or about March 4th, 1926. He outlined the methods by which accidents are reported and stated that when men go to the first aid room a record is made in duplicate, one of which is kept in the first aid room and the other is forwarded to him and immediately he has reports filled out for the state department of labor and the insurance company. He stated that the first time he knew that there was anything the matter with the petitioner was sometime on or about the month of September, 1926. Mr. Wilson testified further that there is much cheesecloth used in the respondent’s plant and that sometimes men bind up minor injuries themselves and do not report to the first aid room.
+From the evidence presented it would appear that if, as this petitioner maintains, he had an accident on March 4th, 1926, it could not have happened at the plant of the respondent. That if it happened at some other time than March 4th, 1926, the respondent had no knowledge or notice of the accident. That from the testimony of Dr. Coffee it would appear that on March 4th, 1926, when he testified he treated the petitioner, he had a fresh cut on the back of his right hand not infected. If this cut was fresh it must have been sustained subsequent to his employment by the respondent. In view of the inconsistencies in the petitioner’s ease it is hereby determined that the petition herein be dismissed.
+Harry J. Goas, Deputy Commissioner.
