@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Law Division"
+decided: "1978-06-26"
+citations: ["160 N.J. Super. 416"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANCES E. O’SULLIVAN, PLAINTIFF, v. DR. JAMES MALLON, JOSEPH MOZAFFARI, AND WASHINGTON MEMORIAL HOSPITAL, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/160/cases/0416-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 894600
+cites_cases: ["1 N. J. 131", "114 N. H. 130", "174 Cal. App. 2d 184", "18 N. J. Super. 95", "316 A. 2d 549", "344 P. 2d 25", "38 N. J. 308", "44 N. J. 70", "67 N. J. Super. 8", "73 N. J. 20", "75 N. J. Super. 68", "92 N. J. Super. 75"]
+---
+
+# O'Sullivan v. Mallon
+
+## Majority (Rossetti. J. C. C.)
+
+Rossetti. J. C. C.
+(temporarily assigned). Plaintiff has instituted suit for breach of an employment contract. This is defendants’ motion to dismiss plaintiff’s complaint for failure to state a cause of action. Plaintiff was employed by defendants as an X-ray technician until her discharge in March 1976. She alleges that her discharge resulted from her refusals to perform catheterizations. Plaintiff alleges that she was ordered to perform catheterizations and that she refused on the basis that she was not properly trained to perform such a procedure and that it was legally permissible for such a procedure to be performed only by a licensed nurse or physician. Subsequent to her discharge, ihe New Jersey Board of Medical Examiners concluded that such an act performed by her would be in violation of the Medical Practice Act. In August 1976, the State Board of Nursing issued a cease and desist order to these defendants forbidding the performance of catheterizations by persons not licensed as nurses.
+Defendants’ motion raises a novel issue concerning the right of an employer to discharge an employee who refuses to perform an illegal act.
+The law in this State concerning the authority of an employer to discharge with or without cause in the absence of .contractual or statutory restrictions, would appear to be quite clear. Schlenk v. Lehigh Valley Railroad Co., 1 N. J. 131, 135 (1948); Hindle v. Morrison Steel Co., 92 N. J. Super. 75, 81 (1966); English v. College of Medicine and Dentistry of N. J., 73 N. J. 20, 23 (1977). The issue in this case may be distinct from those eases, which recognized that an employer inay discharge; an employee with or without cause. Id.
+The Supreme Court of New Hampshire has recently held that the “termination by the employer of a contract of employment at will which is motivated by bad faith or malice or based on retaliation is not the best interest of the economic system or the public good and constitutes a breach of the employment contract”. Monge v. Beebe Rubber Co., 114 N. H. 130, 316 A. 2d 549, 551 (1974).
+A California case involving an employee who refused to commit perjury at the direction of his employer is more akin to the matter before this court. In Petermann v. International Brotherhood of Teamsters, 174 Cal. App. 2d 184, 344 P. 2d 25, 27 (D. Ct. App. 1959), the court stated:
+The public policy of this state as reflected in the penal code sections referred to above would be seriously impaired if it were to be held that one could be discharged by reason of bis refusal to commit perjury. To bold that one’s continued employment could be made contingent upon his commission of a felonious act at the instance of bis employer would be to encourage criminal conduct upon the part of both the employee and employer and would serve to contaminate the honest administration of public affairs. This is patently contrary to the public welfare. The law must encourage and not discourage truthful testimony. The public policy of this state requires that every impediment, however remote to the above objective, must be struck down when encountered.
+This court is of the opinion that the public policy of the State of New Jersey may require that this State adopt the rule established in Petermann, supra, that an employment at will may not be terminated by an employer in retaliation for an employee’s refusal to perform an illegal act. This rule is especially cogent where the subject matter is the administration of medical treatment, an area in which the public has a foremost interest and which is extensively regulated by various state agencies. Such a finding may very well be consistent with the existing New Jersey eases that were not concerned with situations where public policy was involved or was being violated.
+The viewpoint expressed by our Supreme Court in Schipper v. Levitt & Sons, Inc., 44 N. J. 70, 90 (1965), would appear to be appropriate:
+The law should be based on current concepts of what is right and just and the judiciary should be alert to the never-ending need for keeping its common law principles abreast of the times. Ancient distinctions which make no sense in today’s society and tend to discredit the law should be readily rejected. . . .
+In any event, such a landmark holding should not be applied to a barren factual record. Isaacson v. Boswell, 18 N. J. Super. 95, 96 (App. Div. 1952); Elizabeth Water Co. v. Bontempo, 67 N. J. Super. 8, 13 (App. Div. 1961); Hanover Ins. Co. v. Franke, 75 N. J. Super. 68, 74 (App. Div.); certif. den., 38 N. J. 308 (1963). There are many facts which would be pertinent to- such a holding and which are not stipulated before this court. These include whether the defendants knew or should have known the act in question was illegal, the extent of plaintiff’s training and qualifications to perform such a procedure, and generally, the reasonableness of the acts by all of the parties. These are all issues which must be subjected to proofs and which are essential in determining whether plaintiff’s discharge was improper and the relationship of that alleged impropriety to the public policy of this State.
+Accordingly, the defendants’ motion is denied.
