@@ -1,0 +1,63 @@
+---
+court: "Hudson County Court"
+decided: "1956-01-09"
+citations: ["38 N.J. Super. 561"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE STATE OF NEW JERSEY, PLAINTIFF, v. GRACE W. BRANDENBURG AND ANNE ROSENSTEIN, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/38/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 443009
+cites_cases: ["11 F. 2d 583", "169 N. E. 280", "24 Cal. 379", "252 N. Y. 208", "26 Ala. 107", "29 P. 776", "32 Ark. 585"]
+---
+
+# State v. Brandenburg
+
+## Majority (Nimmo, J. C. C.)
+
+Nimmo, J. C. C.
+This matter comes before the court on motion by both defendants to delete from the trial book of the Hudson County Court the following entry, indexed as indictment 1113 of the 1950 term of court at page 200:
+“* * * after discharge of the jury it was brought to the Court’s attention that the verdict was not unanimous, the Court ordered the jury returned to the jury box and testimony by Court Officers Charles Gallagher and Eugene Ertle. After discussion by the Court, attorneys for the defendants and Assistant Prosecutor, the Court ordered jury to retire for further deliberation; they again came into Court and being polled by Court Clerk all appeared and say they cannot agree upon their verdicts and ‘so say they all.’ (Unanimous verdict)”
+At the close of the trial and after summations and the charge of the court, the jury of ten women and two men retired to the jury room under escort of court officers at 3:30 p. m. on November 10, 1955. At 9:47 p. m. of the same day, having indicated to the court officers attending them of their desire to do so, they returned to court and occupied their places in the jury box. The clerk called the roll and inquired of them if they had agreed upon verdicts. The foreman responded for the jury as follows:
+“The Clerk: Are your verdicts unanimous?
+Juror Number 1: Yes, sir.
+The Clerk: What are your verdicts?
+Juror Number 1: Your Honor, the verdict is not guilty.
+The Clerk: For both defendants?
+Juror Number 1: We only decided on one verdict and it’s not guilty.
+The Clerk: Is that both defendants ? There are two defendants.
+Juror Number 1: Do you want two separate verdicts?
+The Court: Well, who is not guilty?
+Juror Number 1: Well, we only voted on one verdict for two defendants of not guilty.
+The Clerk: That is your verdict then; both defendants not guilty ?
+Juror Number 1: That’s right.
+The Clerk: You say you find a verdict of both defendants not guilty as charged, and so say you all?
+The Court: All right. The jury is discharged with the thanks of the court.”
+It is what transpired after the foregoing verdict was given that is the subject of this motion. Upon the discharge of the jury as above recorded by the court reporter, the judge left the bench and went to his chambers across the rotunda of the court house, a distance of about 150 feet. Before he put on his coat a court officer came to him and informed him that some members of the jury, after they left the court room, complained that the foreman did not render the right verdict. The court officers had reassembled the jury in the jury room and the judge, returning to the court room questioned the officers.
+It was in a passageway and corridor outside of the court that some of the jurors made known their displeasure with the verdict. Approximately ten minutes elapsed from the time of discharge and when the jury was reassembled in the jury box and the judge took the bench, as appears from the record of the court reporter. The court directed the jury to again retire and deliberate further and bring in a unanimous verdict, else it is no verdict. At 12:05 a. m., November 11, 1955, the jury returned to court and announced that they could not agree upon a verdict and were finally discharged.
+When the foreman of the jury announced the not guilty verdict upon the jury’s first return, the court observed no sign from the other members of the jury to indicate that they were not in agreement with the verdict as given by their foreman. They looked tired. They had been in attendance in the court room since 9:30 a. m. that day. Of course, defense attorneys did not ask to have them polled, the prosecutor did not either, and the court saw no indication for a poll, although all three could have asked that it be done.
+The question presented is at what point does a jury cease to be a jury and relieved of their official character? There must in all things be a beginning and an end, an alpha and omega. We have cases that mark the point of the beginning of a criminal trial, so that once beyond that point there is no returning, the trial must go on else there would be the double jeopardy prohibited by the Constitution.
+This court is of the opinion that the words “the jury is discharged” do not in themselves terminate the case. There is authority in other jurisdictions on the point; however, a court should not be so impotent to act after those words are uttered as to do an injustice to the accused or the State. It should be noted that there is no indication from any source that the jury in the instant case was coerced or that they were intimidated. It was the thought of such a possibility that prompted the court to reassemble this jury.
+In Porret v. City of New York, 252 N. Y. 208, 169 N. E. 280 (Ct. App. 1929), Judge Cardozo writes:
+“We are not to confuse eases where a jury has returned to the box after reporting an irregular verdict with those where it has been discharged altogether and relieved, by instructions of the judge, of any duty to return. In such circumstances, it has ceased to be a jury, and, if its members happen to come together again, they are there as individuals, and no longer as an organized group, an arm or agency of the law.”
+The jury in question did leave the court room, they were beyond the sight and voice of the judge, and the court had adjourned until the following Monday, as Thursday midnight of November 10 was the eve of the Armistice holiday.
+In Summers v. United States, 11 F. 2d 583, 586 (4 Cir. 1926), we find that
+“It is not so much what is said in passing as what is actually done and acted upon that determines the question of discharge.”
+Had the jury in question, after they left the box, been in the court room and the judge was still on the bench, when some of them complained, we would not, in the opinion of this court, had any difficulty in determining that they were still a unit under the control of the court.
+Once a jury has been discharged and they have gone out of the presence of the court, it would be a dangerous procedure to have them again deliberate upon the case. Here it is the defendants who object, as the verdict as given originally was not guilty. In a case where the verdict is guilty it could well happen that after the jury left the presence of the court a threat from a cohort of the defendant would make some of them complain that the foreman did not report a true verdict.
+Jurors are supposed to be intelligent people and this jury was, judging from their appearance and the attention they gave to the testimony of witnesses during the long trial, above the average in intelligence. The taking of a verdict is in plain simple language, and in this case its taking was not hurried. There was opportunity to speak up when they were asked if their verdict was unanimously “not guilty.” To allow argument and dissension, after they have been discharged and gone out of the presence of the court, to be the basis for them to further deliberate, would be fraught with danger. All too often it is the habit of people to sit in meeting, allow action to be taken and say nothing, then when the meeting is over complain. We have examples of that in official life. Every one in the trial of a cause has a responsibility, and not the least of them are the members of the jury.
+The State cites the case of Brister v. State, 26 Ala. 107 (Sup. Ct. 1855), wherein the court held:
+“The revocation [of discharge] was in time, because it was almost instantaneous, and whilst the jury, as a body, ware still continuing to l>e in the bar, and. in the presence and, power of the Court. This revocation being in time, we think the court had the power to return the papers in the cause to the jury, and to do what it then proceeded to do. (Emphasis supplied)
+However, in the instant case the jury had left the courtroom and the presence of the court.
+In Levells v. State, 32 Ark. 585 (Sup. Ct. 1877) we find:
+“The authorities say that after the verdict has been received and the jury discharged, their control over the verdict is at an end, and they cannot be recalled to alter or amend it. * * * But what is a discharge? Clearly it would seem to us that, if they had not separated, and as a body are still in the presence of the court, the order discharging is in fieri, and yet in the breast of the court and may be recalled.”
+Here again we find the expression “in the presence of the court.” The jury in the instant case was on its own in a corridor outside the courtroom and the trial judge off the bench and at the far side of the building. This court is of the opinion that it is enough if they are out of the presence of the court, regardless of the distance therefrom.
+In 23 C. J. S., under Criminal Law, § 1413, p. 1112, we find:
+“As a general rule, the jury cannot be recalled to amend a verdict after they have returned it, have been discharged, and have separated; but it has been held that this may be done if they are still in the courtroom.”
+In People v. Lee Yune Chong, 24 Cal. 379, 29 P. 776, 777 (Sup. Ct. 1892), where a verdict of guilty of murder was rendered and the jury was discharged, it was held the jury could not be reassembled to amend their verdict, the court stating:
+“The exact time which elapsed from the discharge of the jury until their return does not appear, one of the witnesses putting it from five to ten minutes, but it is clear that during that time they were beyond the control of the court, had thrown off their characters as jurors, and had mingled with their fellow citizens free from any official obligation.”
+In the present case there was a period of 10 or 11 minutes during which time five jurors, as testified to by a court officer, had gone upstairs for their coats, and as best he could he reassembled them. They obeyed the court officer, yet had they not done so would present a nice question. To all intents and purposes the jury ceased to be a unit. In the opinion of this court, whether they had contact with others during the interval between discharge and reassembling is immaterial, for they did have an opportunity to do so. The State urges that this jury went home each night during the trial and had opportunity to talk with others more than they did during the aforementioned interval. However, all during the trial they were under the control of the court and were admonished at the close of every trial day to refrain from discussing the case and to report to the court any attempt by any one to speak to them or communicate with them about the case. Once a jury is charged and sequestered under guard in the jury room they deliberate and come to know each others thoughts. A distillation of the exchange of thought becomes the verdict. It is something that is developed in the recesses of a jury room free from all outside influence. To permit a scattering of the jury, no matter to what degree, and have them exposed to any outside contamination, and then again begin deliberating, is dangerous. On oral argument attorneys for the defendants and the State’s attorney stated that their research failed to show any New Jersey case exactly in point, and the court’s own research was to the same effect, except that we have in this State recognized the sanctity of jury deliberations and the seriousness of having a verdict modified in court. Other jurisdictions have from time to time met the question here presented with varying shades of opinion. The weight of authority appears to be that the test is whether the jury is out of the presence of the court.
+The opinion of this court is that when the jury in this case rendered its verdict of not guilty through its foreman, was discharged and left the court room, they ceased to be a jury under the control of the court and reverted to their status as fellow citizens.
+The motion of defendants is granted and the record will show a verdict of not guilty as to both defendants, deleting from the record the entry as stated in full at the beginning of this opinion.
+An order in conformity herewith will be entered.
