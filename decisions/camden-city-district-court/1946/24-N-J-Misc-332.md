@@ -1,0 +1,28 @@
+---
+court: "Camden City District Court"
+decided: "1946-08-26"
+citations: ["24 N.J. Misc. 332"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAKS THEATRICAL AGENCY, PLAINTIFF, v. SAMUEL S. MENTINE AND PATSY MARDOZZI T/A OVERBROOK VILLA, INDIVIDUALLY, JOINTLY AND SEVERALLY, DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/24/cases/0332-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 433485
+cites_cases: ["101 N. J. L. 213", "101 N. J. L. 325", "110 N. J. L. 141", "127 Atl. Rep. 550", "128 Atl. Rep. 590", "128 N. J. L. 407", "164 Atl. Rep. 274"]
+---
+
+# Saks Theatrical Agency v. Mentine
+
+## Majority (Martino, D. C. J.)
+
+Martino, D. C. J.
+Plaintiff maintains a theatrical agency-in the Shubert Building, Philadelphia, Pennsylvania. Defendants maintain a road house on the White Horse Pike, at Lindenwold, Camden County, State of Hew Jersey. On or about December 18th, 1945, the plaintiff’s representative went to the defendants’ place of business in Hew Jersey, in response to a telephone communication, where the defendants signed a ■written contract for the hiring of certain entertainers for their place of business. The entertainers, for some reason which was never explained by defendants, were refused admission and prevented from exhibiting their talents. The plaintiff was forced to pay the salaries of the respective entertainers and now sues to recover the money it paid out.
+Defendants presented no testimony, but rested on plaintiff’s evidence and moved for a directed verdict on the grounds that the plaintiff company was carrying on an employment agency in this state, contrary to B. 8. 34:8—1, et seq., which prohibits such agency from operating in this state without first obtaining a license therefor from the Commissioner of Labor. The defendants cite the case of Gionti v. Crown Motor Freight, 128 N. J. L. 407; 26 Atl. Rep. (2d) 282, where an architect was denied recovery because he was not licensed in this state and performed certain work contrary to B. 8. 45:3-10. This statute, being a penal one, a violation of its provision was illegal, void and unenforceable. A similar statute concerning real estate brokers, B. 8. 45:15—1, et seq., was invoked in the case of Kenney v. Paterson Milk and Cream Co., 110 N. J. L. 141; 164 Atl. Rep. 274, and the Court of Errors and Appeals held that an unlicensed real estate broker, attempting to collect his commissions on a written contract for the sale of an interest in real estate, contrary to the licensing provisions of R. 8. 45 :15—1, et seq., was without remedy. The theory of both decisions rested on the conclusion that both statutes were regulatory and not merely revenue producing, a.nd a contract made in violation of these statutes was illegal and void.
+The question to be determined in this ease is this: Is R. 8. 34:8-1, et seq., covering employment agencies, invoked by these defendants, similar to the statute regulating architects and real estate brokers? I think not.
+Significantly, both the statute regulating architects and real estate brokers, contains the following provision, “Any single act or transaction shall constitute engaging in business.” B. 8. 45 :3—10 and B. 8. 45 :15-2. A careful examination of B. 8. 34:8-1, et seq., covering employment agencies, fails to reveal a similar provision.
+It seems dear that B. 8. 34:8-l contemplates carrying on tiie business of procuring * * * engagements for vaudeville or theatrical performances, and B. 8. 34:8—3, states, no person shall open, keep or carry on an employment agency without first obtaining a license therefor, and * * * .a person who shall open or conduct an employment agency without first producing such license * * * shall be guilty of a misdemeanor. Unquestionably, the statute is regulatory and within the police power of the state, McBride v. Clark, 101 N. J. L. 213; 127 Atl. Rep. 550. Any contract in clear violation of this statute would be illegal, void and unenforceable, but since the statute is penal in nature, it must be strietly construed. Gionti v. Crown Motor Freight, supra.
+The defendants offered no testimony and this court would be justified in concluding from the evidence that the contract made with the plaintiff was the only transaction the plaintiff ever concluded in this state.
+Before 1931, the statute regulating real estate brokers, B. 8. 45:15-1, et seq., was invoked in the case of Wensley v. Godly, 101 N. J. L. 325; 128 Atl. Rep. 590, decided April 15th, 1925, and our Supreme Court, through Mr. Justice Lloyd, held that this statute contemplated only the carrying on of a business as real estate broker and did not apply to an individual and isolated contract of brokerage. On April 27th, 1931, our legislature amended the statute to provide that any single act, transaction or sale, shall constitute engaging in business within the meaning of this act, B. 8. 45:15—2. Kenney v. Paterson Milk and Cream Co., supra, construed this amendment of April 27th, 1931, in a ease involving a single transaction, and held a single sale to be unlawful.
+In the case at bar, since the evidence presented does not justify a conclusion that the plaintiff did conduct an employment agency in this state, or that the contract in question was part of a course of similar transactions consummated in this state, the plaintiff is. entitled to a judgment.
+Judgment for the plaintiff in the sum of three hundred eighty-five dollars ($385), and since no interest was demanded, the judgment will only carry costs.
