@@ -1,0 +1,64 @@
+---
+court: "Essex County District Court"
+decided: "1974-11-19"
+citations: ["131 N.J. Super. 328"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WASHINGTON MOTOR SALES, PLAINTIFF, v. OLWVIOLE FERREIRA, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/131/cases/0328-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 302506
+cites_cases: ["15 U.S.C.A. § 1601", "15 U.S.C.A. § 1602", "15 U.S.C.A. § 1604", "15 U.S.C.A. § 1638", "15 U.S.C.A. § 1640", "347 F. Supp. 955", "36 L. Ed. 2d 452", "361 F. Supp. 1255", "411 U. S. 356", "82 Stat. 146"]
+---
+
+# Washington Motor Sales v. Ferreira
+
+## Majority (Walsh, Joseph F., P. J. D. C.)
+
+Walsh, Joseph F., P. J. D. C.
+Recovery is sought of monies due and owing on a claimed deficiency to a plaintiff who is a new and used automobile dealer, after a default, by defendant on a retail installment contract for his purchase of a used automobile. Defendant seeks a setoff under the Eederal Truth in Lending Act.
+On or about June 7, 1973 defendant agreed to purchase a used automobile at a price of $1,848. At the request of defendant, plaintiff provided an application for financing with the Eirst National State Bank of New Jersey which was completed and filed, with the required information supplied by defendant.
+On or about June 15 defendant delivered an additional deposit of $500 and completed the transaction with the agent for plaintiff. Defendant was presented with, and had explained to him, a document entitled “Retail Installment Contract-Security Agreement and Disclosure Statement,” which, in addition to the usual terms contained therein, further advised as to the amount of the monthly payments, the date due and place for payments, and penalties for late payments. Terms of optional credit life, accident and health insurance were also explained to defendant and he signed his acceptance of the insurance although the signature was not dated.
+After signing the contract defendant was given a copy which was identical to the original except that the reverse side of the buyer’s copy did not include a section which was entitled “ASSIGNEE AND SELLER’S WARRANTIES.” This is a contract of assignment between the seller and the bank and in no manner is made obligatory upon the buyer.
+Thereafter a default occurred and recovery is sought on the deficiency resulting after public sale of the repossessed automobile.
+Defendant contends that the contract is violative of the Consumer Credit Protection Act’s subchapter entitled “Truth in Lending Act,” 15 U.S.C.A. § 1601 et seq., and “Regulation Z” enacted thereunder by the Federal Reserve Board, 12 C.F.R. 226.1 et seq.
+The specific violations alleged are: (1) failure to make required disclosures before signing of the document; (2) nondisclosure of the assignee of the contract; (3) lack of date on the separate credit insurance authorization; (4) failure to make sequential and meaningful disclosure of the acceleration clause in the body of the contract at a place prior to or adjacent the signatures.
+A setoff in double the amount of the charges is claimed under the statute, 15 U.S.C.A. § 1640(a).
+The law of New Jersey is devoid of any case dispositive of the problem. Both sides agree that the Truth in Lending Act and the federal regulations issued thereunder cover the situation: N. J. S. A. 17:3B-2 provides:
+When under any law of this State, a civil action is expressly provided for any act or failure to act which constitutes a violation of any provision of such law, and such act or failure to act also constitutes a violation of the Truth in Lending Act, Title I of the Consumer Credit Protection Act (Public Law 90-321, 82 Stat. 146) for which a civil action may he brought under the provisions of the Truth in Lending Act, the provisions of the Truth in Lending Act shall supersede the provisions of State law when the penalty for violation of the Truth in Lending Act is more severe than the penalty for violation of the State law, to the end that only one recovery may be had for such act or failure to act.
+This court is satisfied as a matter of fact from the testimony taken in this matter that defendant was presented with the retail installment contract and, before he signed it, the contents were fully disclosed to him. In no way was there a violation of “Regulation Z,” 12 C.F.R. 226.8, enacted under the provisions of 15 U.S.C.A. § 1604, requiring specific disclosures to be made in this type of consumer sale.
+This court further finds there is no obligation on the part of the seller under 15 U.S.C.A. § 1638 or 12 C.E.R. 226.8 (a) (i) to locate on the face of the retail installment contract, above or adjacent to the signatures, the terms of an acceleration clause found as a “Provision” on the back of the document which states that as a consequence of default “the seller may declare the unpaid balance of the contract immediately due and payable * * This provision is fully covered and incorporated by notice on the front of the instrument: “SUBJECT TO THE TERMS AND CONDITIONS STIPULATED HEREIN AND IN THE ‘PROVISIONS’ SET FORTH ON THE OTHER SIDE HEREOF AND MADE PART HEREOF.”
+The disclosures which are required for credit sales, such as the one involved herein, set forth in 15 U.S.C.A. § 1638, read in part as follows:
+§1638. Sales not under open end credit plans —■ Required disclosures by creditor
+(a) In connection with each consumer credit sale not under an open end credit plan, the creditor shall disclose each of the following items which is applicable :
+(1) The cash price of the property or service purchased.
+(2) The sum of any amounts credited as downpayment (including any trade-in).
+(3) The difference between the amount referred to in paragraph
+(1) and the amount referred to in paragraph (2).
+(4) All other charges, individually itemized, which are included in the amount of the credit extended but which are not part of the finance charge.
+(5) The total amount to be financed (the sum of the amount described in paragraph (3) plus the amount described in paragraph (ll-
+fG) Except in the case of a sale of a dwelling, the amount of the finance charge, which may in whole or in part be designated as a time-price differential or any similar term to the extent applicable.
+(7) The finance charge expressed as an annual percentage rate except in the case of a finance charge
+(A) which does not exceed $5 and is applicable to an amount financed not exceeding $75, or
+(15) which does not exceed $7.50 and is applicable to an amount financed exceeding $75.
+A creditor may not divide a consumer credit sale into two or more sales to avoid the disclosure of an annual percentage rate pursuant to this paragraph.
+(8) The number, amount, and due dates or periods of payments scheduled to repay the indebtedness.
+(9) The default, delinquency, or similar charges payable in the event of late payments.
+(10) A description of any security interest held or to be retained or acquired by the creditor in connection with the extension of credit, and a clear identification of the property to which the security interest relates.
+Defendant urges that the provision for acceleration of the debt should be classified under 15 U.S.C.A. § 1638 (a) (9), cited above, as a default, delinquency or similar charge payable in the event of late payments, and should therefore appear on the face of the instrument.
+Nowhere in the above quoted statute is there any required disclosure of a potential assignee or an acceleration clause. The fact of the matter is that there is adequate and proper disclosure of the acceleration clause made on the reverse side of the retail contract in question, and this court concludes that the failure to state the same on the front of the instrument does not constitute violation of the statute. Contra this view is expressed in Garza v. Chicago Health Clubs, Inc. 347 F. Supp. 955, 959 (N.D. Ill. 1972).
+A basic study of this section reveals that it is concerned only with additional charges which may be assessed in the event of late payments. To this effect see Federal Reserve Opinion Letter No. 591 interpreting § 1638(a)(9), which states:
+It is staff’s opinion that the thrust of the late payment, delinquency, or default disclosure required under § 226.8 (b) (4) relates basically to the types of charges which a creditor may assess automatically, without other conditions, when a late payment, delinquency, or default occurs. [Excerpted from letter of Griffith L. Garwood, Chief, Truth-in-Lending Section, dated 4-10-72]
+The above excerpt explains the full meaning of 1638(a) (9), in itself, dealing with charges for additional monies which a creditor may claim upon default. An acceleration clause does not fall within the category of additional charges, for the debtor full well knows at the commencement of the contract the full amount of the sums for which he is responsible. In addition thereto, clause 11 on the face of the contract in question provides as follows:
+LATE CHARGE PROVISIONS — The seller may collect a delinquency or collection charge for default in the payment of any installment of the contract where such default shall have continued for a period of 10 days, such charge not to exceed 5% of each installment in default or $5.00 whichever is the lesser.
+It follows logically that lack of any requirement by the act to disclose a potential named assignee results in no obligation on the part of the seller under a retail installment contract to so do. Philbeck v. Timmers Chevrolet, Inc., 361 F. Supp. 1255 (N.D. Ga. 1973), merely held that where the financing company is so closely related in its operations with the seller as to make the latter a conduit for its placement of installment sales contracts, the finance company also may be liable with the automobile dealer for failure to comply with the act. The bank, however, is not a party to this suit.
+The last contention of defendant is that the installment contract herein involved does not contain a dated authorization for credit life insurance although the authorization is signed separately and specifically by the defendant.
+The testimony of plaintiff’s salesman was that he advised defendant of the availability of life insurance. When defendant accepted the insurance he was asked to sign and date the authorization. Plaintiff’s testimony then was that defendant forgot to date the signature and plaintiff failed to discover the deficiency.
+The requirement that the authorization be dated is contained in “Regulation (Z),” 12' C.F.B. 226.4(a)(5), issued under the provisions of 15 U.8.C.A. § 1604, which states:
+Charges or premiums for credit life * * * insurance, written in connection with any credit transaction [must be included in the finance charge] unless (i) The insurance coverage is not required by the creditor and this fact is clearly and conspicuously disclosed in writing to the customer; and (ii) Any customer desiring such insurance coverage gives specific dated and separately signed affirmative written indication of such desire after receiving written disclosure to him of the cost of such insurance.
+15 U.8.C.A. § 1640 provides in. part as follows:
+(c) A creditor may not be held liable in any action brought under the section for a violation of this part if the creditor shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error.
+The above-quoted section requires that no recovery can be had under the Truth In Lending Act if the creditor shows by a clear preponderance of the evidence that the violation was unintentional. The court concludes that, under all the circumstances, the simple omission of the date where the other requirements of the section have been met amounts in fact in this case to nothing more than an unintentional bona fide error, excusable under the Act.
+Plaintiff alleges that it is not a “creditor” subject to the Truth In Lending Act. It contends that it is not a person who offers credit in sufficient quantity to establish the status of a creditor. The court rejects that argument. One who sells automobiles on credit to a consumer, with financing charges imposed on the installment payment program, is subject to the requirements of the Truth In Lending Act. 15 U.S.C.A. § 1602(e), (f), (g), (h), (i); § 1605(a); 12 C.F.R. 226.2 (k), (1), (m); Mourning v. Family Publications Service, Inc., 411 U. S. 356, 93 S. Ct. 1652, 36 L. Ed. 2d 452 (1973); Philbeck v. Timmers Chevrolet Co., Inc., supra.
+The court finds no merit to any of defendant’s claims for a setoff and directs that judgment be entered in favor of plaintiff against defendant in the sum of $530. plus attorney’s fees in the sum of $103, together with interest and costs of suit.
