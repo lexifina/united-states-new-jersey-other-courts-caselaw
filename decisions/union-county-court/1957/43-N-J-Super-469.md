@@ -1,0 +1,26 @@
+---
+court: "Union County Court"
+decided: "1957-01-28"
+citations: ["43 N.J. Super. 469"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANNA OSTATNIK, PETITIONER-APPELLEE, v. VERA O. HAMILTON, t/a THE MANSARD INN, RESPONDENT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/43/cases/0469-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 383532
+cites_cases: ["110 N. J. L. 510", "20 N. J. 499", "25 N. J. Misc. 159"]
+---
+
+# Ostatnik v. Hamilton
+
+## Majority (McGrath, J. C. C.)
+
+McGrath, J. C. C.
+Petitioner had an award which is not disputed medically or as to the accident, but is disputed as to the amount which was allowed as compensation, and it is claimed by the respondent-appellant that the deputy director erred in applying the statute to the facts.
+Petitioner was employed as a dishwasher at the rate of $1 an hour in a restaurant owned by the respondent-appellant. She worked irregularly and the hours from day to day varied and from week to week varied according to need. Her work varied from 4% hours one day for five days, and on another occasion six hours, and on another four hours, and on another seven hours, and on three days she worked eight hours. At no time did she work a greater proportion of the week than six days a week. The deputy director found that he would have to apply the minimum number of working days a week, which is five days under the statute, and this is disputed.
+The dispute here turns on the meaning of the words used in R. S. 34:15-37, which provides that where the rate of wages is fixed by the hour, the daily wage shall be found by multiplying the hourly rate by the customary number of working hours constituting an ordinary day in the character of work involved, etc. Eve days is constituted a minimum week. In this case, unlike the case of Langheld v. Federal Shipbuilding & Dry Dock Co., 25 N. J. Misc. 159 (Cty. Ct. 1947), the rate of hours was not fixed at certain hours. In this case there was no fixed number of hours, so that the customary number of working hours was anywhere from four to eight hours, and there was no ordinary day since the hours varied from day to day.
+In the case of Mahoney v. Nitroform Co., Inc., 20 N. J. 499 (1956), the court said:
+“Basically a calculation determined at the weekly rate is what the statute requires. Such was the decision of our former Court of Errors and Appeals in Bennett v. Fertig, 110 N. J. L. 510 ([E. & A.] 1933), * * * where an employee working, two days per week at $1.50 per 8-hour day was allowed compensation based upon 5 days or $7.50 per week.”
+The question here is whether “ordinary day” is applied to this case means an ordinary day worked by working men and women in the restaurant business, or whether it means the actual number of hours worked by the petitioner. Actually, there was no ordinary day, since the hours of each day varied. I find that in this case a reasonable and liberal interpretation of the statute under the present facts (as pointed out in the Mahoney case, supra) means a normal day which can be said to have been reasonably in the contemplation of the parties when the contract was made. Where an employer makes a contract of employment for uncertain hours and for uncertain days and retains an option to require the employee to work at the direction of the employer at such times as the employer directs, but gives no option to the employee as to whether or not he shall work on the days and at the hours required by the employer, a reasonable interpretation is that an eight-hour day shall be considered the ordinary day for compensation purposes, particularly since the petitioner was actually required to work eight hours on occasion, thus taking up her full daily capacity when so ordered. There are several reasons why this should be so, namely: (1) The eight-hour day for men and women employed in industries is so universally established, and particularly so with the restrictions on the employment of women, that a fair assumption is that the parties had this in mind; (2) any other construction would work an injustice on the employee because the employer could so stagger the work and the days as to require an application of only the minimum rate if the statute were to be strictly construed in the employer’s favor; (3) the court should not adopt a strict construction which would require the employee to accept a minimum rate of compensation unless no other fair and reasonable interpretation can be had in the liberal spirit of the Compensation Act; (4) A strict construction would, as pointed out in the Mahoney case, supra, unfairly reflect the future earning capacity of the employee. In a case like this a contract of this kind giving the option to the employer and none to the employee is not a fair test of the employee’s earning capacity for the future. Such an option prevents the employee from accepting other work during the time covered by the present contract because she was required to come when needed and work as many hours and as many days as the employer’s option required her to do.
+A judgment based on this reasoning will follow.
