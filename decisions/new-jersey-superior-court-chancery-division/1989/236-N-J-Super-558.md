@@ -1,0 +1,64 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1989-08-29"
+citations: ["236 N.J. Super. 558"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM C. SLIMM AND CAROL SLIMM, PLAINTIFFS, v. CRAIG YATES, ARNOLD CRAFT, CRAFT REAL ESTATE CO., AND IMLAY REAL ESTATE CO., DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/236/cases/0558-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 293382
+cites_cases: ["125 N.E. 666", "134 N.J.L. 514", "227 N.Y. 366", "233 N.J.Super. 310", "234 Minn. 468", "32 N.J. 430", "43 N.J. 313", "46 N.J. 399", "48 N.W.2d 788", "55 N.J.Super. 230", "7 N.J. 118", "77 N.J. 316", "8 N.J. 321", "81 N.J.Super. 229", "93 N.J.Super. 479", "98 N.J.L.J. 17", "98 N.J.L.J. 553"]
+---
+
+# Slimm v. Yates
+
+## Majority (HAINES, A.J.S.C.)
+
+HAINES, A.J.S.C.
+May a real estate broker represent a lawyer-seller of real property in processing a subdivision application before a planning board? This opinion concludes that such an appearance involves the practice of law and constitutes improper conduct by both broker and lawyer which requires forfeiture of the fruits of the representation.
+Yates, by written agreement, sold a parcel of real estate to Slimm. The agreement required the seller to obtain subdivision approval. Yates, an attorney who does not practice law, employed his broker, Craft, to obtain the required approval from a planning board. The broker appeared before the board for that purpose on several occasions. Yates, whose presence was requested by the board, made no appearances. Eventually, after board members voiced opposition to the proposed subdivision and before any decision was made, Craft withdrew the application. Yates, defending Slimm’s action for specific performance of the agreement of sale, argues that Craft’s failure to obtain subdivision approval makes the agreement unenforceable.
+This court, in a bench opinion responding to a motion for summary judgment, held that Yates breached his sales agreement. He failed to make reasonable efforts to obtain subdivision approval because: (1) he failed to appear before the planning board himself despite the board’s request; (2) the subdivision application was withdrawn before a final decision could be made by the planning board; and (3) any approval that might have been obtained would be unenforceable because he permitted a non-lawyer to process the subdivision application, thus participating in the unlawful practice of law. Yates was ordered to renew his application to the planning board. The specific performance issue was reserved. This opinion sets forth the basis for the unauthorized practice holding.
+A. The Practice of Law Defined.
+R. 1:21-1(a) provides:
+Except as provided below, no person shall practice law in this State unless that person is an attorney holding a plenary license to practice in this State____
+The exceptions in the rule do not apply here.
+N.J.S.A. 2A:170-78 provides:
+Any person not licensed as an attorney or counselor at law ... that:
+a. Engages in this state in the practice of law; or
+b. Holds himself ... out ... by or through any other person, whether such other person is so licensed or not, as engaging in or entitled to engage in the practice of law, or as rendering legal service or advice, or as furnishing attorneys or counsel in legal actions or proceedings of any nature ...
+is a disorderly person.
+N.J.S.A. 2A:170-79 provides:
+Any person not licensed as an attorney or counselor at law ... that:
+b. Represents any person in the pursuit of any legal remedy; or
+c. Represents any person suing or sued, or about to sue or be sued or threatened with suit in any legal action or proceeding—
+is a disorderly person.
+These statutes are valid insofar as they penalize the unlawful practice of law. New Jersey Bar Ass’n v. Northern N.J. Mtg. Assocs., 55 N.J.Super. 230 (Ch.Div.1959), aff'd in part 32 N.J. 430 (1960). The Supreme Court, however, has exclusive authority to determine who shall practice law. State v. Rush, 46 N.J. 399, 410-411 (1966). One who conducts litigation on another’s behalf is practicing law and must therefore be a lawyer. Thus, a lay person, appointed as an administrator ad prosequendum, was not permitted to maintain a wrongful death action in Kasharian v. Wilentz, 93 N.J.Super. 479 (App.Div.1967). That court said:
+While we find no case precisely in point, the philosophy of the decided cases is that nominal representatives or even active fiduciaries of the persons in beneficial interest, not themselves lawyers, should not be permitted to conduct legal proceedings in court involving the rights or liabilities of such persons without representation by attorneys duly qualified to practice law. [at 482]
+In New Jersey Bar Ass’n the Supreme Court said:
+It is, of course, clear that the practice of law is not confined to litigation but extends to legal activities in many non-litigious fields which entail specialized knowledge and ability ... [I]n Gardner v. Conway, 234 Minn. 468, 48 N.W.2d 788, 797 (Sup.Ct.1951), Justice Matson noted that each individual set of circumstances must be passed upon “in a common-sense way which will protect primarily the interest of the public and not hamper or burden that interest with impractical and technical restrictions which have no reasonable justification.” (citations omitted) Courts have sometimes sought to distinguish between simple and complex legal work but this distinction appears to lack any real force. See People v. Title Guarantee & Trust Co., 227 N.Y. 366, 125 N.E. 666 (Ct.App.1919) (concurring opinion) where Judge Pound pointed out that “the most complex are simple to the skilled, and the simplest often trouble the inexperienced.” [32 N.J. at 437]
+Generally speaking, only lawyers are allowed to conduct proceedings before an administrative agency. Thus, non-lawyers may not appear before county boards of taxation. Stack v. P.G. Garage, Inc., 7 N.J. 118 (1951); Tumulty v. Rosenblum, 134 N.J.L. 514 (1946).
+In In re Baker, 8 N.J. 321 (1951), the Supreme Court said:
+Even in the absence of express powers, the judiciary has the inherent power to regulate the practice of law and punish for contempt those who practice without authority, [at 335]
+There is no sound reason why the doing of a single act calling for the skills and learning of an attorney does not constitute the practice of law just as most certainly the performance of a single operation by a surgeon constitutes the practice of medicine. The amateur at law is as dangerous to the community as an amateur surgeon would be. [at 338]
+The Supreme Court’s Committee on the Unauthorized Practice of Law, organized pursuant to R. 1:22, in considering whether a corporation, without representation by an attorney, could appear before a zoning board of adjustment, said:
+We conclude that an appearance before a Board of Adjustment, a quasi-judicial body, on an application for a variance or special exception under N.J.S.A. 40:55-39, constitutes the practice of law. The practice of law is limited to persons admitted to practice by the Supreme Court of the State of New Jersey, who are subject to the Court’s rules of procedure and discipline. Representation of corporations by architects, engineers or its representative officials constitutes the unauthorized practice of law.
+It is to be noted that despite certain expertise and proficiency in presenting a case before a Zoning Board of Adjustment in behalf of their corporate client, the legal knowledge and skill required in presenting evidence, examination and cross-examination of witnesses, qualifying expert witnesses, understanding the admission and exclusion of evidence, construction and application of statutes, ordinances and court decisions—all of which are involved in such proceeding and where the legal rights of the parties are determined just as effectively as in the trial court and whose decisions are subject to review on appeal on the record made before the Board of Adjustment at the hearing—is usually lacking in such otherwise qualified professionals.
+The public interest requires that representation before a Board of Adjustment, unless pro se by an individual, be by attorneys skilled in these arts. [Opinion No. 13, 98 N.J.L.J. 17 (January 9, 1975)]
+The committee reached the same conclusion with respect to appearances before planning boards in its Opinion No. 16, 98 N.J.L.J. 553 (June 26, 1975).
+B. Craft’s Planning Board Appearance.
+Yates’ subdivision application concerned a single lot and was relatively simple. Nevertheless, every subdivision application, no matter how elementary, involves questions of law which can be intricate. The process is carefully controlled by the Municipal Land Use Law, N.J.S.A. 40:55D-1 et seq., with which an applicant’s representative must be familiar. Issues, expected and unexpected, regarding proofs, notices, hearings, time limitations, conditional approvals, county planning board approvals, recording requirements and zoning restrictions may be involved. In the present case, Craft’s decision to withdraw the application before it could be acted on by the board had significant legal implications. Unquestionably, subdivision applications must be presented by someone trained in, and licensed to practice, law if the public is to be protected.
+C. Consequences.
+When Yates, a lawyer, engaged Craft, a non-lawyer real estate broker, to process the subdivision application, both violated the law. Craft was practicing law in violation of N.J.S.A. 2A:170-78 and -79 and in violation of our unlawful practice rules. Yates violated R.P.C. 5.5 which provides:
+A lawyer shall not:
+assist a person who is not a Member of the bar in the performance of activity that constitutes the unauthorized practice of law.
+As a result, neither may profit.
+Our courts will not enforce unlawful agreements and will not secure the fruits of such agreements to those who execute them. Thus, in In re Estate of Margow, 77 N.J. 316 (1978), a non-lawyer who participated in the drafting of a will which named her executrix was barred from serving in that capacity. The Margow Court said:
+In sum, we hold that proponent engaged in the unauthorized practice of law in violation of N.J.S.A. 2A:170-78 and N.J.S.A. 2A:170-80 by offering legal counsel to testatrix as to her estate needs and by actively participating in the drafting of her will. Under the circumstances of this case and especially in view of the climate in which she acquired nomination as executrix, proponent must be denied the benefits of that position, [at 328]
+Recovery of compensation for legal services by one not authorized to practice law will not be permitted by our courts. Appell v. Reiner, 81 N.J.Super. 229, 239 (Ch.Div.1963), rev’d on other grds. 43 N.J. 313 (1964). Infante v. Gottesman, 233 N.J.Super. 310 (App.Div.1989), involved a layman’s claim against a lawyer based on an agreement for the sharing of fees received by the lawyer for legal services. The court said:
+Thus, a lawyer is prohibited from entering into a partnership agreement with a nonlawyer where any of the partnership activities consist of the practice of law or where the lawyer shares legal fees with a nonlawyer. Similarly, it is a disorderly persons offense for a nonlawyer to engage in the practice of law or to solicit legal work for or on behalf of a lawyer. An agreement between a lawyer and a nonlawyer that contravenes these prohibitions is void and unenforceable because it is founded upon prohibited activity and is against public policy, [at 315; citations omitted]
+Yates and Craft engaged in an unlawful activity when the latter, by agreement with Yates, undertook subdivision proceedings before the planning board. Subdivision approval was not obtained because Craft withdrew the application. Yates now seeks to use the failure to obtain approval as a defense to an action for the specific performance of his agreement with Slimm. This court, if it sustained that defense, would be enforcing the unlawful Yates-Craft agreement. The defense is therefore rejected. Yates must renew his subdivision application, processing it himself or with the services of a licensed attorney.
+The Supreme Court has made a few exceptions, e.g., R. l:21-l(e) permits lay persons to appear before the Office of Administrative Law in certain circumstances.
+A violation which, in Yates’ case, this court must report to an appropriate ethics committee. Code of Judicial Conduct, Canon 3 B (3).
+Unlawful practice is a high risk undertaking. It constitutes disorderly conduct. It would taint any planning board approvals obtained by Yates, thus raising questions as to their enforceability. It also may prevent Craft from enforcing any commission agreement he has with Yates.
