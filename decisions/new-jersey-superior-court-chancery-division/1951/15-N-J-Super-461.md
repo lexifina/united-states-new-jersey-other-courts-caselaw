@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Chancery Division"
+decided: "1951-09-18"
+citations: ["15 N.J. Super. 461"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HELEN MOSS, PLAINTIFF, v. JOHN A. McCRANE MOTORS, INC., A CORPORATION OF NEW JERSEY, PAUL W. HACKETT, FIRST NATIONAL BANK OF GARFIELD, A BANKING INSTITUTION, AND MARTIN J. FERBER, DIRECTOR OF THE DIVISION OF MOTOR VEHICLES, DEFENDANTS. FIRST NATIONAL BANK IN GARFIELD, PLAINTIFF, v. PAUL W. HACKETT AND MARTE HACKETT, HIS WIFE, DEFENDANTS. MARIE T. HACKETT, PLAINTIFF, v. JOHN A. McCRANE MOTORS, INC., A CORPORATION, AND JOHN A. McCRANE, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/15/cases/0461-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 715713
+cites_cases: ["60 N. J. Eq. 170", "71 N. J. Eq. 192", "95 N. J. L. 352", "96 N. J. L. 447"]
+---
+
+# Moss v. John A. McCrane Motors, Inc.
+
+## Majority (Gkqieujaw, J. S. C.)
+
+Gkqieujaw, J. S. C.
+The claims of the. several parties to this controversy stem from the following facts which are not controverted:
+On February 8, 1950, the plaintiff Moss visited the showroom of the defendant, John A. MeCrane Motors, Inc., for the purpose of purchasing an automobile. There she met the defendant, Paul W. Ilackett, a salesman for the MeCrane Company, who was also the manager of tire used car department. After some discussion plaintiff selected the type of car she desired and paid a deposit of $50. Later she paid a further deposit of $250. Both payments were given to Hackett, who turned them over to the McCrane Company. A check for $3,050.65, representing the balance of the purchase price, was given by plaintiff to Hackett on May 22, 1950. This check Hackett deposited in his wife’s bank account. On May 26, using a check signed in blank by his wife, and which he had in his possession, Hackett paid the $2,050.65 to the McCrane Company.
+The car was delivered to Miss Moss by Hackett. She inquired concerning the title papers and was assured by Hackett that they would be forthcoming in a few days. She never received them.
+The McCrane Company issued the customary title papers in the name of plaintiff and gave them to Hackett for delivery to her. Instead of delivering the papers, Hackett forged the name of plaintiff on an assignment of the ownership certificate. With the forged certificate Hackett obtained a new ownership certificate in his name from the Department of Motor Vehicles. This new certificate Hackett took to the defendant First National Bank of Garfield. There he obtained a loan of $1,600. As security for the loan, Hackett executed a chattel mortgage covering the car. The proceeds of the loan wore deposited in the account of Mrs. Hackett and ultimately checked out to the McCrane Company. In making the transfer of funds, Hackett used other checks signed in blank by his wife, and held by him. Mrs. Hackett had no knowledge of these transactions until after they had been consummated.
+The Moss claim presents no serious difficulty. At the pretrial conference, plaintiff • elected to seek a rescission of the contract and the return of the purchase price. In its brief the McCrane Company concedes the right of the plaintiff to have a judgment for rescission. It suggests, however, that there should be an allowance to it for the value of the use of the ear while it was in the possession of the plaintiff. She, on the other hand, seeks the recovery of storage charges of some $60.and insurance premiums. Assuming that the special claims of both parties are proper, the meagre evidence on the subject in the record indicates that one would offset the other. There will be a judgment in favor of the plaintiff and against the defendant John A. McCrane Motors, Inc., for $2,<350.65, wiih interest.
+The defendant John A. McCrane "Motors, Inc., seeks a cancellation of the chattel mortgage for $1,600, held by the defendant First Xational Bank of Garfield. And that institution seeks a judgment against the McCrane Company for $1,600.
+In my opinion cancellation of the chattel mortgage must be denied. It was the action of the McCrane Company in delivering to Hackett the Moss certificate of ownership which made possible the perpetration of the fraud upon the bank. And the rule is fundamental that when one of two innocent, parties must suffer, the loss must fall upon the one who made that loss possible. Wysokowslei v. Polish-American, &c., Asso., 95 N. J. L. 352 (Sup. Ct. 1920), affirmed 96 N. J. L. 447 (E. & A. 1921) ; Manchester Bldg., &c., Assn, v. Geyer, 71 N. J. Eq. 192 (Ch. 1906).
+The defendant bank seeks a judgment against the McCrane Company for the full amount of its loan to Hackett. To such a judgment it is not entitled. In making the loan to Hackett the bank relied on the chattel mortgage and the personal credit of Hackett. The bank may recoup its loss by a sale of the automobile under the provisions of the chattel mortgage. But it is not entitled to what would be, in effect, a deficiency judgment against McCrane Motors.
+Finally, there remain for consideration the bank claims against the Haeketts. So far as the claim of the bank against Paul W. Hackett is concerned, the bank will have judgment for $1,600 and interest from the date of the loan. The situation as it conceras Mrs. Hackett is different. The evidence is not disputed that Hackett had misappropriated a considerable portion of his wife’s funds. The money from the bank loan went in and out of her account without her knowledge or consent. She derived no benefit from the transaction. And she was completely unaware of the execution of the fraudulent mortgage. The bank’s claim against Mrs. Hackett will be dismissed. Fidelity Trust Co. v. Baker, 60 N. J. Eq. 170 (Ch. 1900).
+Judgment in accordance with-the views' expressed above.
