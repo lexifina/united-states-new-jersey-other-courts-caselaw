@@ -1,0 +1,3 @@
+path	relation	target	note
+decisions/new-jersey-superior-court-chancery-division/1926/4-N-J-Misc-605.md	same-decision-as	decisions/new-jersey-court-of-chancery/1926/99-N-J-Eq-543.md	the same decision in another reporter (4 N.J. Misc. 605 and 99 N.J. Eq. 543), same day and text (similarity 0.99); both kept
+decisions/new-jersey-superior-court/2017/166-A-3d-1197.md	same-decision-as	decisions/new-jersey-superior-court-chancery-division/2017/451-N-J-Super-310.md	the same decision in another reporter (166 A.3d 1197 and 451 N.J. Super. 310), same day and text (similarity 1.00); both kept
